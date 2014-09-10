@@ -1,0 +1,1 @@
+corpus_root = '/Users/mzamani/Documents/CS4984/Unit1/Islip13Rain'
