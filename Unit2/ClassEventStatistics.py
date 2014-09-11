@@ -49,6 +49,9 @@ def main():
 	wordlists_event = PlaintextCorpusReader(corpus_root, "Texas_Wild_Fire/.*\.txt")
 	wordlists_event.fileids()
 	YourSmall = nltk.Text(wordlists_event.words())
+	SmallEventWords = ["Fire", "Wildfire", "Water" "Damage" "Ground" "Burn", 
+		"Town", "Heat", "Wind", "Speed", "Size", "City", "People", "Home",
+		"Weather", "Debris", "Death", "Smoke", "State", "Ash"]
 
 	# ClassEvent Statistics
 	print "ClassEvent non stopwords", non_stopword_fraction(ClassEvent)	
