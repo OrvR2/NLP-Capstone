@@ -1,47 +1,62 @@
+# getCollectionsFromSolr20140919 revised to cover several cases and to report progress
+#  VT CS4984, Computational Linguistics, by Xuan Zhang, Tarek Kanan, Edward Fox
 import os
 
-# You must install the Sunburnt 0.7 to work with the Solr version provided in the link below, please see the installing tutorial
 from sunburnt import SolrInterface
 
-si = SolrInterface("http://jingluo.dlib.vt.edu:8080/solr/")
+si = SolrInterface("http://jingluo.dlib.vt.edu:8080/solr")
 
-# This is where you put the event name (collection name)
-# event name is "China flood", you need to change the even name in the line below according to your specific event name
-eventQuery = "Texas_Wild_Fire"
+# This is where you put the event name 
 
-# This is where you put the downloaded files, you need to change this according to your directory location
-root = '/Users/mzamani/Documents/CS4984/Unit2/'
+eventQuery = "Brazil_NightClub_Fire"
+# Commented out lines support the special handling when there are spaces in the event name.
+# eventQuery = "Connecticut School Shooting"
 
-response = si.query(event=eventQuery).execute()
+# This is where you put the downloaded files
+#root = 'D:\Test\EventCollections\SmallCollections'
+# Or, for a Mac, use something like
+root = '/Users/mzamani/Documents/CS4984/Unit2/Brazil_NightClub_Fire'
 
-# This will return the number of documents found in the event (collection)
+# Create and execute a Solr query
+words = eventQuery.split();
+query = si.query(event=words[0])
+for w in words[1:]:
+    query = query.query(event = w)
+response = query.execute()
+# Or, for the case of spaces in the name:
+#  response = si.query(event="Connecticut").query(event="School").query(event="shooting").execute()
 tot = response.result.numFound
 
+#print response.result.numFound
+print tot, "documents found in collection [", eventQuery, "]\n"
+print "Retrieving documents...\n"
 
 response = si.query(event=eventQuery).paginate(0,tot).execute()
-
-docs = {}
-
-# This will print the number of documents found in the event (collection)
-print response.result.numFound
+# Or, for the case of spaces in the name:
+#  response = si.query(event="Connecticut").query(event="School").query(event="shooting").paginate(0,tot).execute()
 
 i = 1
+empties = 0
+directory = root + os.sep + eventQuery
 
-directory = root + "//" + eventQuery
-
-# This is to create a directory for the event name
+# Create a directory if necessary
 if not os.path.exists(directory):
     os.makedirs(directory)
 
-# This loop is to store the text files extracted form Solr
+# Write the downloaded documents into local files
 for res in response:
-    f = open(directory + "//" + str(i) + ".txt","w")
-
     content = res['content'][0]
-
-    f.write(content.encode("utf-8"))
-
-    f.close()
-
-    i+=1
     
+    # Filter out empty files
+    if len(content) > 0 :
+        f = open(directory + os.sep + str(i) + ".txt","w")
+        f.write(content.encode("utf-8"))
+        f.close()
+        if i % 300 == 0:
+            print i, " files downloaded out of ", tot
+        i+=1
+    else:
+        empties+=1
+
+print "\nDownloading Complete! ", i-1, "files downloaded out of", tot, "items"
+print empties, "Empty documents filtered"
