@@ -13,6 +13,6 @@ for file in os.listdir(dir_path):
         if s.find("Fire") == -1 and s.find("fire") == -1:
             print "No 'fire' found in:", file, file_stats.st_size
             os.remove(file_path)
-            count += 1
+        count += 1
 
 print "# Removed:", count
