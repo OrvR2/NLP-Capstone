@@ -21,7 +21,6 @@ bigram_tagger = nltk.BigramTagger(train_sents)
 bigram_tagger.tag(brown_sents[2007])
 
 unseen_sent = brown_sents[4203]
-bigram_tagger.tag(unseen_sent)
 
 
 # tagging
@@ -29,4 +28,4 @@ t0 = nltk.DefaultTagger('NN')
 t1 = nltk.UnigramTagger(train_sents, backoff=t0)
 t2 = nltk.BigramTagger(train_sents, backoff=t1)
 t3 = nltk.TrigramTagger(train_sents, backoff=t2)
-t3.tag(test_sents)
+t3.tag(unseen_sent)
