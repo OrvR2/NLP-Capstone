@@ -4,17 +4,6 @@ import nltk
 from nltk.corpus import brown
 from nltk.corpus import treebank
 
-# Building a large tagging corpus(FireEventTrainingSet) by combining
-#  the Brown and Reuters POS tagging corpora.
-FireEventTrainingSet = nltk.corpus.brown.tagged_words() + nltk.corpus.treebank.tagged_words()
-fire = brown.words() + treebank.words()
-
-#To print the number of POS tags in the new big tags corpus
-print 'the number of tags in the corpus: ', len(FireEventTrainingSet)
-
-#To print the new corpus tags list
-print '\n the corpus tags list', FireEventTrainingSet
-
 brown_tagged_sents = brown.tagged_sents(categories='news')
 brown_sents = brown.sents(categories='news')
 
@@ -40,4 +29,3 @@ t0 = nltk.DefaultTagger('NN')
 t1 = nltk.UnigramTagger(train_sents, backoff=t0)
 t2 = nltk.BigramTagger(train_sents, backoff=t1)
 t3 = nltk.TrigramTagger(train_sents, backoff=t2)
-print(t3.evaluate(test_sents))
