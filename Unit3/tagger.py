@@ -30,9 +30,9 @@ t1 = nltk.UnigramTagger(train_sents, backoff=t0)
 t2 = nltk.BigramTagger(train_sents, backoff=t1)
 t3 = nltk.TrigramTagger(train_sents, backoff=t2)
 
-pickle_name = "tagger"
-pickle_object = open(pickle_name, 'wb')
-pickle.dump(t3, pickle_object)
-pickle_object.close()
+tagger = t3.tag(unseen_sent)
 
-t3.tag(unseen_sent)
+pickle_name = "tagger.pickle"
+pickle_object = open(pickle_name, 'wb')
+pickle.dump(tagger, pickle_object)
+pickle_object.close()
