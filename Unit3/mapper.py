@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-"""A more advanced Mapper, using Python iterators and generators."""
 
 import sys, zipimport
 reload(sys)
@@ -15,15 +14,17 @@ f = sys.stdin
 
 sent_tokenizer = nltk.data.load('./nltkData/tokenizers/punkt/english.pickle')
 t3 = nltk.data.load('./nltkData/tagger.pickle')
-sents = sent_tokenizer.tokenize(f.read().encode('utf-8'))
+sents = sent_tokenizer.tokenize(f.read().decode('utf-8'))
 
 for sent in sents:
-    
+
     taggedWords = t3.tag(nltk.word_tokenize(sent))
-        
-    for word in taggedWords:
+
+    for word, tag in taggedWords:
         # write the results to STDOUT (standard output);
         # what we output here will be the input for the
         # Reduce step, i.e. the input for reducer.py
-        isnoun = word[1][0] == 'N'
-        print '{0},{1},{2}'.format(word[0].decode('utf-8'), 1, isnoun)
+        if tag[0] == 'N' or tag[0] == 'V':
+            print '{0},{1},{2}'.format(word.lower(), tag, 1)
+        else:
+           print '{0},{1},{2}'.format('other', 'UH', 1)

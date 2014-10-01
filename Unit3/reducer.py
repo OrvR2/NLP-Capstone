@@ -1,11 +1,16 @@
-import sys
-import nltk
-from operator import itemgetter
-from nltk.corpus import stopwords
+#!/usr/bin/env python
+
+import sys, zipimport
+# from operator import itemgetter
+
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-stopwords_list = stopwords.words('english')
+importer = zipimport.zipimporter('nltk.mod')
+nltk = importer.load_module('nltk')
+nltk.data.path += ["./nltkData/"]
+
+stopwords_list = nltk.corpus.stopwords.words('english')
 word = None
 tag = None
 current_word = None
@@ -16,21 +21,22 @@ for line in sys.stdin:
 
     line = line.strip() # remove whitespace
 
-    count, word, tag = line.split(',', 2) # splits tuple into 3 parts
-    word = word.lower()
-    
+    word, tag, count = line.split(',', 2) # splits tuple into 3 parts
+
+    try:
+        count = int(count)
+    except ValueError:
+        continue
+
     if word not in stopwords_list:
         if current_word == word and current_tag == tag:
             current_count += count
         else:
             if current_word and current_tag:
-                print '{},{},{}'.format(current_count, current_word, current_tag)
+                print '{2}\t{0}\t{1}'.format(current_word, current_tag, current_count)
             current_word = word
             current_tag = tag
             current_count = count
-    else:
 
-
-   
 if current_word == word:
-    print '{},{},{}'.format(current_count, current_word, current_tag)
+    print '{2}\t{0}\t{1}'.format(current_word, current_tag, current_count)
