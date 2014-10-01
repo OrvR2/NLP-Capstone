@@ -2,6 +2,8 @@ import sys
 import nltk
 from operator import itemgetter
 from nltk.corpus import stopwords
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 stopwords_list = stopwords.words('english')
 word = None
@@ -22,10 +24,13 @@ for line in sys.stdin:
             current_count += count
         else:
             if current_word and current_tag:
-                print '{}\t{}\t{}'.format(current_count, current_word, current_tag)
+                print '{},{},{}'.format(current_count, current_word, current_tag)
             current_word = word
             current_tag = tag
             current_count = count
+    else:
+
+
    
 if current_word == word:
-    print '{}\t{}\t{}'.format(current_count, current_word, current_tag)
+    print '{},{},{}'.format(current_count, current_word, current_tag)

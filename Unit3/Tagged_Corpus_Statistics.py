@@ -9,7 +9,7 @@ ClassEvent = nltk.PlaintextCorpusReader(corpus_root, "/Islip13Rain/.*\.txt")
 # Part of Speech Tagging.
 
 fdist = nltk.FreqDist(ClassEvent)
-
+x
 word_list = ClassEvent.words()
 
 stopwords = nltk.corpus.stopwords.words('english')
