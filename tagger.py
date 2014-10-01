@@ -38,12 +38,7 @@ unseen_sent = brown_sents[4203]
 
 
 # tagging
-t0 = nltk.DefaultTagger('NN')
-t1 = nltk.UnigramTagger(train_sents, backoff=t0)
-t2 = nltk.BigramTagger(train_sents, backoff=t1)
-t3 = nltk.TrigramTagger(train_sents, backoff=t2)
-
-t0 = nltk.DefaultTagger('NN')
+t0 = nltk.DefaultTagger('JJ')
 t1 = nltk.UnigramTagger(train_sents, backoff=t0)
 t2 = nltk.BigramTagger(train_sents, backoff=t1)
 t3 = nltk.TrigramTagger(train_sents, backoff=t2)
