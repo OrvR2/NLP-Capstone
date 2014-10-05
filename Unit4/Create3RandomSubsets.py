@@ -2,7 +2,7 @@
 
 import shutil, os
 
-source_folder = '../Texas_Wild_Fire'
+source_folder = '../Texas_Wild_Fire_Slim'
 dest_folder = '../random_small_subsets'
 
 hPath = '../random_small_subsets/hayden_work'
