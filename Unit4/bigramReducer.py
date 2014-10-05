@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import sys, zipimport
+import sys, zipimport, re
 # from operator import itemgetter
 
 reload(sys)
@@ -13,32 +13,31 @@ nltk.data.path += ["./nltkData/"]
 stopwords_list = nltk.corpus.stopwords.words('english')
 word = None
 tag = None
-current_word = None
-curent_tag = None
+current_bigram = "hello" + " " + "there"
 current_count = 0
 
 listOfBigrams = []
 Bigram = []
-p = re.compile('\(\'[a-z]+\'\,\s*\'[a-z]+\'\)')
+p = re.compile('[a-z]+')
 # create list of bigrams
 for line in open('Bigrams10k.txt'):
     Bigram = p.findall(line)
-    listOfBigrams.append(Bigram)
+    string = " ".join(Bigram)
+    listOfBigrams.append(string)
 
 
 for line in sys.stdin:
 
     line = line.strip() # remove whitespace
 
-    word, word2, tag, count = line.split(',', 3) # splits tuple into 4 parts, where word = middle word and word2 is
+    word, word2, count = line.split(',', 2) # splits tuple into 4 parts, where word = middle word and word2 is
                                                  # the word before or after in the bigram
-
     try:
         count = int(count)
     except ValueError:
         continue
 
-    bigram = [word, word2]
+    bigram = word + " " + word2
     if bigram in listOfBigrams:
         if current_bigram == bigram:
             current_count += count
