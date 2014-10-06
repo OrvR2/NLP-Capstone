@@ -1,0 +1,99 @@
+{
+													"key": "e19d000d885013ceeca",
+				"contextMenu": ["BIMvid Video player 5.0.0"],
+							"clip": {
+					"url": "http://cdn.bimfs.com/WFAA/34fab716286b08aa59740d8b3b4fb1cd189b4285.mp4",
+									"autoPlay": false,
+									"scaling":"fit",
+					"pageUrl":"http://www.wfaa.com/news/texas-news/Gov-Perry-cancels-visit-to-areas-hit-by-wildfire-129595338.html",
+																	"id":"129595338",
+					"dockey":"34fab716286b08aa59740d8b3b4fb1cd189b4285",
+					"title":"Gov.+Perry+cancels+visit+to+areas+hit+by+wildfire",                
+					"description":"A+spokeswoman+for+the+governor+blamed+%26quot%3Blogistical+issues%26quot%3B+for+his+failure+to+appear+Saturday+at+a+scheduled+tour+and+a+news+conference.",
+					"duration":"79",				
+					"keywords":"",    
+					"categories":"home",
+									"useadaptv":true,
+					"zid":"bi_wfaa"
+								},
+				"plugins": {		
+					"controls": {
+						"zIndex": 10,
+						"url": "http://swfs.bimvid.com/bimvid_controls-3_2_3.swf?x-bim-callletters=WFAA",
+						"backgroundColor": "#c4c4c4",
+						"backgroundGradient": [0.1,0.2,0.5],
+						"borderRadius": "0",
+						"volumeColor": "#bd7c7a",
+						"progressColor": "#CCCCCC",
+						"progressGradient": "none",
+						"bufferColor": "#bd7c7a",
+						"bufferGradient": "none",
+						"sliderColor": "#383838",
+						"sliderBorder": "1px solid rgba(128, 128, 128, 0.7)",
+						"sliderGradient": "none",
+						"buttonColor": "#424242",
+						"buttonOverColor": "#ffffff",
+						"volumeSliderColor": "#ffffff",
+						"volumeSliderGradient": "none",
+						"volumeBorder": "1px solid rgba(128, 128, 128, 0.7)",
+											"timeColor": "#000000",
+						"tooltipColor": "#000000",
+						"tooltipTextColor": "#ffffff",
+	
+											"autoHide": "always",
+											"durationColor": "#a3a3a3",
+						"height": 24,
+						"opacity": 1.0,
+											"fastBackward": false,
+						"fastForward": false,
+						"slowForward": false,
+						"slowBackward": false
+									},
+									"thumbnail" : {
+						"zIndex":1,
+						"url":"http://swfs.bimvid.com/bimvid_embedthumb-20110825a.swf?x-bim-callletters=WFAA",
+						"imgsrc" : "http://media.wfaa.com/images/0910_bastrop_perry01.jpg"
+					},
+									"sharing":{
+						"zIndex": 15,
+						"url":"http://swfs.bimvid.com/bimvid_sharing-20110831b.swf?x-bim-callletters=WFAA",
+						"email":{
+							"subject": "Gov.+Perry+cancels+visit+to+areas+hit+by+wildfire"
+						},
+						"embed": {
+							  "preScript": "http%3A%2F%2Fwww.wfaa.com%2Ftemplates%2Fbelo_embedWrapper.js%3Fstoryid%3D129595338%26pos%3Dtop%26swfw%3D%24swfw", "postScript": "http%3A%2F%2Fwww.wfaa.com%2Ftemplates%2Fbelo_embedWrapper.js%3Fstoryid%3D129595338%26pos%3Dbottom", 							"configUrl": "http%3A%2F%2Fwww.wfaa.com%2F%3Fj%3D129595338%26ref%3Dhttp%3A%2F%2Fwww.wfaa.com%2Fnews%2Ftexas-news%2FGov-Perry-cancels-visit-to-areas-hit-by-wildfire-129595338.html"
+						},
+						"twitter": {
+							"description": "Gov.+Perry+cancels+visit+to+areas+hit+by+wildfire"
+						}
+					},
+					"dock": {
+						"right": 14,
+						"horizontal": false,
+						"width": "8%",
+						"autoHide": true
+																					},
+					"omniture": {
+						"url": "http://swfs.bimvid.com/bimvid_omniture_BELO-20110829a.swf?x-bim-callletters=WFAA", 
+						"id": "biwfaacom,bikbnglobal",
+						"domain": "wfaa.com",
+						"pageUrl": "",
+						"pageTitle": "Gov.+Perry+cancels+visit+to+areas+hit+by+wildfire"					
+									},
+					"bimga": {
+						"url": "http://swfs.bimvid.com/bimvid_googleAnalytics-20110912a.swf?x-bim-callletters=WFAA",
+						"customer":"WFAA", 																								"accountId":"UA-164600-17"
+									},
+					"adaptv": {
+						"zIndex":50,
+										"url":"http://swfs.bimvid.com/bimvid_adaptv-20110831.swf?x-bim-callletters=WFAA",
+						"key":"broadcastinteractivemedia", 
+						"adaptag":"home",
+						"context":{ "DART_zone":"home","DART_site":"bi.wfaa" },	
+						"companionId":"bimvidplayer0_cb",
+						"videoPlayerId":"bimvidplayer_api"
+									}
+				}
+			}
+
+ 

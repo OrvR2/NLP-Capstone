@@ -1,0 +1,45 @@
+weather.com - Help Page
+
+
+
+
+
+
+
+Help
+
+
+
+
+
+TruPoint
+
+ A highly localized weather forecast; accurate down to a one-square mile area. 
+ Allows you to zero in on specific places such as schools and parks. 
+ Available every 15 minutes across a 6 hour period. 
+ Available only within the 48 contiguous United States. 
+ A proprietary technology developed and used exclusively by The Weather
+Channel.
+
+
+
+
+Close this window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

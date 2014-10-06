@@ -1,0 +1,288 @@
+Randomized trials of parachute use — The Endeavour
+
+
+
+Home
+About
+Books
+Most popular
+Subscribe
+
+
+The Endeavour
+The blog of John D. Cook
+
+
+
+
+
+Randomized trials of parachute use
+by John on April 1, 2008
+
+
+It is widely assumed that parachute use improves your chances of surviving a leap from an airplane. However, a meta analysis suggests this practice is not adequately supported by controlled experiments. See the article Parachute use to prevent death and major trauma related to gravitational challenge: systematic review of randomized controlled trials by Gordon C S Smith and Jill P Pell. The authors summarize their conclusions in the abstract.
+As with many interventions intended to prevent ill health, the effectiveness of parachutes has not been subjected to rigorous evaluation by using randomised controlled trials. Advocates of evidence based medicine have criticised the adoption of interventions evaluated by using only observational data. We think that everyone might benefit if the most radical protagonists of evidence based medicine organised and participated in a double blind, randomised, placebo controlled, crossover trial of the parachute.
+
+
+
+?
+X
+
+Bookmarks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More »
+
+
+
+
+
+
+Tagged as:
+					Biostatistics, 
+					Science
+
+
+
+
+{ 2 trackbacks }
+
+
+Some programmers really are 10x more productive — The Endeavour
+01.10.11 at 06:21
+Się żyje « historiazprzegladarki
+06.11.11 at 06:36
+
+
+{ 2 comments… read them below or add one }
+
+
+
+1
+Michael Harris 04.01.08 at 06:15
+
+
+
+This is a Douglas Adams-worthy commentary of medical geek-speak!  I love it!
+
+
+
+2
+@IsaacG2 09.07.10 at 10:01
+
+
+
+I’m pretty sure they save lives in sky diving…
+
+
+
+
+Leave a Comment
+
+
+Name
+E-mail
+Website
+
+
+
+You can use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> 
+						
+
+
+
+Notify me of followup comments via e-mail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+John D. Cook  
+
+
+
+  Twitter
+ Enter your email address to receive new posts by email.
+  Recent Posts 
+Weekend miscellany 
+Five interesting things about Mersenne primes 
+Wildfires make interesting sunsets 
+Normal subgroups are not transitive 
+Bastrop wildfire 
+Synchronizing metronomes 
+Anti-calculus proposition of Erdős 
+A thermonuclear word processor 
+Bayes isn’t magic 
+Intolerant anarchists 
+
+Archives 
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Categories 
+Business
+
+Clinical trials
+
+Computing
+
+Creativity
+
+Graphics
+
+Math
+
+Music
+
+PowerShell
+
+Python
+
+Science
+
+Software development
+
+Statistics
+
+Typography
+
+Uncategorized
+
+
+TagsApple
+Bayesian
+Biostatistics
+Books
+Business
+C++
+Cancer
+Creativity
+CSharp
+Economics
+Education
+Emacs
+Functional programming
+Graphics
+History
+HTML
+Integration
+Interview
+JavaScript
+LaTeX
+Math
+Mathematica
+MS Office
+Music
+Number theory
+Perl
+PowerShell
+Probability and Statistics
+Productivity
+Programming
+Python
+Quality
+Quotes
+Regular expressions
+Reproducibility
+Rstats
+Scalability
+Science
+SciPy
+Simplicity
+Special functions
+Twitter
+Typography
+Unicode
+Windows
+ Google profile
+ 
+
+
+
+
+Get smart with the Thesis WordPress Theme from DIY Themes.
+
+
+
+
+
+

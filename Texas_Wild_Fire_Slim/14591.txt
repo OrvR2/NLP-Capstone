@@ -1,0 +1,66 @@
+BeaumontEnterprise.com - Login
+
+
+
+
+
+
+Login
+You have been logged out.
+
+
+
+Credentials
+
+
+Your email
+
+
+
+Your password
+
+
+
+Remember me
+
+
+
+
+
+Login with OpenID
+
+
+OpenID URL
+
+
+
+
+
+
+
+
+
+Forgot password, or didn't get your activation email? Click here.
+Can't login? Click here.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

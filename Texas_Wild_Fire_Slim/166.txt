@@ -1,0 +1,142 @@
+Insert Image
+
+
+
+
+
+
+
+
+
+
+
+
+
+From your Computer
+
+
+Uploaded Images
+
+
+From the Web
+
+
+
+
+
+
+
+
+Enter Image URL
+(example: http://mysite.com/image.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select an Image
+
+
+
+                            Maximum file size: 2.0 MB.
+                            
+Also, please note that images larger than 450px wide or 600px tall will be scaled to fit those limits in your content.
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select an Uploaded Image
+
+Click 'From your Computer' to add images to insert into your content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click 'From your Computer' to add images to insert into your content
+Select an image to insert into your content
+

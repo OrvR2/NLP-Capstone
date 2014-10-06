@@ -1,0 +1,254 @@
+Magma Announces Three-Slot Expansion Chassis for Thunderbolt™ Technology - Yahoo! News
+
+
+
+ Skip to search.     New User? Register  Sign In 		Help	  Make Y! My Homepage Yahoo!Drag the "Y!" and drop it onto the "Home" icon.Select "Yes" from the pop up window.Nothing, you're done.If this didn't work for you see detailed instructionsClose this window    Mail    My Y!    Yahoo!                 Yahoo! News              Search   Search Web       
+HomeVideoPhotosLocalOdd NewsComicsTravelOpinionTrending NowVitalityWho Knew?WeatherNews SearchU.S.U.S. VideoEducationReligionCrimes and TrialsThe LookoutLocalContributor NetworkNews SearchWorldWorld VideoMiddle EastEuropeLatin AmericaAfricaAsiaCanadaAustralia/AntarcticaThe EnvoyNews SearchBusinessVideoU.S. EconomyStocksEarningsPersonal FinancePress ReleasesTaxesMarketplaceNewsmakersNews SearchEntertainmentVideoCelebrityTVMoviesMusicReviewsFashionBooksArtsTheaterDear AbbyComicsOdd NewsNews SearchSportsVideoFootballBaseballBasketballCollegeSoccerCyclingHockeyTennisGolfBoxingMotor SportsExtremeTechInternetGadgetsWirelessAppleSocial MediaSecurityOpen SourceGamingAppsUpgrade Your LifeNews SearchPoliticsScienceScience VideoWeather NewsSpace / AstronomyAnimal / PetsDinosaurs / FossilsBiotechEnergyGreenNews SearchHealthVideoWeight LossCancerSexual HealthMedications/DrugsParenting/KidsSeniors/AgingDiseases/ConditionsVitalityNews SearchBlogsThe UpshotThe CutlineThe EnvoyThe LookoutThe TicketNewsmakersExclusiveSpecial ReportsTrending NowNews SearchSept. 11Sept. 11 HomeProfilesYour StoriesBlogPhotosVideoEvents9/11 MemorialDonatePopularVideoWhite HouseCongressU.S. GovernmentWorldThe CourtsPress ReleasesElections 2012The Fast FixThe Ticket
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sept. 11 home
+Profiles
+Your stories
+Blog
+Photos
+Events
+9/11 Memorial
+Donate
+
+
+   Magma Announces Three-Slot Expansion Chassis for Thunderbolt™ TechnologyPRWeb – 10 hrs ago
+
+
+
+
+
+   The sleek design of Magma's ExpressBox 3T, their first Thunderbolt to PCI Express® expansion chassis, will be revealed at Intel Developer Forum in San Francisco (Sept 13-15).  ExpressBox 3T provides an 'outside-the-box' solution for using PCIe® cards with Thunderbolt-equipped computers. High-performance flows are possible by connecting a Thunderbolt equipped computer to a Magma ExpressBox 3T containing PCIe cards such as video capture, media transcoding, audio processing, and fast data storage. And because Thunderbolt is also based on DisplayPort technology, you can daisy chain a high-resolution display with your Magma ExpressBox 3T.San Diego, CA (PRWEB) September 07, 2011  Magma, an innovative and visionary developer of PCI Express® connectivity products, introduces ExpressBox 3T, an expansion chassis with three PCIe slots and a lightning fast connection through Thunderbolt.  The introduction of Thunderbolt technology is a great opportunity for Magma to support the next generation of “outside the box” high-speed connectivity.  Magma’s ExpressBox 3T provides an easy, rock solid migration path to newer and faster computers while protecting the customers’ investment in specialized PCI Express peripherals made for video capture and edit, broadcast video, pro audio, communications, data acquisition and more.
+Developed by Intel® with collaboration from Apple, Thunderbolt is a high-speed I/O technology running at 10Gbps per channel that brings together high-speed data transfer and high-definition (HD) display on to a single cable.  High performance workflows are possible by connecting a Thunderbolt equipped computer to a Magma ExpressBox 3T containing PCIe® cards for video capture, media transcoding, audio processing, and fast data storage. And because Thunderbolt is also based on DisplayPort technology, a high-resolution display can be daisy chained with your Magma ExpressBox 3T.
+. 
+“ExpressBox 3T is the first Magma expansion product specifically made for Thunderbolt-equipped computers.  Now, with Thunderbolt technology, mobile, and all-in-one customers have easy access to the fastest I/O technology available today,” says Randy Jones, CEO and President at Magma.  “ExpressBox 3T is a “must-have” expansion solution for media creators.  Magma retains its leadership position by continuing to introduce cutting edge technology for media production and other computing professionals.”
+Product Information 
+ExpressBox 3T is a sleek anodized silver chassis with three PCIe 2.0 slots, a cooling fan, a 220W internal power supply, and travel bag for easy transportation.  ExpressBox 3T and up to six Thunderbolt devices can be daisy-chained including Thunderbolt and DisplayPort displays.  Magma is actively working with development partners such as Apple, Avid, AJA, Red, ATTO, Fusion-io and Promise Technology to validate application performance with ExpressBox 3T in broadcast video and pro audio environments.
+About Magma
+Magma develops and manufactures PCI & PCI Express Expansion Systems for servers, desktops and portable platforms.  Magma’s patented expansion products extend your system’s PCI and PCI Express outside the computer over cable to a chassis containing additional card slots.  Magma’s ExpressBox™ line of products includes enclosed and non-enclosed solutions ranging from low-end single slot expansion products to fault-tolerant, highly reliable, accessible and serviceable (RAS) chassis specifically designed for mission critical environments.  Magma is dedicated to providing rock solid expansion products for the most demanding configurations. As new interconnect protocols become available, Magma will continue its leadership position at the forefront of expansion technology innovation. 
+Magma products are platform independent, and are used in a variety of industries including audio and video production, test and measurement, medical imaging, surveillance, aerospace and defense, telecommunications, data acquisition, and high performance computing.  Magma’s team of experienced engineers has been developing expansion and connectivity solutions since 1987.  Magma products are assembled in San Diego, CA and go through rigorous certification and quality processes.  Magma is the trade name of Mission Technology Group, Inc. 
+For more information about our company or products, call (800) 285-8990 or (858) 530-2511 or visit our website at http://www.magma.com.   
+Magma and ExpressBox are trademarks of Mission Technology Group, Inc. Thunderbolt and Thunderbolt logo are trademarks of Intel Corporation in the US and/or other countries. All trademarks are the property of the respective trademark owners.
+###
+Victoria KohlhorstMagma858-880-2218Email Information
+ 
+
+ @yahoonews on Twitter, become a fan on Facebook  
+
+
+
+
+
+
+
+Editors' PicksslideshowJet crash kills hockey playersslideshowRomney, Perry spar over jobsslideshowCrane damages cathedralslideshowWashout at U.S. OpenslideshowMoon photos show astronaut tracksslideshow'Gumby' attempts robbery
+
+
+
+Top Stories »Romney, Perry spar over jobs, Social SecurityObama's goal: Creating jobs, putting GOP on spotDemocrats want debt-cutting panel to address jobsGadhafi loyalists fire rockets from desert bastionRemnants of Lee bring floods to soggy NortheastNYC mayor: NYPD not unfair in surveillanceTexas residents quickly fled as wildfire closed in
+
+
+Most PopularObama's goal: Creating jobs, putting GOP on spotFACT CHECK: Perry, Romney twist records in debateAl Jazeera journalist not allowed to film at Texas high school football gameMuslim militant group claims western China attacksIn new audio, Gadhafi denies rumor he fled LibyaDemocrats want debt-cutting panel to address jobs
+
+
+
+
+
+
+
+Today on Yahoo!1 - 4 of 41prevnext
+Is GOP race down to front-runners?
+MLB player's unusual date request
+What Social Security won't tell you
+Stars' secret cheerleading photos
+
+
+
+
+
+
+
+ 
+                        There are no comments yet
+                        
+
+
+
+
+ Sign in  to post a comment, or  Sign up  for a free account.
+                
+
+
+
+ 
+
+
+
+
+
+News For YouDutch woman calls ex-boyfriend 65,000 timesThe Mysterious Raid on Eilat: Why No One Wants to Dig Too DeepTired Western brands find new life in AsiaSaudi Arabia’s King Abdullah sends private message to ObamaWhat You Missed While Not Watching Last Night's Reagan Library GOP DebateWhy Some Languages Sound So FastGM's China sales hit record for AugustEx-Saudi spy chief: after UBL killing, U.S. should have declared victoryIran warns Turkey about NATO's defense systemIran ups criticism of Turkey over NATO missile shield
+
+
+ 
+POLL
+
+
+
+Which GOP presidential candidate do you think won the Politico/NBC debate?
+
+
+
+
+
+Poll Choice Options
+
+
+
+
+ Rick Perry 
+ 
+
+ Mitt Romney 
+ 
+
+ Michele Bachmann 
+ 
+
+ Ron Paul 
+ 
+
+ Jon Huntsman 
+ 
+
+ Herman Cain 
+ 
+
+ Newt Gingrich 
+ 
+
+ Rick Santorum 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Vote
+              
+
+
+
+
+
+
+See results
+
+
+
+
+5 weeks remaining
+
+
+
+
+Loading... 
+Politics News »Romney, Perry spar over jobs, Social Security Eager to tangle, Republican presidential rivals Rick Perry and Mitt Romney sparred vigorously over job creation and Social Security Wednesday night in a lively campaign debate that marked a new turn in … More »Romney, Perry spar over jobs, Social SecurityEager to tangle, Republican presidential rivals Rick Perry and Mitt Romney sparred vigorously over job creation and Social Security Wednesday night in a lively campaign debate that marked a new turn in the race to pick a 2012 challenger to President Barack Obama.Obama faces critical moment in Thursday jobs speech The once-muscular presidency of Barack Obama has undergone a dramatic downsizing – in power, popularity, prestige and ambition – to the point where even Obama die-hards are starting to question his ability … More »Obama faces critical moment in Thursday jobs speechThe once-muscular presidency of Barack Obama has undergone a dramatic downsizing – in power, popularity, prestige and ambition – to the point where even Obama die-hards are starting to question his ability to right the economy or win reelection.Congress returns to fight over jobs, budget cuts Fights large and small await Congress as it gets back to business, with jobs and budget cuts topping a contentious agenda that also includes a lengthy roster of lower-profile but must-do items that also … More »Congress returns to fight over jobs, budget cutsFights large and small await Congress as it gets back to business, with jobs and budget cuts topping a contentious agenda that also includes a lengthy roster of lower-profile but must-do items that also are potential victims of partisan gridlock.Democrats want debt-cutting panel to address jobs Democrats on a special congressional debt-reduction supercommittee want it to include jobs creation as part of its work, a task that would complicate the newly created panel's already formidable assig … More »Democrats want debt-cutting panel to address jobsDemocrats on a special congressional debt-reduction supercommittee want it to include jobs creation as part of its work, a task that would complicate the newly created panel's already formidable assignment.FACT CHECK: Perry, Romney twist records in debate When Mitt Romney and Rick Perry thumped their chests over their job-creation records as governor during the Republican presidential debate Wednesday night, they left the bad parts out. More »FACT CHECK: Perry, Romney twist records in debateWhen Mitt Romney and Rick Perry thumped their chests over their job-creation records as governor during the Republican presidential debate Wednesday night, they left the bad parts out. 
+
+
+Featured5 myths about MormonismGOP candidates and Broadway musical put Mormons in the public eye. More »5 myths about MormonismUpgrade Your LifePhotos you should never post online. More »Upgrade Your LifeThe Fast FixCan Gov. Rick Perry debate? More »The Fast FixAmanda Knox appealAmanda Knox prosecutor concedes she could go free. More »Amanda Knox appeal
+ EducationCareers that are built to lastSee which careers have real staying power.What can an MBA do for you?According to one analysis, hiring for MBA grads is up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yahoo! NewsHomeU.S.WorldBusinessEntertainmentSportsTechPoliticsScienceHealthBlogsSept. 11PopularAll Yahoo! News »
+
+
+
+
+Also On Yahoo!AutosFinanceGamesGroupsHealthMapsMoviesMusicomg!ShineShoppingSportsTravelTVAll Yahoo! »
+
+
+Trending NowMiley Cyrus Kate GosselinJim CarreyKate HudsonGoldLady GagaFood stamp restaurantsNFL picks week 1Weight loss surgeryAlaska volcano
+
+
+
+
+
+
+
+
+
+
+PRWEB.COM Newswire
+
+
+
+                Copyright © 2011 Yahoo! Inc. All rights reserved.
+            
+
+                 | Yahoo! News Network | 
+            
+
+Help / Suggestions
+Privacy Policy
+About Our Ads
+Terms of Service
+Copyright/IP Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

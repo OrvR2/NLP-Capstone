@@ -1,0 +1,185 @@
+Enviroknow: Energy Policy, Climate Change and Environmentalism
+EnviroKnow
+Energy policy, climate change and environmentalism. 
+
+The Swifthack Scandal: What You Need to Know
+
+
+
+
+
+
+
+
+
+
+
+
+If you're new here, you may want to subscribe to the RSS feed. Thanks for visiting!First of all, this story should never have been called ClimateGate.  Given the similarities between this smear job and the Swift Boat attacks on Senator John Kerry, SwiftHack is a far more appropriate name. 
+I’ve attempted to cover the major points of interest in this story. Consider this post a perpetual work in progress.  It will be continually updated.  Please leave appropriate links and angles I’m missing in the comments.
+For your convenience, the following 6 points each links to the corresponding section of this post:
+The scientific consensus on climate change remains strong.
+ The impacts of catastrophic climate change continue to rear their ugly head.
+Hacking into private computer files is illegal. 
+All of the emails were taken out of context.
+The story is being pushed by far-right conspiracy theorists.
+ Scientists are human beings and they talk frankly amongst themselves.
+1.  The scientific consensus that humans are responsible for climate change — and that we must stabilize concentrations of atmospheric greenhouse gases at 350 parts per million — remains overwhelming.  This latest cybercrime and the private emails it revealed do nothing whatsoever to change that.
+In the Copenhagen Diagnosis, a report released on Tuesday, dozens of leading climate scientists came to the following conclusions:
+Recent global temperatures demonstrate human-based warming: Over the past 25 years temperatures have increased at a rate of 0.190C per decade, in every good agreement with predictions based on greenhouse gas increases. Even over the past ten years, despite a decrease in solar forcing, the trend continues to be one of warming. Natural, short- term fluctuations are occurring as usual but there have been no significant changes in the underlying warming trend.
+Acceleration of melting of ice-sheets, glaciers and ice-caps: A wide array of satellite and ice measurements now demonstrate beyond doubt that both the Greenland and Antarctic ice-sheets are losing mass at an increasing rate. Melting of glaciers and ice-caps in other parts of the world has also accelerated since 1990.
+Rapid Arctic sea-ice decline: Summer-time melting of Arctic sea-ice has accelerated far beyond the expectations of climate models. This area of sea-ice melt during 2007-2009 was about 40% greater than the average prediction from IPCC AR4 climate models.
+Current sea-level rise underestimates: Satellites show great global average sea-level rise (3.4 mm/yr over the past 15 years) to be 80% above past IPCC predictions. This acceleration in sea-level rise is consistent with a doubling in contribution from melting of glaciers, ice caps and the Greenland and West-Antarctic ice-sheets.
+This is in line with the most recent assessment from the Intergovernmental Panel on Climate Change, which in 2007 declared that global warming is unequivical and that human behavior is ‘very likely’ the key driver.
+For a more comprehensive look at the scientific consensus on climate change, visit this Union of Concerned Scientists resource page.
+Several blogs have made variations of this point.
+Chris Mooney at the Intersection observes that these emails don’t actually imply anything substantive about climate science:
+Let’s say, just for the sake of argument, that all of the worst and most damning interpretations of these exposed emails are accurate. I don’t think this is remotely true, but let’s assume it.
+Even if this is the case, it does not prove the following:
+1) The scientists whose emails have been revealed are representative of or somehow a proxy for every other climate scientist on the planet.
+2) The studies that have been called into questions based on the emails (e.g., that old chestnut the “hockey stick”) are somehow the foundations of our concern about global warming, and those concerns stand or fall based on those studies.
+Neither one of these is true, which is why I can say confidently that “ClimateGate” is overblown–and which is why I’ve never been impressed by systematic attacks on the “hockey stick.” Even if that study falls, we still have global warming on our hands, and it’s still human caused.
+Physicist Spencer Wearth notes that this is part of a broader trend, in which rather than dealing with uncertainties climate scientists are increasingly forced to respond to criticisms leveled at established science, criticisms which are largely based on ignorance:
+Back around 2000 leading climate scientists talked to each other mostly about their science–debating one another’s data and analysis and negotiating travel, collaboration and other administration–and a little bit about policy. As time passed they have had to spend more and more of their time answering criticism of the scientific results already established, criticism mostly based on ignorance, fallacious reasoning, and even deliberately deceptive claims. Still more recently they have had to spend far too much of their time defending their personal reputations against ignorant or slanderous attacks.
+Nate Silver points out that, in the most controversial email, the scientist in question was not, as deniers have been screaming, attempting to manipulate the data:
+But let’s be clear: Jones is talking to his colleagues about making a prettier picture out of his data, and not about manipulating the data itself.  Again, I’m not trying to excuse what he did — we make a lot of charts here and 538 and make every effort to ensure that they fairly and accurately reflect the underlying data (in addition to being aesthetically appealing.) I wish everybody would abide by that standard.
+Still: I don’t know how you get from some scientist having sexed up a graph in East Anglia ten years ago to The Final Nail In The Coffin of Anthropogenic Global Warming.  Anyone who comes to that connection has more screws loose than the Space Shuttle Challenger. And yet that’s literally what some of these bloggers are saying!
+Incidentally, 2009 is shaping up to be the 5th warmist year on record.
+2.  Physics doesn’t care about hacked emails and conspiracy theories.  The impacts of catastrophic climate change continue to rear their ugly head.
+The impacts of climate change are not limited to computer models and projections.  Consider the following domestic examples from recent weeks:
+“2009 continues to climb up the rainiest-years-ever chart” in Illinois. This year’s rainfall in Peoria of 49.34 inches — 50 percent above normal — has already exceeded the total of 2008, itself 25 percent above normal. With only six more inches of precipitation, 2009 will break the record rainfall set in 1990.
+Similarly, the September 21st flood in Atlanta, Georgia “was worse than what’s statistically projected to happen once every 100 years — even worse than every 500 years.” It was “extremely rare”, “epic” and so “stunning”, the U.S. Geological Survey says the “flood has defied its attempts to define it.”
+Meanwhile, internationally, the United Kingdom is experiencing 1,000 year floods, Australia is being ravaged by a record heat wave and uncontrollable wildfires and arctic sea ice reached record lows just last week.
+Matt Dernoga has more along these lines:
+A few e-mails of out thousands sent by a few scientists out of thousands taken out of context by global warming deniers does not come within a light year of collapsing all of the scientific research, data, and current events that point to a warming planet caused by greenhouse gas emissions.  It’s why record highs of outnumbered record lows by an ever increasing ratio, which reached 2:1 in the last decade.  It’s why NASA recently reported the hottest June to October on record.  It’s why every each decade is considerably hotter than the last, and why ocean surface temperatures are the warmest on record.  It’s why declassified US spy satellites show the impact of warming on our ice caps, and East Antarctica is losing ice mass.  Increased wildfires and pine bark beetles moving North.  Australia being pushed to the breaking point by drought.  That’s all happening now.
+Alex Steffen at WorldChanging rightly notes that the real scandal is that all of this serves as a distraction from the very real challenge of dealing with climate change.
+3.  Hacking into private computer files is illegal.  Posting their contents publicly is highly unethical.  The entire process is an intentional effort to intimidate scientists.
+I’m not up-to-date on British law, but the hack was at bare minimum a violation of the Computer Misuse Act of 1990.  I’m sure there are newer laws on the books, but suffice it to say, hacking a University computer for private emails and data is illegal and unethical.  The University of East Anglia certainly considers it illegal, and a criminal investigation is underway.
+Perhaps more importantly, this is an intentional attempt to interfere with the efforts of scientists doing important work. Raymond T. Pierrehumbert, writing at Dot Earth, explains:
+this is a criminal act of vandalism and of harassment of a group of scientists that are only going about their business doing science. It represents a whole new escalation in the war on climate scientists who are only trying to get at the truth. Think — this was a very concerted and sophisticated hacker attack.
+…
+I don’t think Jones’ emails had any personally compromising data in them, but that was just luck; this illegal act of cyber-terrorism against a climate scientist (and I don’t think that’s too strong a word) is ominous and frightening. What next? Deliberate monkeying with data on servers? Insertion of bugs into climate models? Or at the next level, since the forces of darkness have moved to illegal operations, will we all have to get bodyguards to do climate science?
+Kevin Grandia is trying to track the guilty party down.  He notes that, given the files that were included, the culprit was someone who knew exactly what they were looking for:
+The folder of information contains over 3,800 separate files and it is clear that someone has taken a lot of time to pull together what they thought would be the most damaging. This is not the work of a hacker, unless that hacker is extremely well-versed in climate science, and specifically the conspiracy theories of the climate denial movement.
+This package of stolen data and emails would have taken hundreds of hours to compile and someone out there knows exactly how all this went down.
+Anyone ethically challenged enough to hack into private files or distribute their contents publicly is likely to have also nefariously edited the files.
+4.  The emails in question were taken out of context, and they don’t mean what deniers claim they mean.
+Out of thousands and thousands of emails that were hacked, the climate change denying conspiracy theorists have only managed to identify a few that they consider to be incriminating.  The supposedly incriminating emails are in fact, at worst, merely embarrassing.
+One of the scientists over at RealClimate explains:
+More interesting is what is not contained in the emails. There is no evidence of any worldwide conspiracy, no mention of George Soros nefariously funding climate research, no grand plan to ‘get rid of the MWP’, no admission that global warming is a hoax, no evidence of the falsifying of data, and no ‘marching orders’ from our socialist/communist/vegetarian overlords.
+One of the gotcha emails, which has generated the ‘hide the decline’, does not mean what deniers are claiming:
+No doubt, instances of cherry-picked and poorly-worded “gotcha” phrases will be pulled out of context. One example is worth mentioning quickly. Phil Jones in discussing the presentation of temperature reconstructions stated that “I’ve just completed Mike’s Nature trick of adding in the real temps to each series for the last 20 years (ie from 1981 onwards) and from 1961 for Keith’s to hide the decline.” The paper in question is the Mann, Bradley and Hughes (1998) Nature paper on the original multiproxy temperature reconstruction, and the ‘trick’ is just to plot the instrumental records along with reconstruction so that the context of the recent warming is clear. Scientists often use the term “trick” to refer to a “a good way to deal with a problem”, rather than something that is “secret”, and so there is nothing problematic in this at all. As for the ‘decline’, it is well known that Keith Briffa’s maximum latewood tree ring density proxy diverges from the temperature records after 1960 (this is more commonly known as the “divergence problem”–see e.g. the recent discussion in this paper) and has been discussed in the literature since Briffa et al in Nature in 1998 (Nature, 391, 678-682). Those authors have always recommend not using the post 1960 part of their reconstruction, and so while ‘hiding’ is probably a poor choice of words (since it is ‘hidden’ in plain sight), not using the data in the plot is completely appropriate, as is further research to understand why this happens.
+This RealClimate post explains the context behind some of the other supposedly controversial emails.
+Phil Jones, director of the Climate Research Unit, notes that an email of his has been taken completely out of context.
+Brian Angliss at Scholars and Rogues explains that some of this can be chalked up to how scientists talk:
+I work in electrical engineering where I use words and phrases that, taken out of context, could be misinterpreted as nefarious by people who are ignorant of the context or who have an axe to grind. For example, I regularly talk about “fiddling with” or “twiddling” the data, “faking out” something, “messing around with” testing, and so on. In the first case, I’m analyzing the data to see if I can make it make sense or if I can extract the signal from the noise. In the second case, I’m often forced to force a piece of electronics into a specific mode manually so I can test it and verify some other function, or I use the phrase to provide artificial test data for calibration and/or verification that my electronics are working correctly. And in the third case, it usually involves trying to deduce whether a problem is caused by the electronic board I;m testing or by the equipment that is doing the testing.
+For a technical discussion of the true meaning of the ‘hide the decline’ email, see this post at Skeptical Science.
+Greenfyre made a similar point here.
+Greenfyre also notes:
+
+The edited bits we are getting can sound bad, but the actually say absolutely nothing. Stripped of context they could suggest all kinds of unethical behaviour … or nothing at all.
+As I pointed out above, it is actually pretty incredible that out of thousands of emails the conspiracy theorists were only able to identify a few they consider to be damning.
+Kevin Grandia wonders what would be uncovered if thousands of emails from the Conservative Enterprise Institute or Exxon Mobile were released in a similar manner:
+Think for a millisecond about how juicy the news might be if someone hacked the CEI computer, finding a way to track funding and listening in on the conversations that have occurred between Ebells and his collaborators at Exxon, Ford and the Bush Whitehouse.
+Hand over, say, six months of email communications beginning in 2003 around the time the Whitehouse asked you to sue it (yes, the Whitehouse asked you to sue the Whitehouse) to help block climate legislation. Then we’ll have a serious talk about who’s credible.
+Kevin’s colleague at DeSmogBlog, Richard Littlemore, adds:
+As a stunning amount of email traffic on this issue currently seems to be coming from uberDenier Marc Morano, why doesn’t the former aide to Okalahoma Senator and Republican Denier-in-Chief James Inhofe volunteer to share his correspondence?
+Kevin suggested a six-month supply from CEI. I reckon the last six days from Morano might significantly advance the question of who’s credible on this issue. It might even show who hacked Hadley.
+5.  This story is being pushed by the exact same crazies who have been behind many other conspiracy theories and blatantly false smear campaigns.
+Quickly moving through the right-wing propaganda network, this story immediately popped up in all of the familiar spots:  industry-funded conservative think tanks, conservative and global warming denier blogs, talk radio blowhards, the Drudge Report and Glenn Beck / Fox News.  When all of these folks latch onto a story with such force, it is a good indication that the story is false (see: the Van Jones smearing and the $1761 clean energy bill lie).
+Brad Johnson at The Wonk Room has a good early roundup of denier reactions.
+Marc Morano, who has been leading the charge, was the originator of the Swift Boat Veterans for Truth smear campaign against John Kerry.  His site, Climate Depot, has been the hub of activity around the hacked emails.
+This excellent post at ClimateDenial.org explains:
+The coordinator of climatedepot.com is Marc Morano, a libertarian right self publicist and former aid to the outspoken denier Senator Inhofe, who has been seeking to become a kingpin in the climate denial industry. Marc Morano is not new to this kind of dirty fighting. According to the investigative site Source Watch,  Morano, whilst working as a journalist for the right wing Cybercast News Service,  was the first source in May 2004 of the smear campaign against John Kerry that later became known the Swift Boat Veterans for Truth.
+Although different in context and content, there are marked similarities between the Swift Boat campaign and the hacking of the UEA e-mails. Both were sophisticated strategies to undermine trust. Both identified trust and integrity as a major strength of the opponent and then played carefully chosen story lines to undermine them. At the very least the UEA e-mail campaign is an application of dirty political tactics to climate change campaigning.
+Here are some of the other crazed conspiracy theorists who are leading the efforts to push this story:
+Rabid conspiracy theorist Glenn Beck is all over this story.
+Leader of the Republican party and certifiable nutjob Rush Limbaugh is claiming that this proves global warming is ‘made up.’
+Matt Drudge, as of November 25th, was pushing the story with the following headlines at the top of his site:
+
+Senator Inhofe, the most laughed at person in the United States Senate, has been huffing and puffing about this all week.  He is now preparing an investigation and threatening scientists and Federal agencies.  Taylor Marsh has more on Inhofe’s crazy antics and his role in all of this.
+Congressman Darrell Issa, who was largely responsible for the smear campaign against Acorn, is now trying to pin this ‘scandal’ on White House Science Advisor John Holdren.  For his part, Holdren tells Issa and other deniers to bring it on:
+“I’m happy to stand by my contribution to this exchange. I think anybody who reads what I wrote in its entirety will find it a serious and balanced treatment of the question of ‘burden of proof’ in situations where science germane to public policy is in dispute.”
+Other crazies who are pushing this include Superfreak Stephen Dubner and Senator David Vitter.
+A. Siegel has more on how all of this is a nefarious conspiracy.
+6.  Scientists are human beings and they talk frankly amongst themselves.
+Peter Frumhoff of the Union of Concerned Scientists explains:
+Climate science contrarians are using the release of e-mails from several top scientists to attack climate science. Unfortunately for these conspiracy theorists, what the e-mails show are simply scientists at work, grappling with key issues, and displaying the full range of emotions and motivations characteristic of any urgent endeavor. Any suggestions that these e-mails will affect public and policymakers’ understanding of climate science give far too much credence to blog chatter and boastful spin from groups opposed to addressing climate change.
+“We should keep in mind that our understanding of climate science is based not on private correspondence, but on the rigorous accumulation, testing and synthesis of knowledge often represented in the dry and factual prose of peer-reviewed literature. The scientific community is united in calling on U.S. policymakers to recognize that emissions of heat-trapping gases must be dramatically reduced if we are to avoid the worst consequences of human-induced climate change.
+Chris Mooney adds:
+Global warming deniers are having a field day, because in some of the emails, the scientists are acting like, you know, people. They are also acting like scientists under fire, which is what they were and are.
+…
+Of course, none of this is at all relevant to the climate issue today. It’s a nasty, ugly sideshow. The science of climate change doesn’t stand or fall based upon what a few scientists said in emails they always thought would remain private.
+Cory Doctorow at Boing Boing explains further:
+A huge amount of email from the East Anglia Climate Research Unit was hacked and released onto the web, causing much rejoicing from the climate change denialists. They read through the corpus of email and found that the scientists working on climate change often have substantive disagreements with one another, which they debate vigorously in email, and cited this as evidence of a conspiracy to cover up dissent and present a scientific consensus on climate change.
+Futurismic’s Tom Marcinko does a great job of putting this in context, rounding up several links to other good commentators around the web. In a nutshell: science is about the advancement of competing theories and the evaluation of these theories in light of evidence. The East Anglia Climate Research Unit’s scientists disagreed in some particulars, and used peer-review to resolve them (and continue to do so).
+
+
+
+Written by Josh Nelson 
+November 25th, 2009 at 12:00 pm
+
+
+Category: Miscellaneous
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+Categories
+Select Category
+Activism
+Charts
+Coal
+Miscellaneous
+Republicans
+Videos
+
+
+Recent Posts 
+24 Hours of Reality
+Coal Plants Scheduled for Retirement
+Why Environmentalists Should Work to Elect More Women to Congress
+Oversight Chairman Stearns Doesn’t Understand Loan Guarantees
+9.14 Coal News Roundup
+3 Facts Republicans Won’t Tell You About Solyndra
+New Coal Industry Ad: Rodeo
+Herman Cain’s Greatest Nightmare: EPA Gone Wild
+9.13 Coal News Roundup
+White House CoS Daley Doesn’t Care About the Popularity of EPA Rules
+
+
+
+
+The Journalist template by Lucian E. Marin — Built for WordPress
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+
+
+
+

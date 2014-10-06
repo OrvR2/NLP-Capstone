@@ -1,0 +1,564 @@
+Bank of America will eliminate 30,000 jobs - Yahoo! Finance
+
+Skip navigation
+
+
+
+
+ Skip to search.      New User? Register  Sign In 		Help	  Make Y! My Homepage Yahoo!Drag the "Y!" and drop it onto the "Home" icon.Select "Yes" from the pop up window.Nothing, you're done.If this didn't work for you see detailed instructionsClose this window    Mail    My Y!    Yahoo!                 Yahoo! Finance              Search   Search Web       
+
+
+
+
+
+
+
+What are streaming quotes?
+
+
+
+
+ 
+			{ "market" : {"NAME" : "", "ID" : "us", "TZ" : "", "TZOFFSET" : "-14400", "open" : "", "close" : "", "flags" : ""} ,"STREAMER_SERVER" : "http://streamerapi.finance.yahoo.com" ,"arrowAsChangeSign" : false ,"throttleInterval": "1000","localize":"0" ,"region": "US","lang" : "en-US","mu":"1" ,"up_arrow_icon" :"http://l.yimg.com/a/i/us/fi/03rd/up_g.gif" , "down_arrow_icon":"http://l.yimg.com/a/i/us/fi/03rd/down_r.gif" ,"up_color" :"green" , "down_color":"red","pass_market_id" : "0","market_status_yrb" :"YFT_MARKET_WILL_OPEN"}
+		
+
+
+
+Home
+Investing
+Market Overview
+Market Stats
+Stocks
+Mutual Funds
+ETFs
+Bonds
+Options
+Industries
+Currencies
+Education
+Commodities
+
+
+News
+
+Markets
+Investing Ideas
+Expert Advice
+Special Editions
+Company Finances
+Providers
+Video
+
+
+Personal Finance
+Banking & Budgeting
+Career & Work
+College & Education
+Family & Home
+Insurance
+Loans
+Real Estate
+Retirement
+Taxes
+Lifelong Investing
+
+
+
+My Portfolios
+Sign in to access My Portfolios
+Free trial of Real-Time Quotes
+
+
+
+new!EXCLUSIVES
+Breakout
+The Daily Ticker
+Daniel Gross
+Financially Fit
+
+
+
+
+
+
+
+Search for share prices
+Search for share prices
+
+
+Finance SearchTue, Sep 13, 2011, 7:36AM EDT - U.S. Markets open in 1 hr 54 mins
+
+
+
+
+
+
+
+
+
+
+
+Bank of America will eliminate 30,000 jobsBank of America slashes 30,000 jobs, largest cut by a US company this year, to save costs  
+
+
+
+
+
+
+
+Companies:
+
+Bank of America CorporationBerkshire Hathaway Inc.General Motors Company 
+
+
+
+
+
+
+
+
+FILE - In this April 12, 2011 file photo, Bank of America CEO Brian Moynihan speaks during a summit on consumer protection by the National Association of Attorneys General in Charlotte, N.C. A lot rests on embattled CEO of Bank of America Brian Moynihan’s ability to articulate his vision for the future of the nation's largest bank in an address to investors Monday, Sept. 12, 2011. (AP Photo/Chuck Burton, File)
+Related QuotesSymbolPriceChangeBAC7.050.00BRK-A103,800.000.00GM21.870.00JPM32.420.00Follow these stocks{"s" : "bac,brk-a,gm,jpm","k" : "a00,a50,b00,b60,c10,g00,h00,l10,p20,t10,v00","o" : "","j" : ""}
+
+
+
+
+
+
+Pallavi Gogoi, AP Business Writer, 	On Monday September 12, 2011, 4:11 pm EDT
+
+NEW YORK (AP) -- Bank of America is slashing 30,000 jobs as part of an effort to reverse a crisis of confidence among investors. It's the largest single job reduction by a U.S. company this year.What CEO Brian Moynihan is trying to do is nothing less than save the nation's largest bank. Investors have cut the bank's market value by half this year. The bank is facing huge liabilities over soured mortgage investments and concerns over whether it has enough capital to withstand more financial shocks.The cuts, which affect Bank of America's consumer businesses, represent 10 percent of the Charlotte, N.C. bank's work force. The bank said it hopes the cuts and other measures will result in $5 billion in annual savings by 2014. The bank has already cut 6,000 jobs this year. The bank also said it would look for cost savings at its other businesses in a six-month review that will begin next month."It's as if someone has hit the panic button," said Bert Ely, president of banking consultant Ely & Co.Moynihan has been taking other steps to shore up the bank's standing. Last week he shook up the bank's top management ranks and has been selling parts of the company to raise cash. Last month Warren Buffett's Berkshire Hathaway Inc. invested $5 billion in the company.Moynihan has struggled to calm investors ever since he took the top job in January 2010. He is reversing the empire-building strategy of his predecessor, Ken Lewis, who stepped down amid controversy over the purchase of Merrill Lynch during the financial crisis. Lewis also engineered the ill-fated acquisition of Countrywide Financial Corp., then the country's largest mortgage lender, which has led to heavy financial losses, lawsuits and regulatory probes.Moynihan is now taking a knife to the company, hoping to shrink it down to a more manageable size even if it means losing the bragging rights of being the nation's largest bank. "We don't have to be the biggest company out there," said Moynihan.Bank of America's stock has lost 48 percent this year, largely because of problems related to poorly-written mortgages at Countrywide. Just in the first half of the year the bank paid out $12.7 billion to settle claims from investors that it sold them securities backed by faulty mortgages.Some investors and analysts worry that the job cuts will lead to poor customer service and the bank will lose market share to rivals at a time when there are signs that the economy is slowing down. They also wonder if the job cuts are enough to produce the profits the bank needs to overcome the spiraling costs from its mortgage business."There is a fair amount of skepticism on Wall Street, and Brian is doing as much as he can do in the face of a worsening economy," said Nancy Bush, an analyst and contributing editor at SNL Financial, a research firm.The bank's stock was down for most of the afternoon but rose along with the overall market to close up 7 cents, or 1 percent, at $7.05.The job cuts follow a revamp of the bank's top management team last week. Two senior executives, wealth management head Sallie Krawcheck and head of consumer banking Joe Price, left the bank. The bank also elevated commercial banking chief David Darnell and investment banking head Tom Montag to co-chief operating officers, reporting to Moynihan.Bank of America is seen as one of the most bloated banks in the industry. The payroll cuts will bring its work force in line with some of its key rivals. JPMorgan Chase & Co. had 250,000 workers at the end of the second quarter."Financial companies have already been cutting for a few months now. He's a little late to the game already," said Walter Todd, a portfolio manager at Greenwood Capital, which owns Bank of America preferred shares.The cuts are the largest by a U.S. employer this year, according to the outplacement consulting firm Challenger, Gray & Christmas Inc. Merck & Co. said this year it would cut 13,000 jobs. Bank of America's cuts are the largest since the Postal Service announced 30,000 job cuts last year. General Motors Co. cut 47,000 jobs in 2009.
+
+Follow Yahoo! Finance on Twitter; become a fan on Facebook.
+
+
+
+
+
+ 
+
+Related Headlines
+
+
+
+
+The Morning Ledger: French Banks Tank - at The Wall Street Journal
+
+
+Warren Buffett Says New Money Managers Will 'Get Paid for Their Performance' - at The Wall Street Journal
+
+
+The Good Leads - at The Wall Street Journal
+
+
+Morning Links: Bank Bash - at The Wall Street Journal
+
+
+Nomura to Cut About 5% of Jobs in Europe - at Bloomberg
+
+
+
+
+
+
+ 
+
+Related Blog Headlines
+
+
+
+
+CNP Swaps Credit Facilities - Zacks
+
+
+Florida Bank Fails, Tally Hits 71 - Zacks
+
+
+Expectations Starting to Fall - Zacks
+
+
+BofA Downgraded to Underperform - Zacks
+
+
+Expectations Start to Fall - Zacks
+
+
+
+
+
+
+
+
+
+
+
+Related Message Boards
+
+
+
+Bank of America CorporationBerkshire Hathaway Inc.General Motors CompanyJPMorgan Chase & Co.
+
+
+
+
+
+
+ 
+
+2,734 comments
+
+
+
+Show:
+
+Newest FirstOldest FirstHighest RatedMost Replied
+
+
+
+
+Sort
+
+
+
+
+
+
+                         Post a comment
+
+
+Comments 1 - 10 of 2734First PrevNextLast
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Sarah 38 seconds ago Report Abuse Get yourseIf a FREE lPhone 4, laptop, TV, lPad or choose from Iots of other stuff simpIy by trying out a free triaI with WaImart or Equifax. Just visit yourfreegifts.n et
+
+.
+
+.
+So, does this figure out to around $167000 per employee in wages and benies. I bet the people who are getting the axe making $30K to 60K a year are doing the math and wondering how many upper management types are puking right now...
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+1 users disliked this comment James 4 minutes ago Report Abuse Thank the dems for over regulating the mess they caused.
+ 
+
+
+
+1 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Vettel 4 minutes ago Report Abuse Too big to fail.
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+1 users disliked this comment Sarah 5 minutes ago Report Abuse Get yourseIf a FREE lPhone 4, laptop, TV, lPad or choose from Iots of other stuff simpIy by trying out a free triaI with WaImart or Equifax. Just visit yourfreegifts.n et
+
+.
+
+.
+attention and is finding out at least that this particular socialist demolib is a LYING sack. Now if America would only realize that ALL demolibs are like this, and would stop electing them, we'd be SO much better off!
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+1 users disliked this comment NoTaxesToBenefitWallStree ... 5 minutes ago Report Abuse "I am a 26 years old nurses,young and beautiful...."   So!, Do you keep a happy little friend in your nightstand.
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Ms. Flutterby 8 minutes ago Report Abuse Where's Ross Perot when you need him?
+ 
+
+
+
+2 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+3 users disliked this comment SORRY DEMOCRATS 12 minutes ago Report Abuse hey hussein obama when will replace these jobs too.
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Robert 12 minutes ago Report Abuse I feel bad for the average employee who gets no bonus or special perks. They will be the ones to take the hit on this mess.
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+3 users disliked this comment Bgf 13 minutes ago Report Abuse I am a 26 years old nurses,young and beautiful.and now I am  
+seeking a good man who can give me real love , so i got a username Anna2002 on
+----A'geless'M'ingle. C óM------- .a nice club for y'ounger women and old'er men, or older women and y'ounger men, to int'eract with each other.  
+Maybe you wanna ch'eck it out or tell your friends.
+These big cartel banks, wall street and the Feds have all been having their way with the American people. Stealing everything we have and jacking us around, but you forgot something. Without our support, you got nothing at all and then your all history. Goodbye !
+ 
+
+
+
+1 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Darlene M 13 minutes ago Report Abuse So, does this figure out to around $167000 per employee in wages and benies.   I bet the people who are getting the axe making $30K to 60K a year are doing the math and wondering how many upper management types are puking right now...
+
+Comments 1 - 10 of 2734First PrevNextLast 
+Post a comment
+ Sign in  to post a comment, or  Sign up  for a free account.
+                
+
+
+
+
+
+
+
+
+Top Stories
+
+
+
+
+Greece Weighs on Markets Despite China-Italy Talks - AP
+
+
+Greece, Europe struggle to contain debt crisis - AP
+
+
+China called on as lender amid Italy crisis - Bloomberg 
+
+
+HP extends $11.2 billion Autonomy offer - Reuters 
+
+
+
+
+
+
+
+
+
+
+The Daily Ticker Recent Posts
+
+
+
+Europe Crisis Grows as Governments Refuse to Offer Real Solutions  - Peter Gorenstein Roubini Is Wrong About Karl Marx Being Right: Chris Whalen  - Aaron Task Jobs Crisis Is Depression-Style Calamity for the Young: Demos’ Draut  - Peter Gorenstein
+
+
+
+View More 
+
+
+
+Subscribe to Topics
+
+
+
+Top Stories 
+					
+
+
+ 
+
+
+
+ 
+
+
+
+ Add Alert 		
+
+
+
+bac 
+			Headlines				
+
+
+ 
+
+
+
+ 
+
+
+
+ Add Alert 		
+
+
+
+brk-a 
+			Headlines				
+
+
+ 
+
+
+
+ 
+
+
+
+ Add Alert 		
+
+
+
+gm 
+			Headlines				
+
+
+ 
+
+
+
+ 
+
+
+
+ Add Alert 		
+
+
+
+
+
+
+See all RSS links 
+
+
+
+
+
+Copyright © 2011 The Associated Press. All rights reserved. The information contained in the AP News report may not be published, broadcast, rewritten, or redistributed without the prior written authority of The Associated Press.
+
+
+
+
+
+
+Yahoo! Finance
+
+Banking & Budgeting
+Calculators
+Currency
+ETFs
+Experts
+Investing
+
+
+Insurance
+Market Stats
+Message Boards
+Mobile
+Personal Finance
+What's New
+
+
+
+Also on Yahoo!
+
+Autos
+Finance
+Flickr
+Games
+Groups
+Health
+
+
+Mail
+Maps
+Movies
+Music
+My Yahoo!
+News
+
+
+Shopping
+Sports
+Travel
+TV
+Video
+» All Y! Services
+
+
+
+
+Things To Do
+
+Read Our Blog
+Finance on Your Phone
+Check Home Values
+Find a New Car
+Search Jobs Across the Web
+
+
+
+
+Yahoo! Finance Worldwide
+
+Argentina
+Australia
+Brazil
+Canada
+China
+Chinese
+France
+French Canada
+Germany
+
+
+Hong Kong
+India
+Italy
+Japan
+Korea
+Mexico
+New Zealand
+Singapore
+Spain
+Spanish
+Taiwan
+UK & Ireland
+USA
+
+
+
+
+
+
+Quotes delayed, except where indicated otherwise. Delay times are 15 mins for NASDAQ, NYSE and Amex. See also delay times for other exchanges. Quotes and other information supplied by independent providers identified on the Yahoo! Finance partner page.Quotes are updated automatically, but will be turned off after 25 minutes of inactivity. Quotes are delayed at least 15 minutes. All information provided "as is" for informational purposes only, not intended for trading purposes or advice. Neither Yahoo! nor any of independent providers is liable for any informational errors, incompleteness, or delays, or for any actions taken in reliance on information contained herein. By accessing the Yahoo! site, you agree not to redistribute the information found therein.
+Fundamental company data provided by Capital IQ. Historical chart data and daily updates provided by Commodity Systems, Inc. (CSI). International historical chart data, daily updates, fundAnalyst estimates data provided by Thomson Financial Network. All data povided by Thomson Financial Network is based solely upon research information provided by third party analysts. Yahoo! has not reviewed, and in no way endorses the validity of such data. Yahoo! and ThomsonFN shall not be liable for any actions taken in reliance thereon.
+
+
+
+2142203358
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,713 @@
+
+		SciGuy | A science blog with Eric Berger | a Chron.com blog	
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+SciGuy
+A science blog with Eric Berger
+
+
+
+
+Sep 12, 2011
+
+Weekly Weather: Heat, drought to persist for another week
+
+
+Welcome to your Monday morning weather update, in which I’ll attempt   to sum up the immediate past, present and future of weather on the   bayou. Unfortunately, summer’s back and there’s no immediate relief in sight.
+PAST
+Hey did you enjoy that brief taste of fall last week? Good. Too bad it’s gone for awhile. In fact, our region may begin a new string of 100-degree days today after coming close on Sunday (99 degrees).
+Speaking of that dreadful summer Houston endured, NOAA has a nice visualization of the country’s 100-degree days from June through August. As you can see the epicenter of the heat was Texas and to a lesser extent Oklahoma.
+(National Climatic Data Center/NOAA)
+Yeah, that’s pretty depressing. But wait, there’s more.
+If you’re still smarting about the near-miss of Tropical Storm Lee, the following graphic from the University of Washington will be doubly depressing. It shows the current percentile of soil moisture for the United States and Mexico, with 100 percent representing the highest value of climatological norms, and zero percent the lowest.
+(University of Washington)
+Texas, as you can see, has historically dry soil where as Lee left a long and wide swath of sodden soil in its wake. Oh what might have been.
+Anyway, let’s do the numbers for last week. On the plus side of the ledger, Houston did have its first week with below-normal temperatures since the spring.
+ 
+
+
+
+Date
+High T
+Low T
+Average
+Departure
+Rainfall
+
+
+Monday
+95
+68
+82
+0
+0.00
+
+
+Tuesday
+94
+59
+77
+-5
+0.00
+
+
+Wednesday
+94
+59
+77
+-5
+0.00
+
+
+Thursday
+95
+61
+78
+-4
+0.00
+
+
+Friday
+98
+62
+80
+-2
+0.00
+
+
+Saturday
+98
+67
+83
++2
+0.00
+
+
+Sunday
+99
+68
+84
++3
+0.00
+
+
+Average
+96.1
+63.4
+80.1
+-1.6
+0.00
+
+
+
+PRESENT
+This week’s weather  will be very hot and dry until Thursday or Friday. Tuesday will probably be the warmest day, with most of the region in the 100s.
+Very low humidities will allow for the warmer temperatures, say forecasters with the Houston/Galveston office of the National Weather Service, before a sea breeze returns later this week bringing muggier weather and warmer overnight low temperatures in the mid-70s.
+The high-pressure system should finally begin weakening by Thursday or Friday, and the lower-level flow in the atmosphere should bring more moisture and cloud cover into the area. This should finally bring an end to the 100-degree temperatures this week, and perhaps for this summer.
+The return of the sea breeze should allow for at least a 20 percent of afternoon rain beginning Friday. But don’t hold your breath.
+A cold front will approach the area Friday but probably wash out before reaching the Houston area.
+FUTURE
+The next cold front that won’t wash out looks to be about 10 days away. Unfortunately it means we’re going to see high temperatures in at least the 90s and lows in the 70s for awhile. Are you tired of summer yet?
+As for rain, that outlook is fairly grim as well.
+Here’s a map showing the probability that Houston gets 1 inch, or more, of rainfall during the next two weeks:
+Probablility of 1 inch or more of rain during the next two weeks. (NAEFS)
+ 
+As you can see, the Houston region has odds of 10 to 20 percent of getting 1 inch of rain, which is about the half the total amount of rain we would expect during a two-week period in September.
+SUMMARY
+This week’s scale goes from 0 to 90, which is the percent of my readers who said they would prefer to have above-normal rains this fall and early winter instead of a Houston Texans playoff appearance.
+My number: 1.
+FINE PRINT
+As always, thank you to the fine professionals at the National Weather Service for the information and data that make   this weekly blog entry possible. Also, bear in mind there’s always   uncertainty in weather forecasting, particularly the timing and   intensity of precipitation.
+
+
+
+
+
+Share
+
+ 
+
+Tweet 
+
+Posted by Eric Berger on September 12, 2011 at 7:14 am | Permalink
+|
+
+Leave a comment 
+
+			Categories: WeatherTags: drought, heat, houston weather 
+
+ 
+ 
+
+
+
+Sep 11, 2011
+
+Poll: Would you rather have Texans playoffs or ample rain?
+
+
+Ahh, the first Sunday of football season. There are few better days on the calendar, and you know I’ll be at Reliant Stadium pulling for the hometown team.
+
+
+
+
+
+
+
+But in contemplating the return of football and our sour weather this summer, I got to wondering what readers would prefer, rain or the playoffs.
+So why not conduct a poll?
+It’s a simple question: Between now and the Jan. 1 end of the regular football season, would you rather have enough wins to guarantee a playoff appearance for the Texas, or 20 inches of steady, non-flooding rainfall?
+Personally, even after 10 years of mostly misery as a Texans season ticket holder, I’ll take the rain.
+
+
+
+
+
+Share
+
+ 
+
+Tweet 
+
+Posted by Eric Berger on September 11, 2011 at 7:40 am | Permalink
+|
+
+59 Comments 
+
+			Categories: Great questionsTags: houston texans, poll, rain, weather 
+
+
+Sep 10, 2011
+
+A supernova goes boom! in a galactic neighbor
+
+
+A newly discovered supernova expected to peak this weekend is the brightest of its kind to be seen in the northern hemisphere for four decades.
+The type 1a supernova, in the relatively nearby M101 galaxy, is visible with binoculars in the nighttime sky just to the north of the last two stars of the Big Dipper’s handle.
+Don W. Carona, manager of the Texas A&M Astronomical Observatory, has already captured some images of the exploding star. You can see the supernova as the brightest “star” in the lower right part of the image:
+Raw image of the supernova. (Don W. Carona)
+And here’s a close-up look at the M101 galaxy to emphasize its classical spiral arm appearance:
+Scaled up image to show M101's spiral arms. (Don W. Carona)
+What really strikes me about the photos above is that the supernova, dubbed SN 2011fe, is actually brighter than the core of a galaxy that is 70 percent larger than our own Milky Way Galaxy.
+In other words, this single explosion is brighter than the combined luminosity of 2.5 billion suns.
+Perhaps this explains the city’s excessive heat this summer. Or not, since the galaxy is about 21 million light years away. But still, at least we’ll have clear skies to take advantage of this rare astronomical treat.
+
+
+
+
+
+Share
+
+ 
+
+Tweet 
+
+Posted by Eric Berger on September 10, 2011 at 7:31 am | Permalink
+|
+
+33 Comments 
+
+			Categories: AstronomyTags: M101 galaxy, SN 2011fe, supernova 
+
+
+Sep 09, 2011
+
+Enjoy this weekend, because the bummer summer is comin’ back
+
+
+Here’s a short, and not-so-sweet update for a Friday afternoon.
+In addition to the ongoing drought, forecasters say there’s a good likelihood of 100-degree temperatures returning to Houston early next week, possibly from Monday through Wednesday.
+We can thank — you guessed it — the high-pressure ridge that’s afflicted Texas all summer. I wonder if this ridge is in any way related to the pressure on Gary Kubiak and the Texans to make the playoffs this year.
+Anyway, the heat should ease a bit by next weekend when a little more cloud cover works into the region, says the National Weather Service.
+Looking for that next cool front? It may not come for about another 10 days to two weeks. And when will it rain again? You don’t want to know the answer. Forecasters sure don’t. Not soon.
+The bottom line is that you’d better enjoy Saturday and Sunday mornings, because after that it’s back into summer.
+Bummer.
+
+
+
+
+
+Share
+
+ 
+
+Tweet 
+
+Posted by Eric Berger on September 9, 2011 at 3:51 pm | Permalink
+|
+
+61 Comments 
+
+			Categories: General, WeatherTags: 100-degree day, drought, heat 
+
+
+
+Nate to stay in southern Gulf; state’s drought likely to be “multi-year”
+
+
+Good morning.
+With fresh data from Thursday’s aircraft reconnaissance, the computer forecast models have gotten a much better handle on the likely evolution of Tropical Storm Nate, which is still expected to become a hurricane in the next day or two.
+Here’s the overnight global track model runs:
+00z global track model runs for Nate. (NCAR)
+The National Hurricane Center expects Nate to come ashore near Tampico, Mexico, late Sunday or Monday as a 100-mph hurricane. Along such a track the storm is unlikely to threat much of the Gulf oil industry except for interests in the Bay of Campeche, and will not bring much, if any rain to the state of Texas.
+Which is what I’ve been saying for awhile, alas.
+MULTI-YEAR DROUGHT
+Yesterday I reported that NOAA scientists say La Niña is back, and the fact that this is likely to exacerbate our drought conditions. Asked what this means for the state’s drought, Texas climatologist John Nielsen-Gammon told me:
+Four years out of five, Texas has a dry November through March when La Niña is in place. We need above normal rainfall to break this drought, and we’re probably not going to get it. This is looking more and more like a multi-year drought. Anyplace that doesn’t get lucky with tropical moisture in the next couple of months is probably going to be in bad shape for a long time.
+John, by the way, has been killing it at his Climate Abyss blog with coverage of the drought-enhanced wildfires that cover the state. Check it out.
+On Thursday NOAA also released a pair of satellite photos showing the region’s wildfires, and I’ve posted one below. Kinda scary, huh?
+NASA Terra satellite shows smoke plumes in greater Houston area. (NOAA)
+In addition to spurring wildfires, the drought has also significantly dented water supplies across Texas. According to the Texas Commission on Environmental Quality, more than 850 communities in the state are on voluntary or mandatory water restrictions.
+Expect that number to rise.
+The reason is that streamflows are down across the state, including the upper Texas coast. Here’s a chart showing streamflow levels for the greater Houston area, which supply surface water, are nearing “extremely low” levels.
+(Texas Water Development Board)
+In short, we need rain, buckets and buckets of it.
+So when might it rain again? There are the barest hints of rainfall in some models we might get wet by a week from today as a cold front is presently forecast to move into Houston. But to be truthful the rain at this vantage point doesn’t look all that bountiful. Sorry, just reporting what’s out there.
+Nevertheless, as temperatures are expected to get quite warm again next week, the front should feel pretty good. In fact a lot of areas may see their first nights in the 50s this season in a week or 10 days.
+
+
+
+
+
+Share
+
+ 
+
+Tweet 
+
+Posted by Eric Berger on September 9, 2011 at 6:52 am | Permalink
+|
+
+75 Comments 
+
+			Categories: Hurricanes, WeatherTags: drought, hurricane mate, rain, texas, wildfires 
+
+
+Sep 08, 2011
+
+Nate nears hurricane strength in the southern Gulf
+
+
+Tropical Storm Nate now has sustained winds of 70 mph, just below the threshold of 74 mph for hurricane strength.
+It should reach hurricane strength during the next day, as wind shear levels are forecast to fall in its vicinity, allowing the warm Gulf waters over which Nate is wobbling to do their work.
+This afternoon most track models now favor an eventual westerly track for Nate, bringing it into the Mexico coast near Tampico in about five days or slightly longer.
+18Z early track models for Nate. (NCAR)
+The GFS model still holds to a more northerly track that brings Nate toward western Louisiana, but this solution is definitely an outlier at this time. (UPDATE: The 18z GFS now favors a landfall in Mexico).
+The models do agree that Nate isn’t going anywhere fast for the next three or four days, and this is reflected in a very slow-moving track forecast by the National Hurricane Center.
+Given all the uncertainty, and the fact that the atmosphere can change a lot by Saturday, consider the track forecast to be one of low confidence.
+So what does all this mean for Houston? Here’s the outlook from ImpactWeather‘s Fred Schmude:
+Over the Houston  area, with Nate more than likely passing well to the south of the area, expect  more of the same weather with mostly clear and pleasant nights followed by sunny  and very warm to hot days with highs reaching into the low to mid 90s.
+Fortunately low level winds will remain fairly light and will not be conducive  for rapidly spreading fires.  Note that areas of smoke and haze will continue to  be a problem over the next few days, especially north and west of the Houston  area, so those experience respiratory ailments may want to consider taking it  easy and limit any outdoor activities until things clear up a bit more.
+The long-term outlook, by the way, continues to suggest the Houston area won’t see its next chance until at least the weekend of Sept. 17. At least.
+
+
+
+
+
+Share
+
+ 
+
+Tweet 
+
+Posted by Eric Berger on September 8, 2011 at 4:29 pm | Permalink
+|
+
+27 Comments 
+
+			Categories: General, HurricanesTags: gulf of mexico, hurricane nate, tropical storm nate 
+
+
+
+Drought: La Niña is back, and should strengthen this winter
+
+
+During the last month we’ve been talking about the prospect of the current drought afflicting Texas — causing the worst wildfire year on record and rapidly depleting water supplies — continuing into next year.
+Most recently Fred Schmude offered an excellent discussion of the seemingly unending drought.
+Forecasters generally expressed concern about this prospect because there was a chance of La Niña returning this winter, which tends to lead to drier conditions across Texas.
+Well, it’s now official. La Niña is back, NOAA says.
+More than 80 percent of Texas is in the worst category of drought. (U.S. Drought Monitor)
+Not only is this periodic cooling of the tropical Pacific Ocean back, it’s forecast to gradually strengthen and continue into winter.
+The implications of this are clear: the state’s worst one-year drought on record now seems likely to last more than a year.
+
+
+
+
+
+Share
+
+ 
+
+Tweet 
+
+Posted by Eric Berger on September 8, 2011 at 2:00 pm | Permalink
+|
+
+88 Comments 
+
+			Categories: WeatherTags: drought, la nina, rain 
+
+
+
+Tropical Storm Nate: The northern Gulf of Mexico is back in play
+
+
+Just as it looked like the overnight models were converging on one solution for the track of Tropical Storm Nate, this morning’s models made an almost wholesale change.
+Instead of an eventual westerly motion into Mexico, a number of forecast models have switched back to a more northerly movement by late this weekend, bringing Nate toward the northern Gulf of Mexico coast by late Sunday or Monday.
+06Z global track models for Nate. (NCAR)
+It will be most interesting to watch the newest global model runs, which should come out between noon and 2 p.m. today. I’ll especially be looking to see if the European model switches back to the more northerly solution. If you’ll recall, until yesterday this had been the Euro model’s preferred track.
+As a result of the inconsistency among the models, the official 10 a.m. CT forecast track from the National Hurricane Center is essentially a bubble:
+(National Hurricane Center)
+Basically, some of the models are forecasting stronger area of low pressure to develop over the Ohio Valley and extend southward, which would allow Nate to move north toward the Northern Gulf of Mexico coast of the United States. If this low is not as strong as some models forecast, Nate will be pushed west into Mexico.
+Critically, if Nate does move northward it will cross over very warm Gulf waters, and would have several days to intensify. This raises the possibility of a major hurricane striking the New Orleans region.
+It still appears Texas will not be directly affected by hurricane-force winds and rain from Nate, but this is indeed proving to be a difficult storm to nail down. For now, we wait and see.
+As the National Hurricane Center notes in its discussion, an aircraft reconnaissance should give us a better idea this afternoon of the system’s strength, and it will provide data that will make tonight’s model runs hopefully more consistent with one another.
+
+
+
+
+
+Share
+
+ 
+
+Tweet 
+
+Posted by Eric Berger on September 8, 2011 at 10:15 am | Permalink
+|
+
+95 Comments 
+
+			Categories: HurricanesTags: tropical storm nate 
+
+
+Page 1 of 41512345»102030...Last »
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+ 
+
+
+
+
+Posts | 
+					Comments
+
+Log in
+
+
+
+
+
+ 
+ 
+ 
+Categories 
+11 for '11
+
+Academia
+
+Adventures in nerddom
+
+Animal kingdom
+
+Archaeology
+
+Astronomy
+
+Biology
+
+Book Spotlight
+
+Chemistry
+
+Climate change
+
+Contests
+
+Energy
+
+Environment
+
+General
+
+Genetics
+
+Great questions
+
+Health
+
+History
+
+Hurricanes
+
+Bill
+
+Dolly
+
+Edouard
+
+Gustav
+
+Humberto
+
+Ike
+
+
+
+Medicine
+
+Misc.
+
+Nanotechnology
+
+Natural Disasters
+
+Paleoanthropology
+
+Physics
+
+Science education
+
+Science policy
+
+Sociology
+
+Space
+
+The Future
+
+Weather
+
+Who funds this stuff?
+
+
+ Climate Abyss with John Nielsen-GammonTexas Drought and Global WarmingLast Map of Bastrop Fire and Only Map of Riley Road (Magnolia) Fire Observable Universe with Steve ClayworthThe Moon-Drenched PerseidsTexas Star Party 2011 The Protein Wrangler with Carl CarruthersOpportunities for science in space will continue, Methodist researchers sayMeet a Scientist Monday #17: Vince Nieto
+
+ 
+ 
+ 
+ 
+
+
+
+
+Archives
+
+ ▼ 2011 (405)
+		
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+
+
+ ► 2010 (514)
+		
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+
+
+ ► 2009 (513)
+		
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+
+
+ ► 2008 (489)
+		
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+
+
+ ► 2007 (459)
+		
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+
+
+ ► 2006 (551)
+		
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+
+
+ ► 2005 (386)
+		
+December 2005
+November 2005
+October 2005
+September 2005
+August 2005
+July 2005
+June 2005
+
+
+
+
+
+Tags100-degree day
+astronomy
+atlantis
+chris hebert
+climate
+climate change
+drought
+earthquake
+Endeavour
+flood
+flooding
+fred schmude
+future
+gulf of mexico
+health
+heat
+houston
+houston weather
+hurricane
+hurricane irene
+impactweather
+international space station
+moon
+nasa
+noaa
+poll
+rain
+record heat
+research
+science
+shuttle
+soyuz
+space
+space shuttle
+spacex
+storm surge
+texas
+tornado
+tropical storm don
+tropical storm emily
+tropical storm lee
+tropical storm maria
+tropical storm nate
+weather
+wind
+
+
+
+
+
+
+
+
+
+
+
+
+

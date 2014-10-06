@@ -1,0 +1,160 @@
+MAC USERS: Video Troubleshooting Tips - KSWT: Local News, Weather, Sports Yuma, AZ  El Centro  Imperial Valley, CA 
+
+
+
+KSWT: Local News, Weather, Sports Yuma, AZ  El Centro  Imperial Valley, CA MAC USERS: Video Troubleshooting Tips
+
+Local CrimeSalud: For Your HealthMedical Breakthroughs with Dr. Ramona KrutzikSaw it on 13On the BorderMilitary MattersEducationPAWSitive Pet CareFriday Night BlitzKSWT-TV NFL Football ScheduleLocal SportsRegional SportsArizona Sports HeadlinesCalifornia Sports HeadlinesCollege SportsSportsChannel 13.2NBA/WNBASoccerGolfAdvertise with KSWTContact  KSWTFCC 388 ReportsJobs at KSWTAccount Executive: Imperial Valley & YumaAnchor/ProducerMeteorologistNews DirectorInternshipPre Employment PacketKSWT EEO StatementKSWT Facebook, Linked In & Twitter Rescanning for DTVMeet the TeamJennifer JonesJoey NortonDr. Ramona Krutzik Felicia MartinezJohn PatrickRuth CastilloStephanie SanchezMauricio MarinRadar the Weather DogKSWT Programs Listing 13.1DBS WaiversAntenna Location at Black MountainEstrella TVVisual Guide to ANTENNASMainHispanic Heritage MonthBack to SchoolGet Involved in Your Child's EducationChildren's Health NewsBack to School: Healthy KidsKnow What's SafeBack to School: 101 Guide to Applying to College HealthHealthy LivingCancer Center Exercise, Weight Loss & NutritionPregnancy & Children's HealthSenior Health NewsSex & RelationshipsDiabetes CenterThe Latest from HealthDayHome/FamilyHispanic Heritage MonthBack to SchoolFor and about womenBeauty & StyleEducationFamilyHome & GardenPetsSeniorsWeddingsMoneyBusinessPersonal FinanceSmall BusinessTechYour JobFoodBrowse Recipes by CategoryOur Newest Recipes!The Nutrition CornerTravelMore Travel FeaturesTravel HomeTravel Destination GuidesHot travel deals!PetsFrom The Dog DailyTraining TipsFrom The Daily CatPet CentersTechInside ScienceFrom Digital TrendsFrom Every Day ConnectedFrom The Geek WeeklyAutoNews Releases from PRNewswireFrom Driving TodayEntertainmentEntertainment News from APEntertainment News from TV GuideEntertainment News from Cinema SourceThe Movie GuideMovie Trailers -- Updated Weekly!Lottery ResultsHoroscopesDaily Animated ComicEntertainment News Releases via PRNewswireGreenVideoBytesIn the KnowHealth and Home ReportWhat's Next
+
+
+
+
+Member Center:Create Account|Log InManage Account|Log Out
+
+SITE SEARCHWEB SEARCH BY 
+
+
+
+
+EmailShare|Print
+
+
+MAC USERS: Video Troubleshooting Tips
+
+
+
+
+Related Links
+
+
+About This Player and Its Features
+Video Player Troubleshooting Tips
+
+
+
+
+
+
+The Windows Media Plugin is not installed in your browser. To download the latest version of the Windows Media Player, click here.  1. What version of Windows Media Player do I need? 2. Does the Video Player support Real video or Quicktime? 3. Does the Video Player support Flip4Mac?4. Why do I see a streaming video prior to the video clip I selected? 5. Can I skip this streaming media advertisement? 6. The video displays like a slide show. How can I fix this? 7. The Video Player displays but nothing happens? 8. I cannot hear the audio. How can I fix this? 9. The audio sounds like chipmunks - too fast. How can I fix this? 10. What speed does the video play at?  1. What version of Windows Media Player do I need? You need to have Windows Media Player 9 or above to use the Video Player.  To download the newest Window Media Player for OS X, click here.    QuickTime and Real Player are not supported at this time.  [Back to top] 2. Does the Video Player support Real video or Quicktime? Not at this time. To download Window Media Player, click here. [Back to top] 3. Does the Video Player support Flip4Mac? Not at this time. To download Window Media Player, click here. [Back to top] 4. Why do I see a streaming video prior to the video clip I selected?  Sometimes, a streaming media advertisement will play before the video.  [Back to top] 5. Can I skip this streaming media advertisement? No, you cannot skip the streaming advertisement. [Back to top] 6. The video displays like a slide show. How can I fix this?  The videos that you are watching are sent, or streamed, to your computer over the Internet. The speed at which these files can be streamed varies depending on your computer's "bandwidth". In other words, if you have a high bandwidth connection (i.e. cable, DSL, T1/LAN connection), your computer can receive streaming video at a higher speed than a user with low bandwidth (i.e. modem / ISDN) connection. This also means that a user with high bandwidth can receive larger, better quality video stream. On the other hand, a user with a lower bandwidth may receive the video as a slide show or choppy if they cannot receive the full video stream. You can also check your video card settings. Set the number of colors higher than 256k colors.  Finally, you may be experiencing problems due to bandwidth congestion. If the problem persists, we also recommend checking back at a time when your Internet service provider may experience less congestion to see if there is an improvement. [Back to top] 7. Windows Media Player displays but nothing happens?  Verify that you meet the system requirements for Windows Media Player as outlined above. [Back to top] 8. I cannot hear the audio. How can I fix this? To be able to hear the audio on videos, you must have a working sound card and your computer speakers turned on with the volume set at an appropriate level. If you still receive video without audio, verify that your system audio works by playing another audio application and/or checking your speaker and headphone wires. [Back to top] 9. The audio sounds like chipmunks - too fast. How can I fix this? Updating your sound card's driver might take care of this problem. If you need assistance with getting the latest version of your sound card driver, contact the card manufacturer. [Back to top] 10. What speed does the video play at? The videos that you are watching are sent, or streamed, to your computer over the Internet. The speed at which these files can be streamed varies depending on your computer's "bandwidth". In other words, if you have a high bandwidth connection (i.e. cable, DSL, T1/LAN connection), your computer can receive streaming video at a higher speed than a user with low bandwidth (i.e. modem / ISDN) connection.  The video on this site is streamed at 4 different rates to allow for the best quality for your bandwidth. [Back to top]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+Education
+|
+Local Crime
+|
+Military Matters
+|
+National and International News
+|
+On the Border
+|
+Salud.. to Your Health
+|
+PAWSitive Pet Care
+|
+Saw it on 13
+
+
+
+
+
+Sports
+
+
+Local Sports
+|
+Regional Sports
+|
+College Sports
+|
+SportsChannel 13.2
+|
+NBA/WNBA
+|
+National Football League
+|
+Soccer
+|
+Golf
+
+
+
+
+
+About US
+
+
+Advertise with Us
+|
+Contact KSWT
+|
+Rescanning for DTV
+|
+KSWT Facebook, LinkedIn & Twitter
+|
+Visual Guide to ANTENNAS
+|
+DBS Waivers
+|
+FCC 388 Reports
+|
+Antenna Location at Black Mountain
+|
+KSWT EEO Statement
+|
+KSWT Programs Listing 13.1
+|
+SportsChannel 13.2
+|
+Shop KSWT
+
+
+
+
+
+
+
+
+
+All content © Copyright 2000 - 2011 WorldNow and KSWT. All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service..
+	
+
+
+
+
+
+
+

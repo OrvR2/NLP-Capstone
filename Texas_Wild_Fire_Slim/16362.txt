@@ -1,0 +1,127 @@
+MODIS Burn Scar Data
+
+
+
+
+
+
+
+MODIS Burn Scar Data
+
+
+
+
+
+
+Current Large Fires (Home)Fire Detection MapsInteractive Fire Detection ViewerSatellite ImageryFire Detection GIS DataFire Data in Google EarthFire Data Web ServicesLatest Detected Fire ActivityOther MODIS ProductsFrequently Asked QuestionsAbout Active Fire Maps 
+
+Remote Sensing Applications Center
+							2222 West 2300 South
+							Salt Lake City, UT
+							84119 - 2020
+							voice: (801) 975-3737
+
+							fax: (801) 975-3478
+							
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ Continental United States 
+
+
+
+
+
+KMLs
+
+
+Select Month...
+ April 2010
+ May 2010
+ June 2010
+ July 2010
+ August 2010
+ September 2010
+ October 2010
+ November 2010
+ December 2010
+ January 2011
+ February 2011
+ March 2011
+ April 2011
+ May 2011
+ June 2011
+ July 2011
+ August 2011
+
+
+
+
+GEOTiffs
+
+
+Select Month...
+ April 2010
+ May 2010
+ June 2010
+ July 2010
+ August 2010
+ September 2010
+ October 2010
+ November 2010
+ December 2010
+ January 2011
+ February 2011
+ March 2011
+ April 2011
+ May 2011
+ June 2011
+ July 2011
+ August 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MODIS Burn Scar Data:
+    MODIS burn scar data are provided at a spatial resolution of 500 meters and attributed with the approximate day of burning on a per pixel basis.  This product is similar to the official MODIS 500 meter burned area product (MCD45A1), but it is based on a different algorithmic approach.  The algorithm employed for this product is an automated hybrid algorithm developed by Dr. Louis Giglio, and currently implemented as an Alpha product in the International Polar Orbiter Processing Package (IPOPP) by the NASA Direct Readout Laboratory (DRL).  Both IPOPP and the burn scar algorithm are utilized operationally within the direct readout processing framework managed by the USDA Forest Service Active Fire Mapping Program.  
+        
+	The MODIS burn scar algorithm leverages as inputs daily composite datasets derived from daily Terra and Aqua MODIS observations.  These include daily MODIS 500 meter corrected reflectance (CREFL) composites, and daily composites of MODIS 1km active fire detection data.   The algorithm conducts time series analyses on vegetation index data, derived from composited reflectance data, in the context of active fire detections to identify areas of change due to fire.
+        
+	Due to the data requirements associated with this algorithm to yield a reliable burn scar product, the burn scar data are not available in near real-time.  Currently, the burn scar data are compiled by the Active Fire Mapping Program as monthly datasets that are currently available approximately 10 days after the beginning of each month. The burn scar data are provided as monthly GeoTiff and KMZ products for the specified geographic regions.
+        
+
+        Please note that the completeness of this and other products provided by the Active Fire Mapping Program is subject anomalies typically associated with the acquisition of satellite direct broadcast data (i.e. temporary data outages, lack of comprehensive coverage, etc.).  Please read the metadata associated with each of the burn scar datasets for additional product details and caveats.
+    
+ 
+
+
+
+
+Feedback | Disclaimers | Privacy Policy
+
+
+
+
+
+
+

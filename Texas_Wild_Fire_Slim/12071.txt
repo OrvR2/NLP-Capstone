@@ -1,0 +1,37 @@
+User-agent: *   
+Disallow: /results
+Disallow: /internal
+Disallow: /search
+Disallow: /searchresults
+Disallow: /southwest/southwestdesc
+Disallow: /southwest/northcentraldesc
+Disallow: /southwest/northeastdesc
+Disallow: /southwest/northwestdesc
+Disallow: /southwest/southeastdesc
+Disallow: /southwest/southwestdesc
+Disallow: /news/top/42477817.html 
+Disallow: /news/local/42477817.html
+Disallow: /ictwriters
+Disallow: /*j
+Disallow: /*v
+Allow: /searchtoledo
+Allow: /searchtoledo/wnwo
+
+
+User-agent: Mediapartners-Google*
+allow: /southwest/southwestdesc
+
+User-agent: Mediapartners-Google*
+allow: /southwest/northcentraldesc
+
+User-agent: Mediapartners-Google*
+allow: /southwest/northeastdesc
+
+User-agent: Mediapartners-Google*
+allow: /southwest/northwestdesc
+
+User-agent: Mediapartners-Google*
+allow: /southwest/southeastdesc
+
+User-agent: Mediapartners-Google*
+allow: /southwest/southcentraldesc

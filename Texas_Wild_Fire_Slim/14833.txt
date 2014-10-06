@@ -1,0 +1,146 @@
+MAC USERS: Video Troubleshooting Tips - WIS News 10 - Columbia, South Carolina |
+
+
+
+WIS News 10 - Columbia, South Carolina |MAC USERS: Video Troubleshooting TipsMember Center:Create Account|Log InManage Account|Log Out
+
+SITE SEARCHWEB SEARCH BY 
+
+
+
+Local NewsBig Red 10Video CenterState and Regional NationalInternationalEntertainmentTraffic CamsSend it to 10SudokuLocal EventsTraffic CamsVideo CenterConsumerAg NewsNews VideoHurricane TrackerTraffic CamsFirst Alert radarInteractive RadarRadar/SatelliteWeather on your mobile deviceWeather SafetyLive CamsYour PhotosGamecocksFootball FridaySports VideoReport a scoreBaseballFootballNASCAR NewsBasketballGolfHockeyNational PoliticsNewswatchHealth AlertMainHispanic Heritage MonthBack to SchoolHome/FamilyHealthFoodMoneyTravelPetsTechEntertainmentGreenVideoBytesWIS TelevisionSearch JobsPost resumeEmployer LoginJob Seeker LoginJob Link VideoTV ListingsTV NewsAmerica NowAwarenessNewswatchThisTVClosed CaptioningEntertainmentAdvertisingContact usWIS JobsWIS HistoryWIS FAQWIS TeamWIStv.com RSS/XML FeedsClosed CaptioningOnline Media KitBirthday Club
+
+
+
+
+
+
+
+EmailShare|Print
+
+
+MAC USERS: Video Troubleshooting Tips
+
+
+
+
+Related Links
+
+
+About This Player and Its Features
+Video Player Troubleshooting Tips
+
+
+
+
+
+
+The Windows Media Plugin is not installed in your browser. To download the latest version of the Windows Media Player, click here.  1. What version of Windows Media Player do I need? 2. Does the Video Player support Real video or Quicktime? 3. Does the Video Player support Flip4Mac?4. Why do I see a streaming video prior to the video clip I selected? 5. Can I skip this streaming media advertisement? 6. The video displays like a slide show. How can I fix this? 7. The Video Player displays but nothing happens? 8. I cannot hear the audio. How can I fix this? 9. The audio sounds like chipmunks - too fast. How can I fix this? 10. What speed does the video play at?  1. What version of Windows Media Player do I need? You need to have Windows Media Player 9 or above to use the Video Player.  To download the newest Window Media Player for OS X, click here.    QuickTime and Real Player are not supported at this time.  [Back to top] 2. Does the Video Player support Real video or Quicktime? Not at this time. To download Window Media Player, click here. [Back to top] 3. Does the Video Player support Flip4Mac? Not at this time. To download Window Media Player, click here. [Back to top] 4. Why do I see a streaming video prior to the video clip I selected?  Sometimes, a streaming media advertisement will play before the video.  [Back to top] 5. Can I skip this streaming media advertisement? No, you cannot skip the streaming advertisement. [Back to top] 6. The video displays like a slide show. How can I fix this?  The videos that you are watching are sent, or streamed, to your computer over the Internet. The speed at which these files can be streamed varies depending on your computer's "bandwidth". In other words, if you have a high bandwidth connection (i.e. cable, DSL, T1/LAN connection), your computer can receive streaming video at a higher speed than a user with low bandwidth (i.e. modem / ISDN) connection. This also means that a user with high bandwidth can receive larger, better quality video stream. On the other hand, a user with a lower bandwidth may receive the video as a slide show or choppy if they cannot receive the full video stream. You can also check your video card settings. Set the number of colors higher than 256k colors.  Finally, you may be experiencing problems due to bandwidth congestion. If the problem persists, we also recommend checking back at a time when your Internet service provider may experience less congestion to see if there is an improvement. [Back to top] 7. Windows Media Player displays but nothing happens?  Verify that you meet the system requirements for Windows Media Player as outlined above. [Back to top] 8. I cannot hear the audio. How can I fix this? To be able to hear the audio on videos, you must have a working sound card and your computer speakers turned on with the volume set at an appropriate level. If you still receive video without audio, verify that your system audio works by playing another audio application and/or checking your speaker and headphone wires. [Back to top] 9. The audio sounds like chipmunks - too fast. How can I fix this? Updating your sound card's driver might take care of this problem. If you need assistance with getting the latest version of your sound card driver, contact the card manufacturer. [Back to top] 10. What speed does the video play at? The videos that you are watching are sent, or streamed, to your computer over the Internet. The speed at which these files can be streamed varies depending on your computer's "bandwidth". In other words, if you have a high bandwidth connection (i.e. cable, DSL, T1/LAN connection), your computer can receive streaming video at a higher speed than a user with low bandwidth (i.e. modem / ISDN) connection.  The video on this site is streamed at 4 different rates to allow for the best quality for your bandwidth. [Back to top]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore WISTV.com
+
+
+
+
+ Home 
+ Most Discussed 
+ Local News 
+ Big Red 10 
+ Traffic 
+ Politics 
+ Contests 
+
+
+
+
+ News 
+ Latest Headlines 
+ Southeast News 
+ National News 
+ International News 
+ News Links 
+ Submit a Photo 
+
+
+
+
+Weather
+ Local Weather 
+ Weather Advisories 
+ Interactive Radar 
+ Weather Maps 
+ Weatehr Cameras 
+ Closings 
+
+
+
+
+Sports
+ Sports Headlines 
+ Gamecocks 
+ Football Friday 
+
+
+
+
+Video
+ Most Popular 
+ Latest Videos 
+ Video Gallery 
+ Submit a Video 
+
+
+
+
+About Us
+ News Team 
+ How to Reach WIS 
+ WIS Jobs 
+ Advertise with Us 
+ What's On? 
+
+
+ 
+
+
+ All content © Copyright 2000 - 2011 WorldNow and WISTV, a Raycom Media Station. 
+      All Rights Reserved. For more information on this site, please read our Privacy Policy and Terms of Service.
+       
+
+
+
+
+
+
+
+
+
+

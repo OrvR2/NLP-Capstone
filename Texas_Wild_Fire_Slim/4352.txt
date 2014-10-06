@@ -1,0 +1,651 @@
+System Sitemap
+
+CNN API Calls
+ireport userdata.do (must be logged in) 
+ireport userdata.do update phone number (must be logged in) 
+SAML disquss integration testing (must be logged in) 
+
+user.api (getUser) /
+wrap /
+debug
+user.api (getEmails) /
+wrap /
+debug
+user.api (getProfile) /
+wrap /
+debug
+logout.api /
+wrap /
+debug
+newsletters.api (getNewsletters all) 
+newsletters.api (getActiveAndPendingNewsletters)
+alerts.api (getAlerts all) /
+wrap /
+debug
+
+
+
+Login
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+PID
+
+
+
+Remember Me
+
+
+
+Do NOT do SSO
+
+
+
+
+
+
+
+
+
+
+
+Resend Confirmation Email
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+Confirm Email
+
+
+
+User ID
+
+
+
+Confirmation Code
+
+
+
+
+
+
+
+
+
+
+
+getNewsletter
+
+
+
+Newsletter Name:
+
+
+
+
+
+
+
+
+
+
+
+removeNewsletter
+
+
+
+Newsletter Name:
+
+
+
+
+
+
+
+
+
+
+
+addNewsletter
+
+
+
+Newsletter Name:
+
+
+
+Email:
+
+
+
+
+
+
+
+
+
+
+
+Register
+
+
+
+Callback:
+
+
+
+Email:
+
+
+
+First Name:
+
+
+
+Last Name:
+
+
+
+Phone Number:
+
+
+
+Gender:
+
+
+
+Day of Birth:
+
+
+
+Month of Birth:
+
+
+
+Year of Birth:
+
+
+
+Country:
+
+
+
+Password:
+
+
+
+Display Name:
+
+
+
+Captcha:
+  (reload image)
+
+
+Privacy:
+
+
+
+CSV Newsletters:
+
+
+
+PID:
+
+
+
+Source:
+
+
+
+ 
+
+
+
+
+
+
+
+Blank
+
+
+
+callback:
+
+
+
+
+
+
+
+
+
+
+
+Add Email
+
+
+
+
+Email:
+
+
+
+PID
+
+
+
+
+
+
+
+
+
+
+
+Delete Email
+
+
+
+
+Email:
+
+
+
+
+
+
+
+
+
+
+
+Change Primary Email
+
+
+
+
+Email:
+
+
+
+
+
+
+
+
+
+
+
+Update Profile
+
+
+
+callback:
+
+
+
+Screen Name:
+
+
+
+Current Password:
+
+
+
+New Password:
+
+
+
+Confirm New Password:
+
+
+
+First Name:
+
+
+
+Last Name:
+
+
+
+Gender:
+
+
+
+Day Of Birth:
+
+
+
+Month Of Birth:
+
+
+
+Year Of Birth:
+
+
+
+Phone Number:
+
+
+
+Income Level:
+
+
+
+Education Level:
+
+
+
+Job Responsibility:
+
+
+
+Occupation Code:
+
+
+
+Password Hint:
+
+
+
+Address Line 1:
+
+
+
+Address Line 2:
+
+
+
+City:
+
+
+
+State:
+
+
+
+Zip:
+
+
+
+Country:
+
+
+
+
+
+
+
+
+
+
+
+Request Password Reset
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+Confirm Password Reset
+
+
+
+Email
+
+
+
+Reset Code
+
+
+
+Password
+
+
+
+Confirm Password
+
+
+
+
+
+
+
+
+
+
+
+
+Alert Actions
+
+
+
+Alert ID
+
+
+
+
+getAlert  
+      removeAlerts  
+      activateAlerts  
+      suspendAlerts  
+    
+
+
+
+
+
+
+
+
+
+
+Add Or Update Alert
+
+
+
+Alert ID
+
+
+
+Name
+
+
+
+Include
+
+
+
+Exclude
+
+
+
+Email
+
+
+
+Format
+
+HTML
+Text
+
+
+ Immediate
+ Daily
+
+Time
+
+0900
+1300
+1800
+
+
+ Weekly
+
+Day
+
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+
+
+
+Time
+
+0900
+1300
+1800
+
+
+
+Source
+
+
+
+
+addAlert  
+                updateAlert  
+              
+
+
+
+
+
+
+
+
+CNN Simple Data API Calls
+user.api (getData, followed topics) /
+wrap /
+debug 
+user.api (getData, followed stories) /
+wrap /
+debug 
+user.api (getData, my races) /
+wrap /
+debug 
+
+
+
+Simple Data Set
+
+
+
+Data
+
+
+
+Name
+
+
+Followed Topics
+Followed Stories
+My Races
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple Data Prepend
+
+
+
+Data
+
+
+
+Name
+
+
+Followed Topics
+Followed Stories
+My Races
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple Data Append
+
+
+
+Data
+
+
+
+Name
+
+
+Followed Topics
+Followed Stories
+My Races
+
+
+
+
+
+
+
+
+
+
+
+Account Information
+Home
+User: Not retrieved
+User id: None Found
+Roles: 
+
+

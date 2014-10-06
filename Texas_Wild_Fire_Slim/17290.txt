@@ -1,0 +1,99 @@
+{
+													"key": "e19d000d885013ceeca",
+				"contextMenu": ["BIMvid Video player 5.0.0"],
+							"clip": {
+					"url": "http://cdn.bimfs.com/KHOU/15cc5aa50aa1dd6666039293351a7d11a437c29a.mp4",
+									"autoPlay": false,
+									"scaling":"fit",
+					"pageUrl":"http://www.khou.com/news/Wildfire-threatening-Renaissance-Festival-grounds-in-Grimes-County-129268548.html",
+																	"id":"129268548",
+					"dockey":"15cc5aa50aa1dd6666039293351a7d11a437c29a",
+					"title":"Several+evacuated+residents+in+Montgomery%2C+Waller+counties+allowed+to+return+home",                
+					"description":"Several+residents+in+Montgomery+and+Waller+counties+were+allowed+to+return+home+Sunday%2C+days+after+they+were+forced+to+evacuate+due+to+the+Riley+Road+tri-county+fire.",
+					"duration":"146",				
+					"keywords":"",    
+					"categories":"home",
+									"useadaptv":true,
+					"zid":"bi_khou"
+								},
+				"plugins": {		
+					"controls": {
+						"zIndex": 10,
+						"url": "http://swfs.bimvid.com/bimvid_controls-3_2_3.swf?x-bim-callletters=KHOU",
+						"backgroundColor": "#c4c4c4",
+						"backgroundGradient": [0.1,0.2,0.5],
+						"borderRadius": "0",
+						"volumeColor": "#bd7c7a",
+						"progressColor": "#CCCCCC",
+						"progressGradient": "none",
+						"bufferColor": "#bd7c7a",
+						"bufferGradient": "none",
+						"sliderColor": "#383838",
+						"sliderBorder": "1px solid rgba(128, 128, 128, 0.7)",
+						"sliderGradient": "none",
+						"buttonColor": "#424242",
+						"buttonOverColor": "#ffffff",
+						"volumeSliderColor": "#ffffff",
+						"volumeSliderGradient": "none",
+						"volumeBorder": "1px solid rgba(128, 128, 128, 0.7)",
+											"timeColor": "#000000",
+						"tooltipColor": "#000000",
+						"tooltipTextColor": "#ffffff",
+	
+											"autoHide": "always",
+											"durationColor": "#a3a3a3",
+						"height": 24,
+						"opacity": 1.0,
+											"fastBackward": false,
+						"fastForward": false,
+						"slowForward": false,
+						"slowBackward": false
+									},
+									"thumbnail" : {
+						"zIndex":5,
+						"url":"http://swfs.bimvid.com/bimvid_embedthumb-20110825a.swf?x-bim-callletters=KHOU",
+						"imgsrc" : "http://media.khou.com/images/bowlerfirefighters.jpg"
+					},
+									"sharing":{
+						"zIndex": 15,
+						"url":"http://swfs.bimvid.com/bimvid_sharing-20110831b.swf?x-bim-callletters=KHOU",
+						"email":{
+							"subject": "Several+evacuated+residents+in+Montgomery%2C+Waller+counties+allowed+to+return+home"
+						},
+						"embed": {
+							  "preScript": "http%3A%2F%2Fwww.khou.com%2Ftemplates%2Fbelo_embedWrapper.js%3Fstoryid%3D129268548%26pos%3Dtop%26swfw%3D%24swfw", "postScript": "http%3A%2F%2Fwww.khou.com%2Ftemplates%2Fbelo_embedWrapper.js%3Fstoryid%3D129268548%26pos%3Dbottom", 							"configUrl": "http%3A%2F%2Fwww.khou.com%2F%3Fj%3D129268548%26ref%3Dhttp%3A%2F%2Fwww.khou.com%2Fnews%2FWildfire-threatening-Renaissance-Festival-grounds-in-Grimes-County-129268548.html"
+						},
+						"twitter": {
+							"description": "Several+evacuated+residents+in+Montgomery%2C+Waller+counties+allowed+to+return+home"
+						}
+					},
+					"dock": {
+						"right": 14,
+						"horizontal": false,
+						"width": "8%",
+						"autoHide": true
+																					},
+					"omniture": {
+						"url": "http://swfs.bimvid.com/bimvid_omniture_BELO-20110829a.swf?x-bim-callletters=KHOU", 
+						"id": "bikhoucom,bikbnglobal",
+						"domain": "khou.com",
+						"pageUrl": "",
+						"pageTitle": "Several+evacuated+residents+in+Montgomery%2C+Waller+counties+allowed+to+return+home"					
+									},
+					"bimga": {
+						"url": "http://swfs.bimvid.com/bimvid_googleAnalytics-20110825a.swf?x-bim-callletters=KHOU",
+						"customer":"KHOU", 																								"accountId":"UA-164600-17"
+									},
+					"adaptv": {
+						"zIndex":50,
+										"url":"http://swfs.bimvid.com/bimvid_adaptv-20110831.swf?x-bim-callletters=KHOU",
+						"key":"broadcastinteractivemedia", 
+						"adaptag":"home",
+						"context":{ "DART_zone":"home","DART_site":"bi.khou" },	
+						"companionId":"bimvidplayer0_cb",
+						"videoPlayerId":"bimvidplayer_api"
+									}
+				}
+			}
+
+ 

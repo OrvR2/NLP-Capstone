@@ -1,0 +1,22 @@
+Texas wildfire scorches homes, acres
+
+
+
+            {
+                "movie":"http://media10.washingtonpost.com/wp/swf/OmniPlayer.swf",
+                "id":"oplayer-video-swf",
+                "width":"454", height:"270",
+                "vars":{
+                    "title":"Texas wildfire scorches homes, acres",
+            	    "flvStreamingServer":"rtmp://cp18289.edgefcs.net/ondemand",
+                    "stillURL":"http://www.washingtonpost.com/rf/image_606w/2010-2019/WashingtonPost/2011/08/31/Health-Environment-Science/Videos/08312011-17v/08312011-17v.jpg",
+                    "autoStart":0,
+                    "clickThru":"http://www.washingtonpost.com/national/health-science/texas-wildfire-scorches-homes-acres/2011/08/31/gIQAWv8drJ_video.html",
+                    "flvURL":"/media/2011/08/31/08312011-17v.m4v"
+                },
+                "params":{
+                    "allowFullScreen":"true"
+                }
+            }
+        
+

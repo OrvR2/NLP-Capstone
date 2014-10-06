@@ -1,0 +1,41 @@
+
+	LocationService Web Service
+
+
+LocationService
+
+The following operations are supported.  For a formal definition, please review the Service Description. 
+
+
+GetAreaInfo
+
+
+
+
+
+
+
+
+This web service is using http://tempuri.org/ as its default namespace.
+Recommendation: Change the default namespace before the XML Web service is made public.
+Each XML Web service needs a unique namespace in order for client applications to distinguish it from other services on the Web. http://tempuri.org/ is available for XML Web services that are under development, but published XML Web services should use a more permanent namespace.
+Your XML Web service should be identified by a namespace that you control. For example, you can use your company's Internet domain name as part of the namespace. Although many XML Web service namespaces look like URLs, they need not point to actual resources on the Web. (XML Web service namespaces are URIs.)
+For XML Web services creating using ASP.NET, the default namespace can be changed using the WebService attribute's Namespace property. The WebService attribute is an attribute applied to the class that contains the XML Web service methods. Below is a code example that sets the namespace to "http://microsoft.com/webservices/":
+C#
+[WebService(Namespace="http://microsoft.com/webservices/")]
+public class MyWebService {
+    // implementation
+}
+Visual Basic
+<WebService(Namespace:="http://microsoft.com/webservices/")> Public Class MyWebService
+    ' implementation
+End Class
+C++
+[WebService(Namespace="http://microsoft.com/webservices/")]
+public ref class MyWebService {
+    // implementation
+};
+For more details on XML namespaces, see the W3C recommendation on Namespaces in XML.
+For more details on WSDL, see the WSDL Specification.
+For more details on URIs, see RFC 2396.
+

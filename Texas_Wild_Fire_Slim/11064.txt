@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /index.php/tag/
+Disallow: /index.php/2008/
+Disallow: /ucp.php
+Disallow: /search.php
+Disallow: /posting_check.php
+Disallow: /memberlist.php
+Disallow: /album_upload.php
+Disallow: /album_rate.php

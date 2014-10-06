@@ -1,0 +1,6 @@
+document.write('');
+document.write('Climate Fact');
+document.write('The amount of "old" ice, ice that has survived at least one summer melt season, is an important gauge of the strength and resilience of the Arctic sea ice as a whole. Between 2004 and 2008, the area covered by "old" ice shrank by 595,000 square miles.');
+document.write('A National Environmental Education Foundation Program');
+
+

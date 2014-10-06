@@ -1,0 +1,467 @@
+
+Warning:  file_get_contents() [function.file-get-contents]: URL file-access is disabled in the server configuration in /homepages/36/d159389350/htdocs/profitonknowledge/wp-content/plugins/tweet-old-post/top-core.php on line 273
+
+Warning:  file_get_contents(http://api.bit.ly/v3/shorten?longUrl=http://profitonknowledge.com/network-marketing/strategies-for-developing-a-solid-network-marketing-team/&login=calledtomarket&apiKey=R_c0e8306000a0709a33f8ad2501896d05&format=json) [function.file-get-contents]: failed to open stream: no suitable wrapper could be found in /homepages/36/d159389350/htdocs/profitonknowledge/wp-content/plugins/tweet-old-post/top-core.php on line 273
+html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+
+Cutting-Edge Social Media Strategies – The Only Way Forward in Internet Marketing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About Us
+Privacy Policy
+Guest Posts – Free Publicity For Your Blog
+Comment Policy
+Subscribe
+
+Internet Network Marketing Success → Internet Marketingtitle_li=Social Networking Strategies → Cutting-Edge Social Media Strategies – The Only Way Forward in Internet Marketing 
+
+
+
+
+Cutting-Edge Social Media Strategies – The Only Way Forward in Internet Marketing
+by Ali.k on February 15, 2011 · 7 comments
+
+
+ 7Digg Digg
+
+
+
+Social Media Power
+
+
+If you’ve been in the Internet Marketing Scene for any length of time, you will undoubtedly have come across the latest buzz word in the industry: “social media”.
+Social Media has taken the whole Internet Marketing arena to a whole new level. Existing strategies such as email and article marketing don’t come close to the sheer power that a properly executed social media campaign can bring to your online business. Hundreds of millions of people use Facebook and Twitter every day, statistics purporting Facebook’s average usage alone being at a staggering all-time high of four visits per user, per “day” to the Facebook website. That’s over 600 Million Users accessing their Facebook accounts four times every day, which equates to roughly 2.4 Billion Visits PER DAY to Facebook by it’s own members.. And we haven’t even touched upon Fan Pages, Groups and Applications yet, the statistics mentioned above are just for people logging into their profiles and home pages alone.. 
+Now THAT, is powerful Internet Marketing.
+Ever heard of any Internet Marketing Strategy that could get you that kind of traffic? Nah.. Didn’t think so  
+But do you have any idea how easy it is to get in front of this hurricane of targeted social traffic?
+Nah.. Didn’t think so either  
+Yes. That’s right. With the birth of Social Media Networks like Twitter and Facebook came the birth of several hundred APIs (Application Programming Interfaces), authorized by these social networks themselves, that have revolutionized the way Internet Marketing is carried out. These APIs have allowed developers to build amazing software applications that can take your Internet Marketing campaign to staggering effectiveness..
+What are these APIs?
+Nothing of “use” to you if you aren’t a programmer, but definitely EVERYTHING of “interest”.
+Here’s why: 
+
+
+
+Sneaky IM Guru..
+
+
+Internet Marketers all around the world, especially the ones selling traffic generation “courses” have been sneakily outsourcing the development of powerful software programs that allow them to market their products to insanely large, highly targeted communities of people on Twitter and Facebook. And when I say large.. I mean HUGE.. Think “millions” of people.. at practically Zero Cost to themselves..
+Millions of Prospects at $0.00 ?? Is this Internet Marketing or some kind of practical joke?! – you ask  
+Well, sorry to disappoint you, but that is the reality of the situation. These APIs allow programmers who these guys hire, to build intelligent software programs, purposely designed to siphon crazy loads of traffic from social networks back to the product owner’s website(s). Using the results from this traffic (sales, affiliate commissions, optins, etc) these cheeky internet marketers then go on to create and sell traffic generation courses where they sing praises of how powerful Internet Marketing using Social Media is, but never do they mention exactly “how” they’ve been able to achieve such staggering results (atleast the legit ones who have actually done this).
+Well, now you know their “secret sauce”.. * hate that scammy term   *
+The whole point of talking about something as immaterial to a non-programmer as “APIs” was to let you know what tools are being used behind the scenes to create smart “robot-like” software applications to salvage insane amounts of super-targeted traffic from top social networks like Twitter and Facebook, and how you as an Internet Marketer, newbie or experienced (no one ever knows everything, even I learn one new strategy every day on average..) can go out and do this too.
+If you are not a programmer, have no fear, as you can easily find developers on Elance and RentACoder willing to develop such smart applications for you for as little as $150 sometimes.
+All YOU need is an idea for your new Internet Marketing campaign, a robust strategy, on how you would like to access this insanely deep treasure-chest of hot traffic from social networks (e.g. Are you looking for a particular niche of prospects such as people interested in “chocolate chip cookies” or “SEO” or.. as it’s usually the case.. Both?   )
+If you have an idea, someone or the other on a Freelance Network can develop it for you, for really cheap too.
+If you don’t have an idea or need help with one, feel free to Add Me on Facebook where we regularly exchange tonnes of hot ideas all the time  
+Share this post on Facebook, LIKE it, Digg it, Tweet it. Seriously. People need a wake-up call 
+
+About The Author:
+
+
+Ali K.
+
+ 
+Ali K. spearheads The SEPCON Project, a 100% Free Email Advisory with a mission to educate anyone and everyone interested in home based internet marketing in the art of Explosive Internet Marketing for Profit and Success. The SEPCON Project provides Cutting-Edge Software, Courses, Videos, Audios, PLR Re-Brandable Products, eBooks and tons more. Anyone can Subscribe to the Program for FREE (no gimmicks) at The SEPCON Project
+Ali is also an Affiliate Marketer, Product Creation & Launch Consultant, Copywriter, and one of the most Highly Recognized Programmers in the Home Based Internet Marketing world, the Lead Technologist behind the Blockbuster Launch of The Internet Time Machine, and Search Engine NowRelevant.com, and mentioned in several International News Publications such as Forbes, The Chicago Tribune, NY Times, LA Times, and Reuters, to name a few, for his work.
+ 
+
+
+
+ Related Websites   What You Should Know About Social Bookmarking Traffic Social bookmarking are a valuable traffic generating tool used by...   Professional Blogging Roundup: Winter Begins Take a deep breath... Smell it? It's December and that...   3 Proven Internet Marketing Tips Made Especially For Beginners Internet marketing can be any kind of web based business...   
+
+
+
+{ 7 comments… read them below or add one }
+
+
+
+
+nazimwarriachTwitter: PakistanHotline
+February 16, 2011 at 12:26 pm
+
+
+
+Hi Ali Khan,
+Thanks for sharing an eye popping article to show us the importance of Social Media for marketing campaigns.
+I have just started using Facebook and Twitter for the promotion of my blog. Though Twitter has not proved itself so much fruitful but I have started gaining a notable traffic form FB.
+nazimwarriach recently posted..Hostgator Coupon Code
+Reply
+
+
+
+
+Ali.kTwitter: asksatch
+February 17, 2011 at 6:59 am
+
+
+
+Hey Nazim,
+Glad you liked the post  
+Yes, Social Media is revolutionizing the way internet marketing is conducted today, and those capitalizing on it properly are seeing massive results!
+Cheers,
+Ali
+Ali.k recently posted..Is Disappointment The Only Reward in Home Based Internet Marketing Hell No!
+Reply
+
+
+
+
+
+
+AdrienneTwitter: adriennesmith40
+February 16, 2011 at 3:47 pm
+
+
+
+Hey Ali,
+Great post and thanks for sharing this great information with us all.  Social media is huge now and if you can use it correctly, it can really benefit you in your business.  I’m still “working” out the kinks so to speak but am seeing more traffic to my site from both accounts.  I’m still a work in progress though.
+Thanks for the post and appreciate the info.
+Adrienne
+Adrienne recently posted..Free Tool for Building Backlinks &amp Social Bookmarks to Your Sites
+Reply
+
+
+
+
+Ali.kTwitter: asksatch
+February 17, 2011 at 7:01 am
+
+
+
+Hey Adrienne,
+Great to see you taking action!  
+Social Media is a force to be reckoned with, it’s powerful, viral and much more if used properly. Keep at it and I’m sure you’ll be seeing very very positive results down the line~
+Cheers,
+Ali
+p.s. Thanks for the Facebook Add.
+Ali.k recently posted..Is Disappointment The Only Reward in Home Based Internet Marketing Hell No!
+Reply
+
+
+
+
+
+
+Online delivery of cakes mumbai
+February 17, 2011 at 8:05 am
+
+
+
+Hi Ali,
+I agree content always rules,which is another good reason to spend more time on our writing and less time filling up the white space.
+Keep posting:)
+Online delivery of cakes mumbai
+Reply
+
+
+
+
+DUBturbo
+February 22, 2011 at 3:19 pm
+
+
+
+What exactly are these cutting-edge social media strategies? You mention that tons of Internet marketers are deploying “intelligent software programs” in order to drive Twitter and Facebook traffic to their websites, but how exactly are they doing this?
+You write, “All YOU need is an idea for your new Internet Marketing campaign, a robust strategy, on how you would like to access this insanely deep treasure-chest of hot traffic from social networks.” We all know we need ideas and a robust strategy, but can you specify exact strategies utilized by marketers?
+Are we talking about starting a Facebook fan page? How would one build a healthy following? How long would it take? What if one doesn’t have a lot of Facebook friends or doesn’t want to mix their personal friends with their business friends/followers?
+I know that Twitter and Facebook have lots of traffic, but how are people really profiting from it? Thanks.
+- Andrew
+Reply
+
+
+
+
+Kostas from Extra Income
+July 30, 2011 at 2:24 pm
+
+
+
+Social media marketing can be a great way to get traffic and make your posts go viral but in order to see results you have to engage with your followers all the time which makes it really time consuming.
+Kostas@Extra Income recently posted..Email Marketing And Social Media Explained
+Reply
+
+
+
+
+
+Cancel reply Leave a Comment
+
+
+Name *
+E-mail *
+Website
+Please Read My 
+Comment Policy Before Posting thank you.
+Larry Rivera 
+
+
+
+
+
+
+
+
+This site uses KeywordLuv. Enter YourName@YourKeywords in the Name field to take advantage. 
+
+
+
+
+ Subscribe to My Newsletter 
+								
+
+
+
+
+
+
+ Notify me of followup comments via e-mail. You can also subscribe without commenting.You can add a link to follow you on twitter if you put your username in this box.Only needs to be added once (unless you change your username). No http or @ Twitter  
+
+
+
+
+
+
+← Previous Article Network Marketing Blogs – Social Proof Without The Spam
+Next Article → Running A Successful Internet Marketing Venture With Just Twitter – Harnessing The Power of The “Follower”.
+
+
+
+
+Team BuildingReal Sponsorship Guaranteed! 
+
+
+
+
+7 Minutes To Better HealthAre you able to exercise just 7 minutes 3 times a week? This isn't a game changer, its a life changer.Easy @Home BusinessNew To Marketing Online? Start HereBlog TrafficThis is the easiest fastest way for a newbie blogger to start getting quality traffic.FaceBook 
+
+
+
+Networked Blogs Follow this blog
+Get Social 
+
+
+
+
+
+
+
+
+
+Need A Question Answered? Search My blog See If I Answered It!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categories 
+Blogging Essentials
+
+Email Marketing Strategies
+
+Home Based Business
+
+Internet Marketing
+
+Internet Marketing Strategies
+
+Internet Network Marketing
+
+Network Marketing
+
+Network Marketing Blogs
+
+Newbie Questions Answered
+
+Personal Development
+
+Randomness
+
+Social Networking Sites
+
+Social Networking Strategies
+
+The Blogosphere
+
+Watercooler Wednesday | Social Proof
+
+WordPress TidBits
+
+
+ 
+
+Popular Posts
+Everything You Need To Know About  CommentLuv 57  comment(s) | 630  view(s) 
+This Is How To Build Your Network Marketing List With Your Blog 57  comment(s) | 212  view(s) 
+Network Marketing Blog - How To Get Your Post Read! 42  comment(s) | 293  view(s) 
+Network Marketing Blog: Stop Being A Victim  37  comment(s) | 329  view(s) 
+Get High Authority, High PR Backlinks in 10 Minutes | A Powerful Internet Marketing Strategy To Catapult Your Site's Rankings Onto Google Page #1 32  comment(s) | 1810  view(s) 
+Internet Network Marketing - I Need Your Opinion 32  comment(s) | 161  view(s) 
+Aaachoo Review: Money For Nothing And Chicks For Free? 30  comment(s) | 1061  view(s) 
+Strategies For Developing A  Solid Network Marketing Team  29  comment(s) | 220  view(s) 
+Internet Marketing Epic Fail 29  comment(s) | 161  view(s) 
+Network Marketing Blogs - No More Excuses, Gravatar Tutorial 27  comment(s) | 108  view(s) 
+
+
+
+
+
+
+Return to top of page
+
+
+
+Copyright © 2011  · ProfitOnKnowledge by Called To Market · Blog 
+Disclaimer and Terms of Use Agreement
+
+
+
+
+
+
+ 
+
+Your email has been sent! Thank you!
+Please enter your name, subject, message and a valid email address.
+Your email failed. Try again later.
+
+Your name 
+
+
+Your email 
+
+
+Subject 
+
+
+Your message 
+
+
+
+
+
+
+
+
+
+
+
+
+
+plugin by DynamicWP
+
+
+
+
+ 
+
+
+
+
+
+
+Sign up below to join our eNewsletter
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Name: 
+Email: 
+
+
+
+
+
+
+Close 
+Sign up below to join our eNewsletter
+Get Blog Updates, Tips, Free Goodies & Much More To Help You Grow Your Business!
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Name: 
+Email: 
+
+
+
+
+
+
+ 
+
+
+
+

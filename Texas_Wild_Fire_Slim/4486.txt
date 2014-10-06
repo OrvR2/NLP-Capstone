@@ -1,0 +1,200 @@
+[
+  
+	  	{
+	        "name": "Texas",
+	        "weight": "80" 
+	    }
+    	,
+
+		{
+	        "name": "Arlington",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Capper",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Cleveland Indians",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Crony capitalism",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Death Sentence",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Derek Holland",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Executive Order",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Garrett",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Garrett Gilbert",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Grand Slam",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Hamilton",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Josh Hamilton",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Legislature",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Perry",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Ponzi scheme",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Ponzi Scheme",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Punching bag",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Quarterback",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Rangers",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Republican",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Richmond VA",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Rick Perry",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Social security",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Social Security",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Tempest",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Texas Rangers",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Third rail",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "TX",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Untouchable",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Vaccine",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Virginia",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Waterlilies",
+	        "weight": "40.0" 
+	    }
+	    
+]

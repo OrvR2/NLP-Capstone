@@ -1,0 +1,989 @@
+lines and colors :: a blog about drawing, painting, illustration, comics, concept art and other visual arts » 2010 » October
+
+
+
+
+
+
+Set up your study or picture in an orderly fashion. This order should not cramp either the linearist or the colorist... Never lose sight of that first impression by which you were moved. 
+- Jean-Baptiste-Camille Corot
+
+
+
+
+
+
+
+It is no disgrace to start all over. It is usually an opportunity. 
+- George Matthew Adams
+
+ 
+
+
+
+ 
+
+
+
+Saturday, October 30, 2010
+PumpkinMixer
+
+Posted by Charley Parker at 9:25 pm 
+ 
+
+
+I don’t often talk about my own projects on Lines and Colors, but sometimes they’re enough fun to be worthy of note. 
+PumpkinMixer is my new app for the iPhone and iPod touch. Like my other apps, DinoMixer and MonsterMixer, it was developed with my friend and colleague Leon Stankowski, who created the coding to fit with my design and illustrations, worked with me on the functionality and coordinated the sound.
+Similar to the other “Mixer” apps, PumpkinMixer is based loosely on the old Surrealist game of Exquisite Corpse, in which artists would fold over paper and draw three independent parts of a drawing, head, body and legs, without seeing the outcome until all were in place. This concept made its way into popular culture as a children’s game (my friends and I played it in elementary school), and was eventually adapted in publishing as “mix-n-match” children’s picture books (usually spiral-bound, with stiff cardboard pages that are divided in three). 
+PumpkinMixer, like DinoMixer and MonsterMixer, is an electronic version of this. In the case of PumpkinMixer, you swipe side to side to swap sets of eyes, noses and mouths, with an extra horizontal band at the top to switch between three backgrounds. Swiping on the iPhone screen vertically switches between pumpkins and swaps out the colors of the animated “candle flame” behind the face cut-outs.
+In designing the interface and creating the artwork, which was done digitally in Painter and Photoshop in the same way I draw my webcomic, Argon Zark!, I faced the same challenges I outlined in my post about creating the artwork for DinoMixer. 
+Like many illustration projects, this one, in addition to the design and technical challenges, had a deadline. Since PumpkinMixer just made it through the App Store approval process and became available today, one day before Halloween, you might say we just made it; though we obviously had an earlier release in mind. 
+On the other hand, you could say we’re just really really early for next Halloween!
+
+
+Link: PumpkinMixer website
+PumpkinMixer in the App Store
+My previous post about creating the artwork for DinoMixer
+DinoMixer
+MonsterMixer
+
+Posted in:  Amusements,Cartoons,Illustration   |   7 Comments »
+
+
+
+Chappatte
+
+Posted by Charley Parker at 9:19 am 
+ 
+
+
+Patrick Chappatte is a political cartoonist with an international reach, and a personal history to match. Born in Pakistan, Chappatte was raised in Singapore and later Switzerland. He lived in New York for a time and now lives and works in Geneva.
+Chappette’s global view comes across in his cartoons for the International Herald Tribune and other publications. 
+He is known in particular for his forays into cartoon journalism, in which he visits parts of the world, reporting on the situation there in cartoon or comic strip form. An example is his In the Slums of Nairobi (image above, bottom), which was published in a series on Nairobi in the Global Opinion section of the New York Times website.
+Note how the use of cartoon imagery, while it doesn’t lessen the impact of the dire situation, makes for a lower barrier to entry into an uncomfortable subject than stark photographs might have. 
+You can see some other examples of his work in this direction on graphicjournalism.net. 
+Chappatte explores this increasing trend toward cartoon journalism, along with the impact, influence and role of cartoons in world events, in a fascinating talk on The Power of Cartoons for the TED (Technology Entertainment and Design) conference (you can also view the video on YouTube). He punctuates his comments with some of his cartoons.
+You can see more of them on his website (French version here). When looking through his cartoons by topic (drop down menu at right), be aware that most categories have several pages, accessed from small page numbers under the cartoon thumbnails at lower right.
+His work has also been published in a number of books.
+Despite the difficulties faced by traditional newspapers, and their resultant decisions to abandon much of their original content, like editorial cartoons (brilliant, of course — when cicrculation is dropping, drop the content people find worthwhile), cartoons will continue to play an important part in political and social discourse. 
+[Via Digg, via Geeks Are Sexy]
+
+
+Link: www.globecartoon.com
+Graphic Journalism
+The Power of Cartoons on TED, on YouTube
+
+Posted in:  Cartoons,Comics   |   Comments »
+
+
+Friday, October 29, 2010
+Learning to draw: where to go from here
+
+Posted by Charley Parker at 1:50 pm 
+ 
+
+Tim, a Lines and Colors reader, wrote me to say that he had recently become inspired to return to the practice of drawing. He had purchased a copy of Betty Edwards’ Drawing on the Right Side of the Brain (see my post here), and was looking for other books and resources to pursue his interest from there, hopefully with a classical or Renaissance method.
+Edwards’ book is an excellent place to start for someone who has a new or rekindled interest in drawing. I frequently recommend it as the book concentrates of the fundamental and most difficult problem adults face in learning to draw, and that is learning to see what is actually before them, and not what they think they see.
+I feel her book, however, is lacking the other “half” of drawing, the art of it, the finesse and artistic choices that separate “art” from “just drawing” and that separate the masters from the ordinary. Though she has attempted to address this somewhat in recent editions, there are better sources for pursuing the art of drawing. 
+This is not meant to be a comprehensive list, certainly not of drawing books, or even of drawing books and resources that answer the particular question at hand, but a few suggestions drawn (if you’ll excuse the expression) from my personal experience.
+A book I will recommend, though it is not specifically related to drawing but to art and art study in general, is Robert Henri’s The Art Spirit.
+As for drawing instruction in a classical or Renaissance method, there isn’t a great deal in the way of drawing texts from the Renaissance; techniques were passed down from master to apprentice, rarely committed to writing. Modern representational drawing texts concentrate on Academic teachings, which are derived from principles developed in the Renaissance and subsequent years up to the late 19th Century.
+ 
+The dedicated path:
+Classic drawing textbooks (not necessary “Classical”) These two volumes have been standards in art schools in the U.S. for decades. Look for them used online, in used bookstores or on eBay; they’re overpriced and current printings are apparently of poor quality.
+A Guide to Drawing, Daniel M. Mendelowitz
+Art of Responsive Drawing, Nathan Goldstein
+ 
+The study of drawing:
+The Natural Way to Draw: A Working Plan for Art Study, Kimon Nicolaides
+If you’re really committed, Kimon Nicolaides has the game plan, but it’s a demanding course of study.
+The Practice And Science Of Drawing, Harold Speed
+A valuable text, with insights and practical information. There is a full version on Project Gutenberg, though the reproductions leave something to be desired.
+ 
+Other titles:
+Charles Bargue and Jean-Leon Gerome: Drawing Course, Gerald M. Ackerman
+A 19th Century Academic approach, form a student of master Jean-Léon Gerome
+Drawing Lessons from the Great Masters, Robert Beverly Hale
+I had the good fortune to have Robert Beverly Hale as my artistic anatomy instructor when I was a student at The Pennsylvania Academy of the Fine Arts. His teachings have been codified in a series of books, illustrated with selections of old master drawings.
+ 
+The Artist’s Complete Guide to Figure Drawing: A Contemporary Perspective on the Classical Tradition, Anthony Ryder
+See my post on Tony Ryder, and here
+Classical Drawing Atelier: A Contemporary Guide to Traditional Studio Practice, Juliette Aristides
+A modern take on Academic techniques
+ 
+The gentle path
+Keys to Drawing, Bert Dodson
+Keys to Drawing with Imagination: Strategies and Exercises for Gaining Confidence and Enhancing Your Creativity, Bert Dodson
+Dodson eases you into some of the same techniques and concerns covered by Mendelowitz and Goldstein, with a friendlier approach and less of a brusque college textbook manner. See my review of Keys to Drawing with Imagination
+ 
+Bridgman’s Complete Guide to Drawing from Life, George Bridgman
+The Human Figure, John H. Vanderpoel
+Put solidity and an understanding of form into your figure drawing with Bridgeman and Vanderpoel.
+ 
+Study master drawings
+Look for used books of collections of master drawings, study them and copy from the masters (as they did from previous masters) to understand what they have done with line, tone, space and form. 
+Dover Books has many titles with master drawings that are inexpensive new. Though the reproduction is not superb, they are still very good for study and enjoyment.  
+150 Masterpieces of Drawing by Anthony Toney
+Look for other inexpensive collections like Drawing ideas of the masters: Improve your drawings by studying the masters by Frederick Malins
+ 
+Libraries
+Look to your local library for everything mentioned here and more. If you live near a state university, you may find their library open to residents, including borrowing privileges.
+Online: 
+Line by Line is an introductory drawing course running in weekly installments on the New York Times (see my post here). There are many other online resources that should be the subject of a separate post. 
+Studying the real thing: master drawings
+Seeing old master, Baroque and 19th Century drawing in person is a treat, inspiring and very instructive. Drawings reveal their subtleties in person even more than paintings. They can’t be kept on display because of light damage, so you have to look for shows.
+On the East Coast of the U.S. The Met in NY, Philadelphia Museum of Art and the National Gallery rotate out selections from their collections of works on paper in small dedicated galleries. Look for other major museums to have similar small spaces devoted to works on paper. The Morgan Library in NY often has great drawing shows.
+I try to list museum shows of drawings (along with shows of comics, cartoons and illustration) in the right hand column of this blog. Not always up to date or comprehensive (I try), but a place to look.
+Studying the real thing: life drawing
+This is a directory of life drawing (figure model) open sessions, workshops and other easily accessible classes: Figure Drawing Open Studios, Workshops, and Continuing Education Classes, see my post on the Directory of Figure Drawing Sessions.
+Fake it from home: life drawing
+Poser, Pose Maniacs and Virtual Pose let you practice life drawing from home. 
+The most important things
+The most important thing: keep drawing. If it’s not a dedicated course of study, make it a hobby, a habit, a coffee break, a meditation. A quick sketch once a day is better than an elaborate plan of study that you can’t maintain.
+Zen of Seeing: Seeing/Drawing as Meditation by Frederick Franck 
+This is an essay on drawing, and the special kind of seeing associated with drawing (that I think is at the core of the techniques in Drawing on the Right side of the Brain and other texts) as a form of meditation. 
+More importantly, it is instructive in drawing as a practice, an activity, something you do, rather than something you are trying to accomplish. It’s hard to understate what a dramatic difference in frame of mind this seemingly small shift can make.
+Drawing for Pleasure, Valerie C. Douet
+I mention this title, not because the drawings within are treasures of old master accomplishment, but because of the attitude and approach expressed by the book and its title.
+Unless you mess it up by trying too hard, hanging all kinds of expectations and self-measurement on it or make the gross mistake of comparing your current level of ability with others, drawing is, after all, fun.
+So my best word of advice? Draw and have fun drawing. The rest will follow.
+ 
+[Addendum: On rereading this post, I wanted to add one of my favorite quotes.
+From Howard Ikemoto:
+When my daughter was about seven years old, she asked me one day what I did at work. I told her I worked at the college — that my job was to teach people how to draw. She stared back at me, incredulous, and said, "You mean they forget?" ]
+
+
+
+Posted in:  Book Reviews,Drawing,Tools and Techniques   |   27 Comments »
+
+
+Thursday, October 28, 2010
+Irving Ramsay Wiles
+
+Posted by Charley Parker at 9:43 pm 
+ 
+
+
+The son of Hudson River School painter Lemuel Maynard Wiles,  Irving Ramsay Wiles began study with the great American painter William Merritt Chase at the age of 18. He studied with both Chase and noted painter James Carroll Beckworth at the Art Student’s League in New York, where he would later teach. 
+Wiles continued to study with Chase independently at his Tenth Street Studio, painting it’s interior (above, third down) as Chase often did (also here).  Wiles and Chase were to remain friends throughout their lives.
+Wiles also continued his studies in Paris at the Académie Julian and in the atelier of Emile Auguste Carolus-Duran, who is noted as John Singer Sargent’s teacher. 
+Sargent’s bravura brushwork had a distinct influence on Wiles’ portraiture (and I can’t imagine he was unaware of Cecilia Beaux), while his painterly approach to landscape, interiors and still life owes much to the influence of Chase.
+Early in his career, Wiles worked as an illustrator for a number of American magazines. He eventually made a name for himself as a portrait artist. In his later years he allowed himself more time for landscapes and personal subjects.
+Wiles is sometimes considered an American Impressionist painter (as is Chase, and sometimes Sargent), though that term is a somewhat vague classification.
+There is a selection of his work on the Sotheby’s auction house Sold Lot Archives, some of which have both static and Zoomable versions. The latter allow you to see his brushwork in detail (albeit in a small window). 
+Similarly the Smithsonian Museum of American Art has several pieces in Zoomable versions, these can be viewed in a full screen window, including the stunning Russian Tea (above, second from the bottom).
+ A new monograph on Wiles, Irving Ramsay Wiles, N.A., 1861-1948: Portraits and Pictures, 1899-1948 by Geoffrey K. Fleming, is due to be published in January.
+
+
+Link: Irving Ramsay Wiles at The Athenaeum
+American Gallery
+Encore Editions
+Sotheby's (some Zoomable)
+Smithsonian Museum of American Art (Zoomable full screen)
+Parrish Art Museum, also here, here and here
+FAMSF (zoomable)
+Metropolitan Museum of Art (Zoomable)
+NGA
+Terra Foundation (Zoomable)
+NCMA
+New York Public Library (prints)
+Art Renewal
+ArtNet
+AskArt
+Art of the Print
+Short bio on Wikipedia
+ArtCyclopedia (museum listings and resources)
+
+Posted in:  Gallery and Museum Art   |   3 Comments »
+
+
+
+Drazen Kozjan
+
+Posted by Charley Parker at 9:15 am 
+ 
+
+
+Drazen Kozjan was born in Croatia and now lives in Canada, where his family moved when he was young. His career has included visual development and storyboarding for a number of  features, including The Neverending Story, Rupert the Bear, Franklin The Turtle and George Shrinks.
+He is also an editorial illustrator and children’s book illustrator, with credits for several books, including The Biggest Girl In the World by Joanne Stanbridge, Diary of a Fairy Godmother by Esm Raji Codell and How to Tame a Bully by Nancy Wilcox-Richards.
+Kozjan’s crisp, spare style manages to be evocative without ever being labored. His interior book illustrations are often done with fine line and deft touches of tone. His color illustrations, in contrast, frequently feel like they are line drawings with color fills, but are often accomplished with sharply delineated forms instead of outlines.
+He works in pen and ink, marker pens, gouache and watercolor, as well as digital media, specifically Photoshop, in which he colors most of his recent work.
+His website has galleries for individual book titles as well as other work.
+Kozjan also maintains a blog called Hypnotik Eye, in which he discusses his projects and posts personal sketches and life drawings, along with occasional mentions of other artists from the history of illustration whose work he admires.
+You can also see his portrait of Rod Serling on Hey Oscar Wilde, It’s Clobberin’ Time! (see my post on Hey Oscar Wilde, It’s Clobberin’ Time!).
+There is a recent interview with Drazen Kozjan on Fuel Your Illustration.
+
+
+Link: www.drazenkozjan.com
+Hypnotik Eye (blog)
+Interview on Fuel Your Illustration
+
+Posted in:  Illustration   |   Comments »
+
+
+Tuesday, October 26, 2010
+Glenn Jones
+
+Posted by Charley Parker at 11:55 pm 
+ 
+
+
+Glenn Jones, a freelance illustrator and graphic designer based in Auckland, New Zealand, creates deceptively simple images that always have a twist or hook, usually leaving you smiling if not laughing out loud.
+After a 15 year design industry career, Jones found that his T-shirt designs for Threadless.com were so successful that he started his own line, GlennzTees.
+His website splits into his personal website, the Genns Tees store, and his Behance Portfolio (also here), along with links to his pages on Facebook, Twitter and Flickr.
+You can also find example of his work displayed on Digital Art Empire and Design your way.
+
+
+Link: www.glennz.co.nz
+Personal website
+GlennzTees
+Behance Portfolio
+Digital Art Empire
+Design your way
+
+Posted in:  Gallery and Museum Art   |   5 Comments »
+
+
+Monday, October 25, 2010
+Titian and the Golden Age of Venetian Painting
+
+Posted by Charley Parker at 7:10 pm 
+ 
+
+
+Tiziano Vecellio, commonly called Titian, was one of the great masters of the Italian Renaissance. His reputation spread form his native Venice to Rome and the other art centers of Italy, as well as to Spain and throughout Europe.
+His mastery of oil painting, use of color, and strength in all phases of painting — portraits, mythological subjects, allegories, altarpieces and landscapes with figures — along with his painterly approach, made him tremendously influential in his time and well after.
+Two of his major works, Diana and Actaeon (above, top) and Diana and Callisto (above, bottom) form the core of a new exhibition at the High Museum of Art in Atlanta, Titian and the Golden Age of Venetian Painting: Masterpieces from the National Galleries of Scotland.
+The exhibition includes 25 paintings from the Venetian Renaissance, including works by Tintoretto, Veronese and Lotto, that are on loan from the National Gallery of Scotland. 
+Titian’s two Diana paintings were commissioned by King Phillip II of Spain, and are related, meant to be seen as a pair. Though they depict two different moments from the life of the mythological figure, they are both tableaux of Titian’s masterful figures, pulled together by the common visual theme of a stream running through them. The two paintings are traveling to the U.S. for the first time.
+Though Titian’s youthful experimentation had abated by the time he painted these works in his 60′s, his technical mastery was in full force.
+Titian and the Golden Age of Venetian Painting: Masterpieces from the National Galleries of Scotland is on display until January 2, 2011.
+For more, see my earlier posts on Titian, and on his Polyptych of the Ressurection.
+
+
+Link: Titian and the Golden Age of Venetian Painting: Masterpieces from the National Galleries of Scotland, High Museum of Art, to 1/2/11
+My previous post on Titian (Tiziano Vecellio), and Titian's Polyptych of the Ressurection
+
+Posted in:  Gallery and Museum Art   |   Comments »
+
+
+Friday, October 22, 2010
+Chris Ryniak
+
+Posted by Charley Parker at 10:28 am 
+ 
+
+
+On his blog Chris Ryniak describes himself as “monster & critter maker”. 
+On his website you will find galleries of his monsters & critters both as paintings (also here) and as small scale sculptures in epoxy, glass, vinyl and acrylic.
+My timing is a little off with this post, in that his show at MyPlasticHeart in NYC, This Could Get Ugly, is wrapping up on October 24, but you can (at least for the time being) also see a gallery of his sculptures and paintings associated with the show.
+Ryniak is a graduate and former instructor of the Ringling School of Art and Design in Florida, and is currently based in Ohio. 
+Ryniak’s beasties have a kind of oddball charm, with buggy eyes, fish-like parts and lots of teeth. His paintings, which I believe are primarily done in acrylic, have a decorative dimensional feeling to them, with backgrounds de-emphasized and the textural qualities of the, er… critters, emphasized..
+[Via Drawn!]
+
+
+Link: www.chrisryniak.com
+Blog
+ MyPlasticHeart gallery
+
+Posted in:  Gallery and Museum Art,Sculpture & Dimensional   |   Comments »
+
+
+Thursday, October 21, 2010
+Machiavelli, online graphic novel by Don MacDonald
+
+Posted by Charley Parker at 2:22 pm 
+ 
+
+
+Niccolò Machiavelli was a 15th Century Italian diplomat, philosopher and writer, from whose political treatise, The Prince, along with other writings, we get the contemporary usage of his name in the term Machiavellian, referring to the use of deceptive cunning and planning in politics.
+Machiavelli himself, however, was hardly an example of the intricate political deceit with which his name is associated, and is largely unknown for his own life and deeds.
+Machiavelli is an ongoing graphic novel written and drawn by Don MacDonald that explores the life and times of Machiavelli the man.
+MacDonald is posting the story to the web, two pages week. He plans a story of about 170 pages. The home page of the site always opens up on the current page (as of this writing, page 42), but you will want to start with the first page.
+He usually annotates each page with comments about Machiavelli’s life and the history and politics of the time, in which he has obviously immersed himself in preparation for telling the story.
+The story is drawn in a slightly gestural informal line style with gray washes. MacDonald’s line and tone approach, in which he emphasizes light and shadow, is ideal for the subject and his evocation of 15th Century Florence. 
+The site also includes a blog, poster size images that can be printed out for free, and a small selection of his earlier watercolor portrait paintings (above, bottom).
+You can check back periodically as he adds to the story, or be notified by one of several methods he mentions on the About page. 
+[Via BoingBoing]
+
+
+Link: Machiavelli
+First page
+Don MacDonald portrait paintings
+
+Posted in:  Comics,Watercolor and Gouache   |   Comments »
+
+
+Tuesday, October 19, 2010
+Margarita (Hampa Studio)
+
+Posted by Charley Parker at 10:01 pm 
+ 
+
+
+Margarita is a beautifully designed, drawn and realized animated short (about 12 minutes long) from Hampa Studio. 
+Another example of small independent studios doing high level work, this award winning story follows the adventures of a young princess (lived in the imagination of our actual protagonist, a young girl being read the story by her mother), who sets out to find an evening star that has captured her fancy.
+The film is based on a poem by Rubén Dario, and the adaptation works to evoke the poetic images wordlessly, with only sound effects and music to accompany the images.
+The animators chose to take the approach of traditional hand-drawn animation, with wonderful backgrounds, delightful character design and fluid, elegant animated motion.
+There is a Making Of feature that is actually a bit longer than the film itself, in which the creators discuss the conception of the project as well as their process in bringing it to fruition.
+There is also a trailer that was released prior to the final film. In addition to the page on the Hampa Studio site, there is a site for Margarita, that has an English version, as well as a blog.
+[Via Animation Blog]
+
+
+Link: Margarita
+Margarita (Making Of), Vimeo
+Margarita website
+Hampa Studio, in English
+Blog
+
+Posted in:  Gallery and Museum Art   |   1 Comment »
+
+
+ « Earlier Posts
+
+
+
+
+Lines and Colors
+
+
+Lines and Colors is a blog about drawing, sketching, painting, comics, cartoons, webcomics, illustration, digital art, concept art, gallery art, artist tools and techniques, motion graphics, animation, sci-fi and fantasy illustration, paleo art, storyboards, matte painting, 3d graphics and anything else I find visually interesting.  If it has lines and/or colors, it's fair game.
+
+
+
+
+» Home
+» About/Contact
+» Suggest a Site
+» Link to Lines and Colors
+» Colophon
+Subscribe (RSS Link)
+» How Not to Display Your 
+Artwork on the Web
+» How  to Display Your 
+Art on the Web
+» Search Page
+
+
+
+
+
+
+Article Search:
+
+
+
+
+
+
+
+
+
+
+Translation
+
+
+
+
+ 
+
+
+
+
+
+ RT @dailypainter: Eye Candy: Willem Van Aelst: Stunning color & composition: http://t.co/rgQ9oXU #art 18 hours ago The 911 Report: A Graphic Adaptation: http://t.co/KRP8tng Lines and Colors post  18 hours ago <em>The 911 Report: A Graphic Adaptation</em>, http://t.co/KRP8tng New Lines and Colors post  2011/09/10
+
+
+LinesAndColorsPromote Your Page Too
+
+
+Categories:
+
+3d CGI
+
+Amusements
+
+Animation
+
+Anime & Manga
+
+Blogroll
+
+Book Reviews
+
+Cartoons
+
+Color
+
+Comics
+
+Concept & Visual Dev.
+
+Creativity
+
+Digital Art
+
+Digital Painting
+
+Displaying Art on the Web
+
+Drawing
+
+Gallery and Museum Art
+
+Illustration
+
+Motion Graphics & Flash
+
+Museums
+
+Online Museums
+
+Outsider Art
+
+Painting
+
+Painting a Day
+
+Paleo Art
+
+Pastel, Conté & Chalk
+
+Pen & Ink
+
+Prints and Printmaking
+
+Sc-fi and Fantasy
+
+Sculpture & Dimensional
+
+Site Comments
+
+Sketching
+
+Storyboards
+
+Tools and Techniques
+
+Vector Art
+
+Vision and Optics
+
+Watercolor and Gouache
+
+Webcomics
+
+
+
+
+
+
+
+Archives: 	
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+November 2005
+October 2005
+September 2005
+August 2005
+
+
+
+Your host:
+Charley Parker
+My other sites:
+
+
+Argon Zark!
+Interactive webcomic
+Dinosaur Cartoons
+Dinosaur cartoons, how to draw activities, dinosaur online coloring and cartoon dinosaur stuff
+DinoMixer
+Dinosaur mix and match iPhone and iPod Touch app, site includes list of iPhone app review sites
+My Zazzle Site
+Dinosaur Cartoons T-shirts, sweatshirts, mugs and other dinosaur goodies
+Charley Parker Design
+Web site design in Philadelphia and Delaware
+Flash Class Delaware
+Adobe Flash class I teach at the Delaware College of Art and Design, in the Philadelphia area
+Personal site
+Sketchbook
+
+
+
+
+
+Relevant Blogs
+
+Art, Painting & Sketch
+
+Art Knowledge News
+Art News Blog
+Art History Today
+Flying Fox
+Urban Sketchers
+Painting Perceptions
+The Hidden Place
+PaintBlog
+Underpaintings
+Art Inconnu
+Art Contrarian
+Artist A Day
+Women Painting Women
+RusArt
+The Art of the Landscape
+Victorian/Edwardian Paintings
+The Tools Artists Use
+Drawing Connections
+beinArt Surreal Art Collective
+Eye Level
+All the Strange Hours
+Art & Critique
+laketrees
+'skine.art
+American Artist
+The Blue Lantern
+Silver Fortress
+Right Some Good
+Empty Easel
+Drawn in Black
+p.i.g.m.e.n.t.i.u.m
+The Dirty Palette Club
+Richard Piloco
+CultureGrrl
+Brian Yoder's GoodArt
+Your Daily Art
+Exploring Color & Creativity
+Acuarela
+Making a Mark
+Art Notes
+Illustrated Ideas
+SketchCrawl
+Enrico's Blog
+Tirade
+A Look at Art & Design
+Drawsketch
+Wally Torta's Journal
+inkFinger
+Lightning Studio
+
+Laurelines
+The Drawing Club
+
+Everyday Matters
+
+
+The Creative Journey
+Quotidian Curiosities
+The Art Blog
+Moleskinerie
+
+
+"Painting a Day"
+
+A Painting a Day (Keiser)
+On Painting (Keiser)
+Karen Jurick
+Jeff Hayes
+David R. Darrow
+Julian Merrow-Smith
+Shelly Grund
+Elin Pendelton
+Louis Boileau
+Darren Maurer
+Jan Blencowe
+Justin Clayton
+John Conkey
+Paul Hutchinson
+Carol Marine
+Susan Spar
+Hall Groat II
+Bob Eggleton
+Daily Painters Gallery
+Jeff Hayes' Squidoo List
+
+
+Other Painting Blogs
+
+Virtual Gouache Land
+Neil Hollingsworth
+Struggling to Paint
+Twice a Week
+Belinda Del Pesco
+Sarah Wimperis
+
+
+Gallery Art & Illustration mix
+
+Juxtapoz
+
+
+Illustration
+
+Gurney Journey
+Howard Pyle
+100 Years of Illustration
+Illustration Mundo
+Illustration Art
+BibliOdyssey
+The Art Department
+LCSV4
+Today's Inspiration
+Jack Talk
+Illustration Friday
+Asia Drawing Portal
+Monster Brains
+Illustrators & Illustrations (RU)
+SI-Blog-LA
+Astrona
+Pastelogram
+
+
+
+
+
+
+So, Cat Tacos?
+Tim O'Brien
+Elwood H. Smith
+DaniDraws.com
+Designers Who Blog
+iSpot Blog
+
+
+
+Illustration  & Comics
+
+Drawn!
+Le blog de Li-An (FR)
+Flesk Publications (FR)
+Barbara Canepa (IT/FR)
+Sandbox World
+Comics, Covered
+
+
+Comics & Cartoons
+
+Draw!
+Newsarama Blog
+Forbidden Planet Int.
+Bolt City
+Flight
+The Morning Improv
+Journalista
+Comixpedia
+Funnybook Babylon
+FPI Blog Log
+MeetingMcCay
+JaMiE BaKeR: FALLOUT
+Middleton's Sketchbook
+Boneville
+The Self-Absorbing Man
+'Ringo!
+E-Ville Press
+T Campbell's Blog
+Digital Strips
+Sketchbook Sessions
+Joe Zabel
+dessins de denis bodart
+The Hotel Fred
+redsketch
+Ojalá tuviera un gemelo perverso
+Mes vendredis...
+Drawing Board
+Cagle's Cartoon Web Log
+Daily Cartoonist
+
+
+Illustration  & Concept
+
+Gorilla Artfare
+
+
+Animation & Concept
+
+ASIFA Animation Archive
+Articles and Texticles
+Cold Hard Flash
+Cartoon Brew
+Animation Blog
+ANIMAX Entertainment
+all kinds of stuff (Kricfalusi)
+Classic Cartoons
+John Nevarez
+Armand Serrano
+Marcos Mateu-Mestre
+AAU Character & Creature Design
+AAU Animation Notes
+Spline Doctors
+Ghostbot: Punch Pants
+Art Dojo
+House of Cool
+sparth construct
+Yacin the faun
+Jose Lopez
+Kelsey Mann
+Cre8tivemarks Blog
+Pencil Shavings
+Stephen Silver
+teamgt studios
+CG Explorer
+Ice-Cream Monster Toon Cafe
+fwak! blog
+Subconcious Ink
+art-attacks
+The Ward-O-Matic
+AniPages Daily
+Captaintolk
+mad-t-party
+
+
+Paleo & Scientific
+
+Paleoblog
+Olduvai George
+Street Anatomy
+Visualizing the Biological
+
+
+Tools & Techniques
+
+The Tools Artists Use
+Pencil Talk
+
+
+Other
+
+ColourLovers Blog
+
+
+Friends & Relations
+(off-topic)
+	
+Frostbites
+My Side of the Circle
+Inside Bob's Brain 3.1
+MillerMark
+
+
+
+
+
+
+
+Meta: 	
+Log in
+RSS
+Comments RSS
+Valid XHTML
+XFN
+WP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+These are some art related web sites I designed.
+Delaware Sculptor
+Charles Parks, Delaware sculptor, leading proponent of realist sculpture in the Brandywine Valley tradition. Limited edition bronze castings are available from the Wilmington, Delaware sculpture studio.
+Wood Sculpture
+John and Pat Dickinson, wood sculpture, turned wood, abstract painting and art glass, available through Creations Gallery in Delaware and directly from their Oregon studio.
+Pochade boxes for plein air painters
+Alla Prima Pochade, thoughtfully designed, hand-crafted painting boxes make outdoor painting a delight. 
+Dinosaur Art & Palentological Illustration
+Walters & Kissinger Dinosaur Art Studio, paleontological life restoration art, licensable dinosaur illustrations and images of preshistoric animals and plants.
+Another recent client of my design studio:
+Matrx Systems
+Apple Macintosh sales, service, installation and repair in Philadelphia, Delaware and New Jersey
+ 
+Some friends:
+Tom Jackson Studio
+Children's Book Illustration from Tom jackson Studio = playful and whimsical pen and ink and watercolor illustrations for children's books.
+Chandeluse
+Vintage jewelry, housewares, clothing, from Meg Levitt.
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertise on comics related blogs
+
+Display Ads on Lines and Colors: $25/week or $75/month.
+
+Please note that display ads for lines and colors are limited to art related topics and may not be animated.
+
+
+
+
+
+
+
+
+
+ Amazon.com Widgets
+
+
+
+ 
+
+
+
+
+Exhibitions
+Drawings, Illustration & Comics Art
+Listed by start date
+Updated July 13, 2011
+
+
+
+Escape To Adventure: Focus on Arthur E. Becher
+Mar 19 - Dec 31, 2011
+Delaware Art Museum, DE
+
+Italian Master Drawings from the Wolfgang Ratjen Collection: 1525 - 1835
+May 8 - Nov 27, 2011
+National Gallery of Art, DC
+The Age of Elegance: The Joan Taub Ades Collection (old master drawings)
+May 13 - Aug 28, 2011
+Morgan Library and Museum, NY
+Two Masters of Fantasy: Bresdin and Redon
+May 25, 2011  - Jan 16, 2012
+Museum of Fine Arts Boston, MA
+
+Drawings and Prints: Selections from the Permanent Collection
+June 13  - Sept 11, 2011
+Metropolitan Museum of Art, NY
+It's a Dog's Life: Norman Rockwell Paints Man's Best Friend
+June 25  - Nov 11, 2011
+Norman Rockwell Museum, MA
+N.C. Wyeth's Treasure Island, Classic Illustrations for a Classic Tale
+Sept 10 - Nov 20, 2011
+Brandywine River Museum, PA
+Infinite Jest: Caricature and Satire from Leonardo to Levine
+Sept 13, 2011  - March 4, 2012
+Metropolitan Museum of Art, NY
+Honoring Howard Pyle: Major Works from the Collections
+Sept 17 - Nov 17, 2011
+Brandywine River Museum, PA
+Inspiring Minds: Howard Pyle as Teacher
+Sept 17 - Nov 17, 2011
+Brandywine River Museum, PA
+Howard Pyle: American Master Rediscovered
+Nov 12, 2011 - March 4, 2012
+Delaware Art Museum, DE
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ Images © by their respective owners | All written content ©2005-2010 Charles A. Parker
+
+
+
+
+
+

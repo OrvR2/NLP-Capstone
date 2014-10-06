@@ -1,0 +1,25 @@
+document.write("");
+		document.write("");
+		document.write("");
+		document.write("");
+		document.write("");
+		document.write("");
+		document.write("	");
+		document.write("	(Forecast)");
+		document.write("");
+		document.write("");
+		document.write("");
+		document.write("");
+		document.write("");
+		document.write("");
+		document.write("	63°");
+		document.write("	Clear");
+		document.write("	");
+		document.write("	Hi 88 / Lo 61");
+		document.write("");
+		document.write("");
+		document.write("");
+		document.write("");
+		document.write("");
+		document.write("");
+	

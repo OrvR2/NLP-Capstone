@@ -1,0 +1,44 @@
+(function(){
+    var container_id,
+        detected_geo,
+        height,
+        iframe,
+        iframe_id,
+        iframe_src,
+        wid,
+        width;
+
+    wid = '20';
+    container_id = 'adw_container_'+wid;
+    detected_geo = '1';
+    height = '350px';
+    iframe_id = 'adw_iframe_'+wid;
+    iframe_src = 'http://widgets.fwix.com/v5/content.php?wid=20';
+    width = '318px';
+
+    if(detected_geo !== 0)
+        iframe_src += '&detected_geo='+detected_geo;
+    if(window.adw_search_query !== undefined)
+        iframe_src += "&query="+encodeURIComponent(adw_search_query);
+    if(window.adw_lat !== undefined && window.adw_long !== undefined)
+        iframe_src += "&adw_lat="+encodeURIComponent(adw_lat)+"&adw_long="+encodeURIComponent(adw_long);
+    if(window.adw_widget_title != undefined)
+        iframe_src += "&title="+encodeURIComponent(adw_widget_title);
+
+    document.write('');
+
+    iframe = document.createElement('iframe');
+    iframe.id = iframe_id;
+    iframe.setAttribute("src", iframe_src);
+    iframe.src = iframe_src;
+    iframe.setAttribute("frameborder", 0);
+    iframe.setAttribute("scrolling", "no");
+    iframe.frameBorder = "0";
+    iframe.scrolling = "no";
+    iframe.style.height = height;
+    iframe.style.width = width;
+
+    document.getElementById(container_id).appendChild(iframe);
+    iframe.src = iframe.src;
+})();
+

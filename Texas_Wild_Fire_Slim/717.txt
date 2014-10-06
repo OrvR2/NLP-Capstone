@@ -1,0 +1,6 @@
+function writeSuBadge () {
+var b1 = "";
+var temp = [], bu="";temp = window.location.href.split("#");bu = temp[0];;
+document.write(b1+bu+b2);
+}
+writeSuBadge();

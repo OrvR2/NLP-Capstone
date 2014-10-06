@@ -1,0 +1,2 @@
+
+Fatal error:  Call to undefined function  get_header() in /home/dnkbjgce/public_html/news/wp-content/themes/chameleon/index.php on line 2

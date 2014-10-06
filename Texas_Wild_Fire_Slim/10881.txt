@@ -1,0 +1,363 @@
+US Wildfires Map
+
+
+
+
+
+
+
+US Wildfires Map
+
+
+
+
+
+
+Share
+
+
+
+
+› About
+
+
+TopographicLayersSocial
+
+
+
+
+
+
+
+
+Share Customized Link
+
+FacebookTwitter
+Embed Customized Map
+
+
+
+Customize Size
+
+
+
+
+
+
+
+480x360
+
+
+
+
+
+
+
+700x525
+
+
+
+
+
+
+
+940x705
+
+
+
+
+Width
+
+
+
+Height
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topographic
+
+
+
+
+
+
+
+Streetmap
+
+
+
+
+
+
+
+OpenStreetmap
+
+
+
+
+
+
+
+Satellite
+
+
+
+
+
+
+
+
+
+US Wildfire Locations
+Active wildfire locations are provided by USGS. The data feed is updated every 15 minutes but the frequency that new wildfire data is provided is dependent on the circumstances surrounding an individual fire.
+
+Wildfire perimeter
+
+ Fire Perimeter is a product of Geospatial Multi-Agency Coordination (GeoMAC). Data is updated daily based upon input from incident intelligence sources, GPS data, infrared (IR) imagery from fixed wing and satellite platforms. Data shows active fires greater than 5000 acres from the past 3 days.
+
+Global Fire/Burn Areas
+MODIS hotspot data, provided by FIRMS shows global fire locations and burned areas from past 7 days.
+                        
+Transparency:
+
+
+
+
+Precipitation
+Precipitation data courtesy of Telvent.
+                        Transparency:
+
+
+
+
+Wildfire Potential
+Fire Potential data courtesy of Esri.
+                        
+Transparency:
+
+
+
+
+
+
+
+
+YouTube Videos
+Video from YouTube. Currently searched with keyword: ""
+
+Twitter
+Tweets from Twitter. Currently searched with key/hash: ""
+
+Flickr
+Photos from Flickr. Currently searched with keyword: ""
+
+Shared Content
+
+
+AddSearch 
+
+Select content to share
+
+
+
+
+
+0 Result(s) returned.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Search all of YouTube for videos:
+
+
+
+Using this keyword
+
+
+
+
+
+
+
+
+At this location
+
+ Center of map 
+
+
+
+
+Within this distance
+
+
+
+600 mi.
+
+
+
+
+
+
+From the past
+
+
+
+1 day
+1 week
+1 month
+All
+
+
+
+
+
+ 
+Search
+
+
+
+
+
+
+
+Search all of Twitter for tweets:
+
+
+Using this hashtag
+
+
+
+
+
+
+
+
+At this location
+
+ Center of map 
+
+
+
+
+Within this distance
+
+
+
+1000 mi.
+
+
+
+
+
+
+From the past
+
+
+
+1 day
+2 days
+3 days
+4 days
+5 days
+
+
+
+
+
+   
+Search
+
+
+
+
+
+
+
+Search all of Flickr for photos:
+
+
+Using this keyword
+
+
+
+
+
+
+
+
+At this location
+
+ Center of map 
+
+
+
+
+Within this distance
+
+
+
+1000 mi.
+
+
+
+
+
+
+Between
+
+
+
+
+ & 
+
+ 
+
+
+
+   
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

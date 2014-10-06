@@ -1,0 +1,60 @@
+
+	Texas Forest Service
+
+
+
+
+
+
+
+
+
+
+
+RSS FEEDS
+
+
+
+
+
+
+
+
+
+[ Print | 
+
+ ]
+
+
+
+What is RSS?
+RSS (Really Simple Syndication) is an XML-based format for distributing and aggregating Web content (such as news headlines). Using RSS, Web content providers can easily create and disseminate feeds of data that include, for example, news links, headlines, and summaries.
+Texas Forest Service currently publishes:
+Texas Forest Service News Items (10 most recent)  
+How can I use RSS?
+Typical applications for using RSS include:
+
+Using a program known as a news aggregator to collect, update and display RSS feeds
+Adding RSS feeds to a Web portal page
+Incorporating RSS feeds into weblogs
+Adding "live" bookmarks or favorites in your browser
+
+News aggregators (also called news readers or RSS readers) will download and display RSS feeds for you. A number of free and commercial News Aggregators are available for download. Popular news readers include AmphetaDesk, NetNewsWire, Radio Userland, and NewsGator.
+Many aggregators are separate, "stand-alone" programs such as those listed above; other services will let you add RSS feeds to a Web page. For example, you can add RSS feeds to your My Yahoo!, Google Homepage, or Google Reader, or Microsoft Live page.
+Another way many people use RSS feeds is by incorporating content into weblogs, or "blogs". Blogs are web pages comprised of usually short, frequently updated items and web links. Blogging as a publishing tool is used for many purposes: traditional journalism, personal journals, group discussions around a topic, and many combinations in-between.
+Newer browsers such as Mozilla's Firefox and Apple's Safari allow you to add RSS feeds to your bookmarks or favorites.
+Below is a list of some the many web-based and free RSS readers that you can use:
+www.google.com/readerhttp://www.bloglines.com/http://www.newsgator.com/http://www.feedburner.com/fb/a/home
+If would like to know more about RSS feeds, read the wikipedia entry for RSS at http://en.wikipedia.org/wiki/Rss (file format).
+What are the terms of use?
+The feeds are provided free of charge for personal, non-commercial uses. We ask that you provide attribution to Texas Forest Service in connection with your use of the feeds. If you provide this attibution in text, please use: "Texas Forest Service" or "TFS". If you provide this attribution with a graphic, please use the official Texas Forest Service logo.
+We reserve all rights in and to the Texas Forest Service logo, and your right to use the Texas Forest Service logo is limited to providing attribution in connection with these RSS feeds.
+Texas Forest Service also reserves the right to require you to cease distributing these feeds at any time for any reason.
+
+
+
+
+
+
+
+

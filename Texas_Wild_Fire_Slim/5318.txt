@@ -1,0 +1,479 @@
+Upgrade Your Life:  5 ways to make an easy-to-remember, ultra-secure password | Upgrade Your Life - Yahoo! News
+
+
+
+ Skip to search.     New User? Register  Sign In 		Help	  Make Y! My Homepage Yahoo!Drag the "Y!" and drop it onto the "Home" icon.Select "Yes" from the pop up window.Nothing, you're done.If this didn't work for you see detailed instructionsClose this window    Mail    My Y!    Yahoo!                 Yahoo! News              Search   Search Web       
+HomeVideoPhotosLocalOdd NewsComicsTravelOpinionTrending NowVitalityWho Knew?WeatherNews SearchU.S.U.S. VideoEducationReligionCrimes and TrialsThe LookoutLocalContributor NetworkNews SearchWorldWorld VideoMiddle EastEuropeLatin AmericaAfricaAsiaCanadaAustralia/AntarcticaThe EnvoyNews SearchBusinessVideoU.S. EconomyStocksEarningsPersonal FinancePress ReleasesTaxesMarketplaceNewsmakersNews SearchEntertainmentVideoCelebrityTVMoviesMusicReviewsFashionBooksArtsTheaterDear AbbyComicsOdd NewsNews SearchSportsVideoFootballBaseballBasketballCollegeSoccerCyclingHockeyTennisGolfBoxingMotor SportsExtremeTechPoliticsVideoWhite HouseCongressU.S. GovernmentWorldThe CourtsPress ReleasesElections 2012The Fast FixThe TicketScienceScience VideoWeather NewsSpace / AstronomyAnimal / PetsDinosaurs / FossilsBiotechEnergyGreenNews SearchHealthVideoWeight LossCancerSexual HealthMedications/DrugsParenting/KidsSeniors/AgingDiseases/ConditionsVitalityNews SearchBlogsThe UpshotThe CutlineThe EnvoyThe LookoutThe TicketNewsmakersExclusiveSpecial ReportsTrending NowNews SearchSept. 11Sept. 11 HomeProfilesYour StoriesBlogPhotosVideoEvents9/11 MemorialDonatePopularInternetGadgetsWirelessAppleSocial MediaSecurityOpen SourceGamingAppsUpgrade Your LifeNews Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upgrade Your Life:  5 ways to make an easy-to-remember, ultra-secure passwordBy Taylor Hatmaker, Tecca | Upgrade Your Life – Wed, Aug 24, 2011
+
+
+﻿﻿
+Nobody  wants to get hacked. But when it comes to choosing a password, there  are key steps you can take to reduce your risk of data intrusions  from unwanted virtual visitors. This week's edition of Upgrade Your Life  will teach you how to make a strong, safe password that's easy to  remember — and how to reduce your odds of being an easy target for  hackers.
+1. Worst Passwords
+In  2009, a major hack on social gaming site RockYou revealed some troubling patterns in how we choose our passwords. The Imperva Application Defense Center (ADC),  a security research group, examined the passwords of RockYou's clients  to see just what went wrong. The study found that more than 29,000 of  the compromised accounts were using the password "123456" — the most  popular password. The second and third most common passwords were also  strings of consecutive numbers. And the fourth most common password?  "Password." Other popular passwords from the RockYou case include  "iloveyou," "abc123," and a handful of common first names like "Ashley"  and "Michael."
+How to avoid bad  passwords:
+* Don't use any part  of your name or email address: These two pieces of information are  easily obtained about you.
+* Avoid any other  personal information: Don't use your birthday, family member or pet  names, street addresses, or anything else that could be public knowledge  for prying eyes.
+* Don't use consecutive numbers: These are  extremely easy for a cracking program to decode, and as you can see from  the ADC study, they're also wildly popular.
+*  Avoid words in the dictionary: This includes random sequences of words  and slang terms too.
+
+2.  Best Passwords: Uppercase and lowercase letters, numbers, and symbols
+Nowadays,  many websites encourage good password practices by forcing you to input  a mix of numbers, letters, symbols, and mixed capitalization. This  approach is definitely the right idea: mixing it up can pay off,  statistically speaking. Why? Most password hacks you'll be warding off  use a technique called a "brute force attack." This flavor of hack  uses automated computer software to guess every possible combination to  crack your personal code.
+According  to the ADC study, automated hacking software combined with poorly  chosen passwords means a hacker can break into 1000 accounts in just 17  minutes. If you introduce more variables into your password — namely  numbers, symbols, and a mix of lower and upper case letters — intrusive  software will take longer to crack your code.
+Make  passwords more secure:
+* Add letters: Since  there are 26 letters in the alphabet, one additional letter can make  your password 26 times harder to crack.
+*  Use a mix of lower and uppercase letters: Mixing up your cases adds  complexity and safety to your chosen password.
+*  Add numbers: Using letters, words, and phrases for your passwords seems  both natural and easy to remember, but it's much safer to diversify.
+*  Add symbols: Symbols are the real secret ingredient to security. Since  there are over 1500 symbols a hacking program needs to run through to  correctly lock down one character of your password, adding one extra  asterisk or exclamation point can make it 1500 times more difficult for  intruders to pry open your personal accounts.
+3.  Password length = Password strength
+Most  websites prompt you to create a code with a minimum and maximum amount  of characters, often between 8 and 14. Since each additional character  increases your odds of staying safe, be sure to max out the length of  your password. If you can enter 14 characters, don't stop at 10 — those  extra 4 characters will work to your statistical advantage.
+Here's  an example: compare the passwords m00se44 verses m00se44!.!.!.!
+Sure  m00se44 might be faster to type, but m00se44!.!.!.! is a far safer bet.  How much safer? According to a handy online  brute force simulator, hackers could crack  m00se44 in less than a second. What about m00se44!.!.!.!? Assuming that  the hacking software is guessing one hundred billion combinations a  second, believe it or not, it could take the same software almost  200,000 centuries to crack it.
+4.  Password padding: Symbols are your secret weapon
+Much  of the basis for this article comes from the research of a noted security expert named Steve Gibson. His most recent  practical advice involves a simple technique called "password padding."  It used to be that a random password like Pr5^w4''t3F was perceived to  be the best password. But the reality is that people can't actually  remember those totally random passwords, so they don't end up using or  sticking with them.
+To  solve this dilemma, Gibson wanted to create a memorable password  strategy that would be equally secure. He stumbled onto the idea that  long passwords loaded with symbols can be both ultra-secure and yet also  easily memorized. He came up with the following example to prove his  point.
+Which of these is  easier to remember? Which is more secure?
+D0g!(!(!(!(!(!
+PrXyc5NFn4k77
+The  more memorable password is D0g!(!(!(!(!(! since it looks like the  familiar word "dog" and ends with a repeating pattern of symbols. And  according to Gibson, D0g!(!(!(!(!(! is also the more secure password  because, while it too has numbers, letters (upper and lowercase), and  symbols, the first example is one character longer than the random  second password — and it has more symbols.
+Want  to see this effect in action? Play around with Gibson's  password security calculator yourself.
+
+5.  Store passwords in one place with a password manager
+If  you're a little concerned about juggling all of the lengthy,  ultra-secure passwords you've dreamed up, you can have a program do the  heavy lifting. These programs and apps, known as password wallets or  password managers, lock down your cache of codes by encrypting them,  which translates them into a secure language that hackers can't parse.  If RockYou's data had been encrypted, that security scandal could have  been avoided altogether.
+While  no method is infallible, well-regarded  password managers like LastPass and 1Password are great options.  With a password manager, you'll use a master password to access the  program or app, and it will auto-fill password entry fields for you as  you log in around the web.  Both LastPass and 1Password feature mobile  and desktop versions, so you can keep both computer and your phone locked down safely.
+
+
+ @yahoonews on Twitter, become a fan on Facebook  
+PaginationPreviousUpgrade Your Life:  Revive a dying laptop batteryUpgrade Your Life:  The 5 worst photos to post onlineNext
+
+Today on Yahoo!1 - 4 of 43prevnext
+Rick Perry takes charge, becomes target
+MLB player's unusual date request
+Lohan sister's startling new look
+Surprising wish of China's wealthiest
+
+
+
+
+
+
+
+All Comments
+Shared On Facebook
+
+
+ Sign in  to post a comment, or  Sign up  for a free account.
+                
+
+
+
+
+                        487 comments
+                        
+
+
+Popular NowNewestOldestMost Replied
+
+
+
+
+
+
+
+
+
+
+
+Peter
+14 hours ago
+
+my computer does not have 1500 symbols!
+
+
+
+
+ 
+
+
+
+
+
+
+Mekonnen Bekele
+23 hours ago
+
+Thanks to God who gives us Wisdom
+
+
+
+
+ 
+
+
+
+
+
+
+Bob Distler
+Yesterday
+
+where did you get this stat ???
+==> Since there are over 1500 symbols a hacking program needs to run through to correctly lock down one character of your password 
+                    
+
+
+
+ 
+
+
+
+
+
+
+sanjiv
+Yesterday
+
+Useless information. Nowadays most sites allow only 3-4 attempts. so brute force no longer works
+
+
+
+
+ 
+
+
+
+
+
+
+Mark
+Yesterday
+
+Government Spies Can EASILY Get Past ANY PASSWORD -- So Be Aware & BEHAVE!
+
+
+
+
+ 
+
+
+
+
+
+
+LeeE
+2 days ago
+
+Do hackers ever get caught? The first time cut 1 finger off and keep doubling it. If he uses a voice program cut his tongue out!
+
+
+
+
+ 
+
+
+
+
+
+
+Richard K
+2 days ago
+
+What is the lowercase letter in D0G ?
+
+
+
+
+ 
+
+
+
+
+
+
+Sathees Kumar
+2 days ago
+
+nice
+
+
+
+
+ 
+
+
+
+
+
+
+JBecker
+3 days ago
+
+A site is more likely to be hacked than your own computer. If you use the same one at multiple sites, one of which gets hacked, you're screwed.
+
+
+
+
+ 
+
+
+
+
+
+
+Mubarek
+3 days ago
+
+I'm one of all users that people wouldn't think of hacking my pa********
+
+
+
+
+ 
+
+
+
+
+
+
+Tian
+3 days ago
+
+very good.It is very useful.
+
+
+
+
+ 
+
+
+
+
+
+
+2million 4NoBirthCert
+4 days ago
+
+Becky is beautiful!  Thanks.
+
+
+
+
+ 
+
+
+
+
+
+
+Pieman
+4 days ago
+
+I'd like to have this article of advice in print, in front of me, all the time.All the things it says to never do, I don't do- although I did once, use a pet's name. But the article doesn't cover what i do. Where can I get a password manager? I have mine all written down, but some times have a hard time, keeping track of where I have them written.
+
+
+
+
+ 
+
+
+
+
+
+
+Dhak
+4 days ago
+
+A lot of sites do not allow symbols and I would love to include them.  Any suggestions?
+
+
+
+
+ 
+
+
+
+
+
+
+Gopikumar Desha
+4 days ago
+
+diversity is needed in passwords to be more secure .It should be changed quite often .
+
+
+
+
+ 
+
+
+
+
+
+
+Sai
+5 days ago
+
+a good diversity idea that doesn't require much memorization is to use numbers and symbols that are the same key but the symbol requires you to hold down the "shift" key: 1!2@3#4$5% - of course none of those are mine. another idea is to use the same letters but first do lower case and then reverse with upper case (not certain this alone is good, but with suggestion #1 is good: aglLGA8*0) or   vgyYGV#3%5 of course put them on a post-it on your monitor!
+
+
+
+
+ 
+
+
+
+
+
+
+Mike R
+5 days ago
+
+There's an XKCD that suggests that this just makes passwords that are hard to remember and not THAT hard to guess http://xkcd.com/936/
+
+
+
+
+ 
+
+
+
+
+
+
+Realist
+5 days ago
+
+No worries union progressive scum sucking parasites! Tenure will save your precious Professors job...aftrer all he is ALLOWED to be free to do whatever he wants!
+
+
+
+
+ 
+
+
+
+
+
+
+Tamale Knight
+5 days ago
+
+You know something, if we went back to the old BBS system of "three guesses and you're out," they couldn't use brute force attacks.
+
+
+
+
+ 
+
+
+
+
+
+
+Mahnaz Manshadi
+5 days ago
+
+manshadim
+
+
+
+
+
+
+
+
+   More
+                        
+
+
+ Post a comment
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yahoo! NewsHomeU.S.WorldBusinessEntertainmentSportsTechPoliticsScienceHealthBlogsSept. 11PopularAll Yahoo! News »
+
+
+
+
+Also On Yahoo!AutosFinanceGamesGroupsHealthMapsMoviesMusicomg!ShineShoppingSportsTravelTVAll Yahoo! »
+
+
+Trending NowMiley Cyrus Jessica SimpsonChick-fil-AKate GosselinMedicare fraudCarol BurnettJim CarreyHeartburnFood stamp restaurantsBabesiosis
+
+
+
+
+
+
+
+
+
+
+Copyright 2011 Upgrade Your Life
+
+
+
+                Copyright © 2011 Yahoo! Inc. All rights reserved.
+            
+
+                 | Yahoo! News Network | 
+            
+
+Help / Suggestions
+Privacy Policy
+About Our Ads
+Terms of Service
+Copyright/IP Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

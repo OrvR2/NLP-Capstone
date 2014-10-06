@@ -1,0 +1,668 @@
+Radios a lifeline for firefighters | RCR Wireless News Austin
+
+
+ 
+
+RCR Digital Network
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Reviews
+Reports
+Careers
+Events
+People
+Advertise
+Marketplace
+Archives
+Submit Content
+Video
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Market News (Beta)
+
+
+
+Silicon Valley
+Americas
+Asia
+Austin
+China
+India
+
+
+RCR Wireless News
+
+RCR Unplugged
+
+ Quick Hits: About
+
+
+
+
+Carriers
+Components
+
+Networks
+
+Software
+
+App Corner
+Devices
+Finance
+
+Lifestyle
+Spectrum
+
+Mobile Marketing
+
+Mobile Content
+
+
+
+
+
+
+
+Categories:  Components, Devices, Enterprise, Featured
+
+
+Radios a lifeline for firefighters
+Posted on 08 September 2011 by Martha DeGrasse. Tags: Austin, Bastrop, Motorola, public safety, radios, wildfires
+
+ Comment  Tweet  Share  Share  DiggCourtesy Mike Stone/Reuters
+Central Texas firefighters are battling the worst wildfire in the state’s history, and they’re relying on their portable radios to help them do their jobs and stay alive. The Motorola Solutions radios not only enable firefighters to communicate with one another, they also allow them to maintain contact with a location commander who can use a portable computer to manage the operation. Â The radios can transmit the firefighter’sÂ position in the squad, radio battery life, Mayday emergency alerts, evacuation alerts, voice responses and automatic resource reporting. These “automatic accountability” reports from the radios transmit on the same network as the firefighters’ voice communications.
+Bastrop firefighters upgraded to an 800 MHz digital radio system after the Wilderness Ridge Wildfire in 2009. Although no lives were lost in that fire, the men and women fighting the fire were hampered by their inability to communicate with other fire departments who came to help, and with local police and EMS workers. The new Motorola system allows them to talk to other departments, and to create “talk groups” for converstations that only need to be heard by a certain group. The radio system was paid for by the Federal Emergency Management Agency (FEMA). Live audio feeds from the Bastrop County Public Safety Department are available at Radio Reference.
+In the event that public safety communications are compromised or overwhelmed, Bastrop Country will rely on two backup communications Sites on Wheels (SOWs). Motorola Solutions supplied these early in the week, along with 100 VHF rental radios and batteries for use by the outside agencies that have come in to assist with the fire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Leave a Reply
+
+Click here to cancel reply.
+
+
+
+Name (required)
+
+Mail (will not be published) (required)
+
+Website
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest 
+Popular 
+Comments 
+Tags 
+Subscribe 
+
+
+
+
+
+
+Tablets, texts and tweets bring new dimension to live entertainment
+
+
+
+Whole Foods offers discounts through LivingSocial
+
+
+
+140Elect hosts twitter debate for Republican Presidential candidates
+
+
+
+Mobile devices projected to overtake PCs as connections to Internet
+
+
+
+Cell phones as credit cards
+
+
+
+Radios a lifeline for firefighters
+
+
+
+‘I sound like your mother!’ Founder of 3Com offers old-fashioned advice for cutting-edge startups
+
+
+
+10,000 Texans rush to register mobile phones with emergency notification system
+
+
+
+
+
+
+Most Popular Stories
+Home page
+Northwestern University picks Motorola Solutions for 900MHz system
+10,000 Texans rush to register mobile phones with emergency notification system
+Austin releases job stats for April
+Mobile devices projected to overtake PCs as connections to Internet
+The 19 most hated U.S. companies include several telecoms
+Radios a lifeline for firefighters
+'I sound like your mother!' Founder of 3Com offers old-fashioned advice for cutting-edge startups
+Whole Foods offers discounts through LivingSocial
+Living local, growing global â Appconomy leverages Austin talent base to address overseas markets
+
+
+
+
+
+
+
+		larry: Time Warner is great here....
+    
+
+
+
+
+
+		S: I see why United/Continental Airlines made the lis...
+    
+
+
+
+
+
+		Jesse_EngAmer: More fiscally irresponsible regulation from the FD...
+    
+
+
+
+
+
+		Jason Matthews: This is interesting. If Texas only has 51% of its ...
+    
+
+
+
+
+
+		Cleveland: I cannot for the sake of me fathom why T-Moile is ...
+    
+
+
+
+
+
+
+Android
+App
+Apple
+Apps
+AT&T
+AT&T Inc.
+Austin
+BlackBerry
+Broadband
+Chips
+Dallas
+Data
+DELL
+Facebook
+Freescale
+Freescale Semiconductor
+Google
+Infrastructure
+Interactive Festival
+iOS
+iPad
+iPhone
+lawsuit
+LTE
+Microsoft
+Mobile
+Mobile Devices
+public safety
+Round Rock
+Samsung
+Semiconductor
+Smartphones
+South by Southwest
+South by Southwest 2011
+SXSW
+SXSW 2011
+Tablets
+texas
+Texas Instruments
+TI
+TWS
+UT
+venture capital
+Wi-Fi
+Wireless
+
+
+
+
+Stay up to date
+Subscribe to the RSS feed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upcoming AustinEventsNo events Austin & Texas JobsFinancial Application Engineer - Will relocateFinancial Systems Developer - Will relocateSr. Embedded Software EngineerProject ManagerContent Manager ArchitectAustin Tech Polls
+
+
+How Is My Site?
+ Good
+ Excellent
+ Bad
+ Can Be Improved
+ No Comments
+View Results
+
+
+ Loading ...
+Polls Archive
+
+
+
+
+
+
+
+
+
+
+Sponsored Content   
+
+
+
+
+
+Feature Report: The Quest for Security in Mobile
+
+Security is a moving target. Society at large has accepted the tenuous nature of security on personal computers as a virtually unavoidable consequence or side effect of the modern age. But mobile is still a relatively new and uncharted battlefield. Never before has malicious code had such incredible and valuable access to peoples most prized and personal data. 
+
+Download the Report
+
+
+
+RCR Wireless Enterprise Feature Report: Drilling mobility into oil and gas
+Sponsored by: Vecima Networks
+
+The oil and gas industry is among the oldest in our modern era. It not only made way for the industrial revolution, it literally fueled it. The industry also makes for some of the harshest and most desolate working envi ronments, which makes mobile connectivity a special challenge. ...
+
+Download the Free Report
+
+
+
+
+Editorial Webinar: Exploring the World of Mobile Chips
+
+Integrated Circuits (ICs) are an integral part of the mobile handset semiconductor market especially with the increasing demand for application processors within the cellular and wireless marketplace. In fact, the segment has one of the largest growth and development potentials in the industry due to an almost insatiable appetite for ever growing levels of multi-functionality and lower power consumption in next-generation handsets.
+
+View the Webinar
+
+
+RCR Wireless Special Report: Quality of Service: Maintaining the Connection
+Sponsored by: Accedian
+
+
+Every carrier wants to hang its hat on a reputation for a high-quality, reliable network. But actually accomplishing that task on a daily basis requires immense effort and expense... 
+  
+Download this free whitepaper
+
+
+
+
+Hi-Def Connectivity Optimized for Mobile  Opportunities Across the Mobile Ecosystem 
+
+
+
+The Mobile High-Definition Link standard defines a new mobile interface to directly connect mobile phones and other portable devices to high-definition televisions and displays. The high-definition video and high-quality digital audio capabilities of new smartphones and mobile devices will now seamlessly integrate with home entertainment systems... 
+
+Watch the Webinar
+
+
+
+LTE SON Enhancing Operation Efficiency and Effectiveness
+
+Operators world-wide are looking for ways to reduce their capital expenditures (CAPEX) for the new LTE infrastructure and operational expenses (OPEX) associated with operating the LTE network. Operators are challenged with the OPEX & CAPEX costs in the following 4 areas: * Network Planning * Network Deployment * Network Optimization * Network Maintenance 
+
+Watch the Webinar
+
+
+Whitepaper: Measuring LTE Modulation Quality
+
+This application note presents a simpler and faster method of measuring modulation qualityâmaking the measurement over-the-air with a handheld instrument. This method is based on the fact that control channels do not use spatial multiplexing or beamforming because they have to operate over the entire cell, including at the cell edges. 
+   
+Download this free whitepaper
+
+
+On-Demand Webinar: Remote Troubleshooting for Smartphones
+
+According to recent data, smartphone support transactions typically take 30% longer to resolve than feature phone transactions. Additionally, the smartphone penetration rate is expected to grow from 7% today to 22% in year 2014. As smartphones are becoming more complex devices with multiple mobile operating systems, the legacy manual support steps are becoming too time-consuming and inefficient.  
+
+
+View the Webinar
+
+
+
+
+
+
+
+
+
+
+
+
+RCRGET IN TOUCH
+ARDENDIGITAL COMMUNITY 
+RCRNETWORKING PARTNERS
+RCRECOSYSTEM MARKET PARTNERS
+RCRECOSYSTEM SPONSORS
+
+
+
+
+
+Contact Us
+
+
+Speak at Local Event
+
+
+Submit Movers & Shakers
+
+
+Submit Press Release
+
+
+Submit Whitepaper
+
+
+Submit Video
+
+
+Post Jobs
+
+
+Search 150K Resumes
+
+
+Branding and Advertising
+
+
+Lead Gen - Customers
+
+
+Lead Gen - Talent
+
+
+
+
+
+
+
+RCR Wireless News
+
+
+RCRresearch
+
+
+RCR Ecosystem 
+
+
+RCR Local
+
+
+RCR Ecosystem Awards
+
+
+RCR Unplugged
+
+
+RCR Marketplace
+
+
+TelecomCareers.net
+
+
+Wireless Jobs
+
+
+ITJobs.net
+
+
+
+
+
+
+CDMA Development Group
+
+
+
+PCIA: Wireless Infrastructure Association 
+
+
+Telecom Council of Silicon Val.
+
+
+
+State Wireless Association Program
+
+
+
+MMA
+
+
+TM Forum
+
+
+
+
+
+
+
+
+Atlanta 
+Austin
+
+
+Barcelona 
+Beijing 
+
+
+Berlin 
+Boston 
+
+
+Chicago 
+Dallas 
+
+
+Denver 
+Hong Kong 
+
+
+London
+Los Angeles
+
+
+New Dehli
+New Jersey
+
+
+New York City
+San Diego
+
+
+ San Francisco
+Sao Paulo
+
+
+Seattle
+Tokyo
+
+
+Washington D.C.
+Toronto
+
+
+
+
+
+Crown Castle
+
+
+Anritsu Corporation
+
+
+PCIA
+
+
+Huawei
+
+
+
+Acme Packet
+
+
+
+
+Henkels & McCoy
+
+
+
+
+Juniper Networks
+
+
+
+
+4G Americas
+
+
+
+Become a Partner
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Article Archive   |
+Wireless Jobs   |
+Email Alerts   |
+Advertise   |
+Stock Watch   |
+Glossary   |
+Contact Us   |
+Privacy Policy     |
+RSS
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+
+Fatal error:  Using $this when not in object context in /home/ysar/public_html/texasfires/wp-content/plugins/si-contact-form/si-contact-form-process.php on line 11

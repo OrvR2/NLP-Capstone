@@ -1,0 +1,49 @@
+
+Rick Perry - View Article
+
+
+
+
+
+Wed, 14 Sep 2011 07:32:44 EST					
+
+RickPerryTruth.com is an independent organization that aims to provide robust information on Rick Perry.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home - 
+Political History - 
+Links - 
+     - 
+ - 
+ - 
+           
+
+
+
+
+HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"
+200 OK
+OK
+The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.
+Please contact the server administrator,
+ webmaster@rickperrytruth.com and inform them of the time the error occurred,
+and anything you might have done that may have
+caused the error.
+More information about this error may be available
+in the server error log.
+
+Apache/2.2.19 (Unix) mod_ssl/2.2.19 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4 mod_apreq2-20090110/2.8.0 mod_perl/2.0.5 Perl/v5.8.8 Server at www.rickperrytruth.com Port 80

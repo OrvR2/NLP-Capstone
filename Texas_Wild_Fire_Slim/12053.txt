@@ -1,0 +1,99 @@
+{
+													"key": "e19d000d885013ceeca",
+				"contextMenu": ["BIMvid Video player 5.0.0"],
+							"clip": {
+					"url": "http://cdn.bimfs.com/WFAA/a378c145924de32261ad41d7e01ee734726c9d62.mp4",
+									"autoPlay": false,
+									"scaling":"fit",
+					"pageUrl":"http://www.wfaa.com/news/texas-news/Texas-fire-destroys-1554-homes-17-people-missing-129617928.html",
+																	"id":"129617928",
+					"dockey":"a378c145924de32261ad41d7e01ee734726c9d62",
+					"title":"Texas+fire+destroys+1%2C554+homes%2C+17+people+missing",                
+					"description":"The+number+of+homes+destroyed+by+a+Texas+wildfire+has+risen+to+1%2C554+and+is+expected+to+further+increase+as+officials+enter+more+areas+where+the+blaze+has+been+extinguished%2C+officials+said+Sunday.+Seventeen+people+remain+unaccounted+for.",
+					"duration":"46",				
+					"keywords":"",    
+					"categories":"home",
+									"useadaptv":true,
+					"zid":"bi_wfaa"
+								},
+				"plugins": {		
+					"controls": {
+						"zIndex": 10,
+						"url": "http://swfs.bimvid.com/bimvid_controls-3_2_3.swf?x-bim-callletters=WFAA",
+						"backgroundColor": "#c4c4c4",
+						"backgroundGradient": [0.1,0.2,0.5],
+						"borderRadius": "0",
+						"volumeColor": "#bd7c7a",
+						"progressColor": "#CCCCCC",
+						"progressGradient": "none",
+						"bufferColor": "#bd7c7a",
+						"bufferGradient": "none",
+						"sliderColor": "#383838",
+						"sliderBorder": "1px solid rgba(128, 128, 128, 0.7)",
+						"sliderGradient": "none",
+						"buttonColor": "#424242",
+						"buttonOverColor": "#ffffff",
+						"volumeSliderColor": "#ffffff",
+						"volumeSliderGradient": "none",
+						"volumeBorder": "1px solid rgba(128, 128, 128, 0.7)",
+											"timeColor": "#000000",
+						"tooltipColor": "#000000",
+						"tooltipTextColor": "#ffffff",
+	
+											"autoHide": "always",
+											"durationColor": "#a3a3a3",
+						"height": 24,
+						"opacity": 1.0,
+											"fastBackward": false,
+						"fastForward": false,
+						"slowForward": false,
+						"slowBackward": false
+									},
+									"thumbnail" : {
+						"zIndex":1,
+						"url":"http://swfs.bimvid.com/bimvid_embedthumb-20110825a.swf?x-bim-callletters=WFAA",
+						"imgsrc" : "http://media.wfaa.com/images/0906_bastrop_fire01.jpg"
+					},
+									"sharing":{
+						"zIndex": 15,
+						"url":"http://swfs.bimvid.com/bimvid_sharing-20110831b.swf?x-bim-callletters=WFAA",
+						"email":{
+							"subject": "Texas+fire+destroys+1%2C554+homes%2C+17+people+missing"
+						},
+						"embed": {
+							  "preScript": "http%3A%2F%2Fwww.wfaa.com%2Ftemplates%2Fbelo_embedWrapper.js%3Fstoryid%3D129617928%26pos%3Dtop%26swfw%3D%24swfw", "postScript": "http%3A%2F%2Fwww.wfaa.com%2Ftemplates%2Fbelo_embedWrapper.js%3Fstoryid%3D129617928%26pos%3Dbottom", 							"configUrl": "http%3A%2F%2Fwww.wfaa.com%2F%3Fj%3D129617928%26ref%3Dhttp%3A%2F%2Fwww.wfaa.com%2Fnews%2Ftexas-news%2FTexas-fire-destroys-1554-homes-17-people-missing-129617928.html"
+						},
+						"twitter": {
+							"description": "Texas+fire+destroys+1%2C554+homes%2C+17+people+missing"
+						}
+					},
+					"dock": {
+						"right": 14,
+						"horizontal": false,
+						"width": "8%",
+						"autoHide": true
+																					},
+					"omniture": {
+						"url": "http://swfs.bimvid.com/bimvid_omniture_BELO-20110829a.swf?x-bim-callletters=WFAA", 
+						"id": "biwfaacom,bikbnglobal",
+						"domain": "wfaa.com",
+						"pageUrl": "",
+						"pageTitle": "Texas+fire+destroys+1%2C554+homes%2C+17+people+missing"					
+									},
+					"bimga": {
+						"url": "http://swfs.bimvid.com/bimvid_googleAnalytics-20110912a.swf?x-bim-callletters=WFAA",
+						"customer":"WFAA", 																								"accountId":"UA-164600-17"
+									},
+					"adaptv": {
+						"zIndex":50,
+										"url":"http://swfs.bimvid.com/bimvid_adaptv-20110831.swf?x-bim-callletters=WFAA",
+						"key":"broadcastinteractivemedia", 
+						"adaptag":"home",
+						"context":{ "DART_zone":"home","DART_site":"bi.wfaa" },	
+						"companionId":"bimvidplayer0_cb",
+						"videoPlayerId":"bimvidplayer_api"
+									}
+				}
+			}
+
+ 

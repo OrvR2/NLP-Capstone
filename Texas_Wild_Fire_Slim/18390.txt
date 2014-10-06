@@ -1,0 +1,74 @@
+Captcha Test
+
+CAPTCHA Test
+
+  This test will check the function of the CAPTCHA outside of the WordPress environment.
+  If you are having a problem with the CAPTCHA, this test can help rule out or
+  confirm a possible conflict with another plugin.
+  To begin the test, type the phrase in the CAPTCHA field and click "submit", then see if the test passes.
+
+
+Note: If you see any errors or warnings at the top of the page
+Click for Help!
+
+
+If you see an error "Warning: session_start..."
+There is a problem with
+your PHP server that will prevent the CAPTCHA from working with PHP sessions.
+Sometimes PHP session do not work because of a file permissions problem.
+The solution is to make a trouble ticket with your web host,
+send them a URL link to this page so they can see the error and fix it.
+Alternatively, you can enable the setting "Use CAPTCHA without PHP Session",
+then temporary files will be used for storing the CAPTCHA phrase.
+This allows the CAPTCHA to function without using PHP Sessions.
+You can find this setting on the contact form admin settings page.
+
+
+
+Note: If the CAPTCHA image is missing text or does not show at all.
+
+Click for Help!
+
+
+If the image is missing the text:
+Go to the plugin settings and check the setting "Disable CAPTCHA transparent text".
+It will not fix it on the test page, but it might fix it on the WordPress forms.
+
+
+If the image is missing completely:
+There is a problem with your PHP server that will prevent the CAPTCHA from working,
+check the PHP error log for clues.
+
+
+
+Select CAPTCHA phrase storage method:
+Test CAPTCHA with PHP Session
+Test CAPTCHA without PHP Session(default) (Session is Off)
+
+Enter the phrase:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Try the PHP Requirements Test
+Try the Cookie Test
+Try the CAPTCHA Test again
+
+PHP Scripts and WordPress plugins by Mike Challis
+Free PHP Scripts
+Donate, even small amounts are appreciated
+Contact Mike Challis for support: (Mike Challis)
+
+

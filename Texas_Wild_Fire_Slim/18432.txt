@@ -1,0 +1,2 @@
+
+Fatal error:  Call to undefined function  get_option() in /home/ysar/public_html/texasfires/wp-content/plugins/si-contact-form/si-contact-form.php on line 1629

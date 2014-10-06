@@ -1,0 +1,141 @@
+FEMA: RSS and Data
+Skip to content
+
+
+
+
+FEMA.gov
+
+
+FEMA Mobile Site
+Contact Us
+A-Z Index
+FAQs
+Español
+Additional Languages
+
+
+
+Search
+
+ Advanced Search
+
+
+
+
+
+
+
+
+
+
+
+Blog
+Photos
+Videos
+Email Updates
+
+
+
+
+
+Home
+Plan & Prepare
+Recover & Rebuild
+Apply for Assistance
+Disasters & Maps
+FEMA Audiences
+About FEMA
+News & Media
+
+
+
+
+
+
+
+
+
+
+
+
+Social Media
+
+
+Facebook
+Twitter
+YouTube
+Widgets
+RSS/DATA
+Our Internet Presence
+
+
+
+
+
+
+
+Site Help
+Site Map
+FOIA
+Privacy Policy
+Accessibility
+RSS
+Link to FEMA
+Federal Register Notices
+
+
+
+
+
+
+
+Print Preview
+
+
+RSS and Data
+
+
+RSS (Really Simple Syndication) is an XML-based format for sharing and distributing Web content, such as news headlines. Using an RSS reader, you can view data feeds from various news sources.Would you like to receive press releases, disaster declaration notices, and other important notices as soon as they are available from FEMA? With our RSS feed, you can. Getting up-to-date news is as easy as 1-2-3:Step 1Get an RSS reader
+You can use an online reader which works from any web browser, or you can download software that runs on your computer.Step 2Enter the location of the FEMA RSS feed
+In your RSS reader, add the following URL(s) listed in the table below.Step 3Read FEMA News
+In your RSS reader, add the following URL(s) listed in the table below.Available FeedsTitleRSSMetadataKML/
+KMZWMSPDFJPGTXT/
+csvXLSLearn MoreMedia Resources and Releases Select ...FEMA Disaster DeclarationsFEMA LibraryFEMA Photo LibraryNational Situation UpdateAll Press ReleasesNational Press ReleasesRegion I ReleasesRegion II ReleasesRegion III ReleasesRegion IV ReleasesRegion V ReleasesRegion VI ReleasesRegion VII ReleasesRegion VIII ReleasesRegion IX ReleasesRegion X Releases  FEMA Regional OfficesLearn MoreFEMA BlogLearn MoreFEMA Programs DataDisaster Declared by State Select StateAlabamaAlaskaAmerican SamoaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFederated States of MicronesiaFloridaGeorgiaGuamHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarshall IslandsMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPalauPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUS Minor Outlying IslandsUS Virgin IslandsUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming  Learn MoreDisaster Declared Counties - National ViewDisaster Declarations SummaryLearn MoreDisaster Recovery CentersLearn MoreHazard Mitigation Program SummaryLearn MoreHistorical Declared DisastersMitigation Best PracticesLearn MoreNational Flood Hazard LayerLearn MorePublic Assistance Funded Projects SummaryLearn MoreStay DryLearn MoreExternal Data SourcesHurricane Evacuation Routes (HSIP Gold 2010)Community Collaborative Rain, Hail and Snow Observations (NOAA)Worldwide M1+ Earthquakes, Past 7 Days (USGS)Search for Red Cross SheltersLearn MoreFor tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooksFor tornado/severe thunderstorm watches and watch status reports onlyFor mesoscale discussions onlyFor convective outlooks onlyFor fire weather forecasts onlyShakeMapDHS Open Government
+Frequently Asked Questions
+What is RSS?RSS stands for "Really Simple Syndication." It is a standard format used to share content on the Internet. Many websites provide RSS "feeds" that describe their latest news and updates.How can I use RSS?You can use RSS to review updates from all of your favorite websites without having to visit each site. Using an RSS reader, you subscribe to the feed from a website, then scan headlines to find articles of interest. If you find an article you like, click the headline to read the complete article.You always have the latest headlines because your RSS reader periodically retrieves the RSS feeds.Where can I get an RSS reader?You can use an online RSS reader, which works from any web browser, or you can download software that runs on your computer. Some RSS readers are free, and some are available for a fee.What are the terms of use?FEMA RSS feeds are provided free of charge for commercial/non-commercial use by individuals and organizations.Can I display FEMA headlines on MY WEBSITE?Yes, FEMA headlines may be displayed on your Web site.
+
+
+
+Last Modified: Monday, 25-Apr-2011 14:13:32 EDT
+
+
+
+
+ 
+
+Home
+Contact Us
+Español
+Privacy Policy
+Important Notices
+Accessibility
+Download Plug-ins
+FOIA
+No FEAR Act Data
+USA.gov
+DHS
+
+* The social media links provided are for reference only. FEMA does not endorse any non-government Web sites, companies or applications.
+
+Federal Emergency Management AgencyU.S. Department of Homeland Security500 C Street SW, Washington, D.C. 20472(202) 646-2500
+
+
+(800) 621-FEMA / TTY (800) 462-75853 Step Guide for Assistance
+
+
+
+
+
+
+ 

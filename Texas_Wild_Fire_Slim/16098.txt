@@ -1,0 +1,945 @@
+lines and colors :: a blog about drawing, painting, illustration, comics, concept art and other visual arts » 2007 » May
+
+
+
+
+
+
+Set up your study or picture in an orderly fashion. This order should not cramp either the linearist or the colorist... Never lose sight of that first impression by which you were moved. 
+- Jean-Baptiste-Camille Corot
+
+
+
+
+
+
+
+It is no disgrace to start all over. It is usually an opportunity. 
+- George Matthew Adams
+
+ 
+
+
+
+ 
+
+
+
+Thursday, May 31, 2007
+How Not to Display Your Artwork on the Web
+
+Posted by Charley Parker at 8:31 am 
+ 
+
+
+In the thirteen years I’ve been on the web, twelve of which I’ve spent doing professional web site design, and the last two of which have sent me to hundreds of artists’ web sites, I’ve come to the inevitable conclusion that the thing artists want most when placing their art on the web is for it not to be seen. 
+There are millions upon millions of bad sites on the web, but artists really work at it. Never have I seen such an array of sites in which artsy designs, misplaced cleverness, highbrow concepts, amateur clumsiness, arrogance and ignorance have been painstakingly employed to drive visitors away.
+As a result of this obvious desire of illustrators, painters, comics artists, concept designers and other artists not to be seen, I’ve created a collection of handy tips for how to send editors, art directors, gallery owners, prospective buyers, webcomics readers and casual users hastily clicking away in search of some portfolio site other than yours.
+Got your note pads ready?
+Use a “free” hosting service that only charges by making your site display pop-up ads. Hey, free is free, right? Besides, everybody loves pop up ads. Don’t bother with real web hosting from decent hosting services even though it can cost $8 a month or less, and don’t bother to look for reviews of hosting services on reputable sites like C/Net. Also ignore the fact that blogs, when used with “pages” instead of “posts” can serve as easily constructed, pre-designed and free web sites.
+Don’t take the trouble to get a domain name. Art directors will remember “mac.com/users/~joeblow/web/portfolio/intro.html” much more easily than “joeblowillustration.com” when they go to hire their next artist. Plus “tripod.com/members/~janedoe/paintings/gallery/thumbnails.html” is so easy to mention in conversation or recommend to someone else, and it looks great on a business card. Don’t consider the fact that domain names can cost less than $10 a year, and are often free with real web hosting accounts. Hey, the good ones are all taken or squatted on, right, so why bother? And if you do get a domain name, longer names that are more closely associated with your name or studio, and might be easier to remember, can’t possibly be a cool as bizarre, clever, short ones that have nothing to do with you or your work.
+Speaking of “clever” be sure to use a clever interface design and enigmatic navigation. All art directors and gallery owners love to play guessing games, and they have plenty of time to click around until they’ve figured out where on your nifty “concept site” you’ve hidden your artwork. They’ll be so impressed with your high concept that they’ll feel the art is that much more valuable when they finally find it.
+In fact, make them wait a bit in anticipation. Use an Intro Page, especially with a long, clever animated Flash intro that that can’t be bypassed, to make sure they’re in the right mood when they arrive at your fabulous Splash Page, the entire purpose of which is to force them to search for a tiny, almost invisible, “Enter Site” button and click on it in order to get to the Main Page, which should be as confusing as possible and from which they must choose “Creative”, or some other euphemism for “Portfolio”, in order to arrive at the Gallery Selection Page and be presented with choices for which section of the Gallery they want, hopefully named in some arcane terms only you and the members of your fan club would understand, and then choose a Sub-gallery, and ideally a Sub-sub-gallery,  before showing them any images. Make them work for it so they’ll understand just how important your images are! Hey, they wouldn’t have gotten this far if they weren’t, right? 
+Use lots of bright, intense colors in the design, particularly in the gallery area. You want to make sure the colors in your images are suppressed and overshadowed by the design.  After all, the web site itself is the important thing, isn’t it?
+Use tiny, square thumbnails with a nondescript crop from some obscure corner of the artwork. You wouldn’t want someone to miss the fun of playing “Concentration” when trying to remember where a particular image is; and if the thumbnails clearly described the images, visitors might actually go to one they like in the eleven seconds they have to look at your site.
+Even better, why bother with thumbnails or preview images when clever little dots, squares or enigmatic shapes are so much more artsy? Everybody already knows how cool your stuff is, they’ll certainly take the trouble to click through all the shapes to find an image. Plus if they come back looking for a particular image, they have the fun of discovering all over again!
+Use “pop-up and close” style gallery navigation. Don’t let them be lazy and click through all of your images with a simple “Next, Previous, Thumbnails” style navigation, they might go through your whole portfolio! Better to make them work for it, open each image in a separate pop-up window and click to close it again before they can click on the next image. Your fabulous art is worth the trouble! For an extra incentive, make them wait for a JavaScript that cleverly re-sizes the pop-up window every time before displaying your image. In fact, the more pop-up windows, the better! Pop up each gallery, gallery subsection and individual image in a separate pop-up window! Wheeeee!
+Speaking of Javascript, be sure to use one that makes the user’s browser window reposition itself, or forces it to full screen when they arrive at your site. Nothing says “Welcome” like yanking the user’s browser out of their hands and making it clear you don’t think they know how to view your brilliant design properly because they’re idiots.
+Here’s another good trick, use JavaScript on your thumbnails so that they can only see your full size images on rollover, and the instant they move the mouse, change the image. The self-control necessary to keep the mouse steady, or carefully take their hands off of it to view the image for more than a split second will keep them on their toes. You don’t want any slackers looking at your stuff! Plus, this has the added advantage of making them wait for the images to pre-load before they can see them.
+While you’ve got the JavaScript book out, pull out the Flash book too. See if you can find some ways to make your galleries hard to scroll, keep the text from being read by search engines and make the images take forever to display, either by long fades, dramatic transitions or resizing display areas. (Ignore the fact that Flash can be used responsibly and effectively if you learn how; that stuff’s for sissies!)
+Be sure to put your site in frames! You wouldn’t want someone to be able to conveniently bookmark a page, or send a link to an individual page to, say, another art director. You want them to go through the entire navigation process everytime. Putting your entire site in a single Flash file is good for this too.
+As long as you’re coding, make sure your site is Internet Explorer specific. You don’t want any bums using Firefox, Mozilla, Opera, OmniWeb, UNIX, LINUX or a Mac to access your site. If they can’t get a real computer, they should get lost.
+Don’t bother to find out how to make your site search-engine friendly. True artists have always languished in obscurity. If you do go insane and decide you’d like your site to be found, don’t take the trouble to go to searchenginewatch.com, or similar sites,  and learn anything about search engine optimization; be sure to hire a black-ops, fly-by-night search engine optimization outfit from a country whose name you can’t pronounce, that has sent you a spam email promising to post your site to “hundreds of search engines”. (Those stories about 90% of all searches taking place on the top four search engines? Just rumors!)
+Play some tricks! Use nondescript links, that unsuspecting users think are to other pages in your site, to send them without warning to eBay, your blog, a Flickr gallery or to start the unwanted download of a PDF file. What fun!
+Wow ‘em with sound. If your visitors are in an environment where music is inappropriate, and only have their sound on so Microsoft Word can seranede them when it belches out a document, they’ll appreciate the welcome relief from boredom that your surprise music explosion brings to them, their unspecting co-workers, and their boss, who needs to loosen up anyway. On the other hand, if they’re in a sutuation where music is acceptable, they’re certain to like what you have picked out better than what’s on their iPod, and they’ll appreciate the surprise mash-up of Eine Kleine Nachtmusik and Dust in the Wind. Besides, your taste in what music they should listen to is obviously much better than theirs. If you’re creating your navigation in Flash to keep it hidden from search engines, you can add bonus sound effects to the buttons! And don’t let some namby-pamby usability expert talk you into subtle little camera shutter clicks to give user feedback when they click on a button; imagine some art director’s deilght at the button for your “About” page emitting a sound like a Star Wars light saber slicing through a jet engine housing!
+Don’t learn anything about usability, information design or good navigation practices. If you’re making your site yourself, you don’t want to stifle your creativity with such things, nor do you want to be aware of them if you’ve hired a “creative” web site designer or agency who has promised to make your site “cutting edge”. All that nonsense about making a site easy to use just gets in the way. Make sure you don’t read books on web site usability, like Steve Krug’s Don’t make Me Think. Don’t try to look at your site like someone who’s never been there before. Hey, you know where everything is, if some newbies can’t figure it out, screw ’em!
+Keep ’em guessing. The home page is the first impression visitors have of your site, Whatever you do, don’t set aside a space on the home page, or at the top of your blog, to give first time visitors a succinct description of who you are and what you do, or tell them what kind of site this is.  What fun is that? In fact, do what you can to make the intro to your site as enigmatic and obscure as possible; this is très chic. Besides, all the important people have already been to your site and know the score; and the newcomers will love the feeling that they have arrived at the gate of a clandestine private club, and will appreciate the challenge of figuring out the puzzle while they decide whether or not to apply for membership.
+Don’t focus! Since everybody important has already been to your site, design your home page for their benefit and fill it with the latest news of your comings and goings, or your insightful ruminations on last night’s episode of Lost. Don’t waste that wonderful home page space on introductions for strangers! Oh, and while you’re at it, make sure to cram as much as possible on your home page. It’s the most important page, right? So everything should go there. Make it long and scrolling and squeeze stuff into every corner. You don’t want any wasted white space! The more stuff vying for attention, the better! MAKE EVERY LINE A HEADLINE! Mix colors! MAKE YOUR HEADLINES LOOK LIKE LINKS! MAKE YOUR LINKS LOOK LIKE HEADLINES! Be sure to underline, italicize and bold all kinds of stuff for EMPHASIS!!. Isn’t this fun?! Don’t forget, the computer gods gave you a milliOn fOntS for a reason; it would be a sin not to use them. 
+And be sure to center your text. It’s a well established principle of graphic design that centered text is much easier to read then boring old justified text. That’s why all novels, magazines and newspapers look like wedding invitiations.
+Once you’ve made your images inaccessible, make yourself inaccessible. Suppress any unwarranted urge you have to include a brief bio. At the very least substitute a clever “fake” bio that’s sure to leave ‘em laughing. Or, if you must add a real bio, be sure to write a lengthy multi-pager with your entire life story, your views on all aspects of art, religion and politics and the details on your penchant for eating Oreos dipped in Diet Coke at 4am in your Sponge Bob underwear. Don’t include a short description of your working methods, that might be too interesting or informative. Make certain your contact information isn’t available, or be sure it’s presented as some kind of weirdly arranged interactive form, the location of which is hidden and the page for which makes it clear how much you don’t want anyone to contact you unless you already know them, because they’re obviously “fans”, and as such, beneath your notice.
+Most importantly, make sure the images themselves are too small to really convey any feeling for your work. Remember – all visitors to your portfolio site are malicious parasitic thieves, out to steal your precious artwork and print it on millions of knock-off T-shirts in China! Don’t give them anything that makes your work look good enough to steal!!   Better yet, keep your work safe by not putting it on the web at all! If your work is in print, you need to write your senators and demand they outlaw inexpensive scanners, which can actually be used to grab a high-resolution, printable image of your art. Now that I think of it, it’s better to prevent your work from appearing in print too. Keep it at home in a drawer so no one can see it but you!
+Or just watermark everything. Now we’re talkin’! Make sure your watermark is big and ugly and obliterates any remnant of appeal your tiny images might still allow to be present in your work. The best phrase to watermark across your images is: “I think you’re a thief, you’re not worthy to look at my brilliant work and you wouldn’t understand it anyway! Go away!”
+See how easy it is? By following these simple rules, or just a few of them, you too can make your portfolio site as magnificently unappealing as many other artists! So grab your copy of Front Page and have at it! 
+Addendum: Due to the overwhelming response to this article, and the many requests for information that have stemmed from it, I’ve started a less entertaining, but hopefully more directly helpful, series of articles on the subject of How to Display Your Art on the Web. 
+
+
+
+Posted in:  Comics,Concept & Visual Dev.,Gallery and Museum Art,Illustration,Painting,Painting a Day,Sc-fi and Fantasy,Tools and Techniques,Webcomics   |   221 Comments »
+
+
+Wednesday, May 30, 2007
+Shawn Barber
+
+Posted by Charley Parker at 8:27 am 
+ 
+
+
+I’ve featured tattoo artists  on lines and colors (like Regino Gonzales), but I found it particularly fascinating that gallery artist and illustrator Shawn Barber has painted a series of portraits of individuals with tattoos, with a particular interest and emphasis on the tattoos. 
+Often, in fact, he will focus on just hands or other body parts that are tattooed, in effect painting a portrait of the person through the vehicle of the tattoos they have chosen. The series also includes paintings of tattoo instruments and close-ups of hands involved in the action of applying tattoos.
+The paintings are in a crisp, immediate, realist style, sometimes left to rough edges in places, or posted in an incomplete stage, which I always enjoy. The idea of painting tattoos enters into the interesting area of artists painting their interpretation of another artist’s work.
+Barber also has another extensive series, I believe painted prior to the tattoo series, on the subject of baby doll heads. Most of these paintings are large scale, many are roughly 5 feet (152cm) high.
+Barber is also an accomplished illustrator, with clients that include The New Yorker, Rolling Stone, Atlantic Records, The Washington Post and many others. His personal work has been shown in numerous solo and group shows and his illustration has been featured in articles in ArtNews, The Artists magazine, Juxtapoz and Communication Arts.
+He likes to keep his personal work separate from his professional work, both in terms of intent and stylistically, though his portfolio on the Magnet Reps site has a mix of both.  His own site contains mostly personal work, primarily the two series mentioned above, but the gallery is a somewhat awkward “roll-over to view” setup that requires you to keep your mouse stationary over a thumbnail to keep the corresponding image in view. The portfolio on the magnet Reps site is easier to view, but doesn’t contain the most fascinating and striking of his images.
+His personal site also contains an interesting FAQ, in which he talks about his schooling and artistic development, gives advice to younger artists, and lays out his strongly held opinions on a number of subjects relating to art and illustration.
+In addition to gallery painting and illustration, Barber has lectured and given painting demos at several universities and art schools, including the Ringling School of Art and Design, where he received his BFA,. He is currently a Professor of Illustration at the California College of Arts in San Francisco. 
+Barber is working on a second series of tattooed portraits, and is now in a tattoo apprenticeship with tattoo artist Mike Davis of Everlasting Tattoo in San Francisco.
+A collection of his paintings, Tattooed Portraits: New Paintings by Shawn Barber, was published in 2006.
+Note: The Shawn Barber site contains images that are NSFW and may be offensive to some.
+
+
+Link: www.sdbarber.com/
+Magnet Reps portfolio
+
+Posted in:  Gallery and Museum Art,Illustration,Outsider Art   |   Comments »
+
+
+Tuesday, May 29, 2007
+Fern Isabel Coppedge
+
+Posted by Charley Parker at 10:28 am 
+ 
+
+
+Now that summer has unofficially arrived, let’s look back as the quiet beauty of winter in the paintings of Fern Isabel Coppedge. 
+Coppedge was one of the group of painters centered around New Hope, a small town on the Delaware River in Easter Pennsylvania, around the turn of the 20th Century. These painters are collectively referred to as Pennsylvania Impressionists, and included such luminaries as Daniel Garber and Edward Redfield. 
+Though the artists were influenced by the unconventional daring of the French Impressionists, I don’t think they referred to themselves as “Impressionists” and there was no official group as there was among the French artists. Styles among the American painters varied more and were as likely to carry the influence of academic realism as Impressionism.
+Coppedge was also a member of an official, though loosely tied, group called the “Philadelphia Ten“. This was a group of ten women artists who exhibited together, both in Philadelphia and in traveling exhibitions, most of whom had studied at the Philadelphia School of Design for Women (now the Moore College of Art and Design) or the Pennsylvania Academy of the Fine Arts.
+Coppedge studied at both, as well as at the Art Students League in New York and the Art Institute of Chicago, in her native Illinois. It was at the Pennsylvania Academy, though, that she encountered Daniel Garber, who was likely one of her instructors, and introduced her to the New Hope group of painters. 
+She moved to New Hope and purchased a home near Garber’s. She became part of the group of New Hope painters but had one of the more independent and idiosyncratic voices among them. She shared their penchant for painting Bucks County winter landscapes and snow scenes, but showed a particular interest in village scenes with the small houses arrayed against hillsides like colored blocks. 
+She was not a “parlor” winter painter, painting winter scenes from the window of a heated room, but, like her compatriot Edward Redfield, would go out in all manner of weather, wearing a bearskin coat, ear muffs and gloves, painting until her fingers were stiff.
+Though Coppedge was highly influenced by her fellow New Hope painters, she went very much her own way, developing a style that had more in common with post-Impressioninsts like Van Gogh than Monet or Pissaro. Her paintings have an element of primitivism that gives them a Rousseau-like strength and immediacy in which the normal rules of composition are ignored and almost every element in the painting has intense focus.
+Objects often seemed outlined where she has filled a dark  shape with brighter details, leaving the edges intentionally open to form a dark outline. Paint is at times placed on the canvas with large enthusiastic strokes, giving the impression of gleeful abandon to the joy of color and shape.
+Coppedge developed a penchant for preternaturally bright colors, often using tube colors with little or no mixing on her central objects, giving them the highest possible chroma. 
+Her perspective is often flattened or askew, leading, along with her almost primitive use of color, to criticism that she was technically less the proficient than the other Bucks County painters. Though her output was weakened by inconsistency, her most “primitive” works, in which objects are most flattened into areas of color, come later in her career, as she was pushing forward into her own territory, and her early work shows a technical approach more in common with her New Hope colleagues. 
+Though I don’t know of any books specifically devoted to Coppedge’s work, she is included in collections like The Philadelphia Ten: A Women’s Artist Group 1917-1945 by Page Talbott and Patricia Tanis Sydney (out of print but available used), and the beautiful Pennsylvania Impressionism by Brian H. Peterson.
+
+
+Link: Michener Museum
+Encore Editions
+AskArt
+Artists of the Commonwealth
+Artcyclopedia
+
+Posted in:  Gallery and Museum Art   |   4 Comments »
+
+
+Monday, May 28, 2007
+They Drew Fire: Combat Artists of World War II
+
+Posted by Charley Parker at 10:57 am 
+ 
+
+
+For those lines and colors readers who are outside the U.S., I’ll explain that today is Memorial Day, a national holiday associated with the start of Summer, picnics, bar-b-ques and mini-vacations. More importantly, though, it is a holiday designated as a remembrance of those who have died in military service; though moving the observance from a set date to a floating Monday has put the emphasis on holiday for most Americans, and unfortunately de-emphasized the importance of its original purpose as a day to honor the fallen.
+I missed the PBS special They Drew Fire: Combat artists of World War II when it was broadcast in 2000. The documentary chronicles the role played by over 100 individuals who were considered “combat artists”, drawing and painting their experience of war from the field, most often from the front lines.
+A few were journalists, working for publications like Life Magazine and included name artists like Peter Hurd. Most, though, were military personnel, some working for military magazines like Yank, but 42 were specifically commissioned according to a special program established in 1943; and apparently included Thomas Hart Benton, who was in the U.S. Navy.
+You may think it odd that the US government would have the insight to realize the value of artistic vision over  straightforward photography in conveying images of the war to those “fighting on the home front”, and the program was in fact torpedoed by a short sighted congress who eliminated its modest funding the next year; but the program was well-conceived and pulled no punches. The artists were instructed to portray war as they experienced it, covered in dirt and mud and blood, not the spit and polish of formal portraits.
+Though the formal program had its funding yanked, many of the artists continued unofficially, and other efforts to report the war by way of combat artists started up, both civilian and smaller-scale military.
+These artists were in the field. If landing on a beachhead, they were expected to fight like any other soldier until the beach was secured, then take up their pens and pencils and make sketches, usually to be rendered as finished paintings later under more secure circumstances. This was seen as one of the advantages of artists over photography, the photographer could only snap what was available to his lens at the moment, an artist was trained to form an impression, and could bring to bear control over lighting, composition and rendering to convey the feeling of combat perhaps more accurately in some ways than a photograph.
+In many of the works available in the online gallery set up on the PBS site to accompany the documentary, you can see how effectively the artists have conveyed the realities of combat as they encountered them, the heroic effort, grim determination, wearyness, exhaustion and pain. (Images above, clockwise from top left: Robert Cornwell, Tom Lea, Kerr Eby, Howard Brodie, Ogden Pleissner, William Draper.) Bear in mind as you look through the gallery that these images  are not the fantasies of movie or gaming concept artists, but a record of real experiences.
+There is also a history of the combat art programs, and information on some of the individual artists. Not mentioned is the role of cartoonists like Bill Mauldin, and the fact that, though there is no formal combat artist program today that I know of, there are artists portraying the conflict in Iraq, like civilian Steve Mumford and reservist Chris Grant.
+You might think it was odd that the government during World War II would allow the realities of war to be portrayed in anything other than a heroic, recruitment-poster fashion, particularly given the current government’s disgraceful refusal to even allow photographs of the flag-draped coffins when the fallen are returned from Iraq; but we were a country at war then, not merely a country that has sent its army to war. (If you want to know the difference, when’s the last time you were issued a gasoline rationing coupon, had your taxes raised, bought War Bonds or heard of civilian factories being converted to military use to support the war effort?)
+I think if we accept a picture of war as some kind of heroic John Wayne fantasy, or swallow the simplistic “us vs. them” Rah-Rah! football game mentality that governments peddle, we do our fighting men and women a terrible disservice. Only in acknowledging the true horror that we have asked them to endure do we honor their level of sacrifice on our behalf.
+The role of artists, as always, is to open our eyes to things we might not see otherwise.
+
+
+Link: www.pbs.org/theydrewfire
+www.pbs.org/theydrewfire/gallery/index.html
+
+Posted in:  Gallery and Museum Art,Illustration   |   10 Comments »
+
+
+Sunday, May 27, 2007
+Jean-Léon Gérôme
+
+Posted by Charley Parker at 8:36 am 
+ 
+
+
+Anyone who is interested in concept art for films or games, particularly if it involves near-eastern themes in games like Prince of Persia, should be aware of 19th Century painter Jean-Léon Gérôme, if you aren’t already. 
+Likewise, anyone with in interest in Victorian art, the Pre-Raphaelites or 19th Century academic art in general would enjoy Gérôme’s beautifully painted scenes of mosques, minarets and Eqyptian rooftops, as well as his depictions of Imperial Rome.
+The Victorian era fascination with the exotic cultures of Asia inspired a number of painters and became known as Orientalism. This was the artistic end of a European view of the near east, and Islamic cultures in particular, as strange, romantic and sensual. The accuracy of such views, and of the scholarly interest in the middle east, was of less importance than the appeal of the foreign and strange to the art buying elite. 
+Plus, it was a great way to fill canvases with the eye candy of exotic costume, strange customs, and of languorous odalisques and harem concubines, smoking hookahs by reflective pools, or being proffered at slave auctions. There was plenty of that Victorian era titillation in the guise of history painting or allegory, or in this case, acceptance by virtue of the portrayal of other lands or cultures. 
+Gérôme excelled at the portrayal of these subjects, but at times exhibited an almost National Geographic style reportage of the inside of mosques and cityscapes, in contrast to his more exploitative harem scenes.  Prayer in the Mosque (image above, top right), was probably painted from sketches made on one of his many trips to Egypt. The painting is in the collection of the Metropolitan Museum of Art in New York.
+At his best, Gérôme was a superb painter and sculptor in the neo-classical style, a student of Paul Delaroche and a teacher of such notable painters as Odilon Redon, Thomas Eakins and J. Alden Weir. At his worst he was an influential enemy of the Impressionists, and almost succeeded in convincing the French government to refuse a gift of 65 of their controversial paintings from Gustave Caillebotte (the bulk of which now form the core of the Musee d’Orsay’s wonderful collection, and a smaller portion of which are here in Philadelphia in the collection of the Barnes Foundation).
+Despite his antipathy toward the Impressionists, Gérôme is definitely worth a look for his technique as a painter, and for his interesting subject matter, including a classic scene in the Roman arena, Pollice Verso, which reportedly inspired Ridley Scott to take on the filming of Gladiator, and is generally accepted to be the origin of the “thumbs up/ thumbs down” image we have of the decision of gladiatorial combat, and by extension the use of the gesture in modern times.  Another famous image by Gérôme is his two paintings of Pygmalion and Galatea, in which the sculptor’s creation comes to life (image above, lower right).
+
+
+Link: ARC
+Humanities Web
+Ciudad de la pintura (ES)
+Artcyclopedia
+Oritentalist art of the Nineteenth Century
+
+Posted in:  Concept & Visual Dev.,Gallery and Museum Art   |   5 Comments »
+
+
+Saturday, May 26, 2007
+Paprika
+
+Posted by Charley Parker at 10:51 am 
+ 
+
+Despite the fact that mainstream American audiences associate anime (Japanese animation) with giant robots bashing each other about while they tramp hip deep in skyscrapers, Japanese directors have long been willing to tackle sophisticated subjects that producers of American full-length animated features would never even consider.
+American studios are still under the impression (perhaps unfortunately correct) that feature length animation intended for theatrical release here must be “family fare” to have a broad enough appeal to make their box office.
+While I often complain about the adherence to simplistic formulas in American animation, anime is certainly locked into its own formulas at times, particularly in the area of science fiction; but from a genre whose ventures into science fiction have been largely near future and post apocalyptic adventures populated with robots, gynoids and exoskeleton mecha, comes an eye-popping exploration of the unconscious. 
+Renowned anime director Satoshi Kon has adapted Paprika from the science fiction novel by Yasutaka Tsusui, about a device that allows psychiatrists to immerse themselves in the dreams of a patient. In the story a reserved psychiatrist/inventor uses a prototype of this device to venture into the dreams of patients, where she is represented by a fairy-like avatar, until the machine is stolen, leaving her trapped in the psychedelic landscape of the dream state, confronted by the nightmare imaginings of the inner mind.
+You can see the groundwork for Paprika in Kon’s own work and in films like Otomo’s Akira, and Miyazaki’s Spirited Away, in which the borders of reality are flexed an rippled with the push and pull of events. 
+Kon is best known here for Tokyo Godfathers and Perfect Blue. He also directed the less-well known Millennium Actress and the Japanese animated television series Paranoia Agent.
+Kon has said that he based the imagery in Paprika on his own dreams, and the trailer and preview images promise a cornucopia of fantastic and wildly imaginative scenes. 
+Kon studied at Musashino Art University, majoring in Visual Art Communication Design, but his original interested in manga (Japanese comics) increasingly gave way to a fascination with animated film. He was influenced by the traditional anime classics, and Gundam style fare, but also by the hallucinatory films of American director Terry Gilliam.
+Many of Kon’s previous films have a tendency to wiggle the line between dream and reality. Kon also wrote the screenplay for the Magnetic Rose segment of Memories, which was directed and animated by Koji Morimoto.
+There in an offical site for Paprika, that includes a trailer and a gallery of images.
+The film opened in New York yesterday and opens in Los Angeles on June 1st. The hopes for a wider theatrical distribution, as usual for adult-themed anime, seem dim; and like most American anime fans, I’ll probably have to wait for the DVD release. American theaters, even on the art house circuit, seem clueless about the appeal and potential audience for films like this, despite the proliferation of bad, second-string anime on American television.
+Link via Wired
+
+
+Link: Paprika offical site
+Wired
+Underwire (large images)
+Satoshi Kon filmography on The New York Times (articles require registration)
+Satoshi Kon interview on Home Theater
+Satoshi Kon interview on Tokyopop
+Satoshi Kon intervew on Midnight Eye
+Paranoia Agent official site
+Perfect Blue official site
+
+Posted in:  Animation,Anime & Manga   |   4 Comments »
+
+
+Friday, May 25, 2007
+Jamin LeFave
+
+Posted by Charley Parker at 10:38 am 
+ 
+
+
+Jamin LeFave is another of those artists about whom I can find little information, but whose work is fascinating. LeFave has a blog, but apparently does not have a gallery-type web site. His brief bio paragraph indicates that he is a concept and production artist working for an independent gaming company called Wahoo studios, but I don’t think any of his professional work is available on the web.
+Instead, LeFave’s blog focuses on his studio painting, teaching work and experiments in oil, acrylic an digital media. When I came across his blog I was immediately struck by a self-portrait painting in progress (above, left and detail, top right), with its combination of straightforward realism, fresh handling and solid draftsmanship. 
+I went on to find a series of strong portrait studies, both paintings and drawings, as well as other items from his sketchbooks and classes. LeFave teaches illustration at Utah Valley State College.
+One of the items I found particularly fascinating is his post about a drawing exercise he does (image above, bottom right), in which he starts with a drawing from reference, in this case from a cast drawing in a Charles Bargue Drawing Course book. He follows his original drawing in a day or two with another drawing of the same image from memory only. LeFave says the he knows the memory drawing is done when he can’t remember any thing else to draw. He then uses his memory drawing for reference, and redesigns it as a looser, more exaggerated drawing with a playful exploration of the forms. He can then go back to the original for reference and add interesting details. This is an exercise I haven’t encountered before, and it sounds like a great way to build your powers of observation and explore the drawing methods of other artists.
+LeFave’s blog has only been established since last November, and he doesn’t add to it often, but I’m looking forward to seeing more of his work in the future.
+
+
+Link: http://jaminlefave.blogspot.com/
+
+Posted in:  Gallery and Museum Art   |   4 Comments »
+
+
+Thursday, May 24, 2007
+Illustration Magazine and illo.
+
+Posted by Charley Parker at 8:32 am 
+ 
+
+For 18 issues, Illustration Magazine has been featuring artists form the history of American illustration. Illustration is beautifully printed and full of great illustrations from the “Golden Age” through the late 20th Century.
+In 2005 publisher and executive editor Daniel Zimmer launched a new title, Illustration’05, in a similar format, but devoted to contemporary illustration. Both magazines are superb and of interest to any one interested in American illustration.
+The Illustration’05 title became Illustration’06 and Illustration’07, much to the confusion of readers and magazine dealers, and did not fare as well as it might have. 
+I’m happy to say that Zimmer has relaunched Illustraton’0whatever as Illo., starting the numbering over at issue#1, in the same beautiful format. That format is 80 pages, focusing on four in-depth articles about contemporary American illustrators, with page after glossy, high-resolution page of beautifully reproduced artwork. 
+The magazine is rounded out with a couple of shorter articles and reviews, features very few ads; and the ads themselves are for things like Last Gasp Publishing, Flesk Publications and shows at the Society of Illustrators, that are as much of interest to readers as the articles.
+Though the web site currently says that Illo. #1 is still at the printer, it is actually out and I picked up my copy yesterday. 
+I’m fortunate to have an amazing independent book/comic store nearby in Delaware that makes a point of carrying magazines like Illustraton and Illo., but If you can’t convince a magazine dealer or bookstore near you to carry them (it’s worth a try), you can order them online directly from the publisher.
+Illo. is published quarterly and a four issue subscription is $40 U.S.; individual issues are $10 (cover price), postpaid. In addition you can order back issues of Illustration ’05. 
+You can also order subscriptions and back issues of Illustration Magazine, which, like Illo., is published quarterly for $10 an issue. 
+The newly published issue #1 of Illo. features Mitch O’Connell, Mark Schultz, Nathan Jurevicius, Brian Taylor and an interview with Nancy Stahl. You can see thumbnail previews of the entire issue here. (The article on Mark Schultz is in the form of an extensive interview conducted by John Fleskes of Flesk Publications, which I profiled as one of the first posts on lines and colors.)
+Issue 18 of Illustration features Allen Anderson, The Cooper Studio (part 2), Alberto Vargas, Jack Potter and others. Thumbnail previews here.
+(Image above left, Illustration Magazine: top left, second row and third row, Illo.: top right, fourth row, bottom row.)
+
+
+Link: Illo.
+Illo. issue #1 preview
+Illo. and Illustration'05 back issue order
+
+Illustration Magazine
+Illustration Magazine order
+Illustration issue#18 preview
+Illustration preview archive
+
+Posted in:  Illustration   |   1 Comment »
+
+
+Wednesday, May 23, 2007
+Stéphane Halleux
+
+Posted by Charley Parker at 8:30 am 
+ 
+
+
+Stéphane Halleux creates sculptures of characters and objects that have a feeling of Tim Burton meets Rube Goldberg by way of 1930′s animated cartoons. 
+His tiny-wheeled cars, junk-dealer robots, Charles Adamsish characters, mechanized chairs and enigmatic “engines” are wonderful visual fun. Their textured and weathered surfaces, strange shapes, and arrangements of odd parts are imaginative and entertaining. 
+Halleux’s objects are appealing in a way that makes you want to pick them up, or at least be able to view them from a wide variety of angles. Though he often provides images from more than one angle, it’s unfortunate that Quicktime VR isn’t as easy as standard digital photography, it would be great to be able to rotate these images.
+Halleux’s web site is apparently new, as the biography section is still “coming soon”, and some other sections are also incomplete. Though there is a section of preliminary design sketches (“croquis”) for some of his pieces, there is no information on his creations in terms of materials, technique, intention or size. Hopefully, that will be added in the near future. In the mean time, we’ll have to settle for looking through his galleries of wonderfully eccentric objects.
+
+
+Link: www.stephanehalleux.com
+
+Posted in:  Illustration   |   2 Comments »
+
+
+
+Jessica Joslin
+
+Posted by Charley Parker at 8:25 am 
+ 
+
+Jessica Joslin makes unusual objects that are a collision of sculpture, assemblage, jewelry and perhaps taxidermy.
+Seemingly displays in an unnatural history museum, Joslin’s sculptures consist of bone (real, cast or modeled), brass, sculpted and painted leather, beads, lamp fittings, wire, machine bolts, pins, feathers, pewter, glass eyes, and various antique hardware items arranged into bizarre animal forms. 
+The result is an eerily disconcerting menagerie of “characters” to which she has assigned names like Serafina, Callisto, Ludwig, Valeria and Cosimo (at left).
+Joslin is quick to point out in her FAQ that when she does use real bone or animal skulls, she obtains them from the same suppliers that provide them ethically to natural history museums. She often uses casts or modeled pieces as well, and does her best to make it unclear which is which. When viewing her galleries, note that you can often click in the text area on links for detail images.
+Her objects vary in size from one inch tall to nearly six feet, and her site arranges them according to series done in particular years. Joslin works professionally as a commercial model maker, crating prototypes for toys (perhaps for an extra-dimensional toy company). 
+Link courtesy of Leah Palmer Preiss
+
+
+Link: www.jessicajoslin.com
+
+Posted in:  Gallery and Museum Art,Outsider Art   |   3 Comments »
+
+
+ « Earlier Posts
+
+
+
+
+Lines and Colors
+
+
+Lines and Colors is a blog about drawing, sketching, painting, comics, cartoons, webcomics, illustration, digital art, concept art, gallery art, artist tools and techniques, motion graphics, animation, sci-fi and fantasy illustration, paleo art, storyboards, matte painting, 3d graphics and anything else I find visually interesting.  If it has lines and/or colors, it's fair game.
+
+
+
+
+» Home
+» About/Contact
+» Suggest a Site
+» Link to Lines and Colors
+» Colophon
+Subscribe (RSS Link)
+» How Not to Display Your 
+Artwork on the Web
+» How  to Display Your 
+Art on the Web
+» Search Page
+
+
+
+
+
+
+Article Search:
+
+
+
+
+
+
+
+
+
+
+Translation
+
+
+
+
+ 
+
+
+
+
+
+ <em>The 911 Report: A Graphic Adaptation</em>, http://t.co/KRP8tng New Lines and Colors post  11 hours ago Watercolor artist Keiko Tanabe's wonderful evocations of Japan, China, Europe and the US: http://t.co/3Gr154T New Lines and Colors post.  2011/09/08 Into the Pixel 2011, showcase of video game art: http://t.co/HC6vDzC New Lines and Colors post  2011/09/08
+
+
+LinesAndColorsPromote Your Page Too
+
+
+Categories:
+
+3d CGI
+
+Amusements
+
+Animation
+
+Anime & Manga
+
+Blogroll
+
+Book Reviews
+
+Cartoons
+
+Color
+
+Comics
+
+Concept & Visual Dev.
+
+Creativity
+
+Digital Art
+
+Digital Painting
+
+Displaying Art on the Web
+
+Drawing
+
+Gallery and Museum Art
+
+Illustration
+
+Motion Graphics & Flash
+
+Museums
+
+Online Museums
+
+Outsider Art
+
+Painting
+
+Painting a Day
+
+Paleo Art
+
+Pastel, Conté & Chalk
+
+Pen & Ink
+
+Prints and Printmaking
+
+Sc-fi and Fantasy
+
+Sculpture & Dimensional
+
+Site Comments
+
+Sketching
+
+Storyboards
+
+Tools and Techniques
+
+Vector Art
+
+Vision and Optics
+
+Watercolor and Gouache
+
+Webcomics
+
+
+
+
+
+
+
+Archives: 	
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+May 2006
+April 2006
+March 2006
+February 2006
+January 2006
+December 2005
+November 2005
+October 2005
+September 2005
+August 2005
+
+
+
+Your host:
+Charley Parker
+My other sites:
+
+
+Argon Zark!
+Interactive webcomic
+Dinosaur Cartoons
+Dinosaur cartoons, how to draw activities, dinosaur online coloring and cartoon dinosaur stuff
+DinoMixer
+Dinosaur mix and match iPhone and iPod Touch app, site includes list of iPhone app review sites
+My Zazzle Site
+Dinosaur Cartoons T-shirts, sweatshirts, mugs and other dinosaur goodies
+Charley Parker Design
+Web site design in Philadelphia and Delaware
+Flash Class Delaware
+Adobe Flash class I teach at the Delaware College of Art and Design, in the Philadelphia area
+Personal site
+Sketchbook
+
+
+
+
+
+Relevant Blogs
+
+Art, Painting & Sketch
+
+Art Knowledge News
+Art News Blog
+Art History Today
+Flying Fox
+Urban Sketchers
+Painting Perceptions
+The Hidden Place
+PaintBlog
+Underpaintings
+Art Inconnu
+Art Contrarian
+Artist A Day
+Women Painting Women
+RusArt
+The Art of the Landscape
+Victorian/Edwardian Paintings
+The Tools Artists Use
+Drawing Connections
+beinArt Surreal Art Collective
+Eye Level
+All the Strange Hours
+Art & Critique
+laketrees
+'skine.art
+American Artist
+The Blue Lantern
+Silver Fortress
+Right Some Good
+Empty Easel
+Drawn in Black
+p.i.g.m.e.n.t.i.u.m
+The Dirty Palette Club
+Richard Piloco
+CultureGrrl
+Brian Yoder's GoodArt
+Your Daily Art
+Exploring Color & Creativity
+Acuarela
+Making a Mark
+Art Notes
+Illustrated Ideas
+SketchCrawl
+Enrico's Blog
+Tirade
+A Look at Art & Design
+Drawsketch
+Wally Torta's Journal
+inkFinger
+Lightning Studio
+
+Laurelines
+The Drawing Club
+
+Everyday Matters
+
+
+The Creative Journey
+Quotidian Curiosities
+The Art Blog
+Moleskinerie
+
+
+"Painting a Day"
+
+A Painting a Day (Keiser)
+On Painting (Keiser)
+Karen Jurick
+Jeff Hayes
+David R. Darrow
+Julian Merrow-Smith
+Shelly Grund
+Elin Pendelton
+Louis Boileau
+Darren Maurer
+Jan Blencowe
+Justin Clayton
+John Conkey
+Paul Hutchinson
+Carol Marine
+Susan Spar
+Hall Groat II
+Bob Eggleton
+Daily Painters Gallery
+Jeff Hayes' Squidoo List
+
+
+Other Painting Blogs
+
+Virtual Gouache Land
+Neil Hollingsworth
+Struggling to Paint
+Twice a Week
+Belinda Del Pesco
+Sarah Wimperis
+
+
+Gallery Art & Illustration mix
+
+Juxtapoz
+
+
+Illustration
+
+Gurney Journey
+Howard Pyle
+100 Years of Illustration
+Illustration Mundo
+Illustration Art
+BibliOdyssey
+The Art Department
+LCSV4
+Today's Inspiration
+Jack Talk
+Illustration Friday
+Asia Drawing Portal
+Monster Brains
+Illustrators & Illustrations (RU)
+SI-Blog-LA
+Astrona
+Pastelogram
+
+
+
+
+
+
+So, Cat Tacos?
+Tim O'Brien
+Elwood H. Smith
+DaniDraws.com
+Designers Who Blog
+iSpot Blog
+
+
+
+Illustration  & Comics
+
+Drawn!
+Le blog de Li-An (FR)
+Flesk Publications (FR)
+Barbara Canepa (IT/FR)
+Sandbox World
+Comics, Covered
+
+
+Comics & Cartoons
+
+Draw!
+Newsarama Blog
+Forbidden Planet Int.
+Bolt City
+Flight
+The Morning Improv
+Journalista
+Comixpedia
+Funnybook Babylon
+FPI Blog Log
+MeetingMcCay
+JaMiE BaKeR: FALLOUT
+Middleton's Sketchbook
+Boneville
+The Self-Absorbing Man
+'Ringo!
+E-Ville Press
+T Campbell's Blog
+Digital Strips
+Sketchbook Sessions
+Joe Zabel
+dessins de denis bodart
+The Hotel Fred
+redsketch
+Ojalá tuviera un gemelo perverso
+Mes vendredis...
+Drawing Board
+Cagle's Cartoon Web Log
+Daily Cartoonist
+
+
+Illustration  & Concept
+
+Gorilla Artfare
+
+
+Animation & Concept
+
+ASIFA Animation Archive
+Articles and Texticles
+Cold Hard Flash
+Cartoon Brew
+Animation Blog
+ANIMAX Entertainment
+all kinds of stuff (Kricfalusi)
+Classic Cartoons
+John Nevarez
+Armand Serrano
+Marcos Mateu-Mestre
+AAU Character & Creature Design
+AAU Animation Notes
+Spline Doctors
+Ghostbot: Punch Pants
+Art Dojo
+House of Cool
+sparth construct
+Yacin the faun
+Jose Lopez
+Kelsey Mann
+Cre8tivemarks Blog
+Pencil Shavings
+Stephen Silver
+teamgt studios
+CG Explorer
+Ice-Cream Monster Toon Cafe
+fwak! blog
+Subconcious Ink
+art-attacks
+The Ward-O-Matic
+AniPages Daily
+Captaintolk
+mad-t-party
+
+
+Paleo & Scientific
+
+Paleoblog
+Olduvai George
+Street Anatomy
+Visualizing the Biological
+
+
+Tools & Techniques
+
+The Tools Artists Use
+Pencil Talk
+
+
+Other
+
+ColourLovers Blog
+
+
+Friends & Relations
+(off-topic)
+	
+Frostbites
+My Side of the Circle
+Inside Bob's Brain 3.1
+MillerMark
+
+
+
+
+
+
+
+Meta: 	
+Log in
+RSS
+Comments RSS
+Valid XHTML
+XFN
+WP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+These are some art related web sites I designed.
+Delaware Sculptor
+Charles Parks, Delaware sculptor, leading proponent of realist sculpture in the Brandywine Valley tradition. Limited edition bronze castings are available from the Wilmington, Delaware sculpture studio.
+Wood Sculpture
+John and Pat Dickinson, wood sculpture, turned wood, abstract painting and art glass, available through Creations Gallery in Delaware and directly from their Oregon studio.
+Pochade boxes for plein air painters
+Alla Prima Pochade, thoughtfully designed, hand-crafted painting boxes make outdoor painting a delight. 
+Dinosaur Art & Palentological Illustration
+Walters & Kissinger Dinosaur Art Studio, paleontological life restoration art, licensable dinosaur illustrations and images of preshistoric animals and plants.
+Another recent client of my design studio:
+Matrx Systems
+Apple Macintosh sales, service, installation and repair in Philadelphia, Delaware and New Jersey
+ 
+Some friends:
+Tom Jackson Studio
+Children's Book Illustration from Tom jackson Studio = playful and whimsical pen and ink and watercolor illustrations for children's books.
+Chandeluse
+Vintage jewelry, housewares, clothing, from Meg Levitt.
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertise on comics related blogs
+
+Display Ads on Lines and Colors: $25/week or $75/month.
+
+Please note that display ads for lines and colors are limited to art related topics and may not be animated.
+
+
+
+
+
+
+
+
+
+ Amazon.com Widgets
+
+
+
+ 
+
+
+
+
+Exhibitions
+Drawings, Illustration & Comics Art
+Listed by start date
+Updated July 13, 2011
+
+
+
+Escape To Adventure: Focus on Arthur E. Becher
+Mar 19 - Dec 31, 2011
+Delaware Art Museum, DE
+
+Italian Master Drawings from the Wolfgang Ratjen Collection: 1525 - 1835
+May 8 - Nov 27, 2011
+National Gallery of Art, DC
+The Age of Elegance: The Joan Taub Ades Collection (old master drawings)
+May 13 - Aug 28, 2011
+Morgan Library and Museum, NY
+Two Masters of Fantasy: Bresdin and Redon
+May 25, 2011  - Jan 16, 2012
+Museum of Fine Arts Boston, MA
+
+Drawings and Prints: Selections from the Permanent Collection
+June 13  - Sept 11, 2011
+Metropolitan Museum of Art, NY
+It's a Dog's Life: Norman Rockwell Paints Man's Best Friend
+June 25  - Nov 11, 2011
+Norman Rockwell Museum, MA
+N.C. Wyeth's Treasure Island, Classic Illustrations for a Classic Tale
+Sept 10 - Nov 20, 2011
+Brandywine River Museum, PA
+Infinite Jest: Caricature and Satire from Leonardo to Levine
+Sept 13, 2011  - March 4, 2012
+Metropolitan Museum of Art, NY
+Honoring Howard Pyle: Major Works from the Collections
+Sept 17 - Nov 17, 2011
+Brandywine River Museum, PA
+Inspiring Minds: Howard Pyle as Teacher
+Sept 17 - Nov 17, 2011
+Brandywine River Museum, PA
+Howard Pyle: American Master Rediscovered
+Nov 12, 2011 - March 4, 2012
+Delaware Art Museum, DE
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ Images © by their respective owners | All written content ©2005-2010 Charles A. Parker
+
+
+
+
+
+

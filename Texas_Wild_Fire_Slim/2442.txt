@@ -1,0 +1,126 @@
+
+	LocationService Web Service
+
+
+LocationService
+
+Click here for a complete list of operations.
+GetAreaInfo
+
+Test
+          
+          To test the operation using the HTTP POST protocol, click the 'Invoke' button.
+
+
+
+                      
+
+
+Parameter
+Value
+
+
+ID_Value:
+
+
+
+ID_Type:
+
+
+
+
+ 
+
+
+
+
+SOAP 1.1
+The following is a sample SOAP 1.1 request and response.  The placeholders shown need to be replaced with actual values.
+POST /main/inc/services/popup_AJAX_Service.asmx HTTP/1.1
+Host: tfsweb.tamu.edu
+Content-Type: text/xml; charset=utf-8
+Content-Length: length
+SOAPAction: "http://tempuri.org/GetAreaInfo"
+
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <GetAreaInfo xmlns="http://tempuri.org/">
+      <ID_Value>string</ID_Value>
+      <ID_Type>string</ID_Type>
+    </GetAreaInfo>
+  </soap:Body>
+</soap:Envelope>
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset=utf-8
+Content-Length: length
+
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <GetAreaInfoResponse xmlns="http://tempuri.org/">
+      <GetAreaInfoResult>string</GetAreaInfoResult>
+    </GetAreaInfoResponse>
+  </soap:Body>
+</soap:Envelope>
+
+
+SOAP 1.2
+The following is a sample SOAP 1.2 request and response.  The placeholders shown need to be replaced with actual values.
+POST /main/inc/services/popup_AJAX_Service.asmx HTTP/1.1
+Host: tfsweb.tamu.edu
+Content-Type: application/soap+xml; charset=utf-8
+Content-Length: length
+
+<?xml version="1.0" encoding="utf-8"?>
+<soap12:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://www.w3.org/2003/05/soap-envelope">
+  <soap12:Body>
+    <GetAreaInfo xmlns="http://tempuri.org/">
+      <ID_Value>string</ID_Value>
+      <ID_Type>string</ID_Type>
+    </GetAreaInfo>
+  </soap12:Body>
+</soap12:Envelope>
+HTTP/1.1 200 OK
+Content-Type: application/soap+xml; charset=utf-8
+Content-Length: length
+
+<?xml version="1.0" encoding="utf-8"?>
+<soap12:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://www.w3.org/2003/05/soap-envelope">
+  <soap12:Body>
+    <GetAreaInfoResponse xmlns="http://tempuri.org/">
+      <GetAreaInfoResult>string</GetAreaInfoResult>
+    </GetAreaInfoResponse>
+  </soap12:Body>
+</soap12:Envelope>
+
+
+HTTP GET
+The following is a sample HTTP GET request and response.  The placeholders shown need to be replaced with actual values.
+GET /main/inc/services/popup_AJAX_Service.asmx/GetAreaInfo?ID_Value=string&ID_Type=string HTTP/1.1
+Host: tfsweb.tamu.edu
+
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset=utf-8
+Content-Length: length
+
+<?xml version="1.0" encoding="utf-8"?>
+<string xmlns="http://tempuri.org/">string</string>
+
+
+HTTP POST
+The following is a sample HTTP POST request and response.  The placeholders shown need to be replaced with actual values.
+POST /main/inc/services/popup_AJAX_Service.asmx/GetAreaInfo HTTP/1.1
+Host: tfsweb.tamu.edu
+Content-Type: application/x-www-form-urlencoded
+Content-Length: length
+
+ID_Value=string&ID_Type=string
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset=utf-8
+Content-Length: length
+
+<?xml version="1.0" encoding="utf-8"?>
+<string xmlns="http://tempuri.org/">string</string>
+
+

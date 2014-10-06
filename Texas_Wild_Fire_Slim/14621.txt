@@ -1,0 +1,399 @@
+Latest Earthquakes in the World - Past 7 days
+
+
+
+USGS Home
+Contact USGS
+Search USGS
+
+
+
+Earthquake Hazards Program
+
+HomeAbout UsContact Us 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+EarthquakesHazardsLearnPrepareMonitoringResearch
+
+
+
+
+
+Latest Earthquakes in the World - Past 7 days
+Check our our new Beta Earthquake Maps.
+
+Worldwide earthquakes with M4.5+ located by USGS and Contributing Agencies.
+(Earthquakes with M2.5+ within the United States and adjacent areas.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructions
+Hold your mouse over an earthquake to see its magnitude.
+Click on an earthquake for more information.
+Click on a location to go to a region map.
+Did You Feel It? - Report an earthquake
+Tips
+To convert UTC to US time zones, see this list or this table.
+Magnitude = ? for new earthquakes until a magnitude is determined.
+Maps show events recorded in the last 7 days with M2.5+ within the United States and adjacent areas, M4.5+ in the rest of the world.
+Maps are updated whenever a new earthquake has been located. Try to reload this page if you do not have the most current map.
+
+
+
+Earthquake Lists
+M2.5/4.5+ Earthquake list
+M5+ Earthquake list
+
+World Regional Maps
+Africa
+Asia
+Australia
+Europe
+North America
+South America
+South Pacific
+West Hemisphere
+East Hemisphere
+North Hemisphere
+South Hemisphere
+
+
+ACKNOWLEDGMENTS — Collaborating seismic networks and data sources
+DISCLAIMER — The maps and lists show events which have been located by the USGS
+and contributing agencies within the last 7 days.  They should not be considered to
+be complete lists of all events M2.5+ in the US and adjacent areas and especially           
+should not be considered to be complete lists of all events M4.5+ in the world. 
+The World Data Center for Seismology, Denver (a part of the USGS National Earthquake
+Information Center) continues to receive data from observatories throughout the world
+for several months after the events occurred, and using those data, adds new events
+and revises existing events in later publications.  For a description of these later
+publications and the data available, see Scientific Data.
+
+
+
+PastPast 8–30 daysSignificant EarthquakesEarthquake Lists & MapsSearch for an EarthquakePresentReal-time - CA/NVReal-time - USAReal-time - WorldwideAbout Earthquake MapsKML / RSS Feeds & DataEarthquake NotificationsSeismogram DisplaysEarthquake AnimationsDid You Feel It?ShakeMapsPAGEREQ Summary PostersFutureEarthquake ScenariosPredictionProbabilitiesLocationInfo by StateInfo by Country/Region
+
+
+
+
+ DOI and USGS link policies apply.
+
+Share this page:
+
+Facebook Twitter Google Email 
+
+
+
+
+
+
+Earthquakes
+
+Past - Present - Future
+Info by State
+Info by Country/Region
+
+
+
+Hazards
+
+Faults
+Hazard Maps & Data
+Seismic Design
+Seismic Analysis Tools
+NSHM Project
+
+
+
+Learn
+
+Earthquake Topics
+FAQ
+Earthquake Glossary
+For Kids
+Students & Teachers
+Photos
+Publications
+Google Earth/KML Files
+
+
+
+Prepare
+
+How do I prepare?
+A quake just happened…
+
+
+
+Monitoring
+
+ANSS - United States
+GSN - World
+Volunteer Monitoring
+Int’l Registry of Seismograph Stations
+ASL - Albuquerque
+Network Operations
+NSMP - Strong Motion
+Crustal Deformation
+
+
+
+Research
+
+Projects
+Data
+Software
+External Support
+
+
+
+
+
+
+
+Accessibility
+FOIA
+Privacy
+Policies and Notices
+In partnership with nehrp
+
+
+
+
+
+
+U.S. Department of the Interior | U.S. Geological Survey
+		Page URL: http://earthquake.usgs.gov/earthquakes/recenteqsww/index.php
+		Page Contact Information: EHP Web Team
+		Page Last Modified: August 31, 2011 14:17:47 UTC	
+
+
+
+

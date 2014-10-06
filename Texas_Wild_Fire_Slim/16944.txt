@@ -1,0 +1,596 @@
+var scriptId = 0;
+var cssId = 0;
+
+var aid = "Oz0sNiE";
+var affl = "";
+var subid = "MA***";
+var listingsCount = 10;
+var ipaddress = "207.241.234.122";
+var ua = "Mozilla/5.0 (compatible;archive.org_bot; Archive-It; +http://archive-it.org/files/site-owners.html) Firefox/0.0";
+var mobile_browser = "0";
+var mobile_device = "Desktop / full capability browser";
+var dev = "";
+var sword = "";
+
+var adHide = 0;
+var currentWidth = 0;
+var currentHeight = 0;
+var expand = 0;
+var orient = "";
+var wscaleFactor = 0;
+var hscaleFactor = 0;
+var currentOrient = "profile";
+
+var items = null;
+var pageUrl = encodeURIComponent(document.location.href);
+var refUrl = encodeURIComponent(document.referrer);
+var crawlData = null;
+
+var numAds = 0;
+var adBlock = 0;
+var adLimit = 10;
+var numRows = 0;
+var numCols = 0;
+var newSearch = 0;
+
+var titleCol = "09F";
+var descCol = "fff";
+var urlCol = "999";
+var bgCol = "000";
+var opacity = "0.85";
+
+if(dev == "ipad")
+{
+	uPort = 2;
+	uLand = 3;
+	ePortR = 5;
+	ePortC = 2;
+	eLandR = 3;
+	eLandC = 3;
+
+	uHeight = 104;
+	uWidPort = 756;
+	uWidLand = 1012;
+	eWidPort = 760;
+	eHtPort = 930;
+	eWidLand = 1016;
+	eHtLand = 660;
+}
+else
+{
+	uPort = 1;
+	uLand = 2;
+	ePortR = 4;
+	ePortC = 1;
+	eLandR = 2;
+	eLandC = 2;
+
+	uHeight = 104;
+	uWidPort = 315;
+	uWidLand = 472;
+	eWidPort = 315;
+	eHtPort = 408;
+	eWidLand = 472;
+	eHtLand = 221;
+}
+
+if(mobile_browser == 1)
+{
+
+function xss_css(url)
+{
+		var css_id = null;
+        var css = document.createElement('link');
+		css.setAttribute('rel', 'stylesheet');
+        css.setAttribute('type', 'text/css');
+        css.setAttribute('href', url);
+        css.setAttribute('id', 'css_id'+cssId);
+		
+        css_id = document.getElementById('css_id'+cssId);
+        if(css_id){
+            document.getElementsByTagName('head')[0].removeChild(css_id);
+        }
+        document.getElementsByTagName('head')[0].appendChild(css);
+		cssId++;
+}
+
+function loadScript(url, callback)
+{
+    var head = document.getElementsByTagName("head")[0];
+    addLater = false;
+    if(!head){
+	head = document.createElement("head");
+	addLater = true;
+    }
+    var script = document.createElement("script");
+	script.src = url;
+    script.type = "text/javascript";
+    if (script.readyState){  //IE
+        script.onreadystatechange = function(){
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete"){
+                script.onreadystatechange = null;
+               // callback();
+            }
+        };
+    } else {  //Others
+        script.onload = function(){			
+            //callback();
+        };
+    }
+ 	head.appendChild(script);
+    if(addLater){
+		document.documentElement.appendChild(head);
+    }
+}
+
+if(mobile_device == "Apple" || mobile_device == "Android")
+{
+	if(dev == "ipad")
+	{
+		url = "http://m.admedia.com/images/ipad.php?titleCol="+titleCol+"&descCol="+descCol+"&urlCol="+urlCol+"&bgCol="+bgCol+"&opacity="+opacity;
+		xss_css(url);
+	}
+	else
+	{
+		url = "http://m.admedia.com/images/iphone.php?titleCol="+titleCol+"&descCol="+descCol+"&urlCol="+urlCol+"&bgCol="+bgCol+"&opacity="+opacity;
+		xss_css(url);
+	}
+
+	document.write(''); 
+	document.write('');
+	document.write('');
+	document.write(' View AllAds by AdMedia');
+
+
+	function init()
+	{
+		updateLayout(expand, 0);
+	}	
+
+	window.onresize = function() {
+		updateLayout(expand, 0);
+	}
+	
+	window.addEventListener("orientationchange", function() {
+		updateLayout(expand, 1);
+	}, false);
+
+	var curPos = window.pageYOffset + window.innerHeight - 104;
+	window.onscroll = function() 
+	{
+		if(dev == "ipad")
+		{
+			if(expand == 0)
+				topPos = window.innerHeight - 104;
+			else
+				topPos = window.innerHeight - ((numRows * 100)+10);
+		}
+		else
+		{
+			if(expand == 0)
+				topPos = window.innerHeight - 104;
+			else
+				topPos = 4;
+		}
+		document.getElementById('admobile').style.top = curPos + "px";
+		var moveY = (window.pageYOffset + topPos - 10) + 'px';
+		
+		document.getElementById('admobile').style.top = moveY;
+		document.getElementById('admobile').style.left = (window.pageXOffset - 2)+"px";
+		
+		if(dev == "ipad")
+		{
+			if(expand == 0)
+				curPos = window.pageYOffset + window.innerHeight - 104;
+			else
+				curPos = window.pageYOffset + window.innerHeight - ((numRows * 100)+10);
+		}
+		else
+		{
+			if(expand == 0)
+				curPos = window.pageYOffset + window.innerHeight - 104;
+			else
+				curPos = window.pageYOffset;
+		}
+	};
+
+	function hideAd()
+	{
+		document.getElementById('admobile').style.visibility = "hidden";
+	}
+
+	function closeAd()
+	{
+		adHide = 1;
+		document.getElementById('admobile').style.visibility = "hidden";
+	}
+
+	function showAd(changeEx)
+	{	
+		if(adHide == 0)
+			document.getElementById('admobile').style.visibility = "visible";
+		adjustHeight(changeEx, 1);
+	}
+
+    function updateLayout(ex, loadAd)
+    {	
+        //if (window.innerWidth != currentWidth)
+        //{
+			//hideAd();
+            currentWidth = window.innerWidth;
+			currentHeight = window.innerHeight;
+
+			if(currentOrient != window.orientation)
+			{
+				currentOrient = window.orientation;
+				loadAd = 1;
+			}
+
+			if(currentWidth  -1;
+				if(!isWebkit)
+				{
+					closeAd();
+				}
+				adjustHeight(0, loadAd);
+				//document.getElementById('admobile').style.webkitTransform = "scale(1)";
+				document.getElementById('admobile').style.webkitTransformOrigin = "bottom left";
+				if(orient == "profile")
+					document.getElementById('admobile').style.webkitTransform = "scale("+wscaleFactor+")";
+				else
+					document.getElementById('admobile').style.webkitTransform = "scale("+wscaleFactor+")";
+			}
+			setTimeout(function()
+            {
+				if(ex == 1)
+					showAd(0);
+				else
+				{
+					moveTop = window.pageYOffset + window.innerHeight - 104 - 8;
+					document.getElementById('admobile').style.left = (window.pageXOffset-2)+"px";
+					
+					document.getElementById('admobile').style.top = moveTop+"px";
+					
+					if(adHide == 0)
+						document.getElementById('admobile').style.visibility = "visible";
+				}
+                //window.scrollTo(0, 1);
+            }, 100);            
+       // }
+    }
+
+	function adjustHeight(changeEx, loadAd)
+	{
+		hideAd();
+		currentHeight = window.innerHeight;
+		currentWidth = window.innerWidth;
+
+		if(changeEx == 1)
+		{	adBlock = 1;
+			expand = 1 - expand;
+		}
+		
+		if(expand == 1)
+		{
+			document.getElementById('vall').innerHTML = "Minimize";
+			totalAds = items.items.length;
+			if(orient == "profile")
+			{
+				if(totalAds%2 != 0)
+					totalAds -= 1;
+				ads_in_row = ePortC;
+				total_rows = parseInt((totalAds/ads_in_row));
+				if(dev == "ipad")
+				{
+					if(total_rows View All";
+			document.getElementById('admobile').style.webkitTransform = "scale(1)";
+			if(orient == "profile")
+			{
+				nHeight = uHeight+"px";
+				nWidth = uWidPort+"px";
+				scaleFactor = (currentWidth/(uWidPort+4));
+			}
+			else
+			{
+				nHeight = uHeight+"px";
+				nWidth = uWidLand+"px";
+				scaleFactor = (currentWidth/(uWidLand+4));
+			}
+			
+		}
+		
+		document.getElementById('admobile').style.height = nHeight;
+		document.getElementById('admobileTrans').style.height = nHeight;
+		document.getElementById('admobile').style.width = nWidth;
+		document.getElementById('admobileTrans').style.width = nWidth;
+		
+		if(expand != 1)
+		{	
+			moveTop = window.pageYOffset + window.innerHeight - 104 - 8;
+			document.getElementById('admobile').style.webkitTransformOrigin = "bottom left";
+			
+			if(orient == "profile")
+				document.getElementById('admobile').style.webkitTransform = "scale("+scaleFactor+")";
+			else
+				document.getElementById('admobile').style.webkitTransform = "scale("+scaleFactor+")";
+			
+			document.getElementById('admobile').style.top = moveTop+"px";
+			
+		}
+		if(adHide == 0)
+			document.getElementById('admobile').style.visibility = "visible";
+		if(loadAd == 1)
+			loadAds();
+	}
+
+	function loadAds()
+	{
+		var cUrl = "http://m.admedia.com/" + "crawl.php?l="+pageUrl+"&r="+refUrl+"&affl="+affl;
+		if(sword != '')
+		{
+			var crData = [];
+			crData['contextual'] = sword;
+			handleMobLoading(crData);
+		}
+		else
+		{
+			if(!crawlData)
+				loadScript(cUrl, function(){});
+			else
+				handleMobLoading(crawlData);
+		}
+	}
+
+	function handleMobLoading(data)
+	{
+		if(!crawlData)
+			crawlData = data;
+
+		keyWords = crawlData['contextual'];
+		keyWordsArr = keyWords.split(",");
+		words = keyWordsArr[0];
+		var xurl = "http://m.admedia.com/"+'content.php?' +
+		'&aid=' + aid +
+		'&affl=' + affl +
+		'&subid=' + encodeURI(subid) +
+		'&n=' + listingsCount +
+		'&Terms=' + encodeURI(words) +
+		'&ip=' + ipaddress +
+		'&ua=' + ua +
+	    '&nt='+Math.random() + 
+		'&callback=getMobContentCallback';
+
+		if(!items)
+			loadScript(xurl, function(){});
+		else
+			getMobContentCallback(items, 0);
+	}
+	
+	function scrollAds(dir)
+	{
+		getMobContentCallback(items, dir);
+		
+	}
+
+	getMobContentCallback = function (object, dir) {
+		items = object;
+		
+		if(expand == 0)
+		{
+			addRemSearch(0);
+			numAds = parseInt(currentWidth/235);
+		
+			if(orient == "profile")
+				numAds = uPort;
+			else
+				numAds = uLand;
+
+			adLimit = object.items.length;
+			if(dir == 1)
+			{
+				var blockLimit = Math.ceil(adLimit/numAds);
+				if((adBlock+1)  1)
+					adBlock--;
+				else
+					adBlock = Math.ceil(adLimit/numAds);
+			}
+			else
+				adBlock = 1;
+			var adStart = (adBlock-1)*numAds;
+			
+			if((adStart + numAds) ';
+			for(var i=adStart; i ';
+					title = object.items[i].title;
+					url = object.items[i].url;
+					image = object.items[i].image;
+					desc = object.items[i].description;
+					domain = object.items[i].displayUrl;
+					favicon = object.items[i].favicon;
+					
+					inHTML += "";
+					inHTML += '';
+					inHTML += ""+title+""+desc+"";
+					if(favicon != '')
+						inHTML += "";
+					inHTML += domain+"";
+				}
+			}
+			inHTML += '';
+			document.getElementById('admobileContent').innerHTML = inHTML;
+
+		}
+		else
+		{
+			addRemSearch(1);
+			if(dev == "ipad")
+			{
+				totalAds = items.items.length;
+				
+				if(orient == "profile")
+				{
+					if(totalAds%2 != 0)
+						totalAds -= 1;
+					ads_in_row = ePortC;
+					numRows = parseInt((totalAds/ads_in_row));
+					if(numRows  1)
+					adBlock--;
+				else
+					adBlock = Math.ceil(adLimit/numAds);
+			}
+			else
+				adBlock = 1;
+			var adStart = (adBlock-1)*numAds;
+			
+			if((adStart + numAds) ';
+
+					inHTML += '';
+					titl = object.items[i].title;
+					url = object.items[i].url;
+					image = object.items[i].image;
+					desc = object.items[i].description;
+					domain = object.items[i].displayUrl;
+					favicon = object.items[i].favicon;
+
+					inHTML += "";
+					inHTML += '';
+					inHTML += ""+titl+""+desc+"";
+					if(favicon != '')
+						inHTML += "";
+					inHTML += domain+"";
+
+					if((cnt+1)%numCols == 0)
+						inHTML += '';
+					cnt++;
+				}
+			}
+			
+			document.getElementById('admobileContent').innerHTML = inHTML;
+			if(newSearch == 1)
+			{
+				adjustHeight(0, 0);
+				newSearch = 0;
+			}
+		}
+		
+	}
+
+	function confirmClick(url)
+	{
+		var r = confirm("Are you sure you want to leave this page?");
+		if(r)
+			window.open(url);
+		else
+			return false;
+	}
+
+	function addRemSearch(flag)
+	{
+	if(flag == 1)
+	{
+		var pres = document.getElementById('admobile_searchform');
+		if(orient == "profile")
+			tWidth = eWidPort - 4;
+		else
+			tWidth = eWidLand - 4;
+		var textWidth = tWidth - 75;
+		if(!pres)
+		{
+		
+		var form = document.createElement("form");
+		form.setAttribute("class", "admobile_searchform");
+		form.setAttribute("id", "admobile_searchform");
+		form.setAttribute("onsubmit", "searchNewAds(); return false;");
+
+		var sfield = document.createElement("input");
+		sfield.setAttribute("id", "admobile_searchfield");
+		sfield.setAttribute("type", "text");
+		sfield.setAttribute("name", "admobile_searchfield");
+		sfield.onfocus = adjustForm;
+
+		var slink = document.createElement("a");
+		slink.setAttribute("href", "javascript: void();");
+		slink.setAttribute("id", "admobile_searchsubmit");
+		slink.innerHTML = "Search";
+		slink.onclick = searchNewAds;
+
+		form.appendChild(sfield);
+		form.appendChild(slink);
+		document.getElementById('admobileCon').appendChild(form);
+
+		document.getElementById('admobile_searchform').style.width = (textWidth + 50)+"px";
+		document.getElementById('admobile_searchfield').style.width = textWidth+"px";
+		}
+		else
+		{
+			document.getElementById('admobile_searchform').style.width = (textWidth + 50)+"px";
+			document.getElementById('admobile_searchfield').style.width = textWidth+"px";
+		}
+
+	}
+	else
+	{
+		var cont = document.getElementById('admobileCon');
+		var form = document.getElementById('admobile_searchform');
+		if(form)
+			cont.removeChild(form);
+	}
+	}
+
+	function searchNewAds(word)
+	{
+		adBlock = 0;
+		newSearch = 1;
+		document.getElementById('admobile_searchsubmit').focus();
+		if(expand == 0)
+			topPos = window.innerHeight - 104;
+		else
+			topPos = window.innerHeight - ((100*numRows)+10);
+		document.getElementById('admobile').style.top = curPos + "px";
+		
+		var moveY = (window.pageYOffset + topPos - 8) + 'px';
+		
+		document.getElementById('admobile').style.top = moveY;
+
+		var nWord = word;
+		if(nWord == '')
+		{
+			alert("Please enter a search term.");
+			return;
+		}
+		
+		var xurl = "http://m.admedia.com/"+'content.php?' +
+		'&aid=' + aid +
+		'&affl=' + affl +
+		'&subid=' + encodeURI(subid) +
+		'&n=' + listingsCount +
+		'&Terms=' + encodeURI(nWord) +
+		'&ip=' + ipaddress +
+		'&ua=' + ua +
+	    '&nt='+Math.random() + 
+		'&callback=getMobContentCallback';
+
+		loadScript(xurl, function(){});
+	}
+
+	function adjustForm()
+	{
+		var nPos = curPos - window.innerHeight + 100;
+		var word=prompt("Search");
+		if(word != '' && word != null)
+			searchNewAds(word);
+	
+	}
+
+	window.addEventListener("load", function()
+	{
+	   setTimeout(init, 0);
+	 
+	}, false);
+
+}
+else
+{
+	
+}
+
+}

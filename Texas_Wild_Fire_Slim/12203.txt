@@ -1,0 +1,38 @@
+
+	Texas Forest Service
+
+
+
+
+
+
+
+
+
+
+
+KEETCH BYRAM DROUGHT INDEX (KBDI)
+
+
+
+
+
+
+
+
+
+[ Print | 
+
+ ]
+
+
+
+The KBDI attempts to measure the amount of precipitation needed to bring the top eight inches of soil back to saturation. A value of zero represents complete soil saturation or no moisture deficiency. A value of 800 means it would take eight inches of precipitation to fully saturate the soil. Eight hundred is the maximum drought that is possible. At any point along the scale, the KBDI number indicates the amount of precipitation it would take to bring the moisture level back to zero. High KBDI values indicate that conditions are favorable for the occurrence and spread of wildfires. The following table shows how KBDI and expected fire potential relate. KBDI = 0 – 200: Soil and fuel moisture is high. Most fuels will not contribute much to wildfire intensity. This is often seen in spring after winter precipitation.KBDI = 200 – 400: Fuels are beginning to dry and contribute to wildfire intensity. Heavier fuels will still not readily ignite and burn. This is often seen in late spring. KBDI = 400 – 600: Wildfire intensity begins to increase significantly. Wildfires will readily burn and larger fuels could burn or smolder for several days. This is often seen in late summer and early fall. KBDI = 600 – 800: Wildfires will show extreme intensity. Deep-burning, intense wildfires with significant spotting can be expected. This is often associated with severe drought. View the current Texas KBDI map. 
+
+
+
+
+
+
+
+

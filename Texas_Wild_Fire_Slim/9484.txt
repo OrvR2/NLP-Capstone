@@ -1,0 +1,76 @@
+(function($) {
+	var fix_png = $.browser.msie && $.browser.version " : "",
+		base_url;
+
+	// 24 hours.
+/*	function gen_random(type, offset) {
+		for (var i = 0; i ').attr({src: post.img}).appendTo($photo_area);
+		}
+		$tooltip.find("div.wymhm-tt-title").empty().append(
+			$('').attr({href: post_url(post), target: "_blank"}).text(post.post_title));
+
+		$tooltip.find("div.wymhm-tt-meta").text(post.date_formatted);
+		$tooltip.find("div.wymhm-tt-comments").empty().append(
+			$('').attr({href: post_url(post) + "#idc_container", target: "_blank"})
+					 .text(post.comment_count ? "Comments (" + post.comment_count + ")" : "Add a Comment"));
+
+		$tooltip.css({left: offset.left + $this.width() - 8, top: offset.top + $this.height() - 8});
+		if(!$tooltip.is(":visible")) $tooltip.slideToggle("fast");
+		$active_circle = $this;
+	}
+
+	function circle_mouseout(ev) {
+		if(ev.relatedTarget && $(ev.relatedTarget).closest(".wymhm-tooltip").length == 1) return;
+		var $widget = $(this).closest("div.what-you-might-have-missed");
+		var index = $widget.attr("id").replace('wymhm-', '')
+		hide_tooltip(index);
+	}
+
+	function circle_click(ev) {
+		var $circle = $(this);
+		var post = $circle.data("post");
+		if(!post) return;
+		window.open(post_url(post));
+	}
+
+	function post_url(post) {
+		return "http://" + post.blog + "/?p=" + post.ID;
+	}
+
+	function tooltip_mouseleave(ev) {
+		if($active_circle && ev.relatedTarget == $active_circle[0]) return;
+		var index = $(this).attr("id").replace('wymhm-tooltip-', '')
+		hide_tooltip(index);
+	}
+	function tooltip_mouseenter(ev) {
+		if(hide_timeout) clearTimeout(hide_timeout);
+	}
+
+	function hide_tooltip(index) {
+		if(hide_timeout) clearTimeout(hide_timeout);
+		hide_timeout = setTimeout(function() {
+			$("#wymhm-tooltip-" + index).hide();
+			$active_circle = null;
+		}, 300);
+	}
+
+	function blog_to_color(blog) {
+		if(blog.match(/bigjournalism/)) return "brown-bj";
+		if(blog.match(/bighollywood/)) return "red-bh";
+		if(blog.match(/biggovernment/)) return "blue-bg";
+		return "white-bb";
+	}
+
+	window.wymhm_init = function(_base_url, start_offset, index, json) {
+		var $points = $("#wymhm-" + index +" div.wymhm-points:first");
+		base_url = _base_url;
+		var max_comments = 1;
+		for(var blog in json) {
+			var posts = json[blog];
+			for(var i = 0; i  max_comments) max_comments = comments;
+			}
+		}
+		for(var blog in json) {
+			var color = blog_to_color(blog);
+			var posts = json[blog];
+			for(var i = 0; i 

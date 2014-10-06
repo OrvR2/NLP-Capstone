@@ -1,0 +1,290 @@
+CMS Help Documents
+
+CMS Help Documents
+
+
+Introduction to Kentico CMS
+Adding a new article (Internal Article)
+Create External Article Link
+Creating Article From External Feeds
+Adding Authors
+Adding Blog Articles & Creating Featured Blog
+Adding Sources
+Adding Advertorials
+Setting Default Advertorials
+Adding Hot Topic
+Adding Images
+Adding Links
+Creating Headline
+Creating Slideshow - Coming Soon
+Staging Content to Live Server - Coming Soon
+
+
+
+
+
+
+Back to Top   /   Next    
+Introduction into Kentico CMS
+About Kentico:
+Kentico CMS for ASP.NET is a piece of software that allows a person without any programming knowledge to create a powerful dynamic website. 
+By using Kentico CMS, you will be able to manage and edit the content of your website in a quick, efficient and professional manner. 
+Login into CMS:
+
+Open your web browser (We prefer you use FireFox) and go to your web site.
+
+At the very top of your web site, click Sign in to CMS Desk. This link is only available on the sample Corporate Site. On your own web site, you will need to go to: http://stage.newsmax.cms/cmsdesk
+
+After navigating to the URL you will be asked for you windows log in Username and Password (The identification used for logging on to your computer).
+
+Interface Overview:
+The user interface of Kentico CMS consists of several sections. You will see that each of these sections has its specific functionality and its logical relation to the others. As a whole, the sections form and graphical interface that is easy to use and quick to navigate through. 
+
+
+
+
+The main sections are:
+
+Document actions toolbar where you can create, delete, edit, copy, move or sort documents. 
+Main menu where you can switch between the Content, My Desk, Tools and Administration sections. You will be using only the Content tab most of the time. 
+View mode selection that allows you to choose between editing, preview, live view and list view depending on whether you want to edit content of your web site or just see how it looks in a browser. 
+Page Editing Mode that allows you to choose between editing, design, form, product and properties for the page. 
+WYSIWYG editor Toolbar displays the editing toolbar for content. 
+Content tree that displays the structure of your web site and allows you to organize documents/pages in it. 
+Page in Editing mode where you can choose the way you want to edit the content of the page. You can choose from editing a content of your page, editing document fields and product or document properties. If you're an administrator, you can also design the page template. 
+Editable Region where the page chosen in the content tree is displayed in the mode that has been selected in the view and page editing toolbar. 
+
+
+Back to Top    /   Next    
+Adding a new article (Internal Article)
+To create a new article in the Kentico / Newmax CMS you must first login. If you do not have a username or password please refer to the introduction section, Login into CMS.
+Step 1: Navigating to Article Folder
+Click the plus icon next to the Manage folder icon on the menu tree on the left.
+
+Click on the Articles folder icon on the menu tree. This will display the Manage Articles page on the right panel.
+
+Step 2:  Creating Article in Management Section
+Click the Create new button on the menu. Note that you can manage any Article created by other users and search for articles using the Filter section.
+
+Step 3: Form Field Details
+After clicking the Create New button a form will display with the fields needed to create an article.
+
+Step 4: Saving and Preview Article
+After entering the article information, click the save button at the top of the page. After the article has been saved you can preview and edit the article.
+Saving an Article:
+
+Preview article:
+
+
+Back to Top    /   Next    
+Creating External Article Links
+To create a new external article link in the Kentico / Newmax CMS you must first login. If you do not have a username or password please refer to the introduction section, Login into CMS.
+Step 1: Navigating to Article Folder
+Click the plus icon next to the Manage folder icon on the menu tree on the left.
+
+Click on the Articles folder icon on the menu tree. This will display the Manage Articles page on the right panel. 
+
+Step 2:  Creating Article in Management Section
+Click the Create new button on the menu. Note that you can manage any Article created by other users and search for articles using the Filter section.
+
+Click the External Link button under the type section to select the External Link Article form.
+
+Step 3: Form Field Details
+
+Step 4:  Saving and Preview Article
+After entering the article information, click the save button at the top of the page. After the article has been saved you can preview and edit the article.
+Saving an Article:
+
+Preview article:
+
+
+Back to Top   /   Next    
+Creating Article from External Feeds
+To create a new external article from link in the Kentico / Newmax CMS you must first login. If you do not have a username or password please refer to the introduction section,  Login into CMS.
+Step 1: Navigating to Article Folder
+Click the plus icon next to the Manage folder icon on the menu tree on the left.
+
+Click the plus icon next to the Articles folder icon on the menu tree. This will display the sub documents for this folder. Click on the External Feeds icon.
+
+Step 2: Adding the Article to the Manage Grid
+The External Feed gird will be displayed on the right panel. Click the Select button next to the Article you wish to import.
+
+The article will display in a small pop up window. Scroll to the bottom and click Import Article.
+
+ 
+
+Once the Article is imported the grid line will display blue. This means the article has been imported successfully. If the bar displays red, there was a problem importing the article and you should try again before contacting support. The article will now display in the Manage Articles section .
+
+
+
+
+
+
+
+Back to Top    /   Next    
+Adding an Author
+Step 1:  Navigating to Author Custom Table
+To add an author to the article Author field.  Click on the Tools tab at the top of the page.
+
+Then click the Custom Tables icon in the menu tree on the left.
+
+Then on the right panel, click the Article Authors icon.
+Step 2:  Adding a new Author
+To add a new Author, click the New Item button.
+
+
+Enter the Authors name into the field and click the OK button to add the new author to the dropdown list.
+
+
+Back to Top    /   Next    
+Adding Blog Articles & Creating Featured Blog 
+Step 1: Creating a Blog Article
+Click the plus icon next to the Manage folder icon on the menu tree on the left.
+
+Click on the Articles folder icon on the menu tree. This will display the Manage Articles page on the right panel. 
+
+To add an Article to a blog you first have to create an Article and assign it to the Blogger. Once the Article is assigned to that Blogger under the Author dropdown section, you have to add a headline and add the article to the Blogger section..
+
+(In the Article creation form)
+
+
+(Adding an Article to Blogger section)
+
+(Bloggers homepage on Newsmax.com)
+Step 2: Creating Featured Blog
+To order, add or remove a Blogger from the featured section and main blog page, you will have to access them by ordering them in a custom table. Click the TOOLS tab and then choose which task you would like to do.
+
+
+Blog Gallery Ordering Tool:
+ This order the blogger on the main page (www.newsmax.com/blogs). Note: Chris R will always be number one on this for both Newsmax and Moneynews. After you have completed your order, click the Save button.
+
+
+Moneynews Blog Configuration: 
+This allows you to order the blog on the main page of Moneynews. Use the buttons to add, remove and order the Bloggers.After you have completed your order, click the Save button.
+
+
+Newsmax Blog Configuration:
+This allows you to order the blog on the main page of Moneynews. Use the buttons to add, remove and order the Bloggers. After you have completed your order, click the Save button.
+
+
+
+Back to Top   /   Next    
+Adding News Sources
+Step 1:  Navigating to News Sources Custom Table
+To add a new source to the Article dropdown section. Click on the Tools tab at the top of the page.
+
+
+Then click the Custom Tables icon in the menu tree on the left.
+
+
+Then on the right panel, click the News Sources icon.
+
+Step 2:  Adding a new Source
+Enter the information  into the field and click the OK button to add the new source.
+
+
+Back to Top    /   Next    
+Adding Advertorials
+Step 1:  Navigating to Advertorials Custom Table
+To add a new source to the Article dropdown section. Click on the Tools tab at the top of the page.
+
+Then click the Custom Tables icon in the menu tree on the left.
+
+Then on the right panel, click the Advertorials icon.
+
+
+Step 2:  Adding a Advertorial Custom Table
+To add a new Advertorial, click the New Item button.
+
+Enter the information into the field and click the OK button to add a new advertorials.
+
+
+Back to Top    /   Next    
+Setting Default Advertorials
+Step 1: Navigating to Default Advertorials Table
+To add a new source to the Article dropdown section. Click on the Tools tab at the top of the page.
+
+
+    Then click the Default Advertorials Tables icon in the menu tree on the left.
+
+Step 2:  Setting Custom Advertorials for Each Website. 
+Select the fields. Click the add or remove button by the ecomm to manage it.
+
+
+
+
+Back to Top   /   Next    
+Adding Hot Topics
+Step 1:  Navigating to Hot Topic Table
+To add a new source to the Article dropdown section. Click on the Tools tab at the top of the page.
+
+Then click the Custom Tables icon in the menu tree on the left.
+
+Then on the right panel, click the Hot Topic icon.
+
+Step 2:  Adding a new Hot Topic
+Enter the information into the field and click the OK button to add the new Hot Topic.
+
+Enter the topic into the field and click the OK button.
+
+
+Back to Top   /   Next    
+Adding Images
+Step 1:  Navigating to the Image folder
+To add a image to an article, the image has to be uploaded into the image folder. Click the Manage folder > Media Folder > Images Folder > And select the correct folder for the image to be placed in.
+
+
+Step 2:  Uploading an Image to a folder
+After selecting the correct folder to place the image, make sure that folder is select / highlighted and click the new button at the top of the page.
+
+The New Document window should appear in the right panel. Click the File button.
+
+Click the Browse button by the upload file field. Choose your file and click open and then hit the Save button. This will upload the image into the folder you have selected.
+
+
+Step 3:  Adding an Image to an Article
+Select the Article Text field in the Article form. Click the image button on the toolbar.
+Click the Browse Server button and select the image need to be inserted.
+
+After you have selected the image, click the Upload File button. A preview of image will be displayed in the Image Properties box.  Click OK button on the image properties box and the image will display in the Article Text section of the form. 
+
+
+
+Back to Top   /   Next    
+Adding Links
+Step 1:  Adding a link to an article
+To add a link to an article, first select the word or sentence you wish to link. 
+
+Click the Link Icon on the toolbar above the article form.
+
+Internal link:
+The Link properties box will display. Click the Browse Server button and navigate using the menu tree on the left to the page you want to link. Once you have selected the page click the OK button at the bottom of the box. Then click the OK button in the Link properties box to insert the link.
+
+
+External link:
+The Link properties box will display. Type the URL you wish to link to in the URL field. Click the OK button to insert the link.
+
+
+
+Back to Top    /   Next    
+Creating Headline:
+**NOTE***
+Before adding a headline to the site make sure the that Headline Article is added to the site using the Create External Article Link. The headline can not be created without this process being completed first.
+Step 1: Navigating to Headline Folder
+Click the plus icon next to the Manage folder icon on the menu tree on the left.
+
+Click on the Headline folder icon on the menu tree. This will display the Manage Headline page on the right panel. Here you can create a new Headline or edit an exsiting one.
+
+
+Step 2: Create a new Headline
+On the Manage Headline Page. Click Creat New button at the top left of the page.
+
+After clicking the Create New button a form will display with the fields needed to create the Headline Article.
+
+Step 4: Saving and Preview Headline Article
+After entering the article information, click the save button at the top of the page. After the article has been saved you can preview and edit the article.
+Saving an Headline Article:
+
+Preview Headline Article:
+
+

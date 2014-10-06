@@ -1,0 +1,947 @@
+Wildfire - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+Wildfire
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+
+
+					Jump to: navigation,
+					search
+
+
+
+"Crown Fire" redirects here. For the 2010 wildfire in Southern California, see 2010 California wildfires.
+For other uses, see Wildfire (disambiguation).
+
+
+
+
+A wildfire in California, 5 September 2008
+
+
+A wildfire is any uncontrolled fire in combustible vegetation that occurs in the countryside or a wilderness area.[1][2] Other names such as brush fire, bushfire, forest fire, desert fire, grass fire, hill fire, peat fire, vegetation fire, veldfire, and wildland fire may be used to describe the same phenomenon depending on the type of vegetation being burned. A wildfire differs from other fires by its extensive size, the speed at which it can spread out from its original source, its potential to change direction unexpectedly, and its ability to jump gaps such as roads, rivers and fire breaks.[3] Wildfires are characterized in terms of the cause of ignition, their physical properties such as speed of propagation, the combustible material present, and the effect of weather on the fire.[4]
+Wildfires occur on every continent except Antarctica. Fossil records and human history contain accounts of wildfires, as wildfires can occur in periodic intervals.[5][6] Wildfires can cause extensive damage, both to property and human life, but they also have various beneficial effects on wilderness areas. Some plant species depend on the effects of fire for growth and reproduction,[5] although large wildfires may also have negative ecological effects.[4]
+Strategies of wildfire prevention, detection, and suppression have varied over the years, and international wildfire management experts encourage further development of technology and research.[7] One of the more controversial techniques is controlled burning: permitting or even igniting smaller fires to minimize the amount of flammable material available for a potential wildfire.[8][9] While some wildfires burn in remote forested regions, they can cause extensive destruction of homes and other property located in the wildland-urban interface: a zone of transition between developed areas and undeveloped wilderness.[8][10]
+
+
+Part of a series on
+Wildland
+Firefighting
+
+
+
+
+
+Main articles
+
+
+
+Wildfire · Bushfires · Wildfire suppression
+
+
+
+Tactics & Equipment
+
+
+
+Aerial firefighting · Controlled burn · Firebreak · Fire trail · Fire lookout tower · Fire-retardant gel · Fire fighting foam · Fire retardant · Helicopter bucket · Driptorch
+
+
+
+Personnel
+
+
+
+Handcrew · Hotshots · Helitack · Smokejumper · Rappeller · Engine crew
+
+
+
+Lists
+
+
+
+List of wildfires
+Glossary of wildfire terms
+This box: view · talk · edit
+
+
+
+
+
+
+
+Contents
+
+
+1 Characteristics
+
+1.1 Causes
+1.2 Fuel type
+1.3 Physical properties
+1.4 Effect of weather
+
+
+2 Ecology
+
+2.1 Plant adaptation
+2.2 Atmospheric effects
+
+
+3 History
+
+3.1 Human involvement
+
+
+4 Prevention
+5 Policy
+
+5.1 History of Wildland Fire Policy in the U.S.
+5.2 Economics of Fire Management Policy
+
+
+6 Detection
+7 Suppression
+
+7.1 Modeling
+
+
+8 See also
+9 Notes
+10 References
+11 Bibliography
+12 External links
+
+
+
+
+[edit] Characteristics
+
+
+
+
+The distribution of wildfires on the African continent during the year 2002.
+
+
+The name wildfire was once a synonym for Greek fire but now refers to any large or destructive conflagration.[2] Wildfires differ from other fires in that they take place outdoors in areas of grassland, woodlands, bushland, scrubland, peatland, and other wooded areas that act as a source of fuel, or combustible material. Buildings may become involved if a wildfire spreads to adjacent communities. While the causes of wildfires vary and the outcomes are always unique, all wildfires can be characterized in terms of their physical properties, their fuel type, and the effect that weather has on the fire.
+Wildfire behavior and severity result from the combination of factors such as available fuels, physical setting, and weather.[11][12][13] While wildfires can be large, uncontrolled disasters that burn through 0.4 to 400 square kilometers (100 to 100,000 acres) or more, they can also be as small as 0.0010 square kilometers (0.25 acre) or less.[14][15][16] Although smaller events may be included in wildfire modeling, most do not earn press attention. This can be problematic because public fire policies, which relate to fires of all sizes, are influenced more by the way the media portrays catastrophic wildfires than by small fires.[17][18][19]
+[edit] Causes
+The four major natural causes of wildfire ignitions are lightning, volcanic eruption, sparks from rockfalls, and spontaneous combustion.[20][21] The thousands of coal seam fires that are burning around the world, such as those in Centralia, Burning Mountain, and several coal-sustained fires in China, can also flare up and ignite nearby flammable material.[22] However, many wildfires are attributed to human sources such as arson, discarded cigarettes, sparks from equipment, and power line arcs (as detected by arc mapping).[23][24] In societies experiencing shifting cultivation where land is cleared quickly and farmed until the soil loses fertility, slash and burn clearing is often considered the least expensive way to prepare land for future use.[25][26] Forested areas cleared by logging encourage the dominance of flammable grasses, and abandoned logging roads overgrown by vegetation may act as fire corridors. Annual grassland fires in southern Vietnam can be attributed in part to the destruction of forested areas by US military herbicides, explosives, and mechanical land clearing and burning operations during the Vietnam War.[27]
+The most common cause of wildfires varies throughout the world. In the United States, Canada, and northwest China, for example, lightning is the major source of ignition. In other parts of the world, human involvement is a major contributor. In Mexico, Central America, South America, Africa, Southeast Asia, Fiji, and New Zealand, wildfires can be attributed to human activities such as animal husbandry, agriculture, and land-conversion burning. Human carelessness is a major cause of wildfires in China and in the Mediterranean Basin. In Australia, the source of wildfires can be traced to both lightning strikes and human activities such as machinery sparks and cast-away cigarette butts."[6]
+[edit] Fuel type
+
+
+
+
+A surface fire in the western desert of Utah, U.S.
+
+
+
+
+
+
+Charred landscape following a crown fire in the North Cascades, U.S.
+
+
+The spread of wildfires varies based on the flammable material present and its vertical arrangement.[28] For example, fuels uphill from a fire are more readily dried and warmed by the fire than those downhill, yet burning logs can roll downhill from the fire to ignite other fuels. Fuel arrangement and density is governed in part by topography, as land shape determines factors such as available sunlight and water for plant growth. Overall, fire types can be generally characterized by their fuels as follows:[note 1]
+
+Ground fires are fed by subterranean roots, duff and other buried organic matter. This fuel type is especially susceptible to ignition due to spotting. Ground fires typically burn by smoldering, and can burn slowly for days to months, such as peat fires in Kalimantan and Eastern Sumatra, Indonesia, which resulted from a riceland creation project that unintentionally drained and dried the peat.[29][30]
+Crawling or surface fires are fueled by low-lying vegetation such as leaf and timber litter, debris, grass, and low-lying shrubbery.[31]
+Ladder fires consume material between low-level vegetation and tree canopies, such as small trees, downed logs, and vines. Kudzu, Old World climbing fern, and other invasive plants that scale trees may also encourage ladder fires.[32]
+Crown, canopy, or aerial fires burn suspended material at the canopy level, such as tall trees, vines, and mosses. The ignition of a crown fire, termed crowning, is dependent on the density of the suspended material, canopy height, canopy continuity, and sufficient surface and ladder fires in order to reach the tree crowns.[33] For example, ground-clearing fires lit by humans can spread into the Amazon rain forest, damaging ecosystems not particularly suited for heat or arid conditions.[34]
+
+[edit] Physical properties
+See also: Combustion, Fire control, Extreme weather, and Firestorm
+Wildfires occur when all of the necessary elements of a fire triangle come together in a susceptible area: an ignition source is brought into contact with a combustible material such as vegetation, that is subjected to sufficient heat and has an adequate supply of oxygen from the ambient air. A high moisture content usually prevents ignition and slows propagation, because higher temperatures are required to evaporate any water within the material and heat the material to its fire point.[3][13] Dense forests usually provide more shade, resulting in lower ambient temperatures and greater humidity, and are therefore less susceptible to wildfires.[35] Less dense material such as grasses and leaves are easier to ignite because they contain less water than denser material such as branches and trunks.[36] Plants continuously lose water by evapotranspiration, but water loss is usually balanced by water absorbed from the soil, humidity, or rain.[37] When this balance is not maintained, plants dry out and are therefore more flammable, often a consequence of droughts.[38][39]
+
+
+
+
+Experimental fire in Canada
+
+
+A wildfire front is the portion sustaining continuous flaming combustion, where unburned material meets active flames, or the smoldering transition between unburned and burned material.[40] As the front approaches, the fire heats both the surrounding air and woody material through convection and thermal radiation. First, wood is dried as water is vaporized at a temperature of 100 °C (212 °F). Next, the pyrolysis of wood at 230 °C (450 °F) releases flammable gases. Finally, wood can smolder at 380 °C (720 °F) or, when heated sufficiently, ignite at 590 °C (1,000 °F).[41][42] Even before the flames of a wildfire arrive at a particular location, heat transfer from the wildfire front warms the air to 800 °C (1,470 °F), which pre-heats and dries flammable materials, causing materials to ignite faster and allowing the fire to spread faster.[36][43] High-temperature and long-duration surface wildfires may encourage flashover or torching: the drying of tree canopies and their subsequent ignition from below.[44]
+Wildfires have a rapid forward rate of spread (FROS) when burning through dense, uninterrupted fuels.[45] They can move as fast as 10.8 kilometers per hour (6.7 mph) in forests and 22 kilometers per hour (14 mph) in grasslands.[46] Wildfires can advance tangential to the main front to form a flanking front, or burn in the opposite direction of the main front by backing.[47] They may also spread by jumping or spotting as winds and vertical convection columns carry firebrands (hot wood embers) and other burning materials through the air over roads, rivers, and other barriers that may otherwise act as firebreaks.[48][49] Torching and fires in tree canopies encourage spotting, and dry ground fuels that surround a wildfire are especially vulnerable to ignition from firebrands.[50] Spotting can create spot fires as hot embers and firebrands ignite fuels downwind from the fire. In Australian bushfires, spot fires are known to occur as far as 10 kilometers (6 mi) from the fire front.[51]
+Especially large wildfires may affect air currents in their immediate vicinities by the stack effect: air rises as it is heated, and large wildfires create powerful updrafts that will draw in new, cooler air from surrounding areas in thermal columns.[52] Great vertical differences in temperature and humidity encourage pyrocumulus clouds, strong winds, and fire whirls with the force of tornadoes at speeds of more than 80 kilometers per hour (50 mph).[53][54][55] Rapid rates of spread, prolific crowning or spotting, the presence of fire whirls, and strong convection columns signify extreme conditions.[56]
+[edit] Effect of weather
+Heat waves, droughts, cyclical climate changes such as El Niño, and regional weather patterns such as high-pressure ridges can increase the risk and alter the behavior of wildfires dramatically.[57][58] Years of precipitation followed by warm periods can encourage more widespread fires and longer fire seasons.[59] Since the mid 1980s, earlier snowmelt and associated warming has also been associated with an increase in length and severity of the wildfire season in the Western United States.[60] However, one individual element does not always cause an increase in wildfire activity. For example, wildfires will not occur during a drought unless accompanied by other factors, such as lightning (ignition source) and strong winds (mechanism for rapid spread).[61]
+Fire intensity also increases during daytime hours. Burn rates of smoldering logs are up to five times greater during the day due to lower humidity, increased temperatures, and increased wind speeds.[62] Sunlight warms the ground during the day which creates air currents that travel uphill. At night the land cools, creating air currents that travel downhill. Wildfires are fanned by these winds and often follow the air currents over hills and through valleys.[63] Fires in Europe occur frequently during the hours of 12:00 p.m. and 2:00 p.m.[64] Wildfire suppression operations in the United States revolve around a 24-hour fire day that begins at 10:00 a.m. due to the predictable increase in intensity resulting from the daytime warmth.[65]
+[edit] Ecology
+Main article: Fire ecology
+See also: Disturbance (ecology) and Forestry
+
+
+
+
+Global fires during the year 2008 for the months of August (top image) and February (bottom image), as detected by the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA's Terra satellite.
+
+
+Wildfires are common in climates that are sufficiently moist to allow the growth of vegetation but feature extended dry, hot periods.[5] Such places include the vegetated areas of Australia and Southeast Asia, the veld in southern Africa, the fynbos in the Western Cape of South Africa, the forested areas of the United States and Canada, and the Mediterranean Basin. Fires can be particularly intense during days of strong winds, periods of drought, and during warm summer months.[66][67] Global warming may increase the intensity and frequency of droughts in many areas, creating more intense and frequent wildfires.[4][68][69]
+Although some ecosystems rely on naturally occurring fires to regulate growth, many ecosystems suffer from too much fire, such as the chaparral in southern California and lower elevation deserts in the American Southwest. The increased fire frequency in these ordinarily fire-dependent areas has upset natural cycles, destroyed native plant communities, and encouraged the growth of fire-intolerant vegetation and non-native weeds.[70][71][72][73] Invasive species, such as Lygodium microphyllum and Bromus tectorum, can grow rapidly in areas that were damaged by fires. Because they are highly flammable, they can increase the future risk of fire, creating a positive feedback loop that increases fire frequency and further destroys native growth.[32][74]
+In the Amazon Rainforest, drought, logging, cattle ranching practices, and slash-and-burn agriculture damage fire-resistant forests and promote the growth of flammable brush, creating a cycle that encourages more burning.[75] Fires in the rainforest threaten its collection of diverse species and produce large amounts of CO2.[76] Also, fires in the rainforest, along with drought and human involvement, could damage or destroy more than half of the Amazon rainforest by the year 2030.[77] Wildfires generate ash, destroy available organic nutrients, and cause an increase in water runoff, eroding away other nutrients and creating flash flood conditions.[28][78] A 2003 wildfire in the North Yorkshire Moors destroyed 2.5 square kilometers (600 acres) of heather and the underlying peat layers. Afterwards, wind erosion stripped the ash and the exposed soil, revealing archaeological remains dating back to 10,000 BC.[79] Wildfires can also have an effect on climate change, increasing the amount of carbon released into the atmosphere and inhibiting vegetation growth, which affects overall carbon uptake by plants.[80]
+[edit] Plant adaptation
+
+
+
+
+Ecological succession after a wildfire in a boreal pine forest next to Hara Bog, Lahemaa National Park, Estonia. The pictures were taken one and two years after the fire.
+
+
+Plants in wildfire-prone ecosystems often survive through adaptations to their local fire regime. Such adaptations include physical protection against heat, increased growth after a fire event, and flammable materials that encourage fire and may eliminate competition. For example, plants of the genus Eucalyptus contain flammable oils that encourage fire and hard sclerophyll leaves to resist heat and drought, ensuring their dominance over less fire-tolerant species.[81][82] Dense bark, shedding lower branches, and high water content in external structures may also protect trees from rising temperatures.[5] Fire-resistant seeds and reserve shoots that sprout after a fire encourage species preservation, as embodied by pioneer species. Smoke, charred wood, and heat can stimulate the germination of seeds in a process called serotiny.[83] Exposure to smoke from burning plants promotes germination in other types of plants by inducing the production of the orange butenolide.[84]
+Grasslands in Western Sabah, Malaysian pine forests, and Indonesian Casuarina forests are believed to have resulted from previous periods of fire.[85] Chamise deadwood litter is low in water content and flammable, and the shrub quickly sprouts after a fire.[5] Sequoia rely on periodic fires to reduce competition, release seeds from their cones, and clear the soil and canopy for new growth.[86] Caribbean Pine in Bahamian pineyards have adapted to and rely on low-intensity, surface fires for survival and growth. An optimum fire frequency for growth is every 3 to 10 years. Too frequent fires favor herbaceous plants, and infrequent fires favor species typical of Bahamian dry forests.[87]
+[edit] Atmospheric effects
+See also: Air pollution, Atmospheric chemistry, Haze, 1997 Southeast Asian haze, 2005 Malaysian haze, and 2006 Southeast Asian haze
+
+
+
+
+A Pyrocumulus cloud produced by a wildfire in Yellowstone National Park
+
+
+Most of the Earth's weather and air pollution resides in the troposphere, the part of the atmosphere that extends from the surface of the planet to a height of about 10 kilometers (6 mi). The vertical lift of a severe thunderstorm or pyrocumulonimbus can be enhanced in the area of a large wildfire, which can propel smoke, soot, and other particulate matter as high as the lower stratosphere.[88] Previously, prevailing scientific theory held that most particles in the stratosphere came from volcanoes, but smoke and other wildfire emissions have been detected from the lower stratosphere.[89] Pyrocumulus clouds can reach 6,100 meters (20,000 ft) over wildfires.[90] Increased fire byproducts in the stratosphere can increase ozone concentration beyond safe levels.[91] Satellite observation of smoke plumes from wildfires revealed that the plumes could be traced intact for distances exceeding 1,600 kilometers (1,000 mi).[92] Computer-aided models such as CALPUFF may help predict the size and direction of wildfire-generated smoke plumes by using atmospheric dispersion modeling.[93]
+Wildfires can affect climate and weather and have major impacts on atmospheric pollution.[94] Wildfire emissions contain fine particulate matter which can cause cardiovascular and respiratory problems.[95] Forest fires in Indonesia in 1997 were estimated to have released between 0.81 and 2.57 gigatonnes (0.89 and 2.83 billion short tons) of CO2 into the atmosphere, which is between 13%–40% of the annual carbon dioxide emissions from burning fossil fuels.[96][97] Atmospheric models suggest that these concentrations of sooty particles could increase absorption of incoming solar radiation during winter months by as much as 15%.[98]
+
+
+
+
+
+
+Smoke trail from a fire seen while looking towards Dargo from Swifts Creek, Victoria, Australia, 11 January 2007
+
+
+[edit] History
+Further information: Fossil record of fire
+In the Welsh Borders, the first evidence of wildfire is rhyniophytoid plant fossils preserved as charcoal, dating to the Silurian period (about 420 million years ago). Smoldering surface fires started to occur sometime before the Early Devonian period 405 million years ago. Low atmospheric oxygen during the Middle and Late Devonian was accompanied by a decrease in charcoal abundance.[99][100] Additional charcoal evidence suggests that fires continued through the Carboniferous period. Later, the overall increase of atmospheric oxygen from 13% in the Late Devonian to 30-31% by the Late Permian was accompanied by a more widespread distribution of wildfires.[101] Later, a decrease in wildfire-related charcoal deposits from the late Permian to the Triassic periods is explained by a decrease in oxygen levels.[102]
+Wildfires during the Paleozoic and Mesozoic periods followed patterns similar to fires that occur in modern times. Surface fires driven by dry seasons are evident in Devonian and Carboniferous progymnosperm forests. Lepidodendron forests dating to the Carboniferous period have charred peaks, evidence of crown fires. In Jurassic gymnosperm forests, there is evidence of high frequency, light surface fires.[102] The increase of fire activity in the late Tertiary[103] is possibly due to the increase of C4-type grasses. As these grasses shifted to more mesic habitats, their high flammability increased fire frequency, promoting grasslands over woodlands.[104] However, fire-prone habitats may have contributed to the prominence of trees such as those of the genus Pinus, which have thick bark to withstand fires and employ serotiny.[105]
+[edit] Human involvement
+See also: Control of fire by early humans, Deforestation#Historical causes, Environmental history, History of firefighting, and List of wildfires
+The human use of fire for agricultural and hunting purposes during the Paleolithic and Mesolithic ages altered the preexisting landscapes and fire regimes. Woodlands were gradually replaced by smaller vegetation that facilitated travel, hunting, seed-gathering and planting.[106] In recorded human history, minor allusions to wildfires were mentioned in the Bible and by classical writers such as Homer. However, while ancient Hebrew, Greek, and Roman writers were aware of fires, they were not very interested in the uncultivated lands where wildfires occurred.[107][108] Wildfires were used in battles throughout human history as early thermal weapons. From the Middle ages, accounts were written of occupational burning as well as customs and laws that governed the use of fire. In Germany, regular burning was documented in 1290 in the Odenwald and in 1344 in the Black Forest.[109] In the 14th century Sardinia, firebreaks were used for wildfire protection. In Spain during the 1550s, sheep husbandry was discouraged in certain provinces by Philip II due to the harmful effects of fires used in transhumance.[107][108] As early as the 17th century, Native Americans were observed using fire for many purposes including cultivation, signaling, and warfare. Scottish botanist David Douglas noted the native use of fire for tobacco cultivation, to encourage deer into smaller areas for hunting purposes, and to improve foraging for honey and grasshoppers. Charcoal found in sedimentary deposits off the Pacific coast of Central America suggests that more burning occurred in the 50 years before the Spanish colonization of the Americas than after the colonization.[110] In the post-World War II Baltic region, socio-economic changes led more stringent air quality standards and bans on fires that eliminated traditional burning practices.[109]
+Wildfires typically occurred during periods of increased temperature and drought. An increase in fire-related debris flow in alluvial fans of northeastern Yellowstone National Park was linked to the period between AD 1050 and 1200, coinciding with the Medieval Warm Period.[111] However, human influence caused an increase in fire frequency. Dendrochronological fire scar data and charcoal layer data in Finland suggests that, while many fires occurred during severe drought conditions, an increase in the number of fires during 850 BC and 1660 AD can be attributed to human influence.[112] Charcoal evidence from the Americas suggested a general decrease in wildfires between 1 AD and 1750 compared to previous years. However, a period of increased fire frequency between 1750 and 1870 was suggested by charcoal data from North America and Asia, attributed to human population growth and influences such as land clearing practices. This period was followed by an overall decrease in burning in the 20th century, linked to the expansion of agriculture, increased livestock grazing, and fire prevention efforts.[113]
+[edit] Prevention
+See also: Fire protection
+
+
+
+
+1985 Smokey Bear poster with part of his admonition, "Only you can prevent forest fires".
+
+
+Wildfire prevention refers to the preemptive methods of reducing the risk of fires as well as lessening its severity and spread.[114] Effective prevention techniques allow supervising agencies to manage air quality, maintain ecological balances, protect resources,[74] and to limit the effects of future uncontrolled fires.[115] North American firefighting policies may permit naturally caused fires to burn to maintain their ecological role, so long as the risks of escape into high-value areas are mitigated.[116] However, prevention policies must consider the role that humans play in wildfires, since, for example, 95% of forest fires in Europe are related to human involvement.[117] Sources of human-caused fire may include arson, accidental ignition, or the uncontrolled use of fire in land-clearing and agriculture such as the slash-and-burn farming in Southeast Asia.[118]
+In the mid-19th century, explorers from the HMS Beagle observed Australian Aborigines using fire for ground clearing, hunting, and regeneration of plant food in a method later named fire-stick farming.[119] Such careful use of fire has been employed for centuries in the lands protected by Kakadu National Park to encourage biodiversity.[120] In 1937, U.S. President Franklin D. Roosevelt initiated a nationwide fire prevention campaign, highlighting the role of human carelessness in forest fires. Later posters of the program featured Uncle Sam, leaders of the Axis powers of World War II, characters from the Disney movie Bambi, and the official mascot of the U.S. Forest Service, Smokey Bear.[121]
+
+
+
+
+A prescribed burn in a Pinus nigra stand in Portugal
+
+
+Wildfires are caused by a combination of natural factors such as topography, fuels, and weather. Other than reducing human infractions, only fuels may be altered to affect future fire risk and behavior.[28] Wildfire prevention programs around the world may employ techniques such as wildland fire use and prescribed or controlled burns.[1][122][123] Wildland fire use refers to any fire of natural causes that is monitored but allowed to burn. Controlled burns are fires ignited by government agencies under less dangerous weather conditions.[124]
+Vegetation may be burned periodically to maintain high species diversity, and frequent burning of surface fuels limits fuel accumulation, thereby reducing the risk of crown fires.[125][126] Using strategic cuts of trees, fuels may also be removed by handcrews in order to clean and clear the forest, prevent fuel build-up, and create access into forested areas.[127] Chain saws and large equipment can be used to thin out ladder fuels and shred trees and vegetation to a mulch.[128] Multiple fuel treatments are often needed to influence future fire risks, and wildfire models may be used to predict and compare the benefits of different fuel treatments on future wildfire spread.[28]
+However, controlled burns are reportedly "the most effective treatment for reducing a fire’s rate of spread, fireline intensity, flame length, and heat per unit of area" according to Jan Van Wagtendonk, a biologist at the Yellowstone Field Station.[129] Additionally, while fuel treatments are typically limited to smaller areas, effective fire management requires the administration of fuels across large landscapes in order to reduce future fire size and severity.[130]
+Building codes in fire-prone areas typically require that structures be built of flame-resistant materials and a defensible space be maintained by clearing flammable materials within a prescribed distance from the structure.[131][132] Communities in the Philippines also maintain fire lines 5 to 10 meters (16 to 33 ft) wide between the forest and their village, and patrol these lines during summer months or seasons of dry weather.[133] Fuel buildup can result in costly, devastating fires as new homes, ranches, and other development are built adjacent to wilderness areas. Continued growth in fire-prone areas and rebuilding structures destroyed by fires has been met with criticism.[134]
+However, the population growth along the wildland-urban interface discourages the use of current fuel management techniques. Smoke is an irritant and attempts to thin out the fuel load is met with opposition due to desirability of forested areas, in addition to other wilderness goals such as endangered species protection and habitat preservation.[135] The ecological benefits of fire are often overridden by the economic and safety benefits of protecting structures and human life.[136] For example, while fuel treatments decrease the risk of crown fires, these techniques destroy the habitats of various plant and animal species.[137] Additionally, government policies that cover the wilderness usually differ from local and state policies that govern urban lands.[74][138]
+
+
+
+
+
+A ponderosa pine stand in the Bitterroot National Forest in Montana in 1909, 1948, and 1989. The increase in vegetation density was attributed to fire prevention efforts since 1895.[139]
+
+
+[edit] Policy
+[edit] History of Wildland Fire Policy in the U.S.
+Since the turn of the 20th century, various federal and state agencies have been involved in wildland fire management in one form or another. In the early 20th century, for example, the federal government, through the U.S. Army and the U.S. Forest Service, solicited fire suppression as a primary goal of managing the nation’s forests. At this time in history fire was viewed as a threat to timber-an economically important natural resource. As such, rational decisions were made to devote public funds to fire suppression and fire prevention efforts. For example, the Forest Fire Emergency Fund Act of 1908 permitted deficit spending in the case of emergency fire situations.[140] As a result, the U.S. Forest Service was able to acquire a deficit of over $1 million in 1910 due to emergency fire suppression efforts.[140] Following the same tone of timber resource protection, the U.S. Forest Service adopted the “10 AM Policy” in 1935.[140] Through this policy the agency advocated the control of all fires by 10 o’clock of the morning following the discovery of a wildfire. Fire prevention was also heavily advocated through public education campaigns such as Smokey the Bear. Through these and similar public education campaigns the general public was, in a sense, trained to perceive all wildfire as a threat to civilized society and natural resources. The negative sentiment towards wildland fire prevailed and helped to shape wildland fire management objectives throughout most of the 20th century.
+Beginning in the 1970s public perception of wildland fire management began to shift.[140] Despite portly funding for fire suppression in the first half of the 20th century, massive wildfires continued to be prevalent across the landscape of North America. Natural resource professionals and ordinary citizens alike became curious about the ecological effects of wildfire. Ecologists were beginning to recognize the presence and ecological importance of natural lightning-ignited wildfires across the United States. Along with this new discovery of fire knowledge and the emergence of fire ecology as a science came an effort to apply fire to land in a controlled manner. It was learned that suppression of fire in certain ecosystems actually increases the likelihood that a wildfire will occur and increases the intensity of those wildfires. By the 1980s funding efforts began to support prescribed burning.[140] In light of emerging information about wildland fire, rational thought justified funding prescribed burning in order to prevent catastrophic wildfire events. In this way, the costs of implementing prescribed burns were thought to be less than the costs imposed on society by catastrophic wildfires. In addition to using prescribed fire to reduce the chance of catastrophic wildfires, mechanical methods have recently been adopted as well. Mechanical methods include the use of chippers and other machinery to remove hazardous fuels and thereby reduce the risk of wildfire events.
+[edit] Economics of Fire Management Policy
+Similar to that of military operations, fire management is often very expensive in the U.S. Today, it is not uncommon for suppression operations for a single wildfire to exceed costs of $1 million in just a few days. Although fire suppression offers many benefits to society, other options for fire management exist. While these options can’t completely replace fire suppression as a fire management tool, other options can play an important role in overall fire management and can therefore affect the costs of fire suppression.
+The application of fire management tools requires making certa in tradeoffs. Below is a sample of some costs and benefits associated with the tools currently used in fire management. Current approaches to fire management are an almost complete turnaround compared to historic approaches. In fact, it is commonly accepted that past fire suppression, along with other factors, has resulted in larger, more intense wildfire events which are seen today.[141] In economic terms, expenditures used for wildfire suppression in the early 20th century have contributed to increased suppression costs which are being realized today.[141] As is the case with many public policy issues, costs and benefits associated with particular fire management tools are difficult to accurately quantify.[141] Ultimately, costs and benefits should be weighed against one another on a case-by-case basis in planning wildland fire management operations.[141]
+Depending on the tradeoffs that a land manager is willing to make, a combination of the following fire management tools could be used. For instance, prescribed fire and/or mechanical fuels reduction could be used to help prevent or lessen the intensity of a wildfire thereby reducing or eliminating suppression costs. In addition, prescribed fire and/or mechanical fuels reduction could be used to improve soil conditions in fields or in forests to the benefit of wildlife or natural resources. On the other hand, the use of prescribed fire requires much advanced planning and can have negative impacts on human health in nearby communities.
+
+[edit] Detection
+See also: Remote sensing
+
+
+
+
+Dry Mountain Fire Lookout in the Ochoco National Forest, Oregon, circa 1930
+
+
+Fast and effective detection is a key factor in wildfire fighting.[142] Early detection efforts were focused on early response, accurate results in both daytime and nighttime, and the ability to prioritize fire danger.[143] Fire lookout towers were used in the United States in the early 20th century and fires were reported using telephones, carrier pigeons, and heliographs.[144] Aerial and land photography using instant cameras were used in the 1950s until infrared scanning was developed for fire detection in the 1960s. However, information analysis and delivery was often delayed by limitations in communication technology. Early satellite-derived fire analyses were hand-drawn on maps at a remote site and sent via overnight mail to the fire manager. During the Yellowstone fires of 1988, a data station was established in West Yellowstone, permitting the delivery of satellite-based fire information in approximately four hours.[143]
+Currently, public hotlines, fire lookouts in towers, and ground and aerial patrols can be used as a means of early detection of forest fires. However, accurate human observation may be limited by operator fatigue, time of day, time of year, and geographic location. Electronic systems have gained popularity in recent years as a possible resolution to human operator error. These systems may be semi- or fully automated and employ systems based on the risk area and degree of human presence, as suggested by GIS data analyses. An integrated approach of multiple systems can be used to merge satellite data, aerial imagery, and personnel position via Global Positioning System (GPS) into a collective whole for near-realtime use by wireless Incident Command Centers.[145][146]
+A small, high risk area that features thick vegetation, a strong human presence, or is close to a critical urban area can be monitored using a local sensor network. Detection systems may include wireless sensor networks that act as automated weather systems: detecting temperature, humidity, and smoke.[147][148][149][150] These may be battery-powered, solar-powered, or tree-rechargeable: able to recharge their battery systems using the small electrical currents in plant material.[151] Larger, medium-risk areas can be monitored by scanning towers that incorporate fixed cameras and sensors to detect smoke or additional factors such as the infrared signature of carbon dioxide produced by fires. Additional capabilities such as night vision, brightness detection, and color change detection may also be incorporated into sensor arrays.[152][153][154]
+
+
+
+
+Wildfires across the Balkans in late July 2007 (MODIS image)
+
+
+Satellite and aerial monitoring through the use of planes, helicopter, or UAVs can provide a wider view and may be sufficient to monitor very large, low risk areas. These more sophisticated systems employ GPS and aircraft-mounted infrared or high-resolution visible cameras to identify and target wildfires.[155][156] Satellite-mounted sensors such as Envisat's Advanced Along Track Scanning Radiometer and European Remote-Sensing Satellite's Along-Track Scanning Radiometer can measure infrared radiation emitted by fires, identifying hot spots greater than 39 °C (102 °F).[157][158] The National Oceanic and Atmospheric Administration's Hazard Mapping System combines remote-sensing data from satellite sources such as Geostationary Operational Environmental Satellite (GOES), Moderate-Resolution Imaging Spectroradiometer (MODIS), and Advanced Very High Resolution Radiometer (AVHRR) for detection of fire and smoke plume locations.[159][160] However, satellite detection is prone to offset errors, anywhere from 2 to 3 kilometers (1 to 2 mi) for MODIS and AVHRR data and up to 12 kilometers (7.5 mi) for GOES data.[161] Satellites in geostationary orbits may become disabled, and satellites in polar orbits are often limited by their short window of observation time. Cloud cover and image resolution and may also limit the effectiveness of satellite imagery.[162]
+[edit] Suppression
+Main article: Wildfire suppression
+See also: Firefighting
+
+
+
+
+Tanker 910 during a drop demonstration in December, 2006
+
+
+Wildfire suppression depends on the technologies available in the area in which the wildfire occurs. In less developed nations the techniques used can be as simple as throwing sand or beating the fire with sticks or palm fronds.[163] In more advanced nations, the suppression methods vary due to increased technological capacity. Silver iodide can be used to encourage snow fall,[164] while fire retardants and water can be dropped onto fires by unmanned aerial vehicles, planes, and helicopters.[165][166] Complete fire suppression is no longer an expectation, but the majority of wildfires are often extinguished before they grow out of control. While more than 99% of the 10,000 new wildfires each year are contained, escaped wildfires can cause extensive damage. Worldwide damage from wildfires is in the billions of euros annually.[167] Wildfires in Canada and the US burn an average of 54,500 square kilometers (13,000,000 acres) per year.[168][169]
+Above all, fighting wildfires can become deadly. A wildfire's burning front may also change direction unexpectedly and jump across fire breaks. Intense heat and smoke can lead to disorientation and loss of appreciation of the direction of the fire, which can make fires particularly dangerous. For example, during the 1949 Mann Gulch fire in Montana, USA, thirteen smokejumpers died when they lost their communication links, became disorientated, and were overtaken by the fire.[170] In the Australian February 2009 Victorian bushfires, at least 173 people died and over 2,029 homes and 3,500 structures were lost when they became engulfed by wildfire.[171]
+[edit] Modeling
+Main article: Wildfire modeling
+
+
+
+
+Fire Propagation Model
+
+
+Wildfire modeling is concerned with numerical simulation of wildfires in order to comprehend and predict fire behavior.[172][173] Wildfire modeling can ultimately aid wildfire suppression, increase the safety of firefighters and the public, and minimize damage. Using computational science, wildfire modeling involves the statistical analysis of past fire events to predict spotting risks and front behavior. Various wildfire propagation models have been proposed in the past, including simple ellipses and egg- and fan-shaped models. Early attempts to determine wildfire behavior assumed terrain and vegetation uniformity. However, the exact behavior of a wildfire's front is dependent on a variety of factors, including windspeed and slope steepness. Modern growth models utilize a combination of past ellipsoidal descriptions and Huygens' Principle to simulate fire growth as a continuously expanding polygon.[174][175] Extreme value theory may also be used to predict the size of large wildfires. However, large fires that exceed suppression capabilities are often regarded as statistical outliers in standard analyses, even though fire policies are more influenced by catastrophic wildfires than by small fires.[17]
+[edit] See also
+
+
+
+
+Disasters portal
+
+
+
+Fire portal
+
+
+
+
+
+Deforestation
+Floods and landslides after wildfires
+Keetch-Byram Drought Index
+National Fire Danger Rating System
+Remote Automated Weather Station
+Weather forecasting :
+
+Forest fire weather index
+Haines Index
+
+
+Women in firefighting
+
+
+
+[edit] Notes
+
+^ This section is a composite of several references. Refer to:
+
+US Forest Service. Influence of Forest Structure on Wildfire Behavior and the Severity of Its Effects [PDF]; November 2003 [cited 2008-11-19].
+National Wildfire Coordinating Group Communicator's Guide For Wildland Fire Management, 3.
+National Wildfire Coordinating Group. National Wildfire Coordinating Group Fireline Handbook, Appendix B: Fire Behavior [PDF]; April, 2006 [cited 2008-12-11].
+Scott, Joe H.; Burgan, Robert E. Standard Fire Behavior Fuel Models: A Comprehensive Set for Use with Rothermel’s Surface Fire Spread Model [PDF]. June 2005 [cited 2009-02-05].
+
+
+
+[edit] References
+
+
+^ a b Federal Fire and Aviation Operations Action Plan, 4.
+^ a b Cambridge Advanced Learner's Dictionary, Third Edition. Cambridge University Press; 2008. ISBN 9780521858045.
+^ a b National Interagency Fire Center. The Science of Wildland fire [cited 2008-11-21].
+^ a b c Flannigan, M.D.; B.D. Amiro, K.A. Logan, B.J. Stocks, and B.M. Wotton. Forest Fires and Climate Change in the 21st century [PDF]. Mitigation and Adaptation Strategies for Global Change. 2005 [cited 2009-06-26];11:847. doi:10.1007/s11027-005-9020-7.
+^ a b c d e Stephen J. Pyne. NOVA online. How Plants Use Fire (And Are Used By It) [cited 2009-06-30].
+^ a b Krock, Lexi. NOVA online - Public Broadcasting System (PBS). The World on Fire; June 2002 [cited 2009-07-13].
+^ Voice of America (VOA) News. International Experts Study Ways to Fight Wildfires; 2009-06-24 [cited 2009-07-09].
+^ a b Interagency Strategy for the Implementation of the Federal Wildland Fire Policy, entire text
+^ National Wildfire Coordinating Group Communicator's Guide For Wildland Fire Management, entire text
+^ Government of Canada. Wildfires in Canada; 2009-02-04 [cited 2009-07-09].
+^ Graham, et al., 12, 36
+^ National Wildfire Coordinating Group Communicator's Guide For Wildland Fire Management, 4-6.
+^ a b National Wildfire Coordinating Group. National Wildfire Coordinating Group Fireline Handbook, Appendix B: Fire Behavior [PDF]; April, 2006 [cited 2008-12-11].
+^ National Interagency Fire Center. Fire Information - Wildland Fire Statistics [cited 2009-06-26].
+^ US Forest Service MODIS Active Fire Mapping Program. Definition of Map Terms [cited 2009-07-07].
+^ Glossary of Wildland Fire Terminology, 156
+^ a b Alvarado, et al., 66-68
+^ Michigan State University Extension. Understanding Wildfire Behavior in Michigan; April 2004 [cited 2009-07-15].
+^ Olson, et al., 2-3
+^ National Wildfire Coordinating Group. Wildfire Prevention Strategies [PDF]; March 1998 [cited 2008-12-03]; p. 17.
+^ Scott, A. The Pre-Quaternary history of fire. Palaeogeography Palaeoclimatology Palaeoecology. 2000;164:281. doi:10.1016/S0031-0182(00)00192-9.
+^ Krajick, Kevin. Fire in the hole. Smithsonian Magazine. May 2005 [cited 2009-07-30].
+^ Pyne, Stephen J.; Andrews, Patricia L.; Laven, Richard D. Introduction to wildland fire. 2nd ed. John Wiley and Sons; 1996 [cited 26 January 2010]. p. 65.
+^ UCAN News. News 8 Investigation: SDG&E Could Be Liable For Power Line Wildfires; 2007-11-05 [cited 2009-07-20].
+^ The Associated Press. TheStar online. Orangutans in losing battle with slash-and-burn Indonesian farmers; 16 November 2006 [cited 2008-12-01].
+^ Karki, 7.
+^ Karki, 4.
+^ a b c d Graham, et al., iv.
+^ Graham, et al., 9, 13
+^ Rincon, Paul. British Broadcasting Corporation (BBC) News. Asian peat fires add to warming; 2005-03-09 [cited 2008-12-09].
+^ Graham, et al ., iv, 10, 14
+^ a b The Nature Conservancy. Global Fire Initiative: Fire and Invasives [cited 2008-12-03].
+^ Graham, et al., iv, 8, 11, 15.
+^ Butler, Rhett. Yale School of Forestry & Environmental Studies. Global Commodities Boom Fuels New Assault on Amazon; 2008-06-19 [cited 2009-07-09].
+^ Graham, et al., 12.
+^ a b National Wildfire Coordinating Group Communicator's Guide For Wildland Fire Management, 3.
+^ Associated Press. MSNBC. Ashes cover areas hit by Southern Calif. fires; 2008-11-15 [cited 2008-12-04].
+^ US Forest Service. Influence of Forest Structure on Wildfire Behavior and the Severity of Its Effects [PDF]; November 2003 [cited 2008-11-19].
+^ Federal Emergency Management Agency (FEMA). Prepare for a Wildfire [cited 2008-12-01].
+^ Glossary of Wildland Fire Terminology, 74.
+^ de Sousa Costa and Sandberg, 229-230.
+^ Massachusetts Institute of Technology (MIT). Archimedes Death Ray: Idea Feasibility Testing; October 2005 [cited 2009-02-01].
+^ European Space Agency. Satellites are tracing Europe's forest fire scars; 2004-07-27 [cited 2009-01-12].
+^ Graham, et al., 10-11.
+^ Florida Alliance for Safe Homes (FLASH). Protecting Your Home From Wildfire Damage [PDF] [cited 3 March 2010]; p. 5.
+^ Billing, 5-6
+^ Graham, et al., 12
+^ Shea, Neil. National Geographic. Under Fire; July 2008 [cited 2008-12-08].
+^ Graham, et al., 16.
+^ Graham, et al., 9, 16.
+^ Billing, 5
+^ National Wildfire Coordinating Group Communicator's Guide For Wildland Fire Management, 4.
+^ Graham, et al., 16-17.
+^ Olson, et al., 2
+^ National Wildfire Coordinating Group. The New Generation Fire Shelter [PDF]; March 2003 [cited 2009-01-16]; p. 19.
+^ Glossary of Wildland Fire Terminology, 69.
+^ National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service. Chronological List of U.S. Billion Dollar Events [cited 2009-02-04].
+^ McKenzie, et. al., 893
+^ Graham, et al., 2
+^ Westerling, Al; Hidalgo, Hg; Cayan, Dr; Swetnam, Tw. Warming and earlier spring increase western U.S. Forest wildfire activity. Science (New York, N.Y.). 2006 Aug;313(5789):940–3. doi:10.1126/science.1128834. PMID 16825536. Bibcode:2006Sci...313..940W.
+^ McKenzie, et. al., 894
+^ de Souza Costa and Sandberg, 228
+^ National Wildfire Coordinating Group Communicator's Guide For Wildland Fire Management, 5.
+^ San-Miguel-Ayanz, et al., 364.
+^ Glossary of Wildland Fire Terminology, 73.
+^ National Center for Atmospheric Research. Drought and Wildland Fires [cited 2009-02-03].
+^ Schimel, D., et al. The U.S. Climate Change Science Program. The Effects of Climate Change on Agriculture, Land Resources, Water Resources, and Biodiversity: Synthesis [PDF] [cited 2008-12-05]; p. 183.
+^ The Nature Conservancy. Global Fire Initiative: Fire and Climate Change [cited 2008-12-03].
+^ Baltimore Sun. Climate Change Link Seen in Surge of Western Blazes; 2006-07-07 [cited 2008-12-03].
+^ Interagency Strategy for the Implementation of the Federal Wildland Fire Policy, 3, 37.
+^ Graham, et al., 3.
+^ Keeley, J.E. Future of California floristics and systematics: wildfire threats to the California flora [PDF]. Madrono. 1995 [cited 2009-06-26];42:175–179.
+^ Zedler, P.H. Fire frequency in southern California shrublands: biological effects and management options. In: Keeley, J.E.; Scott, T., editors. Brushfires in California wildlands: ecology and resource management. Fairfield, WA: International Association of Wildland Fire; 1995. p. 101–112.
+^ a b c van Wagtendonk (2007), 14.
+^ Nepstad, 4, 8-11
+^ Lindsey, Rebecca. Earth Observatory (NASA). Amazon fires on the rise; 2008-03-05 [cited 2009-07-09].
+^ Nepstad, 4
+^ eWater Cooperative Research Center's. Bushfire and Catchments: Effects of Fire on Soils and Erosion [cited 2009-01-08].
+^ Refern, Neil; Vyner, Blaise. Fylingdales Moor a lost landscape rises from the ashes. Current Archaeology. XIX(226):20–27.
+^ Running, S.W. Ecosystem Disturbance, Carbon and Climate. Science. 2008;321:652–653. doi:10.1126/science.1159607. PMID 18669853.
+^ Santos, Robert L. The Eucalyptus of California. California State University. Section Three: Problems, Cares, Economics, and Species; 1997 [cited 2009-06-26].
+^ Fire. The Australian Experience, 5.
+^ Keeley, J.E. and C.J. Fotheringham. Trace gas emission in smoke-induced germination [PDF]. 1997 [cited 2009-06-26];276:1248–1250.
+^ Flematti GR, Ghisalberti EL, Dixon KW, Trengove RD. A compound from smoke that promotes seed germination. Science. 2004;305(5686):977. doi:10.1126/science.1099944. PMID 15247439.
+^ Karki, 3.
+^ US National Park Service. Giant Sequoias and Fire [cited 2009-06-30].
+^ TNC Global Fire Initiative. The Nature Conservancy. Fire Management Assessment of the Caribbean Pine (Pinus caribea) Forest Ecosystems on Andros and Abaco Islands, Bahamas; 2004 September [cited 2009-08-27].
+^ Wang, P.K. American Geophysical Union fall meeting; 2003.
+^ Fromm, M.; Stocks, B.; Servranckx, R.; Lindsey, D. Smoke in the Stratosphere: What Wildfires have Taught Us About Nuclear Winter; abstract #U14A-04. In: American Geophysical Union, Fall Meeting 2006: [cited 2009-02-04].
+^ Graham, et al., 17
+^ National Center for Atmospheric Research. Geophysical Research Letters. Wildfires Cause Ozone Pollution to Violate Health Standards; 13 October 2008 [cited 2009-02-04].
+^ John R. Scala, et al. American Meteorological Society. Meteorological Conditions Associated with the Rapid Transport of Canadian Wildfire Products into the Northeast during 5–8 July 2002 [PDF] [cited 2009-02-04].
+^ Breyfogle, Steve; Sue A., Ferguson. US Forest Service. User Assessment of Smoke-Dispersion Models for Wildland Biomass Burning [PDF]; December 1996 [cited 2009-02-06].
+^ Bravo, A.H.; E. R. Sosa, A. P. Sánchez, P. M. Jaimes and R. M. I. Saavedra. Impact of wildfires on the air quality of Mexico City, 1992-1999. Environmental Pollution. 2002;117(2):243–253. doi:10.1016/S0269-7491(01)00277-9.
+^ Douglass, R. Nicholas School of the Environment and Earth Sciences of Duke University. Quantification of the health impacts associated with fine particulate matter due to wildfires. MS Thesis.; 2008.
+^ Page, Susan E.; Florian Siegert, John O. Rieley, Hans-Dieter V. Boehm, Adi Jaya and Suwido Limin. The amount of carbon released from peat and forest fires in Indonesia during 1997. Nature. 2002-07-11;420:61–65. doi:10.1038/nature01131.
+^ Tacconi, Luca. Center for International Forestry Research. Fires in Indonesia: Causes, Costs, and Policy Implications (CIFOR Occasional Paper No. 38) [PDF]; February 2003 [cited 2009-02-06].
+^ Baumgardner, D. et al. Warming of the Arctic lower stratosphere by light absorbing particles. In: American Geophysical Union fall meeting. San Francisco, California: 2003.
+^ Glasspool IJ, Edwards D, Axe L (2004). "Charcoal in the Silurian as evidence for the earliest wildfire". Geology 32 (5): 381–3. Bibcode 2004Geo....32..381G. doi:10.1130/G20363.1.  edit
+^ Edwards, D.; Axe, L. (April 2004). "Anatomical Evidence in the Detection of the Earliest Wildfires". PALAIOS 19 (2): 113–128. doi:10.1669/0883-1351(2004)019<0113:AEITDO>2.0.CO;2.  edit
+^ Scott, Andrew C.; Glasspool, Ian J.. The diversification of Paleozoic fire systems and fluctuations in atmospheric oxygen concentration. Proceedings of the National Academy of Sciences (PNAS) USA. 2006;103(29):10861–10865. doi:10.1073/pnas.0604090103. PMID 16832054. edit
+^ a b Pausas and Keeley, 594
+^ Historically, the Cenozoic has been divided up into the Quaternary and Tertiary sub-eras, as well as the Neogene and Paleogene periods. The 2009 version of the ICS time chart recognizes a slightly extended Quaternary as well as the Paleogene and a truncated Neogene, the Tertiary having been demoted to informal status (Taken from {{Geologic time scale}}).
+^ Pausas and Keeley, 595
+^ Pausas and Keeley, 596
+^ Pausas and Keeley, 597
+^ a b Rackham, Oliver. Fire in the European Mediterranean: History. AridLands Newsletter. November/December 2003 [cited 2009-07-17];54.
+^ a b Rackham, 229-230
+^ a b Goldammer, Johann G.. History of Fire in Land-Use Systems of the Baltic Region: Implications on the Use of Prescribed Fire in Forestry, Nature Conservation and Landscape Management. In: First Baltic Conference on Forest Fires. Radom-Katowice, Poland: Global Fire Monitoring Center (GFMC); 5–9 May 1998.
+^ * Wildland fire - An American legacy. Fire Management Today. Summer 2000 [cited 2009-07-31];60(3):4, 5, 9, 11.
+^ Meyer, G.A.; Wells, S.G.; Jull, A.J.T. Fire and alluvial chronology in Yellowstone National Park: Climatic and intrinsic controls on Holocene geomorphic processes. GSA Bulletin. 1995;(107):1211–1230.
+^ Pitkänen, et. al., 15-16 and 27-30
+^ J. R. Marlon, P. J. Bartlein, C. Carcaillet, D. G. Gavin, S. P. Harrison, P. E. Higuera, F. Joos, M. J. Power, I. C. Prentice. Climate and human influences on global biomass burning over the past two millennia. Nature Geoscience. 2008;1:697–702. doi:10.1038/ngeo313. Bibcode:2008NatGe...1..697M. University of Oregon Summary, accessed 2 Feb 2010
+^ Karki, 6.
+^ van Wagtendonk (1996), 1156.
+^ Interagency Strategy for the Implementation of the Federal Wildland Fire Policy, 42.
+^ San-Miguel-Ayanz, et al., 361.
+^ Karki, 7, 11-19.
+^ Fire. The Australian Experience, 7.
+^ Karki, 27.
+^ Smokeybear.com. Smokey's Journey [cited 26 January 2010].
+^ MSN Encarta. Backburn [cited 2009-07-09].
+^ UK: The Role of Fire in the Ecology of Heathland in Southern Britain. International Forest Fire News. January 1998;18:80–81.
+^ SmokeyBear.com. Prescribed Fires [cited 2008-11-21].
+^ Fire. The Australian Experience, 5-6.
+^ Graham, et al., 15.
+^ Peuch, 3.
+^ US Forest Service. Forest biomass utilization decreases wildfire risk and dependence on foreign oil [PDF]; October 2008 [cited 2009-02-03].
+^ van Wagtendonk (1996), 1164
+^ Graham, et. al., 32-33.
+^ CAL FIRE. California’s Fire Hazard Severity Zone Update and Building Standards Revision [PDF]; May 2007 [cited 2008-12-18].
+^ State of California. California Senate Bill No. 1595, Chapter 366 [PDF]; 2008-09-27 [cited 2008-12-18].
+^ Karki, 14.
+^ onearth.org. Our Trial by Fire; 2007-12-01 [cited 2009-01-07].
+^ Are Big Fires Inevitable? A Report on the National Bushfire Forum, 15.
+^ National Oceanic and Atmospheric Administration (NOAA). Extreme Events: Wild & Forest Fire [cited 2009-01-07].
+^ McKenzie, et al., 899
+^ Interagency Strategy for the Implementation of the Federal Wildland Fire Policy, 38-40.
+^ Graham, et al., page 4
+^ a b c d e Pyne, S.J. 1984. Introduction to wildland fire: Fire management in the United States. New York, NY: John Wiley & Sons, Inc.
+^ a b c d Western Forestry Leadership Coalition. 2010. The true cost of wildfire in the western U.S. <http://www.wflccenter.org/news_pdf/324_pdf.pdf>. Accessed 17 April 2011.
+^ San-Miguel-Ayanz, et al., 362.
+^ a b An Integration of Remote Sensing, GIS, and Information Distribution for Wildfire Detection and Management [PDF]. Photogrammetric Engineering and Remote Sensing. October 1998 [cited 2009-06-26];64(10):977–985.
+^ Canadian Broadcasting Corporation (CBC) Digital Archives. Radio communication keeps rangers in touch; 21 August 1957 [cited 2009-02-06].
+^ Alabama Forestry Commission. Wildfire Detection and Control [cited 2009-01-12].
+^ "Evaluation of three wildfire smoke detection systems", 4
+^ Fok, Chien-Liang; Roman, Gruia-Catalin; and Lu, Chenyang. Washington University in St. Louis. Mobile Agent Middleware for Sensor Networks: An Application Case Study [PDF]; 2004-11-29 [archived 2007-01-03; cited 2009-01-15].
+^ Chaczko, Z.; Ahmad, F. Wireless Sensor Network Based System for Fire Endangered Areas. Third International Conference on Information Technology and Applications. July, 2005 [cited 2009-01-15];2(4-7):203–207. doi:10.1109/ICITA.2005.313.
+^ University of Montana - Missoula. Wireless Weather Sensor Networks for Fire Management [cited 2009-01-19].
+^ Solobera, Javier. Libelium Comunicaciones Distribuidas S.L.. Detecting Forest Fires using Wireless Sensor Networks with Waspmote; 9 April 2010.
+^ Thomson, Elizabeth A. Massachusetts Institute of Technology (MIT) News. Preventing forest fires with tree power; 2008-09-23 [cited 2009-01-15].
+^ "Evaluation of three wildfire smoke detection systems", 6
+^ San Diego State University. SDSU Tests New Wildfire-Detection Technology; 2005-06-23 [archived 2006-09-01; cited 2009-01-12].
+^ San-Miguel-Ayanz, et al., 366-369, 373-375.
+^ Rochester Institute of Technology. ScienceDaily. New Wildfire-detection Research Will Pinpoint Small Fires From 10,000 feet; 2003-10-04 [cited 2009-01-12].
+^ European Space Agency. Airborne campaign tests new instrumentation for wildfire detection; 2006-10-11 [cited 2009-01-12].
+^ European Space Agency. World fire maps now available online in near-real time; 2006-05-24 [cited 2009-01-12].
+^ European Space Agency. Earth from Space: California’s ‘Esperanza’ fire; 2006-03-11 [cited 2009-01-12].
+^ National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service. Hazard Mapping System Fire and Smoke Product [cited 2009-01-15].
+^ Ramachandran, Chandrasekar; Misra, Sudip and Obaidat, Mohammad S. A probabilistic zonal approach for swarm-inspired wildfire detection using sensor networks. Int. J. Commun. Syst. 2008-06-09;21(10):1047–1073. doi:10.1002/dac.937.
+^ Miller, Jerry; Borne, Kirk; Thomas, Brian; Huang Zhenping; and Chi, Yuechen. NASA. Automated Wildfire Detection Through Artificial Neural Networks [PDF] [cited 2009-01-15].
+^ Zhang, Junguo; Li, Wenbin, Han, Ning, and Kan, Jiangming. Forest fire detection system based on a ZigBee wireless sensor network. Frontiers of Forestry in China. September, 2008 [cited 2009-06-26];3(3):369–374. doi:10.1007/s11461-008-0054-3.
+^ Karki, 16
+^ FOXNews.com. China Makes Snow to Extinguish Forest Fire; 2006-05-18 [cited 2009-07-10].
+^ Ambrosia, Vincent G. NASA-Ames Research Center. Disaster Management Applications – Fire [PDF]; 2003 [cited 2009-07-21].
+^ Plucinski, et al., 6
+^ Automatic remote surveillance system for the prevention of forest fires, 2
+^ CBS News. Fighting fire in the forest; 2009-06-17 [cited 2009-06-26].
+^ National Climatic Data Center. Climate of 2008 Wildfire Season Summary; 2008-12-11 [cited 2009-01-07].
+^ United States Department of Agriculture, Forest Service, Intermountain Research Station. General Technical Report INT-GTR-299 - Mann Gulch Fire: A Race That Couldn't Be Won; May 1993 [cited 2009-06-26].
+^ Parliament of New South Wales. Victorian Bushfires; 13 March 2009 [cited 26 January 2010].
+^ Tymstra, C.; Bryce, R.W.; Wotton, B.M.; Armitage, O.B. 2009. Development and structure of Prometheus: the Canadian wildland fire growth simulation Model. Inf. Rep. NOR-X-417. Nat. Resour. Can., Can. For. Serv., North. For. Cent., Edmonton, AB.. PROMETHEUS [cited 2009-01-01].
+^ FireModels.org - Fire Behavior and Danger Software, Missoula Fire Sciences Laboratory. FARSITE [archived 2008-02-15; cited 2009-07-01].
+^ G.D. Richards, “An Elliptical Growth Model of Forest Fire Fronts and Its Numerical Solution”, Int. J. Numer. Meth. Eng.,. 30:1163-1179, 1990.
+^ Finney, 1-3.
+
+
+[edit] Bibliography
+
+
+Alvarado, Ernesto; Sandberg, David V; Pickford, Stewart G. Modeling Large Forest Fires as Extreme Events [PDF]. Northwest Science. Special Issue 1998 [cited 2009-02-06];72:66–75.
+Bushfire CRC. Are Big Fires Inevitable? A Report on the National Bushfire Forum [PDF]; 2007-02-27 [cited 2009-01-09].
+Council of Australian Governments (COAG) Inquiry on Bushfire Mitigation and Management. Automatic remote surveillance system for the prevention of forest fires [PDF] [cited 2009-07-10].
+Billing, P. Victoria Department of Sustainability and Environment. Otways Fire No. 22 - 1982/83 Aspects of fire behaviour. Research Report No.20 [PDF]; June 1983 [cited 2009-06-26].
+de Souza Costa, Fernando; Sandberg, David. Mathematical model of a smoldering log [PDF]. Combustion and Flame. 2004 [cited 2009-02-06];(139):227–238.
+Forest Engineering Research Institute of Canada (FERIC). Evaluation of three wildfire smoke detection systems [PDF]; June 2004 [cited 2009-01-13].
+National Interagency Fire Center. Federal Fire and Aviation Operations Action Plan [PDF]; 2005-04-18 [cited 2009-06-26].
+Finney, Mark A. US Forest Service. FARSITE: Fire Area Simulator—Model Development and Evaluation [PDF]; March 1998 [cited 2009-02-05].
+NSW Rural Fire Service. Fire. The Australian Experience [PDF] [cited 2009-02-04].
+National Wildfire Coordinating Group. Glossary of Wildland Fire Terminology [PDF]; November 2008 [cited 2008-12-18]. (HTML version)
+Graham, Russell; McCaffrey, Sarah; Jain, Theresa B. Science Basis for Changing Forest Structure to Modify Wildfire Behavior and Severity [2.79 MB PDF]. General Technical Report RMRS-GTR-120. April 2004 [cited 2009-02-06].
+Grove, A T; Rackham, Oliver. The Nature of Mediterranean Europe: An Ecological History. Yale University Press; 2001 [cited 2009-07-17].
+Karki, Sameer. Project FireFight South East Asia. Community Involvement in and Management of Forest Fires in South East Asia [PDF]; 2002 [archived 2007-07-30; cited 2009-02-13].
+Fire intensity, fire severity and burn severity: a brief review and suggested usage [PDF]. International Journal of Wildland Fire. 2009;18(1):116–26. doi:10.1071/WF07049.
+National Interagency Fire Council. Interagency Strategy for the Implementation of Federal Wildland Fire Management Policy [PDF]; 2003-06-20 [cited 2008-12-21].
+Lyons, John W. The Chemistry and Uses of Fire Retardants. United States of America: John Wiley & Sons, Inc.; 1971-01-06 [cited 2009-06-26]. ISBN 0471557404.
+Martell, David L; Sun, Hua. The impact of fire suppression, vegetation, and weather on the area burned by lightning-caused forest fires in Ontario [PDF]. Canadian Journal of Forest Research. 2008 [cited 2009-06-26];38(38):1547–1563. doi:10.1139/X07-210.
+Climatic change, wildfire, and conservation [PDF]. Conservation Biology. 2004;18(4):890–902. doi:10.1111/j.1523-1739.2004.00492.x.
+National Wildfire Coordinating Group. National Wildfire Coordinating Group Communicator's Guide for Wildland Fire Management: Fire Education, Prevention, and Mitigation Practices, Wildland Fire Overview [PDF] [cited 2008-12-11].
+Nepstad, Daniel C. World Wide Fund for Nature (WWF International). The Amazon’s Vicious Cycles: Drought and Fire in the Greenhouse [PDF]; 2007 [cited 2009-07-09].
+Olson, Richard Stuart; Gawronski, Vincent T. The 2003 Southern California Wildfires: Constructing Their Cause(s) [PDF]. Quick Response Research Report. 2005 [cited 2009-07-15];173. (HTML version)
+Pausas, Juli G; Keeley, Jon E. A Burning Story: The Role of Fire in the History of Life [PDF]. BioScience. July/August 2009;59:593–601. doi:10.1525/bio.2009.59.7.10.
+Peuch, Eric. Eighth International Wildland Firefighter Safety Summit - Human Factors - 10 Years Later [PDF]. In: Butler, B W; Alexander, M E, editors. Missoula, Montana: The International Association of Wildland Fire, Hot Springs, South Dakota; 26–28 April 2005.
+Pitkänen, Aki; Huttunen, Pertti; Jungner, Högne; Meriläinen, Jouko; Tolonen, Kimmo. Holocene fire history of middle boreal pine forest sites in eastern Finland [PDF]. Annales Botanici Fennici. 2003-02-28;40:15–33.
+Plucinski, M; Gould, J; McCarthy, G; Hollis, J. The Effectiveness and Efficiency of Aerial Firefighting in Australia: Part 1 [PDF]. Bushfire Cooperative Research Centre; June 2007 [cited 2009-03-04]. ISBN 0-643-06534-2.
+San-Miguel-Ayanz, Jesus; Ravail, Nicolas; Kelha, Vaino; Ollero, Anibal. Active Fire Detection for Fire Emergency Management: Potential and Limitations for the Operational Use of Remote Sensing [PDF]. Natural Hazards. 2005 [cited 2009-03-05];35:361–376. doi:10.1007/s11069-004-1797-2.
+van Wagtendonk, Jan W. Use of a Deterministic Fire Growth Model to Test Fuel Treatments [PDF]. Sierra Nevada Ecosystem Project: Final report to Congress, vol. II, Assessments and scientific basis for management options. 1996 [cited 2009-02-05]:1155–1166.
+van Wagtendonk, Jan W. The History and Evolution of Wildland Fire Use [PDF]. Fire Ecology. 2007 [cited 2008-08-24];3(2):3–17. (U.S. Government public domain material published in Association journal. See WERC Highlights – April 2008)
+
+
+[edit] External links
+
+
+
+Wikimedia Commons has media related to: Wildfire
+
+
+
+
+
+Wikibooks has a book on the topic of
+Applied Ecology/Case Studies/Asian Rainforest Politics
+
+
+
+
+Bushfire Cooperative Research Centre
+Detecting Forest Fires using Wireless Sensor Networks with Waspmote
+Global Fire Monitoring Center
+International Association of Wildland Fire
+International Forest Fire News
+NASA Wildfire Research and Applications Partnership (WRAP)
+National Interagency Fire Center: National Wildfire Coordinating Group Communicator's Guide For Wildland Fire Management Table of Contents
+National Oceanic and Atmospheric Administration (NOAA): Economic Costs of Wildfires
+University of Toronto Fire Management Systems Laboratory Recent Publications
+US BLM Fire and Aviation
+USFS: Fire and Aviation Management
+USFS: Fire and Environmental Research Applications Team Products & Publications
+USFS: Fire, Fuel, and Smoke Science Program
+Wildlandfire.com Wildfire photographs
+Wildland Fire Operations Research Group (WFORG): Detection Workshop Presentations
+"The Combustible West: Fire Management and Forest Politics in the Early 20th Century", Mark Hudson, Berfrois, 13 May 2011
+
+
+
+
+
+
+v · d · eFirefighting
+
+
+
+
+
+Personnel
+
+Firefighter •  Fire chief •  Fire marshal •  Firefighter Assist and Search Team •  Fire Police •  Handcrews •  Helitack •  Hotshots •  Smokejumper •  Station officer •  Volunteer fire department •  Women in firefighting
+
+
+
+
+
+
+Facilities
+
+Fire Department • Fire camp •  Fire lookout tower •  Fire Service College •  Fire station
+
+
+
+
+
+
+Equipment
+
+Glossary of firefighting equipment •  Bunker gear •  Escape chair •  Fire apparatus •  Fire bike •  Fire chief's vehicle •  Fire extinguisher •  Fire hose •  Fire hydrant •  Fire retardant •  Fire station •  Fireman's switch •  Flame retardant •  Hard suction hose •  Heat detector •  List of fire-retardant materials •  Nomex •  PASS •  Rescue pumper •  SCBA •  Siren •  Smoke detector •  Splash suit •  Super Scooper •  Thermal imaging camera  •  Fog nozzle
+
+
+
+
+
+
+Terminology
+
+Glossary of firefighting terms •  Glossary of wildland fire terms •  Aerial firefighting •  Dead Man Zone •  Draft •  Fire classes •  Fire control •  Fire safety •  Fire triangle •  Fireman's carry •  Firewall •  Flash fire •  Forcible entry •  Gaseous fire suppression •  Master stream •  Stop, drop and roll •  Structure fire •  Two-in, two-out •  Ventilation •  Wetdown •  Wildfire •  Wildfire suppression
+
+
+
+
+
+
+Miscellaneous
+
+Fire engine red •  Firefighting worldwide •  History of firefighting •  Incident Command System •  International Association of Fire Fighters •  International Firefighters' Day •  List of historic fires •  List of firefighting films •  London Fire Brigade Museum •  National Fire Incident Reporting System •  National Fire Protection Association •  Saint Florian •  World Police and Fire Games •  Muster  •  Fire Service Exploring
+
+
+
+
+
+
+
+
+
+
+
+
+v · d · eNatural disasters
+
+
+
+
+
+Land movement
+
+Avalanches •  Earthquakes •  Lahar •  Mudflows •  Volcanic eruptions
+
+
+
+
+
+
+Water
+
+Floods •  Limnic eruptions •  Tsunami
+
+
+
+
+
+
+Weather
+
+Blizzards •  Cyclonic storms •  Droughts •  Hailstorms •  Heat waves •  Tornadoes
+
+
+
+
+
+
+Fire
+
+Wildfire
+
+
+
+
+
+
+Health and diseases
+
+Epidemic •  Famine
+
+
+
+
+
+
+Space
+
+Gamma-ray burst •  Impact events •  Solar flares •  Supernova •  Hypernova
+
+
+
+
+
+
+
+
+
+Retrieved from "http://en.wikipedia.org/wiki/Wildfire"
+
+
+Categories: Wildfires | Wildfire ecology | Wildland fire suppression | Natural hazards | Climate forcing agents | Ecological succession | Fire | Occupational safety and healthHidden categories: Good articles | Use dmy dates from September 2010 
+
+
+
+
+
+
+
+
+
+Personal tools
+
+Log in / create account
+
+
+
+
+
+
+Namespaces
+
+Article
+Discussion
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+
+
+
+
+
+
+
+
+Interaction
+
+
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+
+
+
+
+
+
+Toolbox
+
+
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Cite this page 
+
+
+
+
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+
+Languages
+
+
+Azərbaycanca
+Bosanski
+Български
+Català
+Dansk
+Deutsch
+Español
+Esperanto
+Euskara
+Français
+Galego
+한국어
+हिन्दी
+Hrvatski
+Bahasa Indonesia
+עברית
+ಕನ್ನಡ
+Қазақша
+Lietuvių
+Bahasa Melayu
+မြန်မာဘာသာ
+Nederlands
+日本語
+‪Norsk (bokmål)‬
+‪Norsk (nynorsk)‬
+Occitan
+Polski
+Português
+Română
+Русский
+Srpskohrvatski / Српскохрватски
+Suomi
+Svenska
+Tagalog
+தமிழ்
+తెలుగు
+ไทย
+Türkçe
+Українська
+اردو
+Tiếng Việt
+ייִדיש
+粵語
+中文
+
+
+
+
+
+
+
+
+
+ This page was last modified on 28 August 2011 at 07:51.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of use for details.
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Contact us
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 

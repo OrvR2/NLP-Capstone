@@ -1,0 +1,17 @@
+Index of /wp-content/plugins/si-contact-form/captcha
+Index of /wp-content/plugins/si-contact-form/captcha
+ Parent Directory
+ LICENSE.txt
+ README.FONT.txt
+ README.txt
+ backgrounds/
+ ctf_captcha.js
+ gdfonts/
+ images/
+ securimage.php
+ securimage_show.php
+ test/
+ ttffonts/
+ words/
+
+Apache mod_fcgid/2.3.6 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at texasfires.ysar.info Port 80

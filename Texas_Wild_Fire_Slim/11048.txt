@@ -1,0 +1,39 @@
+(function(){
+function add_value(curr_param){return curr_param!=null?'"'+curr_param+'"':'""'}
+
+function insert_button()
+{
+	if (window.bdv_ref_type=='t')
+	{
+		if (window.bdv_ref_gif_id==1) content_string='Click here sample';
+		if (window.bdv_ref_option=='a')
+		{
+			if (window.bdv_ref_eb==1) document.write('');
+			else document.write('');
+		} 
+		else if (window.bdv_ref_option=='ah') document.write('');
+		else document.write('');
+		document.write(window.bdv_ref_gif_id);
+		document.write('');
+	}
+	else
+	{
+		var content_string=''
+		if (window.bdv_ref_option=='a')
+		{
+			if (window.bdv_ref_eb==1) document.write('');
+			else document.write('');
+		} 
+		else if (window.bdv_ref_option=='ah') document.write('');
+		else document.write('');
+		document.write(content_string);
+		document.write('');
+	}
+	
+}
+
+insert_button();
+
+})()
+
+

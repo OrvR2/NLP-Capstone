@@ -1,0 +1,356 @@
+[
+  
+	  	{
+	        "name": "Sept 7",
+	        "weight": "80" 
+	    }
+    	,
+
+		{
+	        "name": "Alendronate",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Alice Tully Hall",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "American",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "American Progress",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Amsterdam",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Anaheim",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Annie Le",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Austin American Statesman",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Awan",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Bani Walid",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Bankruptcy",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Berlin",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Big News",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Boehner",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "BofA",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "BOJ",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Bono",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Brad McCrimmon",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Breathing Space",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Broadway",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "California",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Canada",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "CBS Washington",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "CEO",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "CEO succession",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Charlotte",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Chief executive officer",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Chocolate",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Chocolate Milk",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Chocolate milk",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Christian Science Monitor",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Christopher Theofanidis",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Commercial fishing",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Congress",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Congress President",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Cowlitz County",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Crackdown",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Dan Hill",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Daniel Radcliffe",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Disneyland",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Europe",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Eva Mendes",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "High Court",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Obama",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Pakistan",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Pakistani",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "People Magazine",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Perry",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "President",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "President Barack Obama",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "President Obama",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Republican",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Rick Perry",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Ryan Gosling",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Sept 8",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Singer",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "US Open",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Washington",
+	        "weight": "32.0" 
+	    }
+	    
+]

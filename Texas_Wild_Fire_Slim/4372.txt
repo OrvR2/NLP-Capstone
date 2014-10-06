@@ -1,0 +1,131 @@
+Clickability - Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Login
+																	- Staging
+															
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please log in to access the following environment:
+www.nbcnewyork.com (Staging)
+
+
+Email Address:
+
+
+
+
+
+Password:
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform Status
+
+							To review system status, performance metrics, and real time alerts, visit the Clickability Platform Status Dashboard:
+							http://status.clickability.com
+
+
+
+Community
+
+							Visit the Clickability User Community for FAQs, best practices, How-Tos, User Guides, Ideas and discussions with other Clickability Platform users:
+							http://community.clickability.com
+
+
+
+
+Security
+
+									Clickability takes security and the protection of client data very seriously. Third party testing has proven that Clickability is a platform that you can trust.
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Supported Browsers:
+						Internet Explorer 8
+						and
+						Firefox 3.x, 4.x	
+					
+
+						© 2001-2011
+						
+							Clickability, Inc.
+						
+						All rights reserved. -
+						
+							Privacy Statement
+						
+
+
+
+
+
+
+
+

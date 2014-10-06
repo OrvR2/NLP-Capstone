@@ -1,0 +1,17 @@
+Index of /wp-content/plugins/Viva-ThumbZoom/lib/v-zoom/graphics
+Index of /wp-content/plugins/Viva-ThumbZoom/lib/v-zoom/graphics
+ Parent Directory
+ controlbar2.gif
+ controlbar3.gif
+ controlbar4-hover.gif
+ controlbar4.gif
+ fullexpand.gif
+ geckodimmer.png
+ loader.gif
+ loader.white.gif
+ outlines/
+ resize.gif
+ zoomin.cur
+ zoomout.cur
+
+Apache mod_fcgid/2.3.6 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 Server at glendaleonlinenews.com Port 80

@@ -1,0 +1,644 @@
+Global Disaster Alert and Coordination System
+
+
+
+
+
+
+
+      
+The Global Disaster Alert and Coordination System 
+      provides near real-time alerts about natural disasters around the world 
+      and tools to facilitate response coordination, including media monitoring, map catalogues and Virtual On-Site 
+      Operations Coordination Centre. 
+  
+
+
+
+
+ 
+
+Alerts
+
+Coordination
+
+About GDACS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current events
+
+Archive
+
+
+My alert account
+
+
+About alerts
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Current Disaster Events
+
+ Reload page every 60 seconds
+        
+        
+Cyclone Dominican Republic, Turks  Caicos Is., Puerto Rico MARIA-11 4 hours  ago Earthquake Papua New Guinea 13 hours  ago Earthquake Vanuatu 12 hours  ago  Earthquake Canada 9 Sep 2011  Flood Sudan 28 Aug 2011  Flood USA 27 Aug 2011  Flood Nigeria 26 Aug 2011  Flood India 25 Aug 2011  Flood Uganda 20 Aug 2011  
+Flood India 15 Aug 2011  Flood India 15 Aug 2011  Flood Pakistan 12 Aug 2011  Flood Niger 10 Aug 2011  Flood Cambodia 10 Aug 2011  Flood India 10 Aug 2011  Flood Thailand 5 Aug 2011  Flood China 1 Aug 2011  
+Events in this list are picked up from multiple
+        sources and automatically analyzed by a computer program to determine
+        the likelihood of humanitarian intervention. News, damage maps and humanitarian
+        situation reports are collected automatically from over 1000 on-line sources.
+Show/hide 
+        
+
+
+
+
+
+
+
+
+
+
+ Earthquakes and tsunamis
+
+ 
+
+ 
+Archive 
+
+
+Orange alerts or M>6 in
+        the last 4 days
+
+Last updated: 2 hours  ago
+
+
+
+Automatic impact report (JRC)
+Papua New Guinea, (M 6.2, depth 34.9km, 205000 people)NEIC—Monday, September 12, 2011 10:44:00 PM UTC
+
+
+Documents from other organisations
+USGS Shakemap
+
+6.2 - NEAR NORTH COAST OF NEW GUINEA, P.N.G.
+Tue, 13 Sep 2011 02:19:12 +0000 Date: Mon, 12 Sep 2011 22:44:31 UTCLat/Lon: -3.638/144.16Depth: 34.9
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Vanuatu, (M 6.0, depth 35.1km, 47000 people)NEIC—Sunday, September 11, 2011 11:37:00 PM UTC
+
+
+Documents from other organisations
+USGS Shakemap
+
+6 - VANUATU
+Sun, 11 Sep 2011 23:56:30 +0000 Date: Sun, 11 Sep 2011 23:37:36 UTCLat/Lon: -18.1861/167.874Depth: 35.1
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Canada, (M 6.4, depth 23km, <10000 people)NEIC—Friday, September 09, 2011 7:41:00 PM UTC
+
+
+Documents from other organisations
+USGS Shakemap
+
+6.4 - VANCOUVER ISLAND, CANADA REGION
+Fri, 09 Sep 2011 20:25:14 +0000 Date: Fri, 09 Sep 2011 19:41:34 UTCLat/Lon: 49.4928/-126.967Depth: 23
+
+
+
+
+
+
+
+
+
+
+
+
+ Tropical Cyclones
+
+ 
+
+ 
+Archive 
+
+
+Active cyclones in the last
+        4 days
+
+Last updated: 3 min  ago
+
+
+
+Automatic impact report (JRC)
+MARIA-11 in AtlanticPDC—13 Sep 2011
+
+
+
+Tropical Storm MARIA-11 affected few people with winds above 39mph (63 km/h) and few people with hurricane wind strengths (74mph or 119 km/h). In addition, few people are living in coastal areas below 5m and can therefore be affected by storm surge.
+
+
+
+
+
+
+
+
+
+
+
+ Floods
+
+ 
+
+ 
+Archive 
+
+
+Bulletins provides by Dartmouth
+        Flood Observatory based on media reports
+
+Last updated: 11 hours  ago
+
+
+
+Automatic impact report (JRC)
+Green flood alert in Sudan DFO—8/28/2011 to 9/8/2011
+0Killed: 0 - Displaced: 1000September 1, 2011: "Dar Al Salaam ? Over 600 households have been affected by floods that hit severa...Locations: North Dafur, floods originated in Umm Tahana...
+
+
+
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Orange flood alert in USA DFO—8/27/2011 to 9/8/2011
+0Killed: 20 - Displaced: 370000August 28, 2011: "Dangerous, damaging floodwaters emerged Sunday night as one of the biggest threats...Locations: Northeastern USA...
+
+
+
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Green flood alert in Nigeria DFO—8/26/2011 to 9/8/2011
+0Killed: 20 - Displaced: 3000September 1, 2011: " Abuja, Sep 1 (Prensa Latina) At least 150 people died in stormy rain and fast f...Locations: Southwestern Nigeria...
+
+
+
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Green flood alert in India DFO—8/25/2011 to 9/8/2011
+0Killed: 0 - Displaced: 5000September 8, 2011:"Heavy rains lashed Saurashtra and Kutch region on Tuesday with Kalyanpur taluka i...Locations: Gujarat, Surat...
+
+
+
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Green flood alert in Uganda DFO—8/20/2011 to 9/8/2011
+0Killed: 31 - Displaced: 0September 8, 2011: "A major road linking DR Congo and Koboko District has been rendered impassable b...Locations: Bulambuli District in eastern Uganda...
+
+
+
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Green flood alert in India DFO—8/15/2011 to 9/8/2011
+0Killed: 7 - Displaced: 11000August 19, 2011: "The flash floods triggered by swirling waters of Gai-Nadi and Jiadhal rivers have ...Locations: Dhemaji district of eastern Assam; western parts of Meghalaya...
+
+
+
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Orange flood alert in India DFO—8/15/2011 to 9/8/2011
+0Killed: 158 - Displaced: 70000September 2, 2011: "Aid workers estimate that 5.2 million people in the worst hit areas of Bihar, Ut...Locations: Bihar, Uttar Pradesh, India; Southern Nepal...
+
+
+
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Green flood alert in Pakistan DFO—8/12/2011 to 9/8/2011
+0Killed: 30 - Displaced: 60000September 8, 2011: "Millions of people have been forced from their homes as floodwaters have risen. ...Locations: Sindh Province, southern Pakistan...
+
+
+
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Green flood alert in Cambodia DFO—8/10/2011 to 9/8/2011
+0Killed: 9 - Displaced: 500August 19, 2011: "Kampong Cham. As the floodwaters recede, many living near the Mekong River are ret...Locations: Mekong River, Cambodia; Kampong Cham Province...
+
+
+
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Orange flood alert in India DFO—8/10/2011 to 9/8/2011
+0Killed: 47 - Displaced: 700000August 23, 2011: "DHAKA (AFP) - Floods in southwest Bangladesh have inundated vast swathes of farmla...Locations: West Bengal, India; Bangladesh...
+
+
+
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Green flood alert in Niger DFO—8/10/2011 to 9/8/2011
+0Killed: 7 - Displaced: 5000September 1, 2011: "DAKAR (AlertNet) - More than 13,000 people have been hit by floods in Niger, the...Locations: Zarmagandaye, Lamorde and Karadje districts...
+
+
+
+
+
+
+See all 13 items...
+
+
+
+
+
+
+
+ Volcanoes
+
+ 
+
+ 
+
+ 
+
+
+
+Activity changes in past week. Note that GDACS no longer provides alert levels for volcanic eruptions.
+
+Last updated: Wed, 04 May 2011 02:17:10 -0500 
+
+
+
+Automatic impact report (JRC)
+Bezymianny (Russia) -  Report for 27 April-3 May 2011 - NEW)SI / USGS Weekly Volcanic Activity ReportKVERT reported that during 22-29 April a bright thermal anomaly on Bezymianny was detected in satellite imagery. A gas-and-steam plume that drifted 27 km NW was also detected on 22 April. According...Source: Kamchatkan Volcanic Eruption Response Team (KVERT)
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Gamkonora (Indonesia) -  Report for 27 April-3 May 2011 - NEW)SI / USGS Weekly Volcanic Activity ReportCVGHM reported that during January-April diffuse white plumes from Gamkonora rose 25-100 m above the crater rim. Seismicity increased during 29 April-3 May. On 1 May, white plumes rose 150 m above ...Source: Center of Volcanology and Geological Hazard Mitigation (CVGHM)
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Kizimen (Russia) -  Report for 27 April-3 May 2011 - NEW)SI / USGS Weekly Volcanic Activity ReportBased on analyses of satellite imagery, KVERT reported that during 22-29 April a large bright thermal anomaly was detected over Kizimen daily and ash plumes drifted 135 km in multiple directions. G...Source: Kamchatkan Volcanic Eruption Response Team (KVERT)
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Planchón-Peteroa (Chile) -  Report for 27 April-3 May 2011 - NEW)SI / USGS Weekly Volcanic Activity ReportSERNAGEOMIN reported that during 1-15 April a camera installed in Romeral, approximately 61 km NW of Planchón-Peteroa, recorded predominantly white vapor plumes that rose at most 600 m. During 16-1...Sources: Servicio Nacional de Geología y Minería (SERNAGEOMIN), Buenos Aires Volcanic Ash Advisory Center (VAAC)
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Puyehue-Cordón Caulle (Chile) -  Report for 27 April-3 May 2011 - NEW)SI / USGS Weekly Volcanic Activity ReportODVAS-SERNAGEOMIN reported that, in response to recent increased seismicity and nearby residents on 26 April noting fumarolic activity in the vicinity of Puyehue-Cordón Caulle, an overflight was co...Source: Servicio Nacional de Geología y Minería (SERNAGEOMIN)
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Ruapehu (New Zealand) -  Report for 27 April-3 May 2011 - NEW)SI / USGS Weekly Volcanic Activity ReportOn 2 May, GeoNet reported that the temperature of Ruapehu's summit Crater Lake continued to slowly cool and was about 30 degrees Celsius, down from a peak of 41 degrees in March. The lake level rem...Source: New Zealand GeoNet Project
+
+
+
+
+
+
+
+Automatic impact report (JRC)
+Tungurahua (Ecuador) -  Report for 27 April-3 May 2011 - NEW)SI / USGS Weekly Volcanic Activity ReportIG reported that although visual observations of Tungurahua were occasionally limited due to cloud cover, ash plumes were noted daily and rose to altitudes of 7-12 km (23,000-39,400 ft) a.s.l. duri...Sources: Instituto Geofísico-Escuela Politécnica Nacional (IG), Batangas Today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Full map view |
+            Google map view
+Your browser doesn't support iframes
+
+
+
+Cached on 9/13/2011 1:45:36 PM.
+News and Reports
+See
+        
+        all documents
+
+
+Dartmouth Flood Observatory and SARWeather join GDACS as partners
+Tue, 23 Aug 2011 00:00:00 GMT The Dartmouth Flood Observatory has been providing daily updates on flood emergencies worldwide since 2009, and has now been accepted as a GDACS partner. The moderated media-based flood list is an essential GDACS product, since no global flood monitoring system based on physical measurements or models exists for the moment. Several GDACS partners are collaborating to create such systems.
+
+SARWeather  provides local weather forecasts for disaster areas. Experimental products have been delivered in 2010. These forecasts will become available more frequently from now on in the Virtual OSOCC.
+
+
+Cyclone season in Caribbean region: new website for authoritative warnings in Haiti
+Fri, 22 Jul 2011 00:00:00 GMT Since June 2010, with a strong operational support from France, Canada, UK, and the USA, WMO has coordinated operational support to the National Meteorological Services of Haiti for provision of tropical Cyclone warnings and other meteorological forecasts and information, through a public site of the National Meteorological Service of Haiti. This site is the authoritative source of the warnings in Haiti. The official site address is: http://www.meteo-haiti.gouv.ht/
+
+Search for disaster alert and coordination information
+Search information (using Google Custom Search) from the websites of all GDACS partners.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to disaster alerts
+
+
+
+
+Earthquake
+              and tsunami alerts 
+
+Subscribe now for this service. 
+
+
+ 
+
+
+
+Receive instant email, SMS or fax alerts in case an
+              earthquake or tsunami occurs with a potential for humanitarian disaster.
+
+
+
+Multi hazard daily newsletter
+
+
+
+GDACS also offers daily alerts for all disaster types
+              monitored. Up to now, only earthquake alerts were available (apart
+              from the RSS feeds). Since tropical cyclones, volcanoes and floods
+              are not as 'sudden onset' as earthquakes, only a daily service is
+              available. 
+
+              See today's as an example.
+
+
+GDACS alert feeds
+
+
+The alerts published by the Global Disaster Alert
+              and Coordination System can also be used in your RSS reader or on
+              Google Earth. GDACS is using existing XML and content standards.
+ 
+
+
+
+
+
+ RSS
+              RSS feeds can be read in
+              feed readers 
+
+              This site supports the
+              
+              Common Alert Protocol. Click on the disaster's CAP logo to see
+              the XML.
+              
+
+ 
+
+ Google Earth
+              Google Earth KML file: see affected regions on a 3D Globe with detailed
+              satellite images and maps. (You need to
+              install Google Earth).
+
+Mobile or PDA version
+
+
+
+
+Legend
+Based on the location and magnitude of the disasters and the local population
+        and their vulnerability, disasters are classified in three classes: 
+
+ Green: very
+          low likelihood of humanitarian disaster
+ Orange: potential
+          humanitarian disaster
+ Red: very high
+          likelihood of humanitarian disaster
+        
+
+How to use GDACS alerts
+The events listed on this page have been automatically selected by a
+        computer program based on the earliest available information; alert levels
+        will not be modified manually. However, if new information comes available
+        alert levels are updated automatically. For confirmation or further information
+        of the disaster, please refer
+
+to the “coordination” section of GDACS
+          (OCHA Virtual OSOCC and ReliefWeb), 
+to the media 
+and – most importantly – to the local disaster response authority.
+
+GDACS does not provide authoritative information. Please do not use GDACS
+        alerts for emergency response decision making without alternate sources
+        of information. If you are an emergency manager, please register for
+        GDACS coordination (Virtual OSOCC).
+ 
+
+
+
+
+
+
+
+
+
+Joint Initiative of the United Nations and the European Commission --
+                
+Contact us -- Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information on this website is collected from scientific 
+            and media sources in participation with European Commission Joint Research Centre, 
+            UNOSAT and OCHA ReliefWeb.
+                
+
+
+
+© European Union, 2004-2011
+                    Reproduction authorised provided the source is acknowledged, except for commercial
+                    purposes. 
+
+
+
+
+
+            Financially
+            
+            supported for 2008-2009 by EC MIC
+        
+
+
+
+
+
+
+
+
+
+
+

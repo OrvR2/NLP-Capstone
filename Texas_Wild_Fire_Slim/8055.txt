@@ -1,0 +1,219 @@
+vBulletin SEO: The vBSEO Solution
+
+
+Serious Search Engine Friendliness
+
+
+
+Professional vBulletin SEO with a 5 Minute Installation of vBSEO
+The #1 Solution for Your vBulletin Powered Forum
+
+
+vBulletin SEO Forums
+
+      Purchase vBSEO
+
+
+
+
+      Download vBSEO
+vBSEO 
+      Control Panel
+
+
+vBSEO stands for  vBulletin Search Engine Optimization, 
+  a powerful plugin for 
+vBulletin forum and suite, built using  
+  patent-pending SEO technology.
+vBSEO is designed to be easy for you. It's powerful control panel 
+  and easy installation allows you to be up and running in only minutes.
+In that instant, vBulletin SEO begins optimizing your forum immediately in 
+  real-time... ultimately allowing Google and other search engines to find all 
+  of your forum pages, index them, and rank them more prominently for thousands 
+  of keywords on your site:
+The 
+  bottom line for you is more Web traffic to your forum
+The success stories below are real life samples of how vBSEO can propel 
+  your forums to greater levels of traffic and income:
+
+Become the #1 vBulletin Forum with vBSEO - $1400 in One Day!
+How did vBSEO Buy a Young Entrepreneur a BMW M3 Luxury Car?
+The Fastest Way to $20K with vBSEO - The FireBlades Story
+
+What does vBSEO do?
+vBSEO is a plugin for vBulletin forum software. Once installed, vBSEO ensures that all of your vBulletin forum content 
+  pages (i.e. threads) can be included in Internet search engines such as Google, Yahoo, MSN, and hundreds of 
+  other search engines. 
+
+How does vBSEO make my vBulletin forums search engine friendly?
+Why is configuring static URLs for your forum and thread pages important?
+ 
+Why should you choose vBSEO?
+Doesn’t vBulletin do this already?
+ 
+Features of vBSEO
+vBSEO Custom Rewrite Rules - Ensuring Full Compatibility with 3rd Party vBulletin Hacks 
+vBSEO Makes the vBulletin Archive into a Perfect Sitemap 
+vBSEO Provides an Easy Backup, Restore, and Sharing Feature
+
+ 
+Are there any performance issues with vBSEO?
+What are the minimum system requirements to run vBSEO?
+What are the vBSEO license requirements (or EULA)?
+
+ 
+Where can I learn more about the importance of static, content relevant URLs, vBulletin SEO, and search engine optimization?
+
+How does vBSEO make my vBulletin forums search engine friendly?
+One part of what the vBSEO solution does is make your vBulletin forum and thread pages look “static” 
+  and content rich. Static URL means that they appear to be just like regular website pages that end in .html or .htm, etc. Search engines love static pages (as opposed to dynamic URLs  like PHP scripts, etc).
+But this is just the beginning. One of vBSEO’s most unique features is that it allows you to configure the actual format of all URLs (website addresses) for forum pages. You can choose to customize your own CRU (Content Relevant URL with relevant keywords embedded) however you choose. Even achieving a CNN.com style URL configuration is possible. 
+But the complete solution has over 200 features 
+  and configuration options. You can get a sense of all that is 
+  available in the vBSEO Demo.
+Other main features include:
+
+LinkBacks (PingBacks/TrackBacks/RefBacks™) - For relevant and 
+    inbound/outbound links to/from your forum.
+Custom Rewrite Rules - Ensure full compatibility with all of your 
+    other vBulletin plugins and custom applications
+Custom Redirects - Tell search engines where to find important 
+    moved content
+Relevant Replacements - Add highly relevant keywords to the page, 
+    to boost ranking for those terms
+Automatic Title Retrieval for External Links - More effective 
+    anchor text for links (adds optimized keywords to your page content)
+Social Bookmarking - Build inbound links with (Digg, Technorati, 
+    Furl, & del.ici.ous and more)
+Logging & Tracking Options
+
+ 
+Why is configuring static URLs for your forum and thread pages important?
+vBSEO allows you to include important keywords from your forum display, thread display, and other pages into the actual URL for the static page - The result is a 
+  CRU or Content Relevant URL.
+Search engines are capable of finding keywords in website URLs and comparing them against the webpage textual content to determine where the page should be displayed in the search engine results pages (SERPs). If you are not listed highly in the search engine results, you will not have very many Web visitors to your forums. The growth and success of your forum depends largely on the visibility or exposure its obtains from the search engines. 
+Search engine ranking algorithms consider 100s of factors when determining how prominently to include your webpages in their search results (SERPs). Therefore, it is vitally important to the success of your website that you take every step possible to search engine optimize your vBulletin forums. Content Relevant URLs is the first step towards complete vBulletin SEO. 
+ 
+Why should you choose vBSEO?
+The process of modifying vBulletin for search engine friendliness is extremely complex without vBSEO. 
+  In fact, vBSEO has taken over 15,000 man hours to create.
+Many expert Web programmers discover the hard way how difficult just 
+  creating Content Relevant URLs can be. As a forum admin, your time is best 
+  spent growing your community. No matter what you hear, SEO should never be 
+  considered a do-it-yourself project... and certainly not for a system as 
+  complex as vBulletin.
+With vBSEO's 5 minute installation, you erase the need for SEO consultant 
+  work and save yourself 100s of hours of time and costly mistakes. And then 
+  your SEO begins to work in real-time, giving you the chance to become the next 
+  vBSEO success story.
+ Except vBSEO, there is no other professional, 
+  fully supported vBulletin SEO solution in existence today.
+Choose vBSEO and you get access to the solution developed and improved over 
+  2 years by the full time, dedicated vBSEO Team.
+We have thousand of customers many of whom have 
+  well over 10 forums all using vBSEO. These expert forum admins have 
+  realized the power of vBSEO - and in most cases, they purchased it for every 
+  forum they own. 
+Why? Because they tried it out and were blown away by how well it 
+  delivered SEO benefits and ultimately more traffic and revenue for their 
+  forums.
+Our dedicated vBSEO Pre-Release Team tests all versions of vBSEO prior to 
+  us releasing GOLD versions to our customers. We try to build a bullet proof, 
+  100% bug free product with every new update.
+* vBulletin code modification not required for vB versions 3.5.x, 3.6.x, 3.7.x or greater. The installation is handled via the Plugin Manager in the vBulletin Admin CP. 
+Certainly vBSEO is not the holy grail of SEO. No one can deliver on a 
+  promise on a top 10 ranking for any search term you desire - it's safe to say 
+  that you will be disappointed in about 100% of the time if you believe that 
+  statement. 
+What vBSEO does is optimize every single page of your forum, allowing 
+  you to generate search engine traffic from thousands of keywords posted on 
+  your forum via user generated content. This is called long tail search traffic 
+  - and it should be your primary focus for vBulletin SEO.
+The vBSEO solution is the #1 proven method of 
+  making your vBulletin forum more search engine friendly, optimized for better 
+  rankings, and able to draw more search engine traffic.
+If you desire more Web traffic, then vBSEO is an absolute must-have for 
+  you!
+ 
+Doesn’t vBulletin do this already?
+vBulletin includes an archive feature in versions 3.0.x, 3.5.x,  3.6.x, and 3.7.x. This feature does an excellent job of helping search engines to locate a copy of the postings, threads and other content created by your forum members.
+Getting included (or indexed) in the search engines is Step 1. Step 2 is getting listed prominently for the important keywords that are included in your content.
+vBSEO picks up where vBulletin’s archive feature leaves off and corrects a many areas that lead to non-optimized search engine pages: 
+
+Duplicate content: If the search engines review both your archive and regular forum pages they can determine that the content is duplicated which often results in large quantities of pages that are flagged as duplicate content being left out of the search engines.
+Google Page Rank: The world’s leading search engine is Google. 
+  Part of the way it evaluates websites is based on a page-ranking algorithm (i.e. Google PageRank). The PageRank algorithm 
+  is heavily based on the number of other webpages that link to your website (called backlinks 
+  or LinkBacks™). If other websites begin linking to your vBulletin archive 
+  content instead of your main forum pages, some of your Google Page Rank value 
+  can be lost. Search Engine Marketing professionals refer to this as “PageRank Leak”.
+
+vBSEO helps eliminate issues with vBulletin duplicate content and leaking of Google Page Rank.
+ 
+Key Features of vBSEO
+To discover and explore the full features of vBSEO, please checkout our 
+vBSEO Demo. Don't be overwhelmed! 
+  vBSEO's default configuration options are used by many of our customers. If 
+  you need any help understanding any vBSEO feature or option, please visit us 
+  at the vBulletin SEO forums and a member 
+  of the vBSEO Total Support Team will provide answers to all of your questions.
+vBSEO Custom Rewrite Rules - Ensuring Full Compatibility with 3rd Party vBulletin Hacks 
+vBSEO has a built in Custom Rewrite Engine that allows every vBSEO user to create their own custom static URL rewriting. 
+  No other vBulletin plugin offers this advanced feature. This ensures that vBulletin 
+  forum admins who have any other 3rd party hack installed will be able to 
+  remain fully compatible and can avoid duplicate content issues and further improve their vBulletin SEO. 
+ 
+vBSEO Makes the vBulletin Archive into a Perfect Sitemap
+vBSEO allows you to change the format of vBulletin Archive URLs to 
+  something such as http://yoursite.com/sitemap/. This greatly simplifies the URL format and allows the vBulletin 
+  archive to be spidered more effectively by the various search engine bots 
+  (GoogleBot, etc). 
+ 
+vBSEO Provides an Easy Backup, Restore, and Sharing Feature 
+vBSEO provides the ability to backup, restore, and share your vBSEO  configuration settings. Users can easily copy the settings of another vBSEO enabled forum if they are provided with the backup file. Users are encouraged 
+  to discuss and share their SEO strategies and vBSEO configurations at the official 
+  vBulletin SEO forums. 
+Are there any performance issues with vBSEO?
+ vBSEO was designed with performance as a top priority. vBSEO is 100% 
+  optimized for regular expressions (regex) and optimal and minimized database 
+  queries.
+ Most forums will have minimal observable performance impact.
+ Servers that are already consuming a high amount of resources (memory & 
+  CPU), prior to installing vBSEO, may notice some change in performance. In 
+  these cases, the vBSEO Total Support team can provide a checklist of important 
+  performance optimization settings to use.
+NOTE: vBSEO also includes a feature for Cleaning Up HTML code that will result in faster webpage display for all of your vBulletin forum and thread pages resulting in improved user performance. 
+ 
+What are the minimum system requirements to run vBSEO?
+
+vBSEO works with all current    versions including vBulletin 3 and vBulletin 4.
+vBSEO is compatible with the following web servers:
+Apache
+IIS
+Lighttpd
+Zeus
+Litespeed
+
+
+For Apache, the mod_rewrite module must be installed and activated in 
+    your server configuration. NOTE: Apache mod_rewrite is typically enabled by 
+    default on most web servers. If not, you can request your web hosting 
+    provider to install and enable it or get assistance from the vBSEO Total 
+    Support team.
+There is a compatibility test script available here:
+    http://www.vbseo.com/downloads/
+
+ 
+What are the vBSEO license requirements (or EULA)?
+Click here to view the vBSEO End User License Agreement. 
+ 
+Where can I learn more about the importance of 
+  vBulletin & vBulletin SEO?
+There are some excellent online resources. Here are a few of our favorites: 
+
+vBulletin.com
+vBulletin.org
+
+
+
+Copyright © 2005-2011 Crawlability, Inc. All rights reserved.Contact Us | Phones: 888-777-1318 (US) 

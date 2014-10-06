@@ -1,0 +1,94 @@
+var delay=2500 //set delay between message change (in miliseconds)
+var fcontent=new Array()
+
+
+fcontent[0]="Q-C man's quarter collection could become 9/11 memorial"
+
+fcontent[1]="'The shock just hits you': 2 area firefighters help at..."
+
+fcontent[2]="Don't expect a home run from the Fed  "
+
+fcontent[3]="Hacker group draws increased scrutiny from feds  "
+
+fcontent[4]="Borders seller gives Chicago schools 8,000 books"
+
+fcontent[5]="Not funny? College course offers help"
+
+fcontent[6]="7 oil workers found alive in Gulf of Mexico"
+
+fcontent[7]="Iraq cleric to followers: Stop attacking U..S troops  "
+
+fcontent[8]="White House takes possible terror threat seriously  "
+
+
+var fwidth='300px' //set scroller width
+var fheight='36px' //set scroller height
+
+var fadescheme=1 //set 0 to fade text color from (white to black), 1 for (black to white)
+var fadelinks=1  //should links inside scroller content also fade like text? 0 for no, 1 for yes.
+
+///No need to edit below this line/////////////////
+
+var hex=(fadescheme==0)? 255 : 188
+var startcolor=(fadescheme==0)? "rgb(255,255,255)" : "rgb(188,196,229)"
+var endcolor=(fadescheme==0)? "rgb(188,196,229)" : "rgb(255,255,255)"
+
+var ie4=document.all&&!document.getElementById
+var ns4=document.layers
+var DOM2=document.getElementById
+var faderdelay=0
+var index=0
+
+if (DOM2)
+faderdelay=2500
+
+//function to change content
+function changecontent(){
+if (index>=fcontent.length)
+index=0
+if (DOM2){
+document.getElementById("fscroller").style.color=startcolor
+document.getElementById("fscroller").innerHTML=fcontent[index]
+linksobj=document.getElementById("fscroller").getElementsByTagName("A")
+if (fadelinks)
+linkcolorchange(linksobj)
+colorfade()
+}
+else if (ie4)
+document.all.fscroller.innerHTML=fcontent[index]
+else if (ns4){
+document.fscrollerns.document.fscrollerns_sub.document.write(fcontent[index])
+document.fscrollerns.document.fscrollerns_sub.document.close()
+}
+
+index++
+setTimeout("changecontent()",delay+faderdelay)
+}
+
+// colorfade() partially by Marcio Galli for Netscape Communications.  ////////////
+// Modified by Dynamicdrive.com
+
+frame=20;
+
+function linkcolorchange(obj){
+if (obj.length>0){
+for (aI=0;aI0) {	
+hex=(fadescheme==0)? hex-12 : hex+12 // increase or decrease color value depd on fadescheme
+document.getElementById("fscroller").style.color="rgb("+hex+","+hex+","+hex+")"; // Set color value.
+if (fadelinks)
+linkcolorchange(linksobj)
+frame--;
+setTimeout("colorfade()",80);	
+}
+
+else{
+document.getElementById("fscroller").style.color=endcolor;
+frame=20;
+hex=(fadescheme==0)? 255 : 188
+}   
+}
+
+if (ie4||DOM2)
+document.write('')
+
+//window.onload=changecontent

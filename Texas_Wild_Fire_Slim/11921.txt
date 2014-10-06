@@ -1,0 +1,261 @@
+NWS radar image from Dallas/Fort Worth, TX
+
+
+weather.gov       
+National Weather Service Enhanced Radar Image
+Dallas/Fort Worth, TX Radar
+
+
+      Go to: Standard Version          Local weather forecast by "City, St"             Radar Status Message 
+
+
+
+Composite Reflectivity
+
+
+NWS Dallas/Fort Worth, TX
+ 
+ 
+
+
+
+
+
+ Base Reflectivity
+
+
+NWS Dallas/Fort Worth, TX
+-
+ 
+
+
+
+
+
+Storm Relative Motion
+
+
+NWS Dallas/Fort Worth, TX
+-
+ 
+
+
+
+
+
+Base Velocity
+
+
+NWS Dallas/Fort Worth, TX
+-
+ 
+
+
+
+
+
+One Hour Precipitation
+
+
+NWS Dallas/Fort Worth, TX
+Radar Precip Est From 05:07 AM CDT Wed Sep 14 2011to 06:07 AM CDT Wed Sep 14 2011
+
+
+
+
+
+Storm Total Precipitation
+
+
+NWS Dallas/Fort Worth, TX
+Radar Precip Est From  04:39 PM CDT Tue Sep 13 2011to 06:07 AM CDT Wed Sep 14 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topo  
+Radar 
+Counties 
+Rivers 
+Highways 
+Cities 
+Warnings 
+Legend
+Range and Bearing Information (left click to select a location): How does this work? 
+
+
+Distance from Radar, Lat/Lon of selected location
+Distance from Selected Location
+
+
+
+
+
+
+
+
+
+
+
+
+ Latitude
+ Longitude 
+
+
+
+
+
+
+NationalRadarMosaicSectors(click image)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+National Weather Service, NOAA
+1325 East-West Highway
+Silver Spring, MD 20910
+Webmaster's E-mail: sr-fwd.webmaster@noaa.gov
+Page last modified: June 3, 2011
+Disclaimer
+Credits
+Glossary
+Privacy Policy
+About Us
+Career Opportunities
+
+
+
+
+NATIONAL WEATHER SERVICE: for Safety, for Work, for Fun - FOR LIFE
+
+
+
+
+Adjacent Radars:
+
+
+FWS
+
+
+
+  Short Range Images
+
+
+  Reflectivity:
+
+
+  Composite
+Loop
+
+
+  Base
+Loop
+
+
+  Velocity:
+
+
+  Storm Relative
+Loop
+
+
+  Base
+Loop
+
+
+  Rainfall:
+
+
+  1-Hour Total
+Loop
+
+
+  Storm Total
+Loop
+
+
+
+
+MouseOver Off
+MouseOver On
+
+
+
+  Long Range Images
+
+
+  Reflectivity:
+
+
+  Base
+Loop
+
+
+  U.S. Views
+
+
+  Reflectivity:
+
+
+  National
+Loop
+
+
+  Alaska
+Loop
+
+
+  Hawaii
+Loop
+
+
+  Guam
+Loop
+
+
+  Puerto Rico
+Loop
+
+
+  Radars by State
+
+
+
+  Additional Info:
+  Radar FAQ
+  Downloading Images
+  Mobile Users
+  GIS Users  
+  Doppler University
+  Color Blindness Tool
+  Credits

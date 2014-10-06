@@ -1,0 +1,79 @@
+function poll() {
+
+document.write('');
+
+}
+
+function storyDiscussion() {
+
+document.write(''); 
+
+}
+
+function insertBanner($position) {
+	
+	if ($position == "home_calendar_290x40")
+	{
+		document.write('');
+	}
+if ($position == "inStoryAd_250x250")
+	{
+		document.write('');
+	}
+if ($position == "ptg_bottom_300x77")
+	{
+		document.write('');
+	}
+if ($position == "ptg_top_300x42")
+	{
+		document.write('');
+	}
+if ($position == "tv_wtw_top")
+	{
+		document.write('');
+	}
+if ($position == "marketplace_Ad_250x150")
+	{
+		document.write('');
+	}
+if ($position == "news_squaread1_250x250")
+	{
+		document.write('');
+	}
+if ($position == "news_squaread2_250x250")
+	{
+		document.write(' ');
+	}
+if ($position == "news_squaread3_250x250")
+	{
+		document.write(' ');
+	}
+if ($position == "news_leaderboard_728x90")
+	{
+		document.write('');
+	}
+}
+
+function storyFooter() {
+	storyDiscussion();
+}
+
+function login() {
+
+
+
+document.write('User LoginUsernamePasswordRemember login?Create a new accountRetrieve forgotten password'); 
+
+}
+
+function mostEmailedStories() {
+
+
+
+document.write('');
+}
+
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+	window.open(theURL,winName,features);
+}

@@ -1,0 +1,93 @@
+MAC USERS: Video Troubleshooting Tips - KWES  NewsWest 9 / Midland, Odessa, Big Spring, TX: newswest9.com | 
+
+
+
+KWES  NewsWest 9 / Midland, Odessa, Big Spring, TX: newswest9.com | MAC USERS: Video Troubleshooting TipsMember Center:Create Account|Log InManage Account|Log Out
+
+SITE SEARCHWEB SEARCH BY 
+
+
+
+Send a Story Suggestion to the NewsWest 9 NewsroomAndrews County HeadlinesBig Spring - Howard Co. HeadlinesSoutheast New Mexico HeadlinesTrans-Pecos HeadlinesTexas HeadlinesNew Mexico HeadlinesNational News  International NewsNewsWest 9 ViewPointWeather HomepageNewsWest 9 Interactive RadarNewsWest 9 Presents WeatherCall Home & WeatherCall MobileClick Here to Buy Your Own Weather Alert RadioSports HomepageNewsWest 9 Game Time Band of the Week Play of the WeekGame of the Week2010-2011 NewsWest 9 Star AthleteTexas Sports HeadlinesNew Mexico Sports HeadlinesCommunity HomepageNewsWest 9 - Local Community CalendarUnder West Texas Skies 2011MainHispanic Heritage MonthBack to SchoolGet Involved in Your Child's EducationChildren's Health NewsBack to School: Healthy KidsKnow What's SafeBack to School: 101 Guide to Applying to College HealthHealthy LivingCancer Center Exercise, Weight Loss & NutritionPregnancy & Children's HealthSenior Health NewsSex & RelationshipsDiabetes CenterThe Latest from HealthDayHome/FamilyHispanic Heritage MonthBack to SchoolFor and about womenBeauty & StyleEducationFamilyHome & GardenPetsSeniorsWeddingsMoneyBusinessPersonal FinanceSmall BusinessTechYour JobFoodBrowse Recipes by CategoryOur Newest Recipes!The Nutrition CornerTravelMore Travel FeaturesTravel HomeTravel Destination GuidesHot travel deals!PetsFrom The Dog DailyTraining TipsFrom The Daily CatPet CentersTechInside ScienceFrom Digital TrendsFrom Every Day ConnectedFrom The Geek WeeklyAutoNews Releases from PRNewswireFrom Driving TodayEntertainmentEntertainment News from APEntertainment News from TV GuideEntertainment News from Cinema SourceThe Movie GuideMovie Trailers -- Updated Weekly!Lottery ResultsHoroscopesDaily Animated ComicEntertainment News Releases via PRNewswireGreenVideoBytesIn the KnowHealth and Home ReportWhat's NextContact Us Front PageKWES Job ListingsApplication for Employment at NewsWest 9 - KWES-TVEEO Public File ReportNewsWest 9 Anchors & ReportersKWES Programming GuideKWES 2Q 2009 FCC DTV Quarterly ReportKWAB 2Q 2009 FCC DTV Quarterly ReportTelemundo 20 Anchors & Reporters
+
+
+
+
+
+
+
+EmailShare|Print
+
+
+MAC USERS: Video Troubleshooting Tips
+
+
+
+
+
+
+About This Player and Its Features
+Video Player Troubleshooting Tips
+
+
+
+
+
+
+The Windows Media Plugin is not installed in your browser. To download the latest version of the Windows Media Player, click here.  1. What version of Windows Media Player do I need? 2. Does the Video Player support Real video or Quicktime? 3. Does the Video Player support Flip4Mac?4. Why do I see a streaming video prior to the video clip I selected? 5. Can I skip this streaming media advertisement? 6. The video displays like a slide show. How can I fix this? 7. The Video Player displays but nothing happens? 8. I cannot hear the audio. How can I fix this? 9. The audio sounds like chipmunks - too fast. How can I fix this? 10. What speed does the video play at?  1. What version of Windows Media Player do I need? You need to have Windows Media Player 9 or above to use the Video Player.  To download the newest Window Media Player for OS X, click here.    QuickTime and Real Player are not supported at this time.  [Back to top] 2. Does the Video Player support Real video or Quicktime? Not at this time. To download Window Media Player, click here. [Back to top] 3. Does the Video Player support Flip4Mac? Not at this time. To download Window Media Player, click here. [Back to top] 4. Why do I see a streaming video prior to the video clip I selected?  Sometimes, a streaming media advertisement will play before the video.  [Back to top] 5. Can I skip this streaming media advertisement? No, you cannot skip the streaming advertisement. [Back to top] 6. The video displays like a slide show. How can I fix this?  The videos that you are watching are sent, or streamed, to your computer over the Internet. The speed at which these files can be streamed varies depending on your computer's "bandwidth". In other words, if you have a high bandwidth connection (i.e. cable, DSL, T1/LAN connection), your computer can receive streaming video at a higher speed than a user with low bandwidth (i.e. modem / ISDN) connection. This also means that a user with high bandwidth can receive larger, better quality video stream. On the other hand, a user with a lower bandwidth may receive the video as a slide show or choppy if they cannot receive the full video stream. You can also check your video card settings. Set the number of colors higher than 256k colors.  Finally, you may be experiencing problems due to bandwidth congestion. If the problem persists, we also recommend checking back at a time when your Internet service provider may experience less congestion to see if there is an improvement. [Back to top] 7. Windows Media Player displays but nothing happens?  Verify that you meet the system requirements for Windows Media Player as outlined above. [Back to top] 8. I cannot hear the audio. How can I fix this? To be able to hear the audio on videos, you must have a working sound card and your computer speakers turned on with the volume set at an appropriate level. If you still receive video without audio, verify that your system audio works by playing another audio application and/or checking your speaker and headphone wires. [Back to top] 9. The audio sounds like chipmunks - too fast. How can I fix this? Updating your sound card's driver might take care of this problem. If you need assistance with getting the latest version of your sound card driver, contact the card manufacturer. [Back to top] 10. What speed does the video play at? The videos that you are watching are sent, or streamed, to your computer over the Internet. The speed at which these files can be streamed varies depending on your computer's "bandwidth". In other words, if you have a high bandwidth connection (i.e. cable, DSL, T1/LAN connection), your computer can receive streaming video at a higher speed than a user with low bandwidth (i.e. modem / ISDN) connection.  The video on this site is streamed at 4 different rates to allow for the best quality for your bandwidth. [Back to top]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NewsWest 9 2011 Tax Guide
+Click here to find daily tax tips, forms, rules and IRS FAQ's.NewsWest 9 Viewpoint
+Click here to view or submit your viewpoint photos to NewsWest 9.NewsWest 9 Gas Price Zone
+Click here to view the latest gas price news, gas saving tips, and to track local gas prices in your area.KWES Programming Guide
+Find out what programs come on, and when, on NewsWest 9.RSS Feeds
+NewsWest 9 now offers RSS feeds. Click here to find out how to use this new resource.Watch NBC Shows Online
+Click here to watch your favorite NBC Programming online.Texas Lottery
+Link to the Official Texas Lottery website to see if you have won! 
+
+
+
+
+
+
+
+
+All content © Copyright 2000 - 2011 WorldNow and KWES. All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.
+
+
+
+
+
+

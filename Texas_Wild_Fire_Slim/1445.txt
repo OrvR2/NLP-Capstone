@@ -1,0 +1,12 @@
+Sitemap: http://vimeo.com/sitemap.xml
+
+User-agent: *
+Crawl-delay: 0
+Disallow: /log_in
+Disallow: /sign_up
+Disallow: /join
+Disallow: /privacy
+Disallow: /download/
+Disallow: /moogaloop/
+Disallow: /couchmode/
+Allow: /

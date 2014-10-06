@@ -1,0 +1,1459 @@
+Natural Gas Bombshell:  Switching From Coal to Gas Increases Warming for Decades, Has Minimal Benefit Even in 2100 | ThinkProgress
+
+
+
+
+
+
+
+
+
+
+
+TRENDING:
+Global WarmingElection 2012Green JobsEnvironmental Protection AgencyRick Perry
+
+
+
+
+
+
+ 
+
+
+ThinkProgress - Climate Progress
+
+Climate Progress
+
+
+Economy
+Green
+Health
+Justice
+LGBT
+Security
+
+
+Alyssa
+Joe Romm
+Yglesias
+
+
+
+
+
+
+ Tom Friedman on Rick Perry, Global Weirding, Solyndra and a Carbon Price
+
+
+ Memo to the Right: Sick and Dead People Aren't Very Productive
+
+
+ An Introduction to Climate Progress
+
+
+
+Natural Gas Bombshell:  Switching From Coal to Gas Increases Warming for Decades, Has Minimal Benefit Even in 2100
+
+By Joe Romm  on Sep 9, 2011 at 5:01 pm
+
+A BRIDGE FUEL TO NOWHERE
+A stunning new study by the National Center for Atmospheric Research (NCAR) concludes:
+In summary, our results show that the substitution of gas for coal as an energy source results in increased rather than decreased global warming for many decades….
+
+Coal, natural gas, and climate: Shifting from coal to natural gas would have limited impacts on climate, new research indicates. If methane leaks from natural gas operations could be kept to 2.5% or less, the increase in global temperatures would be reduced by about 0.1 degree Celsius by 2100.  Note this is a figure of temperature change relative to baseline warming of roughly 3°C (5.4°F) in 2100.  Click to Enlarge.
+The fact that natural gas is a bridge fuel to nowhere was first shown by the International Energy Agency in its big June report on gas — see IEA’s “Golden Age of Gas Scenario” Leads to More Than 6°F Warming and Out-of-Control Climate Change.  That study — which had both coal and oil consumption peaking in 2020 — made abundantly clear that if we want to avoid catastrophic warming, we need to start getting off of all fossil fuels.
+But what NCAR’s new study adds is more detailed modeling of all contributors to climate change from fossil fuel combustion — positive and negative.  The study is here [they just eliminated the subscription requirement], the news release is here. It’s by senior research associate Tom Wigley, one of the country’s leading experts on climate modeling.
+“Relying more on natural gas would reduce emissions of carbon dioxide, but it would do little to help solve the climate problem,” says Wigley, who is also an adjunct professor at the University of Adelaide in Australia. “It would be many decades before it would slow down global warming at all, and even then it would just be making a difference around the edges.”
+Wigley’s analysis is the first to include all of the relevant climate factors:
+
+We consider a scenario where a fraction of coal usage is replaced by natural gas (i.e., methane, CH4) over a given time period, and where a percentage of the gas production is assumed to leak into the atmosphere. The additional CH4 from leakage adds to the radiative forcing of the climate system, offsetting the reduction in CO2 forcing that accompanies the transition from coal to gas. We also consider the effects of methane leakage from coal mining; changes in radiative forcing due to changes in the emissions of sulfur dioxide and carbonaceous aerosols; and differences in the efficiency of electricity production between coal- and gas-fired power generation. On balance, these factors more than offset the reduction in warming due to reduced CO2 emissions.
+In the main scenario in the paper, natural gas use soars and coal use drops from 2010 to 2050 before rising again slowly.  In the “Supplementary Material,” Wigley runs a sensitivity analysis where natural gas actually replaces coal entirely by 2050.  The results are virtually identical — there’s extra warming through 2050 and by 2100 the total reduction in warming is slightly under 0.1°C.
+Wigley’s warming in 2100 is “only” 3°C (though it just keeps warming and hits 4°C a few decades later).  Other models show 2100 warming closer to 4°C or 5°C (see M.I.T. doubles its 2095 warming projection to 10°F — with 866 ppm and Arctic warming of 20°F).  Either way, the switch to gas accomplishes little or nothing.
+A key finding of the NCAR study is:
+In summary, our results show that the substitution of gas for coal as an energy source results in increased rather than decreased global warming for many decades — out to the mid 22nd century for the 10% leakage case. This is in accord with Hayhoe et al. (2002) and with the less well established claims of Howarth et al. (2011) who base their analysis on Global Warming Potentials rather than direct modeling of the climate….
+The most important result, however, in accord with the above authors, is that, unless leakage rates for new methane can be kept below 2%, substituting gas for coal is not an effective means for reducing the magnitude of future climate change.
+What is the leakage rate for methane?  Well, as I’ve written, we don’t know exactly because the gas companies won’t release all of their data.  We do know that total life-cycle leakage and fugitive emissions from extraction, production, transport, and consumption is higher for shale gas than conventional gas.
+The controversial — but peer-reviewed — paper by Cornell’s Robert Howarth, which I wrote about here, seeks to quantify the impact of the leakage from the best available data.  It concluded:
+Natural gas is composed largely of methane, and 3.6% to 7.9% of the methane from shale-gas production escapes to the atmosphere in venting and leaks over the life-time of a well. These methane emissions are at least 30% more than and perhaps more than twice as great as those from conventional gas. The higher emissions from shale gas occur at the time wells are hydraulically fractured — as methane escapes from flow-back return fluids — and during drill out following the fracturing. Methane is a powerful greenhouse gas, with a global warming potential that is far greater than that of carbon dioxide, particularly over the time horizon of the first few decades following emission.
+I wrote about the “response” by the National Energy Technology Laboratory, the DOE’s premier fossil fuel lab, here.  NETL throws dozens of numbers at the reader — and averages in shale gas with conventional gas — to obfuscate the issue.  But even NETL concedes that fugitive emissions comprise 1.7% of all natural gas extracted — and point source losses (vented or flared) comprised 2.4% of gas extracted.  Shale gas, in their analysis, appears to have 30% higher global warming potential for extraction and delivery, so clearly total losses are higher — much higher than 2%.
+I would note that legitimate claims are being made now that the lifetimes of many new shale gas wells have been overstated considerably — see “Analysis: U.S. Shale Gas Industry Reserves Are Over Stated at Least 100 Percent.”  If so, this would again suggest that total life-cycle emissions relative to total production may be higher than people have suspected for unconventional gas.
+ClimateWire (subs. req’d) quotes Howarth, who is a professor of ecology and environmental biology, that the switch from coal to gas has been “overhyped”:
+It’s time to move on truly green energy technologies — solar, wind —  and to place a much greater emphasis on energy efficiency.
+Can’t argue with that.
+Reid Detchon, executive director of the Energy Future Coalition is quoted saying:
+Certainly the carbon benefit was a major consideration in wanting  to consider a switch from coal to gas.  The Wigley analysis  makes it clear that simply switching from coal to gas is not going to  get the job done.”
+Detchon calls for developing carbon capture mechanisms for natural gas, which should be a priority for the industry, but don’t hold your breath.
+BOTTOM LINE:  If you want to have a serious chance at averting catastrophic global warming, then we need to start phasing out all fossil fuels as soon as possible.  Natural gas isn’t a bridge fuel from a climate perspective.  Carbon-free power is the bridge fuel until we can figure out how to go carbon negative on a large scale in the second half of the century.
+Since this is an NCAR study, let me end by pointing out that last year NCAR published a complete literature review of “Drought under global warming” (see here).  That study makes clear that Dust-Bowlification may be the impact of human-caused climate change that hits the most people by mid-century, as the figure below suggests (click to enlarge, “a reading of -4 or below is considered extreme drought”):
+
+The PDSI [Palmer Drought Severity Index] in the Great Plains during the Dust Bowl apparently spiked very briefly to -6, but otherwise rarely exceeded -3 for the decade (see here).
+The large-scale pattern shown in Figure 11 [of which the figure above is part] appears to be a robust response to increased GHGs. This is very alarming because if the drying is anything resembling Figure 11, a very large population will be severely affected in the coming decades over the whole United States, southern Europe, Southeast Asia, Brazil, Chile, Australia, and most of Africa.
+The National Center for Atmospheric Research notes “By the end of the century, many populated areas, including parts of the United States, could face readings in the range of -8 to -10, and much of the Mediterranean could fall to -15 to -20. Such readings would be almost unprecedented.”
+Texas is currently at a PDSI of -7.75, close to its record of -7.8 in September 1956 – see Hell and High Water Stoke Texas Blaze: “No One on the Face of This Earth has Ever Fought Fires in These Extreme Conditions”
+For the record, the NCAR study merely models the IPCC’s “moderate” A1B scenario — atmospheric concentrations of CO2 around 520 ppm in 2050 and 700 in 2100, which looks close to what Wigley modeled.  If this is the Golden Age of Gas, then it must be describing the color of the dust.
+
+Tags:
+
+FrackingGlobal WarmingNatural Gas 
+
+
+  Previous in TP Climate Progress  Next in TP Climate Progress  
+
+
+
+86 Responses to Natural Gas Bombshell:  Switching From Coal to Gas Increases Warming for Decades, Has Minimal Benefit Even in 2100
+
+
+
+
+prokaryotes says: 
+
+			September 9, 2011 at 5:25 pm 
+Fossil Fuel = Doom!
+Renewable Energy = Bloom!
+
+Reply 
+
+
+
+
+
+Michael S says: 
+
+			September 9, 2011 at 5:29 pm 
+Climate is important, but when one depends on the aerosol pollution from coal to mitigate warming, and then use that reduced warming to argue against natural gas, that seems a little misguided.
+The minimal difference between coal and natural gas with regard to warming makes gas a clear winner when one considers air pollution and public health.  Yes, fugitive emissions are a major problem for natural gas, but it seems like the correct policy response would be to increase regulations regarding fugitive emissions.
+Coal is the worst fossil fuel by far, so I think we shouldn’t be attacking gas to the benefit of coal.  Public respiratory health is important too.
+
+Reply 
+
+
+
+
+
+Joe Romm says: 
+
+			September 9, 2011 at 5:51 pm 
+Such is the difference between science and politics.  You have framed this issue as if the study is “arguing” against natural gas.  In fact, all it is doing is comparing the 2 fuels  using what we know about climate science.  If  you want to make your decisions in the absence of all relevant knowledge, then, I’d say,  you are the one who  is making a nonscientific argument.
+The point of this study is that even a small amount of total fugitive emissions renders natural gas impotent  for decades in the fight against global warming.
+I  and others have spent a long time on this blog arguing for reductions in urban air pollutants.  But again,  the best way to reduce total impact on humanity is to replace coal with renewables, not coal with gas.
+I would  add that it appears that aerosol emissions from coal have, ironically,  shielded us from the full impact from warming.  So again,  it would be foolish to ignore them now.
+
+Reply 
+
+
+
+
+
+Mulga Mumblebrain says: 
+
+			September 9, 2011 at 5:55 pm 
+Michael, they are not arguing for coal, but against gas and all others fossil fuels. The point of the article is that gas may or may not be a lesser evil, but it is definitely a climate destabilisation evil, and renewables are not. Moreover the concerted push for gas by the Right is clearly intended to delay renewables, to the benefit of the gigantic vested money interest that is the fossil fuel dragon.
+
+Reply 
+
+
+
+
+
+Michael S says: 
+
+			September 10, 2011 at 11:00 am 
+I understand, but arguing against gas (and nuclear) is arguing for the status quo, which is coal.
+[JR:  The paper doesn't argue against gas.  And it says nothing on nuclear.  The  status quo is catastrophic as NCAR and Climate Progress  have made clear over and over again.  Indeed, that's one of the reasons I quoted the NCAR paper on drought.]
+And you should realize that coal supporters are going to take this report and distort it to argue that coal is fine.
+[JR:   One can't spend time worrying about how liars will lie about what you are doing.]
+In terms of CO2e, normalized by kWh generated instead of energy content (the major problem with the Howarth paper), gas is close to a factor of 2 better than coal, including fugitive emissions.  If we do a decent job of regulating fugitive emissions, gas gets even better.
+[JR:  You have utterly failed to read the paper or the news release or even this post.  This paper vindicates Howarth by showing that the CO2 (and CO2e) benefit you cite is simply irrelevant on the timescale of decades.  Again, shale gas is going to worsen the fugitive emissions problem not improve it, especially if it spreads to other countries.]
+I’m as big a supporter of renewables as anyone, but until the negative externalities of fossil fuels are properly priced renewables are going to have a hard time competing.  With a crappy economy nobody cares about  clean energy if it’s more expensive.  So if gas helps improve the public health, taking some budgetary pressure off people and the government, then that means renewables will be more likely.
+[JR:  There is no evidence whatsoever for your final sentence.  Right now,  gas competes with renewables as much as coal.  Yes,  some gas is needed for renewables, but vast quantities of low-cost gas  compete with renewables and, as this study and others show, don't  mitigate global warming for many, many decades.]
+
+Reply 
+
+
+
+
+
+Barry Saxifrage says: 
+
+			September 10, 2011 at 4:01 pm 
+Marc Jaccard, IPCC lead author and one of the people involved in BC Carbon Tax and 100% renewable electricity mandate, says that the biggest impediment to renewable energy is natural gas. It is so abundant and cheap that it is single handedly destroying the economics of renewables. Renewables look like they will be able to compete with coal…especially given the many other pollutants in coal emissions that help limit it. But to the extent that natural gas is seen as an acceptable “bridge” fuel then renewables are toast. The science is now showing that natural gas is as damaging to climate as coal and it should be treated that way in messaging and policy.
+
+Reply 
+
+
+
+
+
+Robert Howarth says: 
+
+			September 10, 2011 at 4:44 pm 
+In the Howarth et al. paper, we concentrated on the greenhouse gas footprint normalized to heat energy, rather than electricity alone, because only 30% of natural gas use in the US is for electricity.  We concentrated on the major use:  the 70% for heat and industry process energy.  The DOE clearly project no increase in use of shale gas for electricity, but rather a replacement of conventional gas by shale gas for current uses.  This switch results in a major increase in methane emissions, which was the focus of our paper.
+
+Reply 
+
+
+
+
+
+
+
+
+
+
+
+catman306 says: 
+
+			September 9, 2011 at 5:54 pm 
+Climate change is exponential!
+
+Reply 
+
+
+
+
+
+prokaryotes says: 
+
+			September 9, 2011 at 6:08 pm 
++1
+
+Reply 
+
+
+
+
+
+
+
+Merrelyn Emery says: 
+
+			September 9, 2011 at 6:50 pm 
+I hope Wigley sent a copy direct to the Australian Minister for Mines, Myths and Monumental Disasters, ME
+
+Reply 
+
+
+
+
+
+Paul magnus says: 
+
+			September 9, 2011 at 7:06 pm 
+Phew, I smell gas!
+
+Reply 
+
+
+
+
+
+Lou Grinzo says: 
+
+			September 9, 2011 at 7:16 pm 
+And NG isn’t so great for vehicles, either.  Compare the gasoline non-hybrid, gasoline hybrid, and NG fueled versions of the 2012 Honda Civic, and you find that the NG variant has 19% lower CO2/mile emissions than the non-hybrid, but the hybrid is about 10% lower than the NG vehicle.
+For a spreadsheet with the details, see my post: http://www.grinzo.com/energy/2011/09/01/cng-vehicles-a-cheap-shiny-new-bridge-to-nowhere/
+
+Reply 
+
+
+
+
+
+A J says: 
+
+			September 10, 2011 at 2:52 am 
+Assuming emissions associated with extraction can be addressed, and/or we focus more on renewable power so that more conventional gas is available, how about a natural gas hybrid? Presumably that’d beat all three.
+
+Reply 
+
+
+
+
+
+
+
+Paul Revere says: 
+
+			September 9, 2011 at 7:33 pm 
+However, coal causes more soot and blackening of Arctic ice, leading to increased absorbtion of heat there.  Respiratory deaths go up too.
+The inevitable conclusion all this is to go heavily into nuclear power, which causes no global warming at all.
+
+Reply 
+
+
+
+
+
+David B. Benson says: 
+
+			September 9, 2011 at 10:04 pm 
+Yes, looking through all the options and mixes, only nuclear + hydro survives all the tests and barriers.
+
+Reply 
+
+
+
+
+
+John Tucker says: 
+
+			September 10, 2011 at 6:23 am 
+I think a very diverse application of technologies is warranted. Nuclear making up a large and vital component where suited.
+
+Reply 
+
+
+
+
+
+
+
+Mulga Mumblebrain says: 
+
+			September 10, 2011 at 1:51 am 
+No it doesn’t. Nuclear produces lots of greenhouse gases in construction, de-commissioning, mining, transport, fuel enrichment etc. And it produces intractably and everlastingly poisonous wastes, currently being scattered over Japan, the latest such disaster. Only renewables and efficiency can save us. Nuclear is nothing but willful madness and a stalking-horse for fossil fuels, in that nuclear enthusiasm is clearly, I mean blatantly, being used to delay renewables, to the fossil fuel interests’ benefit.
+
+Reply 
+
+
+
+
+
+John Tucker says: 
+
+			September 10, 2011 at 6:17 am 
+I never seen one extinction caused by nuclear power and scientific studies do not support mass causalities from releases in Japan. (the worst nuclear power incident in 25 years), Nor do they support claims of environmentally significant pollution.  
+There has yet to be ONE casualty from radiation in Japan and from doses published less than one to a couple can be expected scientifically traceable to the incident by accepted exposure studies. 
+Selected Numbers from Table 8
+ ( http://www.nirs.org/climate/background/sovacool_nuclear_ghg.pdf )
+Lifecycle estimates for electricity generators a
+ Technology Capacity/configuration/fuel Estimate 
+(gCO2e/kWh)
+Wind offshore 9
+Hydroelectric 10
+Wind onshore 10
+Biogas Anaerobic digestion 11
+Hydroelectric run-of-river 13
+Solar thermal 80 MW, parabolic trough 13
+Biomass Forest wood steam turbine 22
+Biomass Short rotation forestry Co-combustion with 23
+Solar PV
+ 32
+Biomass
+ (forestry) 35
+Geothermal
+ 38
+Nuclear
+ 66
+Natural gas
+ 443
+Fuel cell
+ 664
+Diesel
+ 778
+Heavy oil
+ 778
+Coal
+ 960-1050
+
+Reply 
+
+
+
+
+
+John Tucker says: 
+
+			September 10, 2011 at 6:18 am 
+I apologize for not formatting that better.
+
+Reply 
+
+
+
+
+
+Joe Romm says: 
+
+			September 10, 2011 at 7:57 am 
+The three main problems with nuclear from a climate perspective are cost, cost, and cost.
+
+Reply 
+
+
+
+
+
+John Tucker says: 
+
+			September 10, 2011 at 9:32 am 
+All said and done joe – I think its still a steal. Especially where a lot of dependable and steady power is needed in a small geographical footprint. (which with a better distribution grid becomes increasingly less an issue)
+
+
+
+
+
+
+
+Sasparilla says: 
+
+			September 10, 2011 at 5:27 pm 
+Joe, you’re right on target there (as well as the other listed faults that fission has).
+Question: in todays environment where the GOP is not going to allow large green energy to move forward from the Federal government for the foreseeable future – and we’re looking at nothing but new Natural Gas powerplants (with renewables going on life support as Federal Green Energy tax credits expire in the next couple of years) – would you want some new, hideously expensive, Nuclear plants in the mean time, since the GOP likes it, until Green Energy becomes politically possible again (2020′s or Dems get all three branches?) or just take the Natural Gas plants?
+I’m not being flip here, I’m actually wondering what you think on that damned if you do, damned if you don’t choice that it appears we’re heading towards.
+
+
+
+
+
+
+
+quokka says: 
+
+			September 13, 2011 at 2:38 am 
+The UK Climate Change Committee assessed nuclear as the cheapest low emission technology now and right through 2040. On-shore wind was close and  there is considerable overlap in their range of uncertainties. Elsewhere in the report, they estimate a further 1p/kWh to manage grid balancing for intermittent generators.
+http://www.theccc.org.uk/reports/renewable-energy-review
+Even with the FOAK cost overruns at the EPR in Findland, the LCOE is likely to be no more than that for on-shore wind in Europe.
+
+
+
+
+
+
+
+Joe Romm says: 
+
+			September 13, 2011 at 7:05 am 
+New nukes are over 0.15$ per kwh right now.
+
+
+
+
+
+
+
+
+
+Steve Heitmann says: 
+
+			September 10, 2011 at 6:54 pm 
+People who make statements similar to, 
+“I never seen one extinction caused by nuclear power and scientific studies do not support mass causalities from releases in Japan. (the worst nuclear power incident in 25 years), Nor do they support claims of environmentally significant pollution.”
+are completely ignoring the scale of a potential future accidental release of radioactive waste into the environment.  
+We have not been successful in preventing storage leaks for even 50 years (Hanford and other sites), let alone for thousands of years.  Can we neutralize radioactive waste?  Maybe, but who knows how long to develop and perfect a future technology to do this?
+Stating the past “safety” record of a fundamentally potentially hazardous technology is analogous to my saying, “driving an automobile is completely safe, because I’ve never been in an accident”… then the next day, I die in a freak accident.  And yeah, yeah, yadda, yadda… I know we choose to drive anyway…  again, it’s about the scale of potential damage.
+My big question is, why promote propagation of a costly and potentially very hazardous technology when we have excellent and safe alternatives available now that will have greater profit margins than Uranium-based nuclear?
+http://www.ponderable-possibilities.com/content/alternative-energy-sources.pdf
+
+Reply 
+
+
+
+
+
+Mulga Mumblebrain says: 
+
+			September 11, 2011 at 7:01 am 
+Why, indeed, Steve. I’m firmly of the opinion that nuclear is a stalking-horse for fossil fuels, as every red cent spent on nuclear is one not available for renewables. The nuclear industry is also a hot-bed of transnational corporate power, the same people that control the fossil fuel business. It is, in my opinion, expensive, deadly and eternally (in terms of human civilization) dangerous and just not necessary if we pull our fingers out over renewables. A lot of nuclear zealots appear, in my opinion, to be biased against renewables for ideological reasons, but attempt to disguise it with appeals to its illusory role as ‘clean’ energy.
+
+
+
+
+
+
+
+
+
+
+
+Mike Roddy says: 
+
+			September 10, 2011 at 9:28 am 
+I’m with you on this, Mulga. It’s absurd that people are touting nuclear after Fukushima and Chernobyl, and you’re right about its high carbon footprint too.
+Scratch a nuclear promoter and you often find a banker (who loves the government guaranteed loans) or an oil guy, who loves the weak competition.
+Wind is cheaper than nuclear right now, and solar will be within in a decade. We need to forget about both nuclear and gas.
+
+Reply 
+
+
+
+
+
+John Tucker says: 
+
+			September 10, 2011 at 9:51 am 
+I could say the anti nuclear movement is about as scientific as the climate denial movement, back it up with statements and literature and probably be largely correct. 
+Nuclear power is our largest successful source of clean energy – by far. 
+If the worst possible calamities in 50 years are Chernobyl and Fukushima nuclear is still in very good shape. Just the lowest possible toll from Coal air pollution (with controls) in the US is 325000 over 25 years (its several times that).  ( http://www.lungusa.org/about-us/our-impact/top-stories/toxic-air-coal-fired-power-plants.html )
+The toll from radiation in Japan is zero, the Chernobyl region is now a wildlife sanctuary ( http://www.washingtonpost.com/wp-dyn/content/article/2007/06/07/AR2007060701315.html )and radiation effects did not pan out ( http://www.unscear.org/unscear/en/chernobyl.html ). Still Graphite core reactors and the Fukushima Daiichi reactors are not current technology nor are they up to what safety standards could be. 
+Lastly as all energy and matter is derived from processes involved with nuclear power it is not a technology we should avoid or be fearful of. One way or another to be a successful species in this universe we will have to deal with it proficiently. I see no reason not to start that now when it can benefit us immensely.
+
+Reply 
+
+
+
+
+
+Mulga Mumblebrain says: 
+
+			September 11, 2011 at 7:03 am 
+John, I prefer my nuclear power to be fusion, and kept a safe ninety odd million miles away.
+
+
+
+
+
+
+
+
+
+quokka says: 
+
+			September 13, 2011 at 5:42 am 
+The IPCC AR4 assessments of full life cycle emissions for various electricity generation technologies are here:
+http://www.ipcc.ch/graphics/ar4-wg3/jpg/fig-4-18.jpg
+The claim of high CO2 emissions for nuclear is at odds with the IPCC assessment. (And other estimates as well)
+
+Reply 
+
+
+
+
+
+
+
+
+
+
+
+Joan Savage says: 
+
+			September 9, 2011 at 8:14 pm 
+A while back David Roberts at Grist posted a Lawrence Livermore National Laboratory diagram of where different fuels get used in our economy.
+http://www.grist.org/climate-energy/2011-04-06-americas-energy-use-in-one-nifty-chart 
+The chart was an eye-opener, as it showed that my situation is typical of many Americans when it comes to natural gas. I use gas for heating and cooking.
+I’d sure appreciate some creative options, be they super insulation, ways to adapt furnaces, whatever. Neither I nor the 45% of the population like me are going to all be able to up and build new houses at once.
+
+Reply 
+
+
+
+
+
+Mike#22 says: 
+
+			September 10, 2011 at 10:59 am 
+Joan, as you certainly realize, most houses have been put together without a lot of attention to overall building energy use. The first step in correcting that is to learn  in detail  where the energy gets consumed in the building. Install a whole house electric usage meter, put the display where it is easy to see, and start gathering data. For plugged in loads, a recording meter is indispensable. Locate all the energy bills for the building and put this info into a table.
+Once the problem has been broken down into components (hot water, fridge, lighting, space heating, etc) then efficient solutions can be researched.  
+It is at this point that an energy audit for the building envelope could be done (after scoping out the building yourself), although it may be difficult to find someone who actually knows how to substantially improve building performance.  Learn about potential upgrades and do some very simply projections.    Consider zoning the heating system.
+With all this knowledge in hand, develop a list of upgrades for the years ahead.  A lot can be accomplished just through ordinary replacements and maintenance. Building envelope upgrades should be very thoroughly researched and fully understood before going ahead. Conservation is a useful approach, especially when actual data is collected and interpreted. Keeping the living space warm and comfortable in the winter will likely be the major challenge.
+Ed Mazria was one of the pioneers in building performance, Architecture 2030 is an excellent resource for performance metrics: http://www.architecture2030.org/ .  Also, Building Science Corporation has some excellent case studies here:  http://www.buildingscience.com/resources/more-topics/homeowner_resources 
+High performance buildings are quite doable, and far preferable to mines and wells.  If everyone were to take a sensible well planned approach to upgrades, the US building sector would actually be on the track it needs to be, without any fuss, and little or no net cost in the long run.  –Mike
+
+Reply 
+
+
+
+
+
+Mike#22 says: 
+
+			September 10, 2011 at 11:15 am 
+“a sensible well planned approach to upgrades” such as the program Germany has embarked upon.
+
+Reply 
+
+
+
+
+
+Joan Savage says: 
+
+			September 10, 2011 at 10:09 pm 
+Mike#22
+I’m a fan of Ed Mazria’s, too.
+Hindsight is always 20-20 and my use of natural gas would be less if my house had had a more radical insulation/siding renovation around twelve years ago, instead of going with blown-in insulation. The process you describe of upgrades over time, turns out to be iterative, and never really finished.
+Mazria’s super-insulated structures can clearly be part of program to cut back on methane use. If CP hasn’t already profiled that program, I hope they do.
+As you say, “High performance buildings are quite doable, and far preferable to mines and wells.”
+Amen to that!
+
+Reply 
+
+
+
+
+
+Mike#22 says: 
+
+			September 11, 2011 at 9:57 am 
+“The process you describe of upgrades over time, turns out to be iterative, and never really finished.” Quite true, but along the iterative way, the energy use per person will drop to a reasonable value which can easily be supplied by a grid running on renewables. Somewhere around 8 kwh/day/person for all uses, including space heating and cooling.  Add in another 4 kwh/day for transportation, once the electric vehicles is in the driveway.  And since that vehicle will have 20 or so kwh storage on board, it will become the basis for a robust renewables grid.  There aren’t any technical problems to doing this–its all political.
+
+Reply 
+
+
+
+
+
+Joan Savage says: 
+
+			September 12, 2011 at 5:14 pm 
+Those are interesting numbers. Are they nested with levels of commercial and industrial electricity use? 
+I haven’t worked up how much it would cost to achieve that level of home electricity use, (and back on topic, eliminate dependence on methane) even if politics were very favorable.
+A first cut showed the fastest way to get within range, after going all electric, would be to bring in more occupants and make more intensive use of the conditioned space. Being typically American, I’d rather insulate walls than concentrate people, but it’s ok to think about it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barry Saxifrage says: 
+
+			September 10, 2011 at 4:10 pm 
+Great question Joan. I really work hard to get fossil fuels out of my life and that has meant electric everything where I can. I’m lucky to live in BC where our electricity is 95% renewables. But regardless of where you live, the big battle in climate mitigation in my mind is replacing the literally billions of pieces of infrastructure that burn fossil fuels…cars, space heat, water heat, cooking, etc. Until we do that we can’t green them by cleaning up the grid. The key in my mind is to *not buy any more fossil fuel burners*. If you are going to replace your space heat then buy an electric heat pump. If you are going to replace your water heater then get an electric one…or better an electric heat pump one. I’m renting right now and the apartment has natural gas space heat and cooking stove. So we bought a small electric countertop oven and do most cooking in that and microwave. And I bought electric space heaters to do most of the heating load. We have to both green the grid and stop buying fossil fuel burners that last a long time.
+
+Reply 
+
+
+
+
+
+Joan Savage says: 
+
+			September 10, 2011 at 9:58 pm 
+Barry,
+Agreed. Like you I have electricity from renewables, and here that is grid-delivered from wind and small hydro. Because it is pooled with electricity from nuclear, large hydro, coal, and natural gas, it is  not totally simon-pure. If the nuke plant is not replaced, the composite of energy sources will change. That might be the critical juncture about methane use for electricity generation in central New York (upstate).
+  Like you I’m tending to use electricity in lieu of the gas where possible. I run a circulating fan through the duct work, as it can operate without turning on either heater or AC. It moves the sun-warmed air upstairs down to the cool basement and vice versa. However, if the house were even better insulated I’d need some kind of fresh air intake. Maybe those are incremental steps for me,  along with those that you and mike#22 have suggested.
+I’m still fretting about the other 45% of the US residences. I have no clue how that breaks between urban gas supply and rural propane.  Rural friends find their electricity outages persist longer than mine so they are not likely to turn to electricity as a substitute for a tank of propane in the yard.
+
+Reply 
+
+
+
+
+
+
+
+
+
+Mike Roddy says: 
+
+			September 9, 2011 at 10:14 pm 
+Thanks for this. Koch Industries (pipelines) and Exxon Mobil (over $30 billion in gas investments recently) have been feverishly bribing Congressmen and influencing media to get their way on this. 
+They are criminals, and must be stopped before it’s too late to have any chance of a liveable ecosphere. It’s on us to do it.
+
+Reply 
+
+
+
+
+
+Mulga Mumblebrain says: 
+
+			September 10, 2011 at 1:54 am 
+I don’t think you can call it ‘bribing’. The purchase is often outright, in which case ‘buying’ is, in my opinion, better. Then again there are many politicians and media hacks who rent by the hour, day or week, and perhaps some version of ‘soliciting’ or ‘kerb-crawling’ could be used for these transactions.
+
+Reply 
+
+
+
+
+
+
+
+Colorado Bob says: 
+
+			September 9, 2011 at 11:55 pm 
+OT -
+Joe , I was just God Smacked by Texas this summer …..
+From that well known “Commie Rag” the :
+Dovers Cattle Network” ….
+Texas drought most severe on record
+” Texas’ 86.8-degree average beat out Oklahoma’s 85.2 degrees in 1934. That Dust Bowl year is now third on the list for the three-month span, behind No. 2 Oklahoma’s heat wave this June through August (86.5 degrees).
+Both Texas and Oklahoma as well as other states in the nation’s southern tier have baked in triple-digit heat this summer. Texas had its hottest June on record, the fifth warmest month overall, and July was the warmest month ever. Oklahoma’s July was the country’s highest monthly average temperature ever, at 89.1 degrees.
+Texas, Oklahoma, Louisiana and New Mexico each had their hottest June through August on record. ”
+http://www.cattlenetwork.com/cattle-news/latest/Texas-drought-most-severe-on-record-129528918.html
+This record is 1.6F OVER 1934. A WHOLE SUMMER.
+
+Reply 
+
+
+
+
+
+Colorado Bob says: 
+
+			September 10, 2011 at 12:03 am 
+My detractors tell me  the difference between “weather” & “climate” is lost on me.
+Texas should have set this record by 0.3F degrees. In nature, over this time span this a big move. Nothing on this Earth has heated like this for 11,000 years.
+
+Reply 
+
+
+
+
+
+Mike Roddy says: 
+
+			September 10, 2011 at 9:32 am 
+The downside is that Texans will be moving to
+the Coasts. They are a rigid bunch, and will vote Tea Party even after living here a while.
+
+Reply 
+
+
+
+
+
+
+
+Colorado Bob says: 
+
+			September 10, 2011 at 12:06 am 
+This Texas Heatwave will change history.
+
+Reply 
+
+
+
+
+
+Seth says: 
+
+			September 10, 2011 at 2:54 am 
+Change history how?  Do you see any signs of Texans waking up to the climate issue?  Won’t they just write it off as “God’s punishment for gays” or something?  That kind of diversion has worked like a charm for decades now.  
+I sure hope enough of this crazy weather will change some minds soon.  We’re pretty well out of time already…
+
+Reply 
+
+
+
+
+
+Tom Gray says: 
+
+			September 10, 2011 at 5:36 pm 
+Ah, but will it change Perry?
+
+Reply 
+
+
+
+
+
+
+
+Sasparilla says: 
+
+			September 10, 2011 at 12:12 am 
+Not surprising I suppose – unfortunately we’re getting the natural gas choice whether its good or not.  Currently new Coal plants are dead, in large part, because natural gas is cheaper now (shale gas effects) and as long as natural gas is cheaper (for the foreseeable future) most new power plants will be natural gas with every shale formation being opened for gas and oil.  This is because of the massive amounts of private money available to develop the cheapest energy source, plain and simple.
+I would not expect Republicans to allow any extension of green energy supports at the Federal Level, once they end over the next couple of years (barring a total change by the party of Koch and or a loss of the control of the House to Dems), Solar and Wind (and everything else) will probably be on their own (facing dumping from China) and more expensive than coal or natural gas (without Federal support wind and solar will be hit extremely hard).  Its not a good future for these critical industries (the Koch’s will throw a party I’m sure).
+We absolutely need to start getting off all fossil fuels now and with scale and we absolutely (thanks to the Kochification of the GOP) have virtually no chance of doing any of that (at the Federal level) unless the GOP looses a majority in all 3 branches (extremely unlikely).
+I would love to be wrong about the new GOP and support for renewables at the Federal level.  This article is more (necessary) bad news about where we’re going as a country on climate change.
+I just never thought it would be possible that we wouldn’t even try to save ourselves (until it was way, way too late), but that’s where we’re headed with little chance of that changing.
+
+Reply 
+
+
+
+
+
+Mike Roddy says: 
+
+			September 10, 2011 at 9:33 am 
+You may be right, Sarsparilla, but we can’t go down without a fight.
+
+Reply 
+
+
+
+
+
+Sasparilla says: 
+
+			September 10, 2011 at 5:46 pm 
+Very true Mike, we can’t, and at the individual level we won’t.  
+It appears the only immediate way forward is the stars align and all 3 branches of government fall into Democrat hands again with a veto proof majority in the Senate (all like…what we had in 2008…last time) and then hope the Dems don’t sell us out like they did last time (Senate and Presidency)…  
+That’s just not a realistic plan for winning there and that’s about the best scenario I can think of (for this decade).
+If we were able to get public (and only public) financing of all Federal level primaries (and make them open primaries too) and general elections we wouldn’t be having this problem – but to do it we’d need a constitutional amendment (so the Supreme Court doesn’t deny it).  That actually seems like a solution to alot of problems, action on climate change being one of the most important.
+
+Reply 
+
+
+
+
+
+
+
+
+
+Colorado Bob says: 
+
+			September 10, 2011 at 12:12 am 
+Texas beat Oklahoma of 1934 by 1.6F degrees for the summer. Please direct me to were this has happened in the last 11,000 years.
+
+Reply 
+
+
+
+
+
+Ken N says: 
+
+			September 10, 2011 at 2:52 am 
+The advantage of gas turbines to produce electricity is that they can be spun up and down quickly, unlike coal. So gas is a good complement to wind; wind can supply 70%+ of electric supply, if there’s enough gas capacity to fill in  when demand is high and the wind isn’t blowing.  There’s no renewable that can fill the role of gas for filling in the gaps in electric supply that are left by solar (after dark) and wind (when it’s still).  That’s ok – if we eliminate coal and use gas for under 30% of electricity, we’ve essentially met our goal — and we have the technology now.  Gas is not a substitute for coal; it’s an enabler of wind.
+
+Reply 
+
+
+
+
+
+Mike Roddy says: 
+
+			September 10, 2011 at 9:35 am 
+Wrong. If we go on a gas plant building boom, they will be used for baseload, and keep renewable plants from being built.
+
+Reply 
+
+
+
+
+
+Barry Saxifrage says: 
+
+			September 10, 2011 at 4:17 pm 
+Exactly. The cheap price of natural gas (without a carbon pollution fee) will drive wind power out of biz. Ditto for solar. Also, hydropower does a great job in BC of being a load balancer. The threat to renewables is the price of natural gas at this point.
+
+Reply 
+
+
+
+
+
+
+
+
+
+Polymerase says: 
+
+			September 10, 2011 at 4:30 am 
+If a bombshell explodes in a sealed echo chamber, does anybody care?
+[JR:  Sadly, you are describing the MSM.]
+I’ve been a loyal, daily reader of CP for the last 2-3 yers, and have at times gained vauable insights on what I believe is a deadly serious issue.  Lately, though, I’ve become disenchanted by an increasingly shrill bias in the reporting that discourages reasonable examinations of the evidence and discussions of the best courses of action.  
+[JR:  If so, then you have certainly not pick the right article as evidence.]
+I downloaded Wigley’s article (which, in fact, did not require a subscription) and found a more nuanced picture than what Joe’s headline implies.  I encourage every one to read the article and come to their own informed conclusions.
+[JR:  They made it open access.  I  also encourage everyone to read the article and the news release,  which is why I included the links.] 
+Figure 3 in the article shows about a 0.32 degree reduction in temperature from baseline warming at year 2160 if leaks in natural gas production are eliminated.  
+[JR: If someone does not provide all the relevant information in their critique, does anybody care?  1)  The study's  baseline warming in 2160 is over 4°C, so  even in  a scenario they include that has no basis in reality [no leaks],  the switch to natural gas does not  avert catastrophic climate change or have any impact on anyone living today!  2)  It is NOT just leaks in natural gas production, but  in every aspect of the  natural gas fuel cycle from extraction to  transportation to consumption.  3)  Not only is there no evidence that natural gas leaks  could be entirely eliminated, but  the whole point is that shale gas inherently has higher fugitive emissions.  4)  I didn’t even talk about other countries, like Russia, who have  notoriously had a very high leakage rate.  I have  repeatedly posted  that reducing leakage should be a high priority.  BUT there  is no reason  to believe that total leakage from unconventional gas could be brought substantially below 2% —  especially when you consider other countries,  who have  far less regulatory oversight that we do.]
+As such, the headline for this post could have just as easily read:
+”Eliminating Methane Leakage in Natural Gas Production Could Significantly Reduce the Rate of Global Warming When Compared to Continued Coal Use”, or something to that effect.
+[JR:  Nonsense.  NCAR's own headline is "Switching from coal to natural gas would do little for global climate, study indicates"!!!  The author's quote in the text could not be clearer:  “Relying more on natural gas would reduce emissions of carbon dioxide, but it would do little to help solve the climate problem.  It would be many decades before it would slow down global warming at all, and even then it would just be making a difference around the edges.” ]
+I disliked Joe’s dimissal of the reasonable comments above by Michael S. by saying “If you want to make your decisions in the absence of all relevant knowledge, then, I’d say, you are the one who is making a nonscientific argument”. Michael S. never claimed to be making a scientific argument. Why the hell would anyone want to put the time into crafting thoughtful comment on a blog post here if they’re going to be treated with such condescension? 
+[JR:  My response was strong, but then Michael had made a critical comment that either misconstrued or misrepresented what was being said.  One may  not like the fact that  sulfate aerosols are  shielding us from some of the warming signal -- but  it is silly to say that an  analysis is somehow flawed or misguided because it attempts to include that fact in the calculation.  Now  reducing urban air pollution is important and I have fought for all my life.  But this is a climate blog.]
+Hey, Joe, I’m a Ph.D. scientist, too. Wouldn’t you agree that one, unconfirmed computer simulation by one researcher does not a scientific ”bombshell” make?  Once there are at least two other independent replications of Wigley’s results, then I’d say it’s really news. 
+[JR:  Now here you are  misrepresenting things.  Wigley  is not only one of the leading climate modelers in the country, but the  whole point of this post is that he has  essentially built upon ("independently replicated" to some extent) the work of Howarth and the IEA.  That is, he  has published a peer-reviewed analysis that shows the IEA was right (that  substituting gas for coal by itself  simply does not stop catastrophic warming) and that Howarth was right ( methane leakage and a full look at all forcings  severely undercuts the climate value of natural gas for the foreseeable future).]
+I also looked up the NETL “response” on methane leakage that Joe discredits in his post. It’s actually a collection of Power Point slides from a lecture given at Cornell by Thomas Skone.  Joe says,  “NETL throws dozens of numbers at the reader — and averages in shale gas with conventional gas — to obfuscate the issue.”  What evidence is there that NETL is trying to “obfuscate” anything?  It’s a set of Power Point slides! If you didn’t go to the lecture, how can you complain about having “dozens of numbers” thrown at you?
+[JR:  Anyone  who actually bothered to click on the link to my blog post knows I treated NETL more than fairly and don't "discredit" it.  BUT Howarth  was clearly making the argument about unconventional gas leakage, and NETL was  clearly offering a response with a blizzard of numbers to obfuscate the fact that they were averaging all natural gas leakage with  unconventional gas.]
+You guys do can better than this…
+[JR:  You can do better than this.  You  picked an exceedingly poor example to try to make your case.  The  fact is that the climate situation has gotten considerably more dire in the past 2 or 3 years,  now that we know 1)  the United States will not be taking action for the  foreseeable future, 2) China  has put the accelerator on coal consumption, and 3)  The recent science itself  is far more dire than the IPCC implied.   anyone who isn't more concerned about the urgent need to reduce all fossil fuel consumption ASAP  isn't paying attention.]
+
+Reply 
+
+
+
+
+
+Mike Roddy says: 
+
+			September 10, 2011 at 9:38 am 
+Nice job here, Joe. We need this quality of instant fact checking in a lot of other places, too.
+
+Reply 
+
+
+
+
+
+Barry Saxifrage says: 
+
+			September 10, 2011 at 4:27 pm 
+Polymerase, do you think the 4C warming we would arrive at via natural gas is a reasonable path for humanity to take? You seem to saying that Joe over-reacted to a strategy that would bring us such a future. Is 4C acceptable to you?
+
+Reply 
+
+
+
+
+
+
+
+Todd says: 
+
+			September 10, 2011 at 4:57 am 
+If natural gas displaces coal it will at least help end mountain-top removal from coal mining, and perhaps it will free up some of the 70% of rail traffic currently used to transport coal over very long distances. And like it or not the natural variability of wind and solar need something very flexible to turn on in short notice, and that is natural gas. So natural gas is NOT a bridge to “the promised land of energy”, but at least it is a life preserver to save us from growing in the environmental disasters that coal mining, transport and end-use are.
+
+Reply 
+
+
+
+
+
+Todd says: 
+
+			September 10, 2011 at 4:58 am 
+sorry that last sentence should have been “DROWNING in the environmental disasters that coal mining, transport and endues are.”
+
+Reply 
+
+
+
+
+
+John Tucker says: 
+
+			September 10, 2011 at 6:21 am 
+It is a stunning revelation and should be
+followed up on and it verified a total game changer. Until then the breaks need to be selectively applied to the HUGE ongoing natural gas conversion our generating systems are undergoing.
+
+Reply 
+
+
+
+
+
+Joan Savage says: 
+
+			September 10, 2011 at 9:47 am 
+I know this may seem tiresome, but this news prompts me to revisit the big question, what does a successful program, one that is counterpoint to catastrophe, have to include?  
+I see comments that assume a continuous 24/7 access to electricity, as the fungible “money” of energy transactions. 
+Dependence on methane for on-demand electricity generation is currently around a third of all methane use. The other two-thirds’ end use presents the challenge of converting residences and businesses to other energy sources.  I’d like to know how much of a cut back in each area and how soon is a functional plan. I don’t want to hear raves about “Yesterday” or  “all of it now” because we know that is not real.
+In my scenario of a livable world in 2050 for my children who would turn 69 and 65 in that year, I’d be willing to give up a lot of on-demand energy for the sake of potable water, food,  temperature range that allows them to go out of doors and enjoy nature, and moreover a climate pattern consistent enough to be able to figure out where to put one’s home.
+
+Reply 
+
+
+
+
+
+Mike#22 says: 
+
+			September 10, 2011 at 5:40 pm 
+http://thinkprogress.org/romm/2011/01/10/207320/the-full-global-warming-solution-how-the-world-can-stabilize-at-350-to-450-ppm/
+
+Reply 
+
+
+
+
+
+
+
+NigelSt.Hubbins says: 
+
+			September 10, 2011 at 10:01 am 
+Joe,
+If I recall correctly, natural gas has been a significant component of how you think the U.S. could reach its putative energy targets for 2020.  How does this information alter your analysis of whether or how the U.S. can still do so?
+
+Reply 
+
+
+
+
+
+Joe Romm says: 
+
+			September 10, 2011 at 10:31 am 
+Great question!  A reporter asked me a similar one.
+1.  I was looking just at the U.S. In the very near term under a carbon cap (i.e. Rising price) scenario.
+2.  I was looking at adding gas to existing plants — not building massive new infrastructure.
+3.  I hadn’t seen these analyses, of course.
+I don’t think this would change my view of 2020 much — it wasn’t a lot of gas.  But as a full on medium- term bridge fuel, gas just doesn’t seem to cut it anymore.
+
+Reply 
+
+
+
+
+
+Polymerase says: 
+
+			September 10, 2011 at 4:17 pm 
+Clearly, I’ve hit a nerve here.  
+ [JR: Now here you are misrepresenting things. Wigley is not only one of the leading climate modelers in the country, but the whole point of this post is that he has essentially built upon ("independently replicated" to some extent) the work of Howarth and the IEA...]
+Are you saying that Wigley’s article, simply due to his standing in the field, is the last word on this, and that we nobodies should just accept the press release version of his science and your blessing of his words as gospel?  
+I’m sure that Wigley is as well-regarded in his field as you say, and I truly appreciate his contributions to climate change research.  I expect that he got to where is by responding with substance and alacrity to criticisms of his work, rather than routinely disparaging the intellect of those who dare to disagree with him, i.e: 
+[JR:…anyone who isn't more concerned about the urgent need to reduce all fossil fuel consumption ASAP isn't paying attention.]
+[JR: Anyone who actually bothered to click on the link to my blog post knows I treated NETL more than fairly and don't "discredit" it.]
+I did actually bother to click on the link to (and even read) your post on the NETL Power Point slides pror to making my initial comments.  I didn’t find your disccusion of the source data differences between NETL particularly fair or convincing:
+“NETL uses the IPCC’s 2007 GWP numbers.  While that is not unreasonable, Howarth uses the higher GWP of gas from more recent research, which is also reasonable and probably more accurate.”
+What recent research?  Why is it more reasonable and probably more accurate?  Simply because is more recent? Simply because you say so?
+I did agree with your call in your previous post for a National Academy of Sciences study of the issue.  Do you still support this action, or have you decided that your pronouncements on this issue are enough, and that no further discussion of the facts are merited?
+
+Reply 
+
+
+
+
+
+
+
+
+
+John Tucker says: 
+
+			September 10, 2011 at 1:01 pm 
+We would be in a better place if we would have extended nuclear power 30 years ago. It would have bought us time and a clean buffer with less health costs. There are enough fossil fuels available, for low enough costs, to condemn us to radical climate change. Small scale (just about every instillation out there) isolated intermittent renewables, such as nameplate solar are 2/3 natural gas backup.
+So solar and gas 324 gCO2e/kWh
+Solar and nuclear 44 gCO2e/kWh
+Not to mention accumulated carbon savings over 30 years. 
+Unless someone can point to a broad and verifiable compatible pollution and health comparison im starting to believe listening to the anti nuclear movement was one of the biggest environmental, public health mistakes ever.
+
+Reply 
+
+
+
+
+
+John Tucker says: 
+
+			September 10, 2011 at 3:18 pm 
+sorry that should be 75 for solar and nuclear I guess, assuming 2/3 nuclear use and the power system is distributed.
+
+Reply 
+
+
+
+
+
+Steve Heitmann says: 
+
+			September 10, 2011 at 6:06 pm 
+Good thing you listened: the risk of using Uranium-based nuclear power is not worth taking.  And global warming is not a reason for taking such a risk—especially when ever-increasing accumulation of radioactive waste presents a potentially greater risk of global poisoning.
+Moreover, the notion of “clean” Uranium-based nuclear power is, at best, an error of omission–more likely, an omission that serves big-profit interests.  The notion that Uranium-based nuclear is “clean” is true, as long as Uranium mining, extraction, refining, transport, and radioactive waste is excluded from the analysis.
+We have an excellent and safe Thorium-based nuclear power alternative to the expensive, dirty and unsafe Uranium-based nuclear reactors used exclusively today that produce radioactive waste.
+We also have an excellent 24×7 Molten Salt solar alternative to the 2100 acre solar farm nonsense that has captured people’s mindshare.  I’m an advocate for solar panels on rooftops and for Molten Salt solar power plants.  I oppose the propagation of large-scale PV panel solar farms (same for large-scale wind farms).   
+Please read this executive summary for more information.  You can get a quick summary or follow the links for more detail:
+http://www.ponderable-possibilities.com/content/alternative-energy-sources.pdf
+And I’ll take this opportunity to express my disappointment that Solyndra filed for bankruptcy.  This is truly a loss, as their technology represents significant benefits over conventional PV panels for rooftops.  No wonder the DOE supported Solyndra with a guaranteed loan.  Please watch these short Solyndra videos:
+http://www.solyndra.com/technology-products/videos/
+
+Reply 
+
+
+
+
+
+
+
+Theodore says: 
+
+			September 10, 2011 at 1:45 pm 
+Reading these many diverse opinions leaves me with the impression that there are two distinct types of participants (1) those who change their opinion in light of new evidence and (2) those who reject any evidence that does not match their previously established opinion. I suspect most older people are in the second group, while most younger people are in the first group.
+
+Reply 
+
+
+
+
+
+Barry Saxifrage says: 
+
+			September 10, 2011 at 4:35 pm 
+You have described climate “denial” perfectly. Most people are guilty of this to some degree depending on the issue (ex: high-altitude jet engine emissions). Nobody wants it to be “hard” to solve climate destabilizing…they want it to be either easy or impossible. If natural gas is as bad as coal then it makes the already daunting task even harder. But if you don’t follow where the science leads you end up not solving the problem.
+
+Reply 
+
+
+
+
+
+Tom Gray says: 
+
+			September 10, 2011 at 5:40 pm 
+I’m good with it being hard (and I’m an old person).  What I want is for the mainstream media to start treating this like they used to treat stories about scientific findings–they’d give the deniers the de minimis treatment they deserve.  I’d guess that with their business model failing, they are increasingly vulnerable to being pushed around by advertisers.
+
+Reply 
+
+
+
+
+
+
+
+Steve Heitmann says: 
+
+			September 10, 2011 at 6:24 pm 
+Pure unadulterated ageism!  Shame on your for propagating stereotypes.  
+More likely the difference you perceive is not due to age, but, rather, due to whether an individual:
+1) thinks critically,
+2) understands the underlying technology or science, and/or
+3) has taken the time and made the effort to remain informed,
+4) (or) is a right-wing ideologue….
+
+Reply 
+
+
+
+
+
+
+
+Steve Heitmann says: 
+
+			September 10, 2011 at 5:25 pm 
+Although this is a critically useful study, we need to be very careful (and precise) about how we represent Natural Gas as a potential cause of increased climate change.
+Please note, with as much over-emphasis as possible, that this NCAR study concerns the COMBUSTION(!!) of Natural Gas.
+I’m a strong supporter of Fuel Cell technology that uses Hydrogen (and Oxygen) to generate electrical power.  Natural Gas is an excellent temporary source of Hydrogen for Fuel Cells (temporary until a Hydrogen infrastructure is established).  When used this way, it actually reduces the carbon footprint by 30%-50%:
+http://www.bloomenergy.com/products/solid-oxide-fuel-cell-animation/
+Also, please read these:
+http://www.ponderable-possibilities.com/content/decentralized.clean.energy.pdf
+http://www.ponderable-possibilities.com/content/alternative-energy-sources.pdf
+
+Reply 
+
+
+
+
+
+Joe Romm says: 
+
+			September 10, 2011 at 7:46 pm 
+I have  published a number of articles and a book on fuel cells,  including their carbon benefit in stationary applications.   They  would not change the conclusions of this study in the least bit in the  unlikely event that they do actually become cost effective and widespread — and highly cogenerating year round —  in the foreseeable future.
+
+Reply 
+
+
+
+
+
+Don says: 
+
+			September 12, 2011 at 3:04 pm 
+The removal of OIL from the earth is the CAUSE of global warming.  The same as if one removes some oil from a oil cooled motor!!!!
+
+Reply 
+
+
+
+
+
+
+
+
+
+David B. Benson says: 
+
+			September 10, 2011 at 6:29 pm 
+Nuclear power plants (NPPs) are capital intensive, but actually remain competative with other generation methods.  A major problem with new nuclear builds in the USA has to do with financing, not the resulting LCOE.  In the US, pre-construction is moving forward on 4 NPPs, construction is being restarted on a 55% complete unit and another planned new build is starting its way through NRC approval.
+Somehow the utility executives (with supporting economists & engineers on staff) often [but not always] find  NPPs the generation method of choice.
+
+Reply 
+
+
+
+
+
+prokaryotes says: 
+
+			September 10, 2011 at 8:39 pm 
+Isn’t climate change preventing nuclear power generation?
+Studies show an increase of 300% earthquake activity from quick sea level rise. Now compare the past US east 5.8 earthquake and NPP are build to withstand till 6.0 magnitude
+
+Reply 
+
+
+
+
+
+Mulga Mumblebrain says: 
+
+			September 11, 2011 at 7:11 am 
+Fukushima was apparently SNAFU-ed by the earthquake, even before the tsunami hit. The shaking caused considerable damage to the cooling system, and we have another demonstration of nuclear’s innate dangerousness. I’m no seismologist, but are not large areas of the USA, China and Japan prone to earthquakes of this, and even marginally greater, intensity? No wonder you cannot insure them.
+
+Reply 
+
+
+
+
+
+
+
+
+
+David B. Benson says: 
+
+			September 10, 2011 at 9:42 pm 
+prokaryotes @ September 10, 2011 at 8:39 pm — No.  NPPs are designed to withstand a certain amount of ground acceleration — shaking.  The relationship between the moment magnitude of an earthquake at the epicenter and the ground movement at an NPP is rather complex.
+The existing NPPs are Gen IIs, first designed in the 1960s (the days of slide rules and drafting tables) with mimimal use of (then expen$ive) computation amd with much less knowledge about earthquakes.  Modern NPPs are all at least Gen III and are designed with the aid of extensive, highly capable computer codes.  These designs can be built to withstand whatever amount of ground movement is deemed necessary for the site.  For example, Chile although known for the moment magnitude 9.5 earthquakes — as big as earthquakes come — is in the planning stages to construct 3 NPPs, none near the coast I believe.  The Chilean geologists and engineers will certainly specify high tolerance to ground movement and the responsive bidders will so design.
+Incidently, the earthquakes promoted by mass redistribution are quite shallow and small; not a major factor in considering the appropriate specifications regarding ground movement.
+
+Reply 
+
+
+
+
+
+prokaryotes says: 
+
+			September 11, 2011 at 10:58 am 
+I have a hard time to believe that shacking will not crack up integral parts of NPP. And what will happen to all the older plants which are prone to earthquakes?  You cannot just shut down a NPP.
+
+Reply 
+
+
+
+
+
+
+
+Jonathan Koomey says: 
+
+			September 11, 2011 at 12:11 am 
+Dr. Wigley has done a great service by highlighting the effects of fugitive emissions of natural gas, and reducing such emissions drastically should be a high priority for as long as we use natural gas. However, I wanted to point out a subtlety that seems to be missing in some of the comments above.  The correction for reducing sulfate emissions needs to be applied to ANY efforts to reduce coal use, not just natural gas.  Renewables and other non-fossil technologies will still result in net GHG emissions reductions after this correction, but the reductions won’t be quite as large as a simple calculation would indicate, for the same reason that the benefits of natural gas displacing coal are reduced or eliminated by this effect.  For consistent comparisons this correction needs to be applied to all efforts that reduce coal use.
+
+Reply 
+
+
+
+
+
+Jonathan Koomey says: 
+
+			September 11, 2011 at 4:57 pm 
+Another interesting tidbit for students of these matters:  Dr. Wigley’s results are the result of the time varying nature of Global Warming Potential (GWP).  For methane, the GWP is 72 times that of CO2 for 20 years, but only 25 over 100 years.  That means that methane has a much stronger near-term warming effect that tapers off over time.  This also means that our path to carbon stabilization is path dependent (as it is in other dimensions as well) so if we are to depend more on natural gas it had better be with very low leakage rates, or we won’t get very far on limiting warming.
+
+Reply 
+
+
+
+
+
+David B. Benson says: 
+
+			September 11, 2011 at 10:04 pm 
+prokaryotes @ September 11, 2011 at 10:58 am — The ground movement at Fukushima Dai-ichi was far above design basis but did not cause the problems.  The ground movement at the North Anna NPP was at or just above design basis and a thorough survey discovered no damage whatsoever to any safety critical components.  Both sites have only Gen II design reactors.
+I recommend reading Henry Petroski’s “To EnginERR is Human”.
+
+Reply 
+
+
+
+
+
+Miguelito says: 
+
+			September 11, 2011 at 11:10 pm 
+Howarth’s study aside, a new paper by Jiang et al. (2011) indicates that the carbon footprint of shale gas is almost the same as conventional natural gas in its carbon emissions. The Jiang et al paper is, top to bottom, superior in its detailed methodology, assumptions, and data. Howarth didn’t even consider that the gas produced during flowback would be flared  when, in fact, it’s pretty much standard for industry to do so. I’m not going to address Howarth’s lost and unaccounted for gas in his estimates of gas lost in gas transport, which is largely arm-waving around something that’s not nearly the same as leaked gas.
+http://iopscience.iop.org/1748-9326/6/3/034014
+I’ve got some big issues with Wigley’s paper too. He assumes increased burning of coal to about 2100 in his base non-policy case, which is fine, though I won’t get into possible strains on coal supply that would prevent that.
+Then, in the new case, most of that coal is switched to gas. There too could be a problem in how much gas is needed because, in his projection, he’s got a quadrupling of natural gas primary energy from now until 2010. Further, beyond the limits of how much gas can be produced, it’s unreasonable to assume that, in a carbon-policy driven world, that the only fuel that will displace the use of coal will be natural gas. Other low-emitting sources will be used, namely, solar, wind, hydro, nuclear, etc…
+Frankly, he should  have included scenarios where a mix of energies are used to displace coal energy, including gas. I’m not sure how valuable his projections are as they currently stand.
+
+Reply 
+
+
+
+
+
+Bill Green says: 
+
+			September 12, 2011 at 12:44 am 
+Wigley has provided a very useful and clear paper.  One thought — while he provides several sensitivities on methane leakage rates, it would also seem valuable to consider alternative SO2 emission rates for coal-fired power, as there are massive difference in SO2 emission rates of coal plants both within and across countries.  If aerosols are a big part of the story, then the net warming impact of fuel switching in cases where coal So2 emission rates are well below the global average might be much better than the average SO2 case he considers.  
+Implicitly, Wigley’s analysis also raises the question of tradeoffs between our interests in reducing warming and other environmental objectives linked to SO2 aerosols.  EPA just promulgated a major rule to reduce SO2 emissions from coal plants, motivated by concerns related to health impact of sulfate aersols that are unrealted to warming.
+Does CP support this current EPA regulatory strategy, which by Wigley’s logic will tend to increase warming?  And if so (and I imagine it is so) doesn’t that mean that SO2 reduction is a net environmental positive notwithstanding its warming impact?  
+Your thoughts, Joe, would be most welcome.
+Bill
+
+Reply 
+
+
+
+
+
+David Hawkins says: 
+
+			September 12, 2011 at 1:52 pm 
+Let me second Jonathan Koomey’s comment.  Reducing sulfate causing pollution is an enormously good thing for the health of humans even though it has the unfortunate impact of removing the sulfate mask, leading to increased warming effects.  By itself, this mask removal is not a reason to avoid switching from coal to natural gas any more than it is a reason not to install scrubbers on coal plants or deploy energy efficiency or renewable resources that will displace coal and thereby reduce sulfur pollution.
+
+Reply 
+
+
+
+
+
+Solar Jim says: 
+
+			September 12, 2011 at 10:29 pm 
+We seem to have an economy with too much gas, especially carbonic acid gas. Maybe Big Pharma can help us out.
+Energy from sun at top of atmosphere: 170,000 TW. Solar energy at ground level: 90,000 TW. Global human (mostly waste) of “energy”: 16 TW total.
+Note: TW, Terawatt, trillion watts, a rate of use of all measured “commercial” fuel and power.
+Keep off the gas, liquids and solids from the lithosphere. They are states of matter, not states of “energy.” Their conversions permanently contaminate and lead to increasing global impoverishment.
+
+Reply 
+
+
+
+
+Leave a Reply Cancel reply
+
+You may use these HTML tags and attributes:  <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>  Name *
+Email *
+Website
+Comment By clicking and submitting a comment I acknowledge the ThinkProgress Privacy Policy and agree to the ThinkProgress Terms of Use.						
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(86)
+
+
+
+
+
+
+Get ThinkProgress email alerts
+
+
+ 
+
+
+
+
+ 
+
+About Joe Romm
+Joe Romm is a Fellow at American Progress and is the editor of Climate Progress, which New York Times columnist Tom Friedman called "the indispensable blog" and Time magazine named one of the 25 “Best Blogs of 2010.″ Read more.
+
+
+Subscribe to Climate Progress by Email
+
+
+
+
+
+
+
+Top Posts on Facebook
+
+Christie Stunner:  NJ Gov Met With Pollutocrat Koch Before Pulling Out of Successful Carbon Pollution Reduction Program
+McKibben: “Constantly and Disastrously” Leaking U.S. Pipelines Are the Mess in the Middle of the Keystone XL Debate
+September 13 News: The Coal Industry Backs Boehner with $1.5 Million in Donations — “We Think He Is Good for Business”
+September 12 News: Coral Reefs “Will be Gone by the End of the Century,” Thanks to Climate Change and Ocean Acidification
+Exclusive Timeline: Bush Administration Advanced Solyndra Loan Guarantee for Two Years, Media Blow the Story
+
+
+ 
+
+Climate Progress's Tweets
+
+
+» Follow @climateprogress tweets
+
+
+
+
+Get the daily Progress Report
+
+
+
+
+
+
+
+Got a Hot Tip?
+Have a hot news tip? We'd love to hear from you. Use the form below to send us the latest.
+
+Name: 
+Email: 
+Tip: (required)
+
+
+ 
+Climate Progress Archives
+September 2011
+
+
+S
+M
+T
+W
+T
+F
+S
+
+
+
+
+« Aug
+ 
+ 
+
+
+
+
+    123456789101112131415161718192021222324252627282930  
+
+
+
+About Think Progress |
+Contact Us |
+Donate
+
+
+
+
+
+
+
+
+
+
+ 
+
+About Think Progress | Contact Us | Terms of Use | Privacy Policy (off-site) | RSS | Donate | Mobile
+© 2005-2011 Center for American Progress Action Fund
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+

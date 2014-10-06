@@ -1,0 +1,24 @@
+function thread(threadid, title, poster, threaddate, threadtime)
+	{
+		this.threadid = threadid;
+		this.title = title;
+		this.poster = poster;
+		this.threaddate = threaddate;
+		this.threadtime = threadtime;
+	}
+	var threads = new Array(15);
+	threads[0] = new thread(53243, 'PREVIEW: Disastrous Inter tackle troubled Roma', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[1] = new thread(53242, 'Denmark votes in general election as economy falters', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[2] = new thread(53241, 'Apple drops \'Jew or not Jew\' app in France', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[3] = new thread(53240, 'Roberto Mancini expects improvement from Manchester City', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[4] = new thread(53239, 'Kyle Walker backs Tottenham youngsters to impress', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[5] = new thread(53238, 'Alex Ferguson insists Dimitar Berbatov has role for Manchester United', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[6] = new thread(53237, 'Martin Jol questions Uefa rules', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[7] = new thread(53236, 'Greek default fears persist', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[8] = new thread(53235, 'Doctors reveal hospital horrors under Gaddafi', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[9] = new thread(53234, 'Rhino Calf Rescued from Tree After Poaching Attack', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[10] = new thread(53233, 'Outrage over students\' savagery to monkey', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[11] = new thread(53232, 'Butterfly cocktail will attract new varieties', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[12] = new thread(53231, 'Ky. Ex-Marine honored for saving 36 in Afghanistan', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[13] = new thread(53230, 'Blazing cruise liner evacuated off Norway', 'lionshaheen', '09-15-2011', '10:21 AM');
+	threads[14] = new thread(53229, 'ăŐŃ | ŃĆíÓ ÔÚČÉ ÇáăćÇĎ ÇáČĘŃćáíÉ :ÇŇăÉ ÇáČäŇíä ÓĘäĘĺě ÇáĂÍĎ ÇáăŢČáţ', 'Dr-medo', '09-15-2011', '10:21 AM');

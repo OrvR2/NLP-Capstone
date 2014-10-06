@@ -1,0 +1,6 @@
+function writeSuBadge () {
+var b1 = "";
+var bu = "http%3A%2F%2Fwww.easybranches.com";
+document.write(b1+bu+b2);
+}
+writeSuBadge();

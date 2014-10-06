@@ -1,0 +1,187 @@
+/*
+ * Name:
+ *	play_window.js
+ *
+ * Description:
+ *	Defines functions for the Play Window
+ *     width default 350
+ *     height default 215
+ *
+ * Pre-conditions:
+ *	None
+ *
+ * Post-conditions:
+ *	Defines the following functions:
+ *
+ * Log:
+ *	Shaunak Kashyap		11/21/2005
+ *	- Creation
+ *
+ */
+
+/*
+ * Name:
+ *	openPlayer
+ *
+ * Description:
+ *	Opens the play window
+ *
+ * Pre-conditions:
+ *	audioType	REQUIRED	Type of audio
+ *	audioId		REQUIRED	Id of audio
+ *	width		OPTIONAL	width of play window
+ *	height		OPTIONAL	height of play
+ *
+ * Post-conditions:
+ *	The player is opened
+ *
+ * Log:
+ *	Shaunak Kashyap		11/21/2005
+ *	- Creation
+ *  Kripa Shenai        01/09/2007
+ *  - Cached Queries
+ *  Prajapati Nilesh    15 Sep 2008
+ *  - added other extra param to track the podcast statistics VX-2565
+ */
+function openPlayer(audioType, audioId, statTrackStrInfo) {
+	
+	cTyId = '';
+	grpId = '';
+	spcId = '';
+	sbId = '';
+		
+	if (statTrackStrInfo && statTrackStrInfo != 'undefined') {
+		statTrackInfoArr = statTrackStrInfo.split('-');
+		cTyId = statTrackInfoArr[0];
+		grpId = statTrackInfoArr[1];
+		spcId = statTrackInfoArr[2];
+		sbId = statTrackInfoArr[3];
+	}	
+	width = 350;
+	height = 215;
+	var playWindowUrl  = "/play_window.php";
+		playWindowUrl += "?audioType=" + audioType;
+		playWindowUrl += "&audioId=" + audioId;
+		
+	if (sbId && sbId != 'undefined') {
+		playWindowUrl += "&contentType=" + cTyId;
+		playWindowUrl += "&spcId=" + spcId;
+		playWindowUrl += "&sbId=" + sbId;
+		playWindowUrl += "&groupId=" + grpId;
+	}
+	
+	
+	window.open(playWindowUrl, "playWindow", "width="+ width + ",height="+ height+ ",resizable=no,scrollbars=no,toolbar=no,location=no,directories=no,status=no,menubar=no");
+} // END function - openPlayer
+
+
+/*
+ * Name:
+ *	playPause
+ *
+ * Description:
+ *	play Pause the audio player
+ *
+ * Pre-conditions:
+ *	audioPlayerId	REQUIRED	player id
+ *
+ * Post-conditions:
+ *	Starts or pause the audio player
+ *
+ * Log:
+ *	Chanda Kudale	02/25/2011
+ *	- Creation [VI-1909]
+ */
+function playPause(audioPlayerId, playBtn, pauseBtn){
+       audioPlayerLink = document.getElementById("img_"+audioPlayerId);
+	audioPlayed = document.getElementById("hdn_"+audioPlayerId).value;
+	
+	if(audioPlayed == "play"){
+	  document.getElementById(audioPlayerId).play();
+	  audioPlayerLink.src = pauseBtn
+	  document.getElementById("hdn_"+audioPlayerId).value = "pause"
+	}  
+	else{
+	 document.getElementById(audioPlayerId).pause();
+	 audioPlayerLink.src = playBtn;
+	 document.getElementById("hdn_"+audioPlayerId).value = "play";
+	}
+}
+
+/*
+ * Name:
+ *	startAudioPlayer
+ *
+ * Description:
+ *	Starts the audio player
+ *
+ * Pre-conditions:
+ *	audioPlayerId	REQUIRED	player id
+ *
+ * Post-conditions:
+ *	Starts the audio player
+ *
+ * Log:
+ *	Chanda Kudale	02/21/2011
+ *	- Creation [VI-1909]
+ */
+function startAudioPlayer(audioPlayerId,src){
+	document.getElementById(audioPlayerId).play();
+	audioPlayerLink = document.getElementById("img_"+audioPlayerId);
+	audioPlayerLink.src = src;
+	document.getElementById("hdn_"+audioPlayerId).value = "pause"
+}
+
+
+
+/*
+ * Name:
+ *	openSubscribeWindow
+ *
+ * Description:
+ *	Opens the podcast subscrible window
+ *
+ * Pre-conditions:
+ *	contentType	REQUIRED	Content Type
+ *	contentId	REQUIRED	Id of Content
+ *
+ * Post-conditions:
+ *	The podcast subscrible is opened
+ *
+ * Log:
+ *	Li Zheng	11/29/2006
+ *	- Creation
+ *  - Cached Queries
+ *  Prajapati Nilesh    15 Sep 2008
+ *  - added other extra param to track the podcast statistics VX-2565
+ */
+function openSubscribeWindow(contentType,contentId, statTrackStrInfo) {
+	
+	cTyId = '';
+	grpId = '';
+	spcId = '';
+	sbId = '';
+		
+	if (statTrackStrInfo && statTrackStrInfo != 'undefined') {
+		statTrackInfoArr = statTrackStrInfo.split('-');
+		cTyId = statTrackInfoArr[0];
+		grpId = statTrackInfoArr[1];
+		spcId = statTrackInfoArr[2];
+		sbId = statTrackInfoArr[3];
+	}
+	
+	width = 500;
+	height = 500;
+	var subscribleWindowUrl  = "/podcast_chooser.php";
+		subscribleWindowUrl += "?contentType=" + contentType;
+		subscribleWindowUrl += "&contentId=" + contentId;
+		
+	if (sbId && sbId != 'undefined') {
+		//subscribleWindowUrl += "&contentType=" + cTyId; 
+		subscribleWindowUrl += "&spcId=" + spcId;
+		subscribleWindowUrl += "&sbId=" + sbId;
+		subscribleWindowUrl += "&groupId=" + grpId;
+	}	
+
+	window.open(subscribleWindowUrl, "subscribleWindowUrl", "width="+ width + ",height="+ height+ ",resizable=yes,scrollbars=yes,toolbar=no,location=yes,directories=no,status=no,menubar=no");
+} // END function - openSubscribeWindow

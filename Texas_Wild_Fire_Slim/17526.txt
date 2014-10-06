@@ -1,0 +1,1320 @@
+TECH NEWS
+
+
+
+
+
+
+
+skip to main  |
+      skip to sidebar
+
+
+
+
+
+
+
+CONTACT US
+GOOGLE ADSENSE
+BACKLINK BUILDER
+SEO TOOL FREE
+IPHONE DOWNLOADS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+NEWS
+
+Asian
+World
+
+
+TECHNOLOGY
+
+Tech World
+Tech tips
+Products
+
+
+DOWNLOADS
+
+Utilities
+
+Iphone
+
+
+Games
+Music
+
+
+Online Marketing
+
+Search Engine Optimization
+Make Money Online
+
+
+BLOGS
+
+Blog tips
+Templates
+Tools
+
+BloggerAdsCodeConverter
+
+
+
+
+SPORTS
+FUNNY
+VIDEOS
+OUR FRIENDS
+
+Technology
+BlogTipsWorld
+IphoneHacks
+eBlogTemplates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice
+
+We’ve got the hits that put your website on the top of charts! Revisitors.com can bring you thousands of unique, targeted visitors daily - 5,000, 10,000 and more! Success was never so simple!
+
+
+
+
+
+
+
+
+
+
+
+RANDOM POST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECENT POST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADVERTISING
+
+
+
+make money
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECENT COMMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Free counters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monday, September 12, 2011
+
+
+
+
+TECH NEWS SEO Lesson 2: Let's Optimize Our Webpage
+
+
+
+
+
+
+5:56 AM
+
+No comments
+
+
+
+Last week, we learnt about the SEO Lesson 1: Optimize The Wrong Keywords And You'll Likely Never See Results. I hope that can help you. Today we continue with the second lesson: "How Changing One Single Onpage Optimization Factor Can Boost Your Rankings By Over 350 Positions!” by Brad Callen too.  Ok, so now we've selected our main 3 keywords:  l weight loss story       l weight loss picture       l safe weight loss   Notice that all of the keywords contain the word "weight loss". This will make things easier for us when we begin to optimize our offpage ranking factors which you'll learn about later.  Let's Optimize Our Webpage ...  The first thing we need to do is select a page Title for our website.  The page title should:  Include ONLY our main keywords. The least amount of words you can place in the title, the more weight. Google will give to each of the keywords and the higher you will rank.  When creating your page title, it should not look like this:   - Welcome to our website!  It should not even look like this, which does containg our main keywords, but contains an unnecessary number of words:        - weight loss story and weight loss picture and safe weight loss  Although that title isn't horrible and does contain all of your main keywords, you should do a couple of things to cut down on words used.  This would be a perfect title for your webpage:       - Weight Loss Story / Safe Weight Loss Picture        Notice that I've:  - Taken out all of the "ands" - Replaced one of the "ands" with a "|" character       - Combined the keywords "Safe Weight Loss" with "Weight Loss Picture" - Always Combine Your Keyword When Possible to cut down on the total number of words that are in your title!  Always Combine Your Keywords In The Page Title!  When Google looks at our title it will see all 3 of our keywords only. Combining keywords to cut down on the total number of keywords displayed in the title is a great way to boost the strength of each individual keyword, which will have an immediate impact on your ranking.  Add <h1> header tags    Next we'll need to add 1 <h1> header tag and place our most important keyword there.  The <h1> header tag should be as far towards the top of the page as possible. When Google reads a webpage, it views the text from the top left hand side of the page to the bottom right hand side of the page.  So, it's best to place your <h1> header tag on the top left hand or top/middle portion of your page. You can think of an <h1> header tag as a title for whatever content you have on your page.  For example, the <h1> header tag of this lesson would be:  These could be possible keywords we should target to begin with. Once we have our list of 3 to 4 keywords, we need to go to Google and check out the competition to see exactly how hard it will be to optimize for the       specified keyword.  "How changing 1 onpage optimization factor can boost your rankings by        over 350 positions!"  ... and the html code would look like this <h1>"How changing 1 onpage optimization factor can boost your rankings by over 350 positions!"</h1>  Of course, I would have changed my lesson title to contain my main keyword if I was actually trying to optimize this page for Google. Also, if possible, it's ideal if you can include ONLY your main keyword within the h1 header tags. <h1>Weight Loss Story</h1> would be perfect.  Add <h2> header tags  Next, we'll need to create an <h2> header tag. This can be thought of as a sub heading for our webpage.  You should place your 2nd most important keyword in the <h2> header tag. The <h2> tag should be placed somewhere towards the top half of your webpage.  A good <h2> header tag for our example would be:  l <h2>safe weight loss<h2> (Usually it's best to place your primary keyword in your <h1> tags and your secondary keyword into the <h2> tags.  After we've done this, we need to actually create the content for our webpage. When writing the content, try to evenly sprinkle your main keywords throughout the copy. Don't overdo it though.  Try to mention each keyword in a natural way as you are writing, but be sure to include at least one of the keywords per 1-2 paragraphs, depending on how large your page is.  Tip: Make sure to mention your main keyword at the very top left and the very bottom right hand side of the webpage. A trick I like to use is to include this in the copyright information line at the bottom of the website.        For our example, this would be a good example:  © 2011 Copyright www.domain.com a weight loss story  Notice that it flows and doesn't really look too strange.  Bolding, italicizing and underlining ...  Once we've finished writing the copy, we should go through and bold, underline, or italicize some of the keywords only 1 time each, maximum. Only do 1 per keyword or it will hurt you more than it helps.  Properly include <alt> image tags ...  Next, click on the very top image of your webpage (This is usually your website's header graphic) and include an <alt> image tag using the text "weight loss story header" if you're adding this alt text to your website header graphic. Click on 2 more graphics throughout your webpage and enter your other 2 keywords, plus an extra word like "graphic" or "image"... For example, we would use "weight loss picture graphic" and "safe weight loss image". This ensures that Google won't view this as spam.  Force Google To Read Your Keywords First!  Now, remember I stated above that Google views your webpage from top left, to bottom right? Well, in general they do. But because most websites contain a left hand column which contains all of their navigation links...  Google WILL View all of the text in the left hand column Before The Body of the webpage.  How can you get around this? I've come up with a neat little trick that will ensure that Google reads the actual body of your webpage before the left hand column containing your navigational links.  Here is what you need to do:  Rather than creating a table that looks like this:     navigational links You body text...     You should create a table that looks like this:             navigational links   You body text...     By doing this, Google will read the top left hand row/column first... BUT will see that it is empty, so it will then read the body of your webpage and then read the 2nd left hand row/column which contains your navigational links! :-)  That's all there is to it!  In summary, I really want to point out the fact that, although good onpage optimization is something you'll really want to do, it is NOT how you make dramatic changes in your search engine ranking!  This is one of the biggest misconceptions in the search engine world. Many believe that by getting your keyword density just right, or by moving your keywords around on the page in just the right places, you'll really move up in the search engines.  That is not the case at all. It is the offpage optimization factors that will get you high rankings. I will teach you exactly what offpage optimization factors are, AND how to make sure you optimize these factors perfectly for Google!  Next lesson will be a doozy... It's titled:  "The Secret To Getting Listed In Google In 24 Hours!"  You can download the PDF file of Lesson 2 here.   
+
+
+Read more »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sunday, September 11, 2011
+
+
+
+
+Lovely video: Dad And Daughter sing together
+
+
+
+
+
+
+8:17 AM
+
+1 comment
+
+
+
+
+11pm, Jorge Narvaez single  father with his daughter asleep singing “Home” by Edward Sharpe & The  Magnetic Zeros, attracting over 2 millions views after just 10 days. Many  netizens believe this will become “The cutest song 2011”.
+ I think if this video has a vote, I  will vote for this.  The Dad and his daughter were so cute.
+
+
+
+Read more »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can Windows 8 save the PC?
+
+
+
+
+
+
+5:26 AM
+
+No comments
+
+
+
+By Mark Spoonauer Last weekend I accompanied my 20-something sister-in-law to a Best Buy to purchase an iPad 2. She previously considered buying a Windows laptop, but as it turns out Apple’s tablet does everything that she needs. And that’s a pretty scary thing for the PC industry. Cash-strapped consumers aren’t choosing tablets merely as complementary devices. Increasingly, it’s an either/or decision — and Windows is losing.  At its upcoming BUILD conference, Microsoft will try to convince me and others in attendance that the upcoming Windows 8 operating system will deliver “the best of both worlds” by combining a touch-friendly front end with the power of a traditional PC. But what happens when shoppers view the latter ingredient as dead weight? (Msnbc.com is a Microsoft-NBC Universal joint venture.) This week Gartner reduced its PC shipment growth forecast from 9.3 to 3.8 percent, placing the blame on economic woes in Western Europe and the U.S. There’s another culprit though: the rise of tablets. According to Ranjit Atwal, research director at Gartner, those in Generation Y (like my sister-in-law) “are not buying PCs as their first, or necessarily main, device.” He also said that older buyers don’t see today’s PCs as compelling. Microsoft apparently got the same memo, as evidenced by its recent commercials that transform people’s homes into computer stores. This marketing campaign is just a stop-gap measure. The real solution won’t arrive until this time next year when the first Windows 8 devices hit the market. One of those devices will likely be a tablet made by Samsung, which Microsoft will reportedly unveil at BUILD next week. At CES in January we got a hands-on preview of Samsung’s Sliding Series 7, a Windows 7 tablet with a slide-out keyboard. However, this device never made it to market. We would have shelved the product, too. Windows 8 promises to be much more touch-friendly, with a Live Tile interface that’s similar to Windows Phone 7 and full-screen apps powered by HTML 5. So perhaps Samsung’s slider will be reborn. That’s part of the best-of-both-worlds argument that Microsoft and its partners will try to make with Windows 8. You’ll see pure slate devices sold but also many tablets that let you access a full keyboard when you need it, such as the Sliding Series 7 and the Eee Pad Transformer. I personally would appreciate that kind of versatility, so long as I don’t have to compromise much in the way of portability. It looks like Windows 8 devices will deliver the best of both worlds in another way. During a roundtable discussion earlier this week, Nvidia CEO Jen-Hsun Huang told reporters that the OS should be able to run Windows Phone 7 apps. This move makes perfect sense — assuming the apps scale well to larger displays — and it could encourage more developers to dedicate more resources to both of Microsoft’s platforms. Windows 8 PCs won’t just run mobile apps. They’ll act like mobile devices. That’s because Microsoft says that it has found a way to boot machines to the OS in just 8 seconds. A new fast startup mode that’s a hybrid of the traditional cold boot and resuming from hibernate will be able to get you to the Metro UI faster than you can say “This is a PC?” The toughest challenge for Microsoft is to prove to shoppers that having full-blown Windows running underneath a sleek interface isn’t a turn-off. For many consumers — especially those who have fled to Macs—Windows has become synonymous with incessant software updates, security headaches and needless complexity. Some of these reasons led to Apple’s Lion beating Windows 7 in our recent face-off. Can Microsoft make the rest of Windows 8 just as inviting as that start screen? So far, some of the tweaks under the hood have spurred controversy. Last week, Windows President Steven Sinofsky defended the decision to opt for a Ribbon-style interface for Windows Explorer. This UI treatment, which presents multiple options along the top of the toolbar, resulted in a backlash a few years ago when it debuted on Microsoft Office. In a blog post, Sinofsky countered by saying that users should think of the desktop as just another app. While writing this column on a Windows laptop, I had to reboot because my machine froze. This reinforced my strong belief that Microsoft’s ability to keep the PC alive doesn’t depend on the company’s ability to wow with touch or compelling apps. It comes down to whether Microsoft can convince consumers that they can continue to enjoy the PC’s versatility without the traditional PC baggage. That they made the right call in scaling down their desktop OS instead of starting from scratch like Apple did with iOS and the iPad. There’s a fine line between the best of both worlds and a world of hurt. Editor-in-chief Mark Spoonauer directs Laptop’s online and print editorial content and has been covering mobile and wireless technology for over a decade. You can follow his SpoonFed column each week or on Twitter. From Technoblog.msnbc.msn.com
+
+
+Read more »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saturday, September 10, 2011
+
+
+
+
+Newbie: Some Blogs I think you should read
+
+
+
+
+
+
+8:06 PM
+
+1 comment
+
+
+
+I just started my blog in June, 2011. Later I found and read many blogs, especially the blogs which are similiar mine. So I recognized that this world was so larger than I think of. There are many people who is really smart and I have to study from them more and more. 
+If you are a newbie like me, I think you should  read some blogs, in my opinion, which will help you so much in blogging. They will show you the way how to become the professional blogger.  And here are some of them:
+1. JohnChow.Com:
+This is the blog which I advise you should read first. The author of it is John Chow, one of the most famous blogger in the world, who earns thousands of dollars a month by blogging. The famous sentence of him is: “I make money online by telling people how I make money online!” 
+“John Chow, a damn fine person, friend of the community, Ultimate Fighting Championship contestant, member of the Save the Whales Foundation, the man who controls the black market on baby seal pelts and member of the “probably yo’ daddy” foundation.
+Master of The TechZone and TTZ Media Network. Creator of some of the fastest computers the world have ever seen.
+Consider yourself blessed to be reading his blog.
+The above is a joke. Please don’t take it seriously. If you’re looking for a little more information about John Chow, go here.”
+
+When you read his blog, you will study a lot from his articles. Especially, he will give some gifts. That are some ebooks, which are so useful for bloggers who want to make money online by blogging like him: “Make Money Online”, “Ultimate Blog Profit Model”, “The Secrects to Getting Blog Comments”…. You can download these ebooks for free after subscribed by email. 
+Maybe you havent’t done like him yet, but at least this blog can make you full fill feelings!
+2. Daily Blog Tips:
+I read some blogs, but the articles of this blog made me really like. You can see some useful articles for newbie here, example: “8 Lessons Learned Growing a Site to One Million Monthly Page Views”, “12 Steps to Launch a Successful Blog”, “Top 25 SEO Blogs”…
+
+Author of this blog is Daniel Soco, the man who lived and studied in several places around the world, including Italy, Chile and Brazil.
+He started developing blogs and websites in 2005, and Daily Blog Tips is the place where he shares what he learned along the way. The blog was nominated under the “Best Web Development Blog” category in the 2007 Weblog Awards, and currently it is ranked among the 500 most popular blogs in the world (according to Technorati) and among the 100 most popular marketing blogs in the world (according to AdvertisingAge).
+
+Daniel has also provided consulting services for many companies and organizations (including the United States federal government), and he is the owner of Daily Writing Tips, a blog focused on grammar, punctuation and spelling tips.
+3. Blog Tips World:
+This is the frist blog I know when begin blogging. I really study from this blog so much. Blog Tips World is the place you can find some things which is easy to understand and can be applied. The last article of this blog is “5 things you should know about qualities of a successful blogger”. This is show you what qualities did you need to become a successful blogger, and help you avoid the mistakes when begin your blogging. 
+
+You can read some similiar articles: “The mistakes that newbie Bloggersshould avoid on blogging way”, “5 blogging tips to make your blog much better”…
+Author of this Blog is Rayan, the man who living in Australia. He is a baker and also blogging and make money online about 1500 dollars per month from Google Adsense. 
+Ryan works so hard in blogging. I can read at least 2-3 posts per week on Blog Tips World. And he is one of the reasons I decide to write this post.
+4. More and more… and maybe is YOUAs I said, there are many smart and really good people in our world. I just show a small piece of the huge cake. There are still many bloggers whom you must learning from. 
+Try, try and try. One day, I think your blog, the blog of the newbie, can become the blog which every body have to say: “That’s the interesting blog and should to read it!”
+Good luck all, my buddies!
+
+
+
+Read more »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Windows 8 boots super fast, says Microsoft
+
+
+
+
+
+
+5:38 AM
+
+No comments
+
+
+
+By Wilson Rothman One of the most obsessed over features of Windows is its boot time, according to Windows chief Steven Sinofsky. As such, he says in a blog post, Windows 8 will boot so fast it will make the relatively spry Windows 7 seem Vista sluggish. According to Sinofsky's post in the Building Windows 8 blog, the way Windows 8 achieves such super-fast booting is that it doesn't quite shut down in the traditional sense. Instead, it uses a fast boot that's a hybrid of "cold" booting and hibernating. Green minds should rest assured that there's "effectively zero watt power draw when off," while those who like the clean start of a real boot up can look forward to a "fresh session after boot." In addition to rethinking the software process itself, the Windows team was able to speed up boot time by making better use of multi-core processors found in most of today's computers. Here's the Windows Team's visual comparison between a cold boot and a new hybrid fast start:  There's a more thorough explanation on the Sinofsky post, if you're curious about each step. The results are vivid, as you can see in Microsoft's chart. For many machines, Windows 8 boots are under 20 seconds, while the Windows 7 equivalent machines take significantly longer:  The need for fast boot times is crucial, because so many people still regularly boot and restart their machines. According to the Building Windows 8 blog post, 57 percent of desktop PC users and 45 percent of laptop users still shut down their machines instead of putting them to sleep. But Sinofsky is also quick to point out that in the new era, booting and restarting ought to be performed less and less frequently:  We designed Windows 8 so that you shouldn't have to boot all that often (and we are always going to work on reducing the number of required restarts due to patching running code). But when you do boot we want it to be as fast as possible.  Now that's what we want to hear. Stay tuned for more Windows news to roll out over the course of the next week, as Microsoft runs its BUILD developers conference. Catch up with Wilson on Twitter at @wjrothman, or on Google+. And joinour conversation on Facebook.  From Technoblog.msnbc.msn.com
+
+
+Read more »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Friday, September 9, 2011
+
+
+
+
+September, 11: The day we will never forget ...
+
+
+
+
+
+
+5:27 PM
+
+1 comment
+
+
+
+There are so many things went through in our lives, but there are some events that we can not forget ..
+
+What do you think about that day? I can not think of anything other than profound sympathy to those who have permanently left in it ...
+
+I wandered through several pages, blogs. These days they are posted back to what happened in that terrible event. We all feel pity and sorrow for the loss which America has suffered. 
+
+I’m not good at English, but also wanted to share my whole heart to those who have permanently left, of the loss which America has suffered. I’ll let the American flag on my blog, like to express my deep sympathy.
+
+God bless for them, people were forever gone.
+
+
+Read more »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Most Online Businesses Fail
+
+
+
+
+
+
+7:47 AM
+
+No comments
+
+
+
+The Business Failure Curve The failure curve for small business has been rather predictible. In fact, in a NYT article Scott Shane compared the survival curves from 1977-1988 & 1989-2000. They roughly mirrored each other! Less than 1/2 of small businesses live to see the age of 5. But the cost of failure has dropped as technology & communications costs have dropped to almost nothing. Starting a web business is virtually free!   Registering a new domains only costs $8.    Starter hosting can be had for a few Dollars a month.    Wordpress is free to install on your server.    99designs allows you to pick a logo for as little as $99.    ThemeForest lets you pick premium themes for as little as $20, and there are thousands of free themes to chose from as well.   All these deflationary pressures that lower risk & the need for start up capital should make it easier to be successful, right? Not in my opinion. Because it is easier to start it is also easier to fail. There is more competition today than ever. And tomorrow will be more competitive than today is. If an updated curve appears from, say, 2005-2016 my guess would be that the failure rate is even higher. Why? Online we are moving away from the economics of scarcity to the economics of abundance. It means it is easier to start a business at lower cost. Which lowers the perceived risk. But distractions are plentyful. And one thing is scarce online. Growing scarcer daily. Attention. Competition There are no public stats on how many SEOs are millionaires, but if you asked me to guess I would put the number in the thousands rather than the 100s. And some of the ones that are quite profitable heavily reinvest in growth. If you are starting out today you are behind them in terms of:   rankings    data    capital & cash flow    experience    relationships    network effects    etc.   Every day you sit on the sidelines is another day the leaders have to accumulate resources. Worse yet the sea of competition grows daily. This website has over 500,000 registered users. If this website was a city, it would be one of the 50 largest cities in the United States. Amongst this sea of competition, the biggest risk you have when starting a new website is not some new Google penalty, but rather perpetual obscurity. In the search game the top few win the spoils.  There isn't much difference between page 3 and page 300: both are effectively invisible. Dumb Luck / Accidental Success My first profitable website was one where I was too clever (and perhaps too stupid?) for my own good. In early 2003 I registered the domain name 1emallway.com. It was supposed to be a clever spin on being a street address and an online address. It was also intentionally broad because being naive and greedy I thought I could make money using affiliate links for "everything." ;) I thought I was brillant and original. But, as it turns out, I was 0 for 2. The only reason that site ever made any mone was because a.) I was a bad speller & b.) the search engines were not very sophisticated about correcting spelling errors. I misspelled the name of an online casino and was one of only a few webmasters who had done so, landing me numerous multi-thousand Dollar checks for being fairly incompetent. Today search engines are *much* better at correcting misspellings. Google also promotes sending users on a guided path with their Google Instant, which tries to complete your search query for you. Further, gambling is a much more saturated market & online gambling is now illegal in the United States. Failure vs Learning Lessons Only through gaining experience do you learn humility & to accept how little you know. And that keeps you learning. That 1emallway wasn't anything with lasting potential, but I kept learning. Later on in 2003 I went to an SEO conference and heard the term "search marketing" and it was promoted as being what was going to become "the" phrase for our young industry. So I registered searchmarketing.info and search-marketing.info. Unaware of branding (or that the .info domain extension would soon largely become associated with spam due to years of 99 cent registration specials) I chose the hyphenated domain over the non-hyphenated domain. As if that wasn't bad enough, I chose RegisterFly as my domain registrar. They later became famous for charging you for renewing your domain names without actually doing so, and rather 'investing' in liposuction & hookers. Here is a typical complaint highlighting their customer experience: I am a single mom of two. My husband left me with nothing five years ago, instead of giving up which I felt like doing I started my own company and have been sucessful for five years, supported my children FOR Five YEARS ON MY OWN. Registerfly has single handedly destroyed my business. Today I lost my last large client. They all walked due to what they say Is MY fault. I can not renew, transfer or host thier domains. These are million dollar companies that are well known and now the names have expired. I am now being sued by them. Well goodbye house, goodbye car, goodbye life! Thank RegisterFly. 10 Rules For Success Those were pretty bad errors, but I was able to recover from them because I was a voracious reader & got involved with some communities that made a difference. The SearchGuild site that I cut my teeth on back then is no longer around, but there are a lot of other great sources to learn from today. Part of the reason we work so hard on this site is to pass it forward. :) The keys to success, IMHO are...   avoid debt whenever possible    pick a market you can win    pick honest mentors    create your own value systems    work longer, harder & faster than the other guy, and try to connect with others    value your time    if something is working keep investing in it until the returns begin to diminish    fully invest early profits into growing quicker & learning faster    track what you are doing    do not let excuses prevent you from getting something done today   Lets go over these real quick! Avoid Debt Debt is a claim on your future labor, with interest. If lending rates are low debt can be a seductive force because you don't have to pay for it until "later," but you don't know what will happen down the road. Markets shift in uncertain ways. This is true both within your market & the broader economy. When I got started online I got a job that I didn't want so that I would be able to fund my online education. Further, when I was doing ok online I moved into a mobile home so my monthly living costs were under $500. This enabled me to take risks that would not have been reasonable if I had more debt and a higher living expense. And I kept living well below my income from then on, as it allowed me to take greater risks & invest faster into growth. If we learned nothing from the trillions of Dollars of losses, destroyed retirement accounts, and massive currency debasement caused by every flavor of financial fraud in the book (appraisal fraud, mortgage fraud, securities fraud, rating fraud, foreclosure fraud, etc.) coupled with the failure of market regulation, big bailouts & the lack of jailtime for the banking class, we should learn this at a minimum:bankers are not to be trusted. It doesn't matter if a banker is honest.  Gresham's dynamic will drive honest folks under as the people committing fraud keep buying political influence & marketshare.   Bad money drives good money out of the market.    A bank that doesn't commit accounting fraud to show extra growth & boost their share price gets bought out by a more corrupt bank ran by individuals willing to commit fraud to get ahead.    Cheap Chinese milk with melamine in it makes real milk less profitable (or unprofitable) to create.   Once you go into debt you are handing over control of your life to someone else. Fear of not being able to pay your debts will prevent you from taking profitable risks (and may force you to take some bad ones). Carl Sandburg said it best in The People, Yes "and in the best, you never know whats coming next, even if it's hokum ... Anything can happen in this sweepstakes. Around the corner might be prosperity or the worst depression yet." Pick a Market You Can Win In my earlier 1emallway example (I cringe every type I type it out or think about it) I was virtually guaranteed failure because my ambition far exceeded my talent or budget. After a month of playing online how exactly was I going to be the king of ecommerce (with no marketing budget to boot)? :) Even within the small market of "SEO" there are people focused on positioning as local SEO experts, international SEO experts, SEO experts for a specific type of business (like real estate), link building experts, SEO experts leveraging public relations, etc. If a market is too competitive you can always go tighter. My angle off the start was to be one of the first SEOs leverage blogging and to use that platform to push an ebook. The idea of selling an ebook had 3 benefits:   since SEO books were seen as commodities the domain name was available for only $8, while still being short and memorable    since the field of SEO constantly changes, the idea was to sell an ebook at a premium on the basis that people got updates and it was more current than print books    each update not only helped customers, but acted as free marketing for our brand, since our customers would often mention the updates   The idea of "using a blog" isn't particularly unique today, as there are 10,000's of blogs covering SEO. But the idea was unique back then, and there are equivalent angles and ideas you can use today. Smaller markets are easier to rank it (since they have less competition), cost less to rank in (since they have less competition), and it is easier to create relevant partnerships. The person who sells custom bowling gloves can partner with bowling ball manufacturers, sports stores, etc. Whereas the person who wants to own the category of "sports" is going to need to have deep pockets to spend on marketing. You don't want to go to such a small niche that there no market though. Rather, one should look forways to create a complimentary position. Pick Honest Mentors One could have a long & convoluted set of filters, but on this front mine is pretty simple.   If you hear phrases like "make money online" "business in a box" "silver bullet" "automated wealth generation" "pure content" etc. then they are likely optimizing their sales pitch to rip off desperate newbies. Many of those folks come up with a scammy sales angle and then make a half assed product based around the sales pitch.    Originally the video to the right was about a "product" the FTC fined Frank Kern for, but they complained & got it removed from YouTube.    We replaced it with an even better video, about a "rock bottom blueprint" that is for "anyone." It promotes a real estate investment strategy that has allegedlybeen profitable for 13+ years, even through the bubble period AND the real estate crash.     Anyone who suggests you take on debt to work with them is likely knowingly selling you down the river. Here is a typical boiler room sales script [PDF] which includes tips like: "Find more pain if needed spend time here (everyone has pain it’s your job to find it)."    Anyone who relies heavily on launch sequences with false scarcity is likely knowingly selling you down the river.    If a person only shares "information" when they are selling something they are likely just salesman, rather than a mentor.    Rely on your own experience. If someone says something that matches your own experiences then it is likely safe to trust them more. If multiple people that have earnedyour trust recommend something, then it is probably a safe bet.   Pick the wrong mentors is an easy way to wind up broke (or worse). Here is a video of Ellery Bennett promoting how rich, successful & happy he was. But he was trying the sell the dream and was getting sucked dry by other "sell a dream" marketers. Within 2 years of that video being released tragedy struck as he had over a half million Dollars of debt, his wife filed for divorce, and he murdered her. Create Your Own Value Systems "It is difficult to get a man to understand something when his salary depends upon his not understanding it." - Upton Sinclair Existing value systems are created to support the business models of established businesses. As Eric Schmidt says, lobbyists write the laws. Google later announced they hired A DOZEN new lobbying firms! From a practical standpoint this has a couple fundamental business points to consider.   To create success your narrative often has to be counter to whatever the existing market believes. Excite.com turned down buying Google for under $1 million. Google was a success at search largely because everyone else was trying to pump pageviews to sell banner ads &viewed search as a loss leader. I was able to buy the domain name SeoBook.com in 2003 for $8 precisely because others failed to appreciate its value. The concept of a book about SEO seemed like a bad idea to many because search keeps changing.    If you are successful with the creation of your own value systems it will piss some people off. This is because many established competitors will fear you. When I got started online there were attack threads created where I had to defend myself against the attacks of a dozen industry 'experts' who joined together to try to topple me. Another SEO who wrote an ebook told me they experience the exact same thing.    Many people are afraid to look/be/act different. I think this is a mistake. Being inauthentic wears thin on your self esteem and makes you feel fake. Other people like you are attracted to what makes you unique, and those are the people who are most likely to help spread your marketing message for you. A mentor once told me "I think the best brands, the best sites have a large portion of their founders personality in them. Never be afraid to be yourself, after all there are 1/2 billion people on the www, not all of them have to agree with you. Concentrate on the ones that share your views, concentrate on making their experience the very best it can be, the rest forget them. Or to put it another way, the best sites say - this is what we do, this is how we do it, if you don't like it go somewhere else."   Longer / Harder / Faster + Connecting There are 3 big benefits of starting off from scratch:   You do not have a lot of things that you "have to do" everyday, like customer service for hundreds or thousands of people.    You are hungry & are willing to do things others are not willing to do.    Lack of experience means that you might be naive enough to set ambitious goals that you would have never made after you knew more.   Through deeply focusing on specific areas you are interested in, you can do a month of learning in a couple days. As long as you express your own voice & push hard on doing what you are good at eventually someone will notice. However don't wait for the market to take notice on its own. You need to reach out and connect with others, participate amongst the people you want to know and be known by. A good quote from Abraham Lincoln: "Public sentiment is everything. With public sentiment, nothing can fail. Without it, nothing can succeed." Keep in mind that no matter what you do, some of it will not be fun. After all, the reason people typically pay you is because they are asking you to do something they do not want to do. That said, people are generally more likely to buy from people they empathize with. A more modern version of Abe's message comes from Radiohead's Meeting People is Easy DVD: "If you have been rejected many times in your life, then one more rejection isn't going to make much difference. If you're rejected, don't automatically assume it's your fault. The other person may have several reasons for not doing what you are asking her to do: none of it may have anything to do with you. Perhaps the person is busy or not feeling well or genuinely not interested in spending time with you. Rejections are part of everyday life. Don't let them bother you. Keep reaching out to others. When you begin to receive positive responses then you are on the right track. It's all a matter of numbers. Count the positive responses and forget about the rejections." (Under)Value then (Over)Value Your Time The biggest risk to new online businesses is perpetual obscurity. And the web can be a lonely place for a new entrepreneur. Off the start I think it helps to under-value your time & try to reach out and help as many people as you possibly can. That can be wasteful, but even so it will give you the feedback and interaction and momentum and confidence needed to keep doing better. It will also help you find what you are good at & where you should focus. However, if you do a good job of it then over time you will create more demand than you can possibly accomodate. At that point you need to use economic principals to help balance supply & demand. Allow people to pay for access while limiting access to those who have not paid. Further, once you have enough capital to use it as a tool, it can make sense to hire others to help out with various aspects of your business. No matter how good you are there is a limit to how much you can do by yourself, and working with others should allow you to create greater profits. After you get to a certain level of success, sometimes it also helps to have a couple different businesses and a couple different revenue streams. Doing so lowers your overall risk profile & forces you to value your time, as if you are selling it at below market rates the other businesses will do better. Reinvest Until it Stops Working Most investors under-perform the stock market because they are clouded by their emotions & make irrational decissions. Those who succeed might also lose money on most their trades. The key to success is riding winners until they stop working. Sophisticated stock traders use trailing stop losses to force them out of trades while locking in most of their profits. Likewise with marketing, it can feel like you need to stop doing x because you have already done it before. However, rather than trying to guestimate when it stops working, you are better off reinvesting until the returns stop coming in: ride the entire growth cycle. Many value systems spread then die. Many markets are born then die as they are replaced by more efficient technology. Likewise many marketing techniques spread and then die. "On a long enough timeline, the survival rate for everyone drops to zero" - Tyler Durden. Fully Invest Early Profits into Growing Quicker & Learning Faster One of the paradoxical tricks of the web is that almost everything is available for free. But some things are only made available for free by valuing your time at nothing. If I could take my current knowledge back to 2003 I might not end up being a billionaire, but I would certainly have made hundreds of millions. But opportunity and time head in one direction, so take advantage of whatever advantages you have and fully leverage them TODAY. :D If someone can help you save a week or a month or a year of your life that has exceptional value. Likewise, if a software program saves you a few hours a week it is valuable. And if a professional service makes you look more credible then it can be a cheap investment into your longterm growth.   our first web design was a free template    next came a $99 logo & me hacking away at the CSS of the free template to color match the minimalistic theme to match the logo's colors    our next site design cost $1,500    our most recent design was around $7,000   Each of the above choices was both rational and appropriate given our resources & scale at the time. If you have nothing then you sorta have to make due with what you have, but as you gain resources it makes sense to reinvest. Track What You are Doing If you are not using web analytics you are flying blind. It might seem like you are being altruistic & only want to do what you are interested in to decide that you do not need to track, but if you track how you are performing you learn what the market cares about and what it wants. You can bake this into virtually every aspect of your business:   We use web analytics to track conversions    Our blog posts have comments on them, as does our monthly newsletter.    If customers decide to cancel with us we send them a survey to ask how we can make the service better.   Do Not Let Excuses Deter You If you wait until you are perfect before you start you will never get started, precisely because as you learn more you apppreciate how little you know. You do not need to be a Michael Jordan to be successful. When I look back at my early work I am anything but impressed by it, but if I would have waited until I know what I know now I never would have had the chance to learn so much & gain so much experience. Every day make a list of things to do, and every day make sure you scratch off at least 1 item. Is There Any Opportunity Left Today? It is easy for a person reading this to say "well you only got where you were today because you got lucky." I would be hard pressed to disagree with that. But since I got into search, many "experts" who were at the top of the game have fallen off the cliff. The good news is that successful people get complacent. Stuck in their ways. Which is why business has a water cycle to it. People claimed the death of SEO in 1997, 1998, 1999, 2000, 2001, and 2002. In 2003 I got started online and in the field of SEO, and people claimed that the Google Florida update would kill SEO. I took that as an opportunity to learn, to explore, to write, to gain exposure, and to gain marketshare. Blogging was new back then, and it was another piece of my "dumb luck" strategy. I noticed that people who wrote blogs were getting a disproportionate share of inbound links. Rather than complain about it I said "hey I can do that too!" I was paying attention to how the web was changing & leveraging new channels and new technologies to catch up, so maybe some of the luck wasn't so dumb after all. In the years since there has been a major claim of SEO dying every year. And yet when you consider how awful the US economy is in 2010, you would think it was just the opposite if you were talking to other SEO experts who might "only" grow their profits 20% or 30% this year. The web is changing today, as it was when I got in the game. If you work hard to learn about the web every day and leverage new channels + new techniques the odds are pretty good that you will stumble into your own "dumb luck." Cheers,      Aaron Wall From seobook.com
+
+
+Read more »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keep Readers coming back your site tips writing
+
+
+
+
+
+
+6:50 AM
+
+No comments
+
+
+
+This is a guest post from James  I spend a lot of time on the internet. As an internet marketer, I look at hundreds of websites a week, and probably thousands each month. And a good number of those sites are blogs. But most of these blogs suck. And It should come as no surprise to anyone who has spent any time on the internet that there are a lot of blogs out there that are badly designed, spammy, and poorly written. In fact, that last observation is the most important to me in deciding whether or not I want to work with or advertise with a blogger. If their writing is bad, it’s a deal breaker.  There are lots of websites out there that claim to show you the pathway to wealth through blogging, but most of them deal with how to market your blog and optimize the SEO for great search rankings. But far too few actually focus on the content of a blog—what it’s actually about.  So many people get caught up in making money that they forget that if their blog is poorly written, no one will want to visit their site.  So, how do we change that? Here are a few tips that I try to stick to write good posts and keep my blog readers coming back for more.  1) Write to your audience  You’d think this would be a no-brainer, but you’d be surprised how many bloggers  think their primary audience is Google. Before you write, think about who you are writing to (an actual person). Analyze what that audience wants to get out of your blog and the things they may want to know. Then you can tailor your post(s) to that audience. When a reader feels you are speaking to them directly and addressing what they came to your site to find, they are much more likely to return regularly, giving your blog sustained high traffic.  2) Create Compelling Titles  Think about your post title as a gateway drug. It needs to grab the reader and entice them to want to read more—especially if the title appears on Facebook or Twitter with no context. For example, for a movie blog, I recently wrote an article titled, “Why the Dark Knight Rises Will Probably Suck.” Now, most of the readers on the site are movie buffs and love the current Christopher Nolan Batman franchise, and they predict that the last chapter will be just as awesome as the first two. A title predicting the suckiness of the final installment, therefore, questions their underlying assumptions—and flies in the face of reason—making it extremely enticing to click on and read.   3) Follow a structure  Hopefully you learned the basic principles of good writing structure in first-year college English. If not, try and think back to high school. Start with an introduction, support your main thesis with supporting arguments (or evidence), and create a clear and satisfying conclusion. If you are scatter-brained and can’t keep a simple logical threat running through your post, your readers will get lost, have no idea what you are talking about, and never return to your blog again.   4) Be coherent   Once you can create an overall structure for your blog posts, pay attention to the details at a paragraph level. Tie your sentences together so one thought logically flows from the previous sentence to the following sentence. Doing so will help you lead your readers along to your final point—which is where you want them to go—so they will get value out of your post, see the value in your blog, and keep coming back for more.        5) Be fun  You don’t have to be a stand-up comedian to add some fun into your blog posts, but readers do like a certain level of engagement. If you can entertain while you teach and make brilliant statements about the topic of your blog, you’ll have readers lining up (metaphorically—of course you can’t line up in the internet) to get back to your site and read more.  6) Ask questions   Do you want your readers to think about your blog post after they stop reading? Ask questions that encourage your readers to leave comments or ponder your words after they’ve left your site.  Content is king. If you have terrible writing on your site, no one will want to come back to read more of it once they’re gone. But if you can compel your readers to stick with you through an entire post with coherent arguments and a bit of humor, they’ll want to come back for more. Oh, and about those questions:  Do you think I’m full of crap? What are your tips for good blog writing?  James Ged is a writer and former college English professor turned internet marketer. Usually he’s blogging about  Comcast cable, but he also likes to share his internet finds on Social Buzzer. From Blog Tips World
+
+
+Read more »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Officials confirm 'credible but unconfirmed' 9/11 threat
+
+
+
+
+
+
+4:59 AM
+
+No comments
+
+
+
+ Washington (CNN) -- U.S. officials said Thursday evening they have "specific, credible but unconfirmed" information about a potential threat against the United States coinciding with the 10th anniversary of the September 11 terrorist attacks. Officials confirm 'credible but unconfirmed' 9/11 threat "We have received credible information very recently about a possible plot directed at the homeland that seems to be focused on New York and Washington, D.C.," a senior administration official told CNN Pentagon Correspondent Barbara Starr. The official said the plot was believed to involve three individuals, including a U.S. citizen. U.S. officials believed the threat was a vehicle laden with explosives, but "the intelligence picture is not completely formed," the official said. "Not enough is known about the potential operatives and their plotting." The threat is believed to entail a vehicle bomb, but "we cannot rule out other means," a U.S. official said. A senior law enforcement official involved in briefings about the matter told CNN Justice Department Producer Terry Frieden that his best information is that the three individuals had not yet entered the United States. The information came in around noon Wednesday, one official said. A senior federal law enforcement official intimately involved in counterterrorism efforts told CNN Chief National Correspondent John King authorities "aren't sure if this is or real or just chatter." The official confirmed the threat was vehicle-related. New York City Mayor Michael Bloomberg told reporters Thursday night that while additional police will be deployed around the city, "There's no reason for any of the rest of us to change ... our daily routines." Gov. Andrew Cuomo urged residents to be cautious, but said "there is no reason to panic." Officials said they were taking the threat seriously, while evidently trying to temper the news by saying such threats are commonplace during key events. "It's accurate that there is specific, credible but unconfirmed threat information," said Matthew Chandler, spokesman for the Department of Homeland Security. "As we always do before important dates like the anniversary of 9/11, we will undoubtedly get more reporting in the coming days. Sometimes this reporting is credible and warrants intense focus, other times it lacks credibility and is highly unlikely to be reflective of real plots under way. "Regardless, we take all threat reporting seriously, and we have taken, and will continue to take, all steps necessary to mitigate any threats that arise. We continue to ask the American people to remain vigilant as we head into the weekend," Chandler said in a prepared statement. A Department of Homeland Security official, speaking on background, said, "We will continue to respond appropriately to protect the American people from an evolving threat picture in the coming days and beyond. This may include an increased law enforcement presence at airports and other transit hubs, land and sea ports of entry, federal buildings, and other high-profile and critical infrastructure locations." The information originated from the tribal border area of Pakistan and Afghanistan, a federal official told CNN producer Mike Ahlers. Another source gave CNN conflicting information about possible details of the threat. Rep. Peter King, R-New York, chairman of the House Homeland Security Committee, said very specific details were made known to lawmakers about the threat. "Many agencies are looking at this from every possible angle," he said. But it is not known yet if the threat is real, he said, adding, "I would tell people now to go about their lives. There's no need to panic." A senior administration official with firsthand knowledge told CNN National Security Contributor Fran Townsend that although there is "specific, credible but unconfirmed threat information," there are a lot of questions about this information -- "weird things." A federal law enforcement official told CNN National Correspondent Susan Candiotti that the threat appears to go beyond intelligence gathered from Osama bin Laden's compound after he was killed by Navy SEALs. That information talked about aspirations to carry out an attack on U.S. interests on the 10th anniversary of the 9/11 attacks. "The president was briefed," a senior administration official said. "He directed that the intelligence community and the administration take all necessary steps to ensure vigilance." Earlier Thursday, Homeland Security Secretary Janet Napolitano told reporters that intelligence officials had picked up "lots of chatter" on jihadi websites and elsewhere about the impending 10th anniversary of the September 11 terrorist attacks "and we're taking it all seriously," but nothing yet that warranted issuing a threat advisory. Nonetheless, the department will be at a heightened level of readiness as the nation commemorates the anniversary, "staffing up" the Federal Air Marshals Service and other agencies, she said. Napolitano said it is not uncommon to see increased chatter before major events. "We know it's an iconic day to al Qaeda, in part because of what was found at the (Osama bin Laden) compound. So we are preparing accordingly," she said. "I don't want to give those (details) out because I don't want to tell the bad guys exactly what we're doing," Napolitano said. "But I think it's fair to say that in addition to asking citizens to be vigilant and so forth, that we have ourselves leaned forward and have made sure that we are doing all that we can from the DHS perspective." From CNN
+
+
+Read more »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybercrime costs $114 billion U.S. a year: report
+
+
+
+
+
+
+4:49 AM
+
+No comments
+
+
+
+WASHINGTON - Cybercrime claimed 431 million adult victims last year and cost $114 billion U.S., according to a report published Wednesday. The Norton Cybercrime Report 2011 said over 74 million people in the United States were cybercrime victims last year, suffering $32 billion in direct financial losses. Cybercrime cost China around $25 billion, Brazil $15 billion and India $4 billion in the past 12 months, said the report from computer security firm Symantec, maker of the Norton anti-virus software. According to the report, more than two-thirds of online adults - 69 percent - have been victims of cybercrime at some point in their lives, resulting in more than one million cybercrime victims a day. Cybercrime rates were even higher in China and South Africa. Eighty-five percent of Chinese respondents to the Norton survey and 84 percent of South Africans said they have been victims of cybercrime. The report found a growing threat from cybercrime on mobile phones. Ten percent of adults online have experienced cybercrime on their mobile phones and the number of reported new mobile operating system vulnerabilities increased from 115 in 2009 to 163 in 2010. "There is a serious disconnect in how people view the threat of cybercrime," said Adam Palmer, Norton lead cybersecurity advisor. "Cybercrime is much more prevalent than people realize. "Over the past 12 months, three times as many adults surveyed have suffered from online crime versus offline crime, yet less than a third of respondents think they are more likely to become a victim of cybercrime than physical world crime in the next year," Palmer said. For the survey, interviews were conducted with nearly 20,000 people in 24 countries, Symantec said. © Copyright (c) AFP From Canada.com
+
+
+Read more »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Older Posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RSS Subscription!
+
+
+Follow me!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOLLOW BY EMAIL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Amazon.com Widgets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+make money
+
+
+
+
+
+
+
+
+
+
+
+
+FOCUS
+
+
+
+
+
+
+
+
+
+9/11 memories and emotions have not faded
+ Ten years ago, Postmedia News reporter Douglas Quan was living in New York City when two hijacked airliners crashed into the World Trade en...
+
+
+
+
+
+
+
+
+
+
+10 Free Web Icon and Button Sets for Web Designers
+From TechFlaps.Com   Presenting  before you in this article is another set of web icons and  buttons for  web designers and bloggers, which ...
+
+
+
+
+
+
+
+
+
+
+Photos: 20 iconic images from 9/11
+ For memories of that day, we look at the top 20 iconic images from the September 11th terrorist attacks.   Rescue workers carry fatally inj...
+
+
+
+
+
+
+
+
+
+
+September, 11: The day we will never forget ...
+There are so many things went through in our lives, but there are some events that we can not forget ..   What do you think about that day ?...
+
+
+
+
+
+
+
+
+
+
+Newbie: Some Blogs I think you should read
+I just started my blog in June, 2011. Later I found and read many blogs, especially the blogs which are similiar mine. So I recognized that ...
+
+
+
+
+
+New iPhone 5 Concept: Thinner, Larger 4-Inch Edge To Edge Screen, Improved Cameras & More
+By IphoneHacks We’ve already seen couple of interesting  iPhone 5  concepts, the first one seemed to be  inspired by iPhone 4 and iPad 2 , w...
+
+
+
+
+
+
+
+
+
+
+TECH NEWS: How to SEO your site - Lesson 1
+Today I decide to share for you the 12-lesson-package of Brad Callen, a Professional SEO : " How to SEO your site ". I am sure that these le...
+
+
+
+
+
+
+
+
+
+
+G.O.C HD Theme for Iphone 4
+G.O.C HD Theme  The luxury theme for older version, now for IP 4.   Download Version 1.4     How to Install:  1. Your Iphone must was Jailbr...
+
+
+
+
+
+
+
+
+
+
+21 Essential SEO Tips & Techniques
+Businesses are growing more aware of the need to understand and implement at least the basics of search engine optimization (SEO).  But if y...
+
+
+
+
+
+
+
+
+
+
+Elite Pro HD Theme for Iphone 4
+A Pro Theme for Iphone 4. Download it now!               Download Version 1.6   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOWNLOAD MP3 MUSIC
+
+Michael Jackson Greatest Hits HIStory Volume I
+
+
+
+
+
+
+
+
+
+
+
+
+Born This Way [+Digital Booklet]
+
+
+
+
+
+
+
+
+
+
+
+
+Born This Way [+Digital Booklet]
+
+
+
+
+
+
+
+
+
+
+
+
+Will You Be There (Theme from "Free Willy") (Album Version)
+
+
+
+
+
+
+
+
+
+
+
+
+Will You Be There (Theme from "Free Willy") (Album Version)
+
+
+
+
+
+
+
+
+
+
+
+FROM OTHERS
+
+
+
+
+
+
+
+
+
+
+John Chow dot Com
+
+
+
+
+How To Pour Bubble Tea, English Style
+
+
+                      -
+                    
+
+Pearl Castle is a Taiwanese restaurant located at Richmond’s Continental 
+Plaza. The place is always packed because they offer great-tasting food at 
+extreme...
+
+
+6 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+Daily Blog Tips
+
+
+
+
+DMOZ Questions From An Editor’s Perspective
+
+
+                      -
+                    
+
+DMOZ has long been considered a top web directory and is a highly sought 
+after backlink. However, not a lot is known about what goes on behind the 
+scenes, ...
+
+
+7 hours ago
+
+
+
+
+
+
+
+
+
+
+
+
+Techncom ~ AdSense, SEO, Blogging Tips | SEO for Blog | SEO ebook
+
+
+
+
+
+
+
+
+
+How To Get Great Content Ideas For Your Blog
+
+
+                      -
+                    
+
+As bloggers the content we put out on our blog is a very integral part of 
+our success. Building a successful blog is not just about pumping out just 
+any *c...
+
+
+1 day ago
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Make Money | Affiliate Marketing Blog | Blogging Make Money Online
+
+
+
+
+
+
+
+
+
+5 Things You Should Know About Qualities of a Successful Blogger
+
+
+                      -
+                    
+
+There are thousands of newbie bloggers who want to succeed in blogging, but 
+many of them don't know how to do that. I’m sure not all of them will become 
+a ...
+
+
+2 days ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedjit Live Blog Stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Copyright © 2011 TECH NEWS | Powered by Blogger | Contact email: zennguyen@live.com | Tel: (849) 321 96959
+
+
+
+
+
+
+Design by Free WordPress Themes | Bloggerized by Lasantha - Premium Blogger Themes | cheap international calls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

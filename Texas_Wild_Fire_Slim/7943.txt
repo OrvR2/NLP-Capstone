@@ -1,0 +1,2 @@
+
+Fatal error:  Call to undefined function add_action() in /home/content/37/6983037/html/wp-content/plugins/quick-contact/quick-contact.php on line 123

@@ -1,0 +1,343 @@
+noodls® › gateway to facts » noodls Terms and Conditions of Service
+
+
+Print
+
+noodls Terms and Conditions of Service
+1. Definitions
+The following terms and expressions shall have the meanings set out below.
+noodls—means noodls.com srl, a company based in Via Corsica 19/10, 16126 Genova, Italy, VAT IT01709820995.
+User—means the party utilizing noodls' free and paid services.
+Client—means the User utilizing noodls' paid services.
+TACOS—means this Terms and Conditions of Service between the User and noodls.
+Service—means the services provided to User by noodls including, but not limited to, news release distribution and content integration services, and social networking applications. Some of these services are accessible for free (“Free Services”), while some others require the User to be charged (“Paid Services”) by noodls in respect of that Service, details of which are set out in the noodls corporate Website and in the web page used by Client to subscribe to a Paid Service.
+Access Credentials—means a combination of individual code and password provided by noodls to the User pursuant to which a User is enabled to access the noodls' Service.
+Source—means an organization having some Content submitted to be available on the Service by an Authorized Sender, or the organization owning the Website from which the Content has been retrieved.
+Content—means any material submitted by a User to be available on the Service or retrieved by noodls from the official Website of a Source.
+noodls Taxonomy—means the codes used by noodls to retrieve and index the information made available on the Service.
+Source Management—means the right of a User to edit all the information related to a Source and displayed in the Service and to submit Content to be available on a Service.
+Multi-User Account—means an Account where one or more Users are able to create one or more Associated User Accounts and are responsible for the management of all the Associated User Accounts, as well as for their billing.
+Associated User Account—means an Account that is created and managed by another Account.
+Source Management Request Form—means the application form to be filled in by a User and returned to noodls to apply for Source Management.
+Multi-User Account Application Form—means the application form to be filled in by the Client and returned to noodls to apply for a Multi-User Account.
+Fees—mean the fees charged for use of the Service as presented by noodls in the “Services” section of the noodls Website, in the web page used by Client to subscribe to a Paid Service or in the Multi-User Account Application Form (for Multi-User Accounts).
+Authorized Sender—means a User selected by noodls or named by a Source representative in the Source Management Request Form who is thereby nominated and authorized to manage a Source.
+2. Conditions of use of the Service
+2.1. User Obligations
+In consideration of the use of the Service, the User represents that he/she is of legal age to form a binding Agreement and is not a person barred from receiving services under the laws of the applicable jurisdiction.
+The User also agrees to:
+
+provide true, accurate, current and complete information as prompted by the Service's registration form and
+maintain and promptly update the registration data to keep it true, accurate, current and complete.
+
+If the User provides any information that is untrue, inaccurate, not current or incomplete, or noodls has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, noodls has the right to suspend or terminate the account and refuse any and all current or future use of the Service (or any portion thereof).
+In using the Service, the User will:
+
+obey the law and comply with all local rules regarding online conduct in the country in which the User resides or from which the User accesses the Service;
+obey any codes of conduct or other notices noodls will provide;
+obey the noodls Anti-Spam Policy, as described in section 2.6 of the TACOS
+keep the Access Credentials secret.
+
+In using the Service, the User may not:
+
+engage in, facilitate or further unlawful conduct;
+use the Service in a way that harms noodls or its suppliers, affiliates, resellers, distributors and/or vendors, or any customer or advertisers;
+upload, post, email, transmit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of solicitation;
+use any portion of the Service as a destination linked from any unsolicited bulk messages or unsolicited commercial message (“spam”);
+use any automated process or Service to access and/or use the Service (such as a BOT, a spider, periodic caching of information stored by noodls, or “meta-searching”);
+use any unauthorized means to modify or reroute, or attempt to modify or reroute, the Service;
+damage, disable, overburden, or impair the Service (or the network(s) connected to the Service) or interfere with anyone's use and enjoyment of the Service; or
+resell or redistribute the Service, or any part of the Service unless the User has been specifically permitted to do so in a separate agreement with noodls.
+
+2.2. Access Credentials
+The User will receive an individual code and password upon completing the Service's registration process.
+The User is responsible for maintaining the confidentiality of the Access Credentials and is fully responsible for all activities that occur under his/her Account.
+The User agrees to:
+
+immediately notify noodls of any unauthorized use of the Access Credentials or any other breach of security, and
+log off from the Service at the end of each session.
+
+noodls cannot and will not be liable for any loss or damage arising from failure to comply with this Section 2.2.
+2.3. Account Termination
+The User agrees that noodls may, under certain circumstances and without prior notice, immediately terminate the User Account and access to the Service. Cause for such termination shall include, but not be limited to:
+
+breaches or violations of the TACOS or other incorporated agreements or guidelines,
+requests by law enforcement or other government agencies,
+a request by the User (self-initiated Account deletions),
+discontinuance or material modification to the Service (or any part thereof),
+unexpected technical or security issues or problems,
+extended periods of inactivity, excluding the Paid Services,
+the circumstance that the provision of the Services is, in noodls' opinion, no longer commercially viable,
+engagement by the User in fraudulent or illegal activities,
+non-payment of any fees owed by the Client in connection with the Services, and/or
+the circumstance that the User is declared bankrupt, or is affected in any jurisdiction by any matter of substantially similar effect to bankruptcy.
+
+Termination of the User Account includes:
+
+removal of access to all offerings within the Service,
+deletion of Users' Access Credentials and all related information, files and content associated with the Account (or any part thereof), and
+barring of further use of the Service.
+
+Further, the User agrees that all terminations for cause shall be made in noodls' sole discretion and that noodls shall not be liable towards the User or any third party for any termination of the Account or access to the Service.
+The User may request to terminate his/her Account at any time using the web form of the Service or writing an Account Cancellation request to support@noodls.com. The Client is responsible for all charges and fees incurred up to the time the Account is terminated.
+When the Agreement between the User and noodls comes to an end, all of the legal rights, obligations and liabilities that the User and noodls have benefited from, been subject to (or which have accrued over time whilst the Agreement has been in force) or which are expressed to continue indefinitely, shall be unaffected by this cessation.
+2.4. Associated User Accounts
+Only the User may use his/her Service Account. For some parts of the Service, noodls may notify the User that he/she may set up additional Accounts that are dependent on the User Account (an “Associated User Account”). The Client is responsible for all activities that take place with his/her Service Account or an Associated User Account. The User has full control over Associated User Accounts. This control includes the right to end the Service, close or alter the Associated User Account at any time, and, in some cases, to request and receive machine and Service use information related to the Associated User Account.
+2.5. Software
+If the User receives noodls software, which is property of noodls, as part of the Service, use of that software is under the terms of the license that is presented to the User for acceptance for that software.
+If there is no license presented to the User, or unless otherwise stated in this Agreement, then noodls grants the User the right to use the software only for the authorized use of the Service. noodls reserves all other rights to the software.
+noodls may automatically check the version of the software which has been installed in connection to the Service. noodls may automatically download upgrades to the software to the machine of the User to update, enhance and further develop the Service.
+Unless noodls notifies the User otherwise, the license to use the software will end on the date the Service ends, and the User must promptly uninstall the software. noodls may disable the software after the date the Service ends.
+The User will not disassemble, decompile, or reverse-engineer any software included in the Service, except and only to the extent that the law expressly permits this activity.
+The User must comply with all domestic and international laws and regulations that apply to the software. These laws include restrictions on destinations, end-users and end use.
+2.6. Anti-Spam Policy
+The User will not spam or send unsolicited mailings to any person or entity using the Service. The User shall immediately cease using the function “Share this noodl by e-mail” and any other messaging function with regard to recipients who have requested not to receive such information.
+When using the “Share this noodl by e-mail” and any other messaging function, the User shall:
+
+not send any message that is unlawful, libelous, slanderous, offensive, obscene, hateful, pornographic, violent, insulting, threatening, abusive, misleading, deceptive, or otherwise objectionable; and
+not send any commercial, promotional, or solicitation information.
+
+2.7. noodls' Proprietary Rights
+The User acknowledges and agrees that the Service and any necessary software used in connection with the Service contain proprietary and confidential information that is protected by intellectual property and other applicable laws. The User further acknowledges and agrees that Content or information presented through the Service are protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws. Except as expressly permitted by applicable law or authorized by noodls, the User undertakes not to modify, rent, lease, loan, sell, distribute or create derivative works based on the Service or the Software, in whole or in part.
+noodls grants the User a personal, non-transferable and non-exclusive right and license to use the object code of its Software on a single machine; this, provided that the User shall not (and shall not allow any third party to) copy, modify, create a derivative work from, reverse-engineer, reverse-assemble or otherwise attempt to discover any source code, sell, assign, sublicense, grant a security interest in or otherwise transfer any right in the Software. The User agrees not to modify the Software in any manner or form, nor to use modified versions of the Software, for the purpose of obtaining unauthorized access to the Service and for any other purpose. The User undertakes not to access the Service through any means other than through the interface that is provided by noodls for use in accessing the Service.
+2.8. Restrictions on Linking
+Without limiting other provisions contained in the TACOS, the User may include a link(s) on its Website to noodls' publicly accessible web pages (i.e., any web page which does not require a login and password and/or restrict access). The User may not link to a noodls Website any site containing an inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information that violates any applicable intellectual property, proprietary, privacy or publicity rights.
+2.9. Restrictions on Framing Activities
+noodls is concerned about the integrity of the Service when it is accessed in a manner solely determined by third parties or viewed in a setting solely created by third parties. Specifically, noodls is concerned with activities such as bringing up or presenting Content in the Service within another Website (“framing”). In this regard, without limiting the provisions contained in the TACOS, the User may not frame any Web page from a noodls Website or the Service except with noodls' express written permission. Further, the User may not archive, cache, or mirror any noodls web page or portion of a web page.
+If the User would like to use, reprint, frame, or redistribute any noodls Content other than as permitted herein, the User must request express permission from noodls.
+The User should include in the request:
+
+his/her name, e-mail address, and telephone number;
+the name of the company/organization he/she belongs to;
+the Website address(es) where the proposed use would occur; and
+specific details about the contemplated linking or framing activities, including the content or web page(s) of the Website which the User would like to use.
+
+Requests have to be sent to content@noodls.com.
+3. The Service
+3.1. Service Limitations Regarding Use and Storage
+The User acknowledges that noodls may establish general practices and limits concerning use of the Service, including without limitation:
+
+the maximum number of news releases submitted by the User, and
+the maximum size of any file that is uploaded by the User, and
+the maximum numbers of messages that may be sent from or received by a User on the Service, and
+the maximum number of messages that are stored in the message archive of a User, and
+the maximum disk space that will be allotted on noodls' servers on behalf of the User, and
+the maximum number of times (and the maximum duration for which) a User may access the Service in a given period of time.
+
+The User agrees that noodls has no responsibility nor liability for the deletion or failure to store any message and/or other communications and/or other Content maintained or transmitted by the Service.
+The User acknowledges that noodls reserves the right to log off Users that are inactive for an extended period of time.
+The User further acknowledges that noodls reserves the right to modify, from time to time, provisions and limits set forth in the present section.
+3.2. Modifications and Discontinuance
+noodls reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice, due to maintenance reasons, or in case an improvement of the system is required or in case of force majeure.
+The User agrees that noodls shall not be liable for any modification, suspension or discontinuance of the Service.
+3.3. Notice
+noodls can send the User certain information in connection with the Service and has the right to send certain additional information, such as information regarding the Service that the law requires noodls to send the User. noodls may send the User this information in electronic form. The User has the right to withdraw his/her consent to this, but if he/she does, noodls may cancel the service.
+noodls may provide required information to User:
+
+by e-mail to the e-mail address the User indicated when signing up for the Service;
+by access to a noodls Website that will be designated in an e-mail notice at the time the information is available; or
+by access to a noodls Website that will be generally designated in advance for this purpose.
+
+Notices provided to the User via e-mail will be deemed given and received on the transmission date of the e-mail. As long as the User can access and use the Service, the User has the necessary software and hardware to receive these notices.
+The User shall treat any document received from noodls by fax or e-mail as if the document were an original delivered to the recipient by hand delivery.
+3.4. Contributions to noodls
+By submitting ideas, suggestions, documents, and/or proposals (“Contributions”) to noodls through its feedback web pages, the User acknowledges and agrees that:
+
+Contributions do not contain confidential or proprietary information;
+noodls is not under any obligation of confidentiality, express or implied, with respect to the Contributions;
+noodls shall be entitled to use or disclose (or choose not to use or disclose) such Contributions for any purpose, in any way, in any media worldwide;
+noodls may have something similar to the Contributions already under consideration or in development;
+Contributions automatically become property of noodls without any obligation of noodls to the User.
+
+The User is not entitled to any compensation or reimbursement of any kind from noodls under any circumstance for the Contributions submitted according to the provisions set forth in the present Section.
+4. Content in the Service
+All information (such as texts, document files, images, videos and audio files) which the User may have access to as part of, or through the use of, the Service are the sole responsibility of the Source from which such content originated. All such information is referred to below as the “Content.”
+noodls publishes Content derived from other Websites in the original format without editing or changing it. When some Content is made available on the Service, noodls certifies the originating Source and the fact that this Content had not been edited or altered by any means.
+4.1. Limitation of Liability Regarding the Content
+The User understands that noodls does not control or endorse the Content that is provided in the Service. noodls does not guarantee the accuracy, integrity or quality of such Content.
+Under no circumstances shall noodls be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content made available via the Service.
+4.2. Financial Notice
+noodls is not a broker/dealer or registered investment advisor under any jurisdiction, and does not advise individuals as to the advisability of investing in, purchasing or selling securities or other financial products or services. Nothing contained in the Service constitutes an offer or solicitation to buy or sell any security. noodls does not endorse or recommend any particular financial product or service. Nothing contained in the Service is intended to constitute professional advice, including but not limited to, investment or tax advice.
+4.3. Content Derived from other Websites
+The Service may include data and information extracted from documents and web pages published on other Websites for search reference purposes. Whenever this happens, the hyperlink to the original web page/document is always provided. noodls assumes no responsibility regarding the accuracy of the information that is provided by noodls, and use of such information is at User's own risk.
+The User acknowledges that noodls may have no control over any Website or resource that is provided by organizations other than noodls. noodls is not responsible for the availability of any such external site or resource, and does not endorse any advertising, product or other materials on or available from such Websites or resources.
+The User acknowledges and agrees that noodls is not liable for any loss or damage which may incur as a result of the availability of those external sites or resources, or as a result of any reliance placed by the User on the completeness, accuracy or existence of any advertising, information, products or other materials on, or available from, such Websites or resources.
+4.4. Content Submitted by the User
+The Source of any Content always has the right to authorize one or more Users to review, edit and submit Content to be included in the Service. To do so, a Source Management Request Form has to be filled in, signed by a legal representative of the Source and sent to the fax number made available by noodls in the Service.
+Once the request has been received and approved by noodls, the Authorized Sender will be granted the right to modify and upload any Content and information related to the authorizing Source.
+To improve the quality and accuracy of the Content, noodls may also directly authorize Users to edit and submit Content to be included in the Service.
+The Authorized Sender agrees not to use the Service to:
+
+upload, post, e-mail, transmit or otherwise make available any Content that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or otherwise objectionable;
+harm minors in any way;
+impersonate any person or entity, or falsely state or otherwise misrepresent an affiliation with a person or entity;
+forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service;
+upload, post, e-mail, transmit or otherwise make available any Content that the Authorized Sender does not have a right to make available under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
+upload, post, e-mail, transmit or otherwise make available any Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party;
+upload, post, e-mail, transmit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of solicitation;
+upload, post, e-mail, transmit or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
+interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies or regulations of networks connected to the Service;
+intentionally or unintentionally violate any applicable local or international law, including, but not limited to, regulations promulgated by Stock exchange control commissions and any regulations having the force of law;
+“stalk" or otherwise harass another; and/or
+collect or store personal data about other Users in connection with the prohibited conducts and activities set forth in paragraphs as through in above.
+
+The User acknowledges that noodls may or may not pre-screen Content, but that noodls shall have in its sole discretion the right (but not the obligation) to pre-screen, refuse, or remove any Content that is made available via the Service. Without limiting the foregoing, noodls shall have the right to remove any Content that violates the TACOS or is otherwise objectionable.
+The Authorized Sender will indemnify noodls and its suppliers, partners, directors, officers, employees, representatives, and assigns for all claims resulting from the Submitted Content.
+The Authorized Sender acknowledges, consents and agrees that noodls may access, preserve and disclose the User's Account Information and Content, if required to do so by law or in a good faith belief that the preservation or the disclosure of such access is reasonably necessary to:
+
+comply with legal process;
+enforce the TACOS;
+respond to whomever claims that any Content violates the rights of third parties;
+respond to Authorized Sender's requests for customer service; or
+protect the rights, property or personal safety of noodls, its Users and the public.
+
+By submitting, posting or displaying the Content, the Authorized Sender gives noodls a perpetual, irrevocable, worldwide, royalty-free, and non-exclusive licence to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute any Content which the Authorized Sender has submitted, posted or displayed on or through, the Service.
+The Authorized Sender agrees that this license includes a right for noodls to make such Content available to other companies, organizations or individuals with whom noodls has relationships for the provision of syndicated services, and to use such Content in connection with the provision of those services.
+The Authorized Sender understands that noodls, in performing the required technical steps to provide the Service, may
+
+transmit or distribute the Submitted Content over various public networks and through various media; and
+make such changes to the Submitted Content as are necessary to conform and adapt that Content to the technical requirements of connecting networks, devices, services or media.
+
+The Authorized Sender agrees that this license shall permit noodls to take these actions.
+The Authorized Sender confirms and warrants to noodls that he/she has all the rights, powers and authority necessary to grant the above license.
+5. Paid Services
+This section 5 applies in all situations in which User pays noodls to get access to a Paid Service, i.e., when the User is a Client.
+5.1. Payment
+When the User creates a Billing Account, he/she shall indicate the preferred payment method, to be chosen according to the provisions set forth further in the present Section. The Client authorizes noodls to charge him/her, using the selected payment method, for both the Paid Service and for any paid feature of the Service for which the User chooses to sign up or use while this Agreement is in force.
+The User will pay Service charges in advance. Whenever noodls does not bill the Client timely after one billing period, noodls can nevertheless bill the Client after the following billing period(s) for all the sums due together for the prior billing periods. If noodls informed the Client that the Service will be provided indefinitely or automatically renewed, noodls may automatically renew the Service and charge the Client for any renewal term.
+If the Client applies for a Multi-User Account, he/she shall pay for Paid Services by bank transfer only; if the Client does not apply for a Multi-User Account, he/she shall pay by credit card only. The Invoice shall give details of all charges incurred by the Client since the date of the previous Invoice.
+In case of payment by bank transfer, all the sums detailed in the Invoice shall be payable within 30 days of the date of such Invoice. The Client shall pay or procure payment of the Invoice by remitting all sums due (together with any value added tax [VAT] payable thereon).
+5.2. Taxes and Currency Exchange
+If the Client is based within any member state of the European Union, then VAT will be charged unless a valid VAT-exempt certificate is provided to noodls.
+Currency exchange settlements are based on the agreement with the payment method provider.
+5.3. Term of Paid Services
+If the Client applies for a Multi-User Account, the term of Paid Services is one year.
+If the Client does not apply for a Multi-User Account, the term of Paid Services is one month.
+The term of the Paid Services begins from date of application and it will be automatically renewed from year to year, if the Client applies for a Multi-User Account, or from month to month if the Client does not apply for a Multi-User Account.
+noodls may terminate the Service by notifying the Client 15 days in advance with an e-mail to be addressed to the e-mail address indicated by the Client.
+5.4. Updates to the Billing Account
+The Client must keep all information he/she has provided in order to proceed with the payment of Paid Services (Billing Account) current. The Client can access the Billing Section in the Service to make changes to the Billing Account.
+The Client may change the payment method at any time, but he/she needs noodls' previous authorization.
+The notice to noodls will not affect charges noodls will submit to the Account before noodls could reasonably act on the request.
+5.5. Trial Period Offers
+The User may receive, in noodls' sole discretion, a limited time of free service or some other trial period offer, for a duration that will be indicated by noodls at its sole discretion. At the end of the trial period the User, in order to keep on using the Paid Services, has to create a Billing Account and select a payment method.
+5.6. Prices and Price Increases
+If the Paid Service, with no specific time length, is charged, on a period basis (for example, monthly), then noodls will inform the Client of the date of any price change. Such date will be no less than 30 days after noodls will inform the Client of the price change.
+If the Client does not agree to these changes, then he/she must cancel the Paid Service and stop using it before the changes take place. If the Client cancels the Paid Service, then the Paid Service shall end at the end of the current service time length or, if noodls bills the Account on a period basis, at the end of the period in which the Client cancelled.
+The price actually charged for a specific Paid Service will be the price in effect at the time the Service is requested, minus any applicable discounts that may be or have been accorded.
+5.7. Refund Policies
+Unless otherwise provided by law, all charges are non-refundable.
+5.8. Invoice
+In case of payment by credit card, noodls will provide the Client with an online billing invoice. This is the only billing statement that noodls will provide. The Client may view and print the invoice using the web form in the Service.
+The Client must contact noodls within 120 days after an error first appears on the bill. The Client releases noodls from all liability and claims of loss resulting from any error that the Client does not report to noodls within 120 days after the error first appears on the online invoice. If the Client does not contact noodls within this time, noodls will not be required to correct the error. noodls can correct billing errors at any time.
+5.9. Cancelling the Paid Services
+The Client may cancel the Paid Service at any time, with or without cause. The Paid Service can be cancelled by using the form in the Service. Cancellation of the Paid Service will not alter Client's obligation to pay all charges made to his/her Billing Account.
+5.10. Late Payments
+Except to the extent prohibited by law, noodls may assess a late charge if the Client does not pay on time. The Client must pay these late charges when noodls bills him/her for them. The late charges will be the maximum rate that is permitted by law.
+noodls may use a third party to collect past-due amounts. The Client must pay for all reasonable costs noodls incurs when collecting any past-due amounts. These costs may include reasonable attorneys' fees and other legal fees and costs.
+noodls may suspend or cancel the Service if the Client fails to pay in full on time.
+6. No Warranties and Liability
+6.1. Disclaimer and Limitation of Liability
+The User agrees that use of the Service is at his/her sole risk and acknowledges that the Service and anything contained within the Service is provided “as is” and “as available,” and that noodls makes no warranty of any kind, express or implied, as to the Service, including, but not limited to, merchantability, non-infringement, title, or fitness for a particular purpose or use.
+noodls does not warrant that the Service is compatible with the User's equipment or that the Service, or e-mail sent by noodls or its representative, is free of errors or viruses, worms or “Trojan horses,” or any other harmful, invasive, or corrupted files, and is not liable for any damage the User may suffer as a result of such destructive features.
+The User agrees that noodls and its suppliers, agents, directors, officers, employees, representatives, successors, and assigns shall have no responsibility or liability for:
+
+any injury or damages, whether caused by the negligence of noodls, its eventual parent company, or its eventual sister companies or subsidiaries, or their respective affiliates, suppliers, agents, directors, officers, employees, representatives, general partners, subsidiaries, successors, and assigns, or otherwise arising in connection with the Service and shall not be liable for any lost profits, losses, punitive, incidental or consequential damages which may occur to the User as a consequence of any claim against noodls by any other party; or
+any fault, inaccuracy, omission, delay, or any other failure in the Service caused by the User's machine or arising from the use of the Service on such equipment. The content of other Websites, services, goods that may be extracted from/linked to the Service is not maintained or controlled by noodls. noodls is therefore not responsible for the availability, content, or accuracy of other Websites, services, or goods linked to the Service or that may be used to extract information that is made available on the Service.
+
+noodls does not:
+
+make any warranty, express or implied, with respect to the use of the links provided on, or to, the Service;
+guarantee the accuracy, completeness, usefulness or adequacy of any other Websites, services, goods that may be linked to the Service; or
+guarantee the accuracy, completeness, usefulness or adequacy of any Content extracted from other Websites, services, goods.
+
+noodls is also not responsible for the reliability or continued availability of the telephone lines, wireless services, communications media and equipment used to access the Service.
+The User understands that noodls may choose at any time to inhibit or prohibit their Content from being accessed under the TACOS.
+The User acknowledges that:
+
+the Service is provided for information purposes only and is not intended for trading purposes of both listed and unlisted securities and of any other good or service;
+noodls does not guarantee the sequence, accuracy, completeness, or timeliness of the Service;
+none of the information contained in the Service constitutes a solicitation, offer, opinion, or recommendation by noodls to buy or sell any security, or to provide legal, tax, accounting, or investment advice or services regarding the profitability or suitability of any security or investment; and
+the information provided in the Service is not intended for use by, or distribution to, any person or entity in any jurisdiction or country where such use or distribution would be contrary to law or regulation.
+
+Accordingly, notwithstanding anything to the contrary herein set forth, noodls, its suppliers, agents, directors, officers, employees, representatives, successors, and assigns shall not, directly or indirectly, be liable, in any way, to the User or any other person for any:
+
+inaccuracies or errors in or omissions from the Service;
+delays, errors, or interruptions in the transmission or delivery of the Service; or
+loss or damage arising therefrom or occasioned thereby, or by any reason of non-performance.
+
+Under no circumstances, including but not limited to negligence, shall noodls, its suppliers, agents, directors, officers, employees, representatives, successors, and assigns be liable to the User for direct, indirect, incidental, consequential, special, punitive, or exemplary damages even if noodls has been advised specifically of the possibility of such damages, arising from use or inability to use the Service or any links or items on the Service or any provision of the TACOS, such as, but not limited to, loss of revenue or anticipated profits or lost business. Applicable law may not allow the limitation or exclusion of liability or incidental or consequential damages. In no event shall noodls' total liability to the User for all damages, losses and causes of action (whether in contract or tort, including, but not limited to, negligence) exceed the amount paid by the Client, if any, for accessing the Service.
+6.2. Indemnification
+The User agrees, at his/her own expense, to indemnify, defend and hold harmless noodls, its suppliers, agents, directors, officers, employees, representatives, successors, and assigns from and against any and all claims, damages, liabilities, costs, and expenses, including reasonable attorneys' and experts' fees, arising out of or in connection with the Service, or any links on the Service, including, but not limited to:
+
+the use of the Service by the User;
+the use by someone using the User's machine (or Account, where applicable);
+a violation of the TACOS by the User or anyone using the User's computer (or account, where applicable);
+a claim that any use of the Service by the User or someone using the User's machine (or account, where applicable) infringes any intellectual property right of any third party, or any right of privacy or publicity, is libelous or defamatory, or otherwise results in injury or damage to any third party;
+any deletions, additions, insertions or alterations to, or any unauthorized use of, the Service by the User or someone using the User's computer (or account, where applicable);
+any misrepresentation or breach of representation or warranty made by the User contained herein; or
+any breach of any covenant or agreement to be performed by the User hereunder.
+
+The User agrees to pay any and all costs, damages and expenses, including, but not limited to, reasonable attorneys' fees and costs awarded against or otherwise incurred by or in connection with or arising from any such claim, suit, action, or proceeding attributable to any such claim. noodls reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by the User, in which event the User will fully cooperate with noodls in asserting any available defense.
+The User acknowledges and agrees to pay noodls' reasonable attorneys' fees incurred in connection with any and all lawsuits brought against the User by noodls under the TACOS, including without limitation, lawsuits arising from User's failure to indemnify noodls pursuant to the TACOS.
+7. Privacy
+In order to operate and provide the Service, noodls collects certain information about the User. noodls uses and protects that information as described in the Privacy Policy at http://www.noodls.com/privacy. In particular, noodls may access or disclose information about the User, including the content of Users' communications, in order to:
+
+comply with the law or respond to lawful requests or legal process;
+protect the rights or property of noodls or noodls' Users, including the enforcement of the TACOS; or
+act on a good-faith belief that such access or disclosure is necessary to protect the personal safety of noodls' employees, Users or the public.
+
+noodls may use technology or other means to protect the Service, the Users, or stop Users from breaching the TACOS. These means may include, for example, filtering to stop spam or increase security. These means may hinder or break the use of the Service.
+In order to provide the Service, noodls may collect certain information about Service performance, Users' machine (i.e., any equipment used by the User in order to access the Service) and Service use. noodls may automatically upload this information from the User's machine. This data will not personally identify the User. The User may read about this information collection in more detail in the Privacy Policy at http://www.noodls.com/privacy.
+The User understands that through the use of the Service the User consents to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to Italy and/or other countries for storage, processing and use by noodls.
+8. Copyright and Trademarks
+8.1. Trademark Information
+The “noodls,” “noodls gateways to facts,” and “noodls stocktalk” trademarks and service marks and any noodls logo and product and service name are trademarks of noodls.com srl.
+The User agrees not to display or use in any manner the noodls' trademarks, unless in case of noodls' prior permission.
+8.2. noodls Taxonomy
+The User acknowledges that the indexing codes (the “noodls Taxonomy”) used for retrieving and classifying information from the Service are owned by noodls, and that such indexing codes are protected by copyrights, database rights and/or trademarks owned by noodls.
+The User may use the indexing codes solely to access information from the Service and may not otherwise copy, publish, re-distribute or otherwise use such codes.
+8.3. Copyright or Intellectual Property Infringement
+For any claim of copyright or intellectual property infringement please provide the following information:
+
+an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
+a description of the copyrighted work or other intellectual property that is claimed to have been infringed;
+a description of where the allegedly infringing material is located on the site;
+the address, telephone number, and e-mail address of the authorized person;
+a statement by the owner of the copyright or other intellectual property interest or by its agent about the unauthorized use, and the indication of the law(s) which such unathorized use is allegedly in breach of; and
+a statement by the authorized person made under penalty of perjury, that the above information in the Notice is accurate and that the authorized person is the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
+
+Claims of copyright or intellectual property infringement must be sent cumulatively:
+
+by registered mail: Copyright c/o noodls.com srl Via Corsica 19/10, 16128 Genova, Italy,
+by fax: +39 0108683488,
+by e-mail: copyright@noodls.com.
+
+9. General Terms
+These TACOS constitute the entire agreement between the User and noodls and govern the User's use of the Service, superseding any prior agreement between the User and noodls with respect to the Service.
+The User also may be subject to additional terms and conditions that may apply when the User uses or purchases certain other noodls services.
+9.1. Acceptance of terms
+In order to use the Service, the User must first agree to the TACOS. The User may not use the Service if he/she doesn't accept the TACOS.
+The User can accept the TACOS by:
+
+clicking to accept or agree to the TACOS, where this option is made available by noodls in the sign-up page of the Service; or
+by actually using the Service. In this case, the User understands and agrees that noodls will treat the use of the Service as acceptance of the TACOS from that point onwards.
+
+9.2. Modifications to the TACOS
+noodls reserves the right to amend the TACOS, and/or remove and/or add provisions to it at any time. The User can review the most current version of the TACOS at any time at http://www.noodls.com/terms. Such modifications shall be effective from the moment they are posted. Accordingly, the User should continue to review the TACOS whenever using the Service. The use of the Service, after the posting of modifications to the TACOS, will constitute acceptance of the TACOS, as modified.
+9.3. Language of the TACOS
+Where noodls has provided a translation of the English language version of the TACOS, then the User agrees that the translation is provided for convenience only and that the English language version of the TACOS will govern the User's relationship with noodls.
+If there is any contradiction between what the English language version of the TACOS says and what a translation says, then the English language version shall take precedence.
+9.4. Headings
+The section titles in the TACOS are used solely for the convenience of both the User and noodls and have no legal or contractual significance.
+9.5. Transfer of the TACOS
+noodls may assign or transfer this Agreement or all or any of its rights and/or obligations under the TACOS to any holding company or subsidiary of it. The contract entered into by noodls and the User may not be assigned or sub-licensed to any third party by the User without the prior written consent of noodls (such consent not to be unreasonably withheld or delayed).
+9.6. Waiver and Severability of Terms
+The failure of noodls to exercise or enforce any right or provision of the TACOS shall not constitute a waiver of such right or provision. If any provision of the TACOS is found by a court of competent jurisdiction to be invalid, void, or unenforceable, the other provisions of the TACOS shall nonetheless remain in full force and effect.
+9.7. Choice of Law and Forum
+These TACOS and any relationship between the User and noodls connected to the Service shall be governed and construed in accordance with the laws of Italy.
+The User and noodls agree to submit any dispute arising under or related in any way to these TACOS to the exclusive jurisdiction of the courts located within the city of Genova, Italy. Notwithstanding this, the User agrees that noodls shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+
+
+Copyright ©2006-2011 noodls.com
+

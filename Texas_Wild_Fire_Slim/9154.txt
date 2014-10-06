@@ -1,0 +1,159 @@
+NWS radar image loop of Composite Reflectivity from Dallas/Fort Worth, TX
+
+weather.gov       
+National Weather Service Enhanced Radar Image Loop
+Dallas/Fort Worth, TX Radar
+
+
+      Go to: Standard Version          Local weather forecast by "City, St"             Radar Status Message 
+
+
+
+Composite Reflectivity
+
+
+NWS Dallas/Fort Worth, TX
+
+
+
+Left click to zoom            "Ctrl" + Left click to zoom out            "Alt" + Left click to zoom out completely
+
+
+NationalRadarMosaicSectors(click image)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+National Weather Service, NOAA
+1325 East-West Highway
+Silver Spring, MD 20910
+Webmaster's E-mail: sr-fwd.webmaster@noaa.gov
+Page last modified: June 3, 2011
+Disclaimer
+Credits
+Glossary
+Privacy Policy
+About Us
+Career Opportunities
+
+
+
+
+NATIONAL WEATHER SERVICE: for Safety, for Work, for Fun - FOR LIFE
+
+
+
+
+Adjacent Radars:
+
+
+FWS
+
+
+
+  Short Range Images
+
+
+  Reflectivity:
+
+
+  Composite
+Loop
+
+
+  Base
+Loop
+
+
+  Velocity:
+
+
+  Storm Relative
+Loop
+
+
+  Base
+Loop
+
+
+  Rainfall:
+
+
+  1-Hour Total
+Loop
+
+
+  Storm Total
+Loop
+
+
+
+
+  Long Range Images
+
+
+  Reflectivity:
+
+
+  Base
+Loop
+
+
+  U.S. Views
+
+
+  Reflectivity:
+
+
+  National
+Loop
+
+
+  Alaska
+Loop
+
+
+  Hawaii
+Loop
+
+
+  Guam
+Loop
+
+
+  Puerto Rico
+Loop
+
+
+  Radars by State
+
+
+
+  Additional Info:
+  Radar FAQ
+  Downloading Images
+  Mobile Users
+  GIS Users  
+  Doppler University
+  Color Blindness Tool
+  Credits

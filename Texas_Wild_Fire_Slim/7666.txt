@@ -1,0 +1,362 @@
+[
+  
+	  	{
+	        "name": "Texas",
+	        "weight": "80" 
+	    }
+    	,
+
+		{
+	        "name": "17 People",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Abortion",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Aggies",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Al West",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Arlington",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Associated Press",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Austin",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "AWOL",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Bachmann",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Bastrop",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Baylor",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Benson",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Big 12",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Big 12 Conference",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Blaze",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Boston",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Boston Red Sox",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "California",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Cedric Benson",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Central Texas",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Columbia",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Courthouse",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Dallas",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Drought",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "East Texas",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Florida",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Fort Hood",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Governor",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Houston",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Iowa",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Landfall",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Longhorn",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "LSU",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Mitt Romney",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "National Hurricane Center",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Oklahoma",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Perry",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Philadelphia Inquirer",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "President",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Rangers",
+	        "weight": "16.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Red Sox",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Republican",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Rick Perry",
+	        "weight": "8.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Romney",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "San Angelo",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Scorched",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "SEC",
+	        "weight": "24.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Social security",
+	        "weight": "64.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Social Security",
+	        "weight": "48.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Spotlight",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Texas governor",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Texas Heat",
+	        "weight": "56.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Texas Rangers",
+	        "weight": "40.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Tropical Storm",
+	        "weight": "80.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Tropical Storm Lee",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Warren",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Warren Jeffs",
+	        "weight": "72.0" 
+	    }
+	    ,
+
+		{
+	        "name": "Washington",
+	        "weight": "32.0" 
+	    }
+	    ,
+
+		{
+	        "name": "X26",
+	        "weight": "40.0" 
+	    }
+	    
+]

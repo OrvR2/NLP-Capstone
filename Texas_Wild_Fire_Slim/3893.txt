@@ -1,0 +1,54 @@
+XML Schema
+XML Schema
+
+12 September 2005
+
+
+Table of contents
+
+Introduction
+Resources
+
+
+
+Introduction
+This document describes the XML Schema namespace.
+It also contains a directory of links to these related resources, using 
+Resource Directory Description Language.
+
+
+Related Resources for XML Schema
+
+Schemas for XML Schema
+
+
+DTD
+A (non-normative) DTD XMLSchema.dtd for XML Schema.  It
+incorporates an auxiliary DTD, datatypes.dtd.
+
+
+
+
+XML Schema
+An XML Schema schema document for XML Schema
+schema documents.  Last updated with release of XML Schema 2nd edition
+	  in July 2004.
+
+
+
+
+Normative References
+
+
+
+XML Schema Part 1:
+	      Structures (2nd Edition)
+
+XML Schema Part 2:
+	      Datatypes (2nd Edition)
+
+XML Schema Part 0:
+	      Primer (2nd Edition)
+
+
+

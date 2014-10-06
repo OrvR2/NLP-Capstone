@@ -1,0 +1,254 @@
+Measure the impact of product changes | Aechmedia1 Every Day Fresh news for You
+
+
+
+
+Home
+Coupons
+ 
+
+
+
+
+
+
+Management
+
+Mobile
+
+Seo
+
+Technologies
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Jun 20, 2008
+
+
+ 
+Posted  by Jeff Lash in Management, Technologies | Comments Off
+Measure the impact of product changes
+
+If you want to be a bad product manager, don’t bother measuring the results of product development work. Just put new features in there and don’t see whether they make a difference. If a customer asked for it, it must be worth doing. If people really don’t like it or if it’s hurting the product, you’ll probably hear about it pretty quickly. Plus, the market and competition is changing so quickly that you don’t have time to think about measuring the impact of new features after they are implemented. Once the work is done, you need to focus all your attention on the next set of features to add.
+If you want to be a good product manager, measure the impact of the product changes you implement. Product managers need to be constantly evaluating the changes being made to a product and measuring whether they were successful.
+Too often, product managers implement new features, functionality, or make other changes to a product without a true understanding of why these changes are being made. The product manager may think he or she has a logical reason for requesting the change — a specific customer asked for the feature, an engineer suggested the change, senior management requested it — though that is just part of the picture.
+Even if there is a legitimate reason why the change should be made (and good product managers should know that none of the above reasons are truly legitimate reasons in and of themselves), the product manager has a responsibility to go several steps further and quantify the impact of the changes. Though this may seem as though it is creating more work for the product manager, it in fact will make his or her job much easier. Product managers need to be able to quantify “success” for any given change, rule out changes that are less likely to be successful, and measure all work which is implemented. This allows the product manager to ensure a higher likelihood for success and also show the impact of the change to gain support for future changes.
+Besides just coming up with an idea and implementing it, there are several steps product managers need to go through before engaging in product development:
+
+Define the expected impact of the changes. Different products and different changes will have different impacts, though some popular measures are
+
+increased usage
+increased revenue from existing customers
+new customer acquisition
+improved customer retention rate
+improved customer satisfaction
+increased market share
+references to change in blogs, media coverage, or analyst reports
+
+
+Establish goals for the changes. Once you have defined the specific measures, the next step is to explicitly state what you hope this change will achieve. Good goals are SMART goals (or MT goals, if you prefer), making it clear whether the goal was met or not.
+Determine how you will measure the impact. Though you may know the impact you expect or hope to see and have a specific quantitative goal in mind, you must be able to measure it to evaluate its success. For example, if you are considering adding a new feature to your web site, and your goal is to have 10% of your customers using the feature of the website within 30 days of it being released, you need to have web analytics in place to measure whether the goal is met or not. Though this seems obvious, often times work required to measure the impact of a change is not considered until too late in the development process for measurements to be put in place, or, even worse, after the change has already been implemented.
+Measure the impact and objectively evaluate. After the change is implemented, compare your actual results to your expected results. Were the results achieved? Why or why not? What could have caused the results? Are there additional changes which are needed? What was done well that should be replicated for future product changes? What did you learn which could improve your success in the future?
+
+Many may resist this process for various reasons. There are several common objections and responses:
+
+Objection: “There is just too much work required to go through all these steps for each feature! We can’t define the impact, establish goals, figure out measurements, and then actually measure everything we do! If we did, we would only be able to release a fraction of the number of changes that we do now.” Good! The job of a product manager is not to make changes to the product just for the sake of making changes. Products must have goals, and the product manager must focus on meeting and exceeding those goals. Adding new features is not a goal; increasing revenue is a goal. If this process slows the process down a bit, that may be a good thing. Instead of money being spent on 10 mediocre new features, money may be spent on 1 good one which has a much bigger impact than all 10 mediocre ones combined.
+Objection: “We don’t want to set goals if we’re not sure we can meet them.” If the goal of a new feature is to increase revenue by 10%, and your new feature increases revenue by 5%, you may not have reached your goal, though you still increased revenue by 5%! Sure, it fell short of the target, though it is still well above where you were before. Instead of criticizing the inability to meet the goal, evaluate whether the goal was realistic, what could have been done differently to meet the goal, what changes can be made now to get to the goal, and what can be done different in the future.
+Objection: “We don’t have a way of measuring the impact of our changes.” Some changes are harder to measure than others, and it may not be practical or worthwhile to measure every single minuscule product change. However, without metrics and measures, product managers are “flying blind.” Product changes require an organization to investment time, money, and other resources, and there is an expected return on that investment which — sooner or later — you will need to demonstrate. Establishing and tracking metrics will allow you to create a better product and identify problems earlier. It is in the best interest of your product, your organization, your customers, and you as a product manager to determine how those measurements can be put in place.
+Objection: “We can’t agree on what the impacts and goals should be.” If that is indeed the case, then avoiding these steps completely will not solve that problem. This process may be difficult to start, though a team will only get better at it over time. It may not be possible to get complete agreement on all of the details, though going through the process will identify where goals are not aligned. For example, the marketing manager may want to implement changes which will generate more new customers for a web application, while an engineer may want to implement changes which will make the application run faster. In this case, getting even general agreement on areas on which to focus would be beneficial.
+
+Still, in light of these objections, there is value in going through the first 2 steps outlined above even if there is no way to effectively follow through on steps 3 and 4 just yet. Discussing expected impact and defining goals with the relevant stakeholders is an incredibly useful exercise. Rather than just delving into the details of how a change will be made, as often happens, you are really focusing the conversation on why the change should be made at all. Getting in the habit of going through this process is beneficial, even if it is not possible to completely track or follow through on measurements, as it can establish the mindset for approaching product development going forward.
+Implementing metrics and measurements may be an intimidating and overwhelming step for a product manager. However, if done properly, it can potentially lead to enormous improvements in the product. It will make product development less contentious and more evidence-based, leading to a more efficient and effective management process. Additionally, it can make you as a product manager more effective, since your time and efforts are focused on areas which will provide value, and you will be able to show the value you have created — a true measure of a good product manager.
+Translations available:
+
+Arabic
+Portuguese
+
+
+ 
+
+ 
+ 
+
+
+
+
+Comments are closed.
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+   Recent Posts 
+The Guardian’s 9/11 mistake shows we’re still learning the boundaries of Twitter
+Today’s Top Headlines in Tech, Business & Social Media
+Samsung maybe revealing Windows 8 tablet this week (Rumor)
+Team TouchDroid disbands
+Google pulls ebook purchases from iOS Google Books app
+
+    
+
+Provide by The Social Links
+  Sign up for our newsletter!E-mail: Adsense
+
+
+ 
+ 
+ 
+
+
+Recent
+Popular
+Comments  
+
+
+
+
+
+The Guardian’s 9/1...
+Posted by  Martin Bryant on Sep 12, 2011
+
+
+Today’s Top Headlines in...
+Posted by  Lauren Indvik on Sep 12, 2011
+
+
+Samsung maybe revealing ...
+Posted by  Tyler Lee on Sep 12, 2011
+
+
+Team TouchDroid disbands
+Posted by  Tyler Lee on Sep 12, 2011
+
+
+Google pulls ebook purch...
+Posted by  Tyler Lee on Sep 12, 2011
+
+
+ 
+
+
+
+Hello world!
+Posted by  admin on Jul 10, 2011
+
+
+Obama Conscripts ISPs as...
+Posted by  admin on Jul 11, 2011
+
+
+iOS 5 Beta Reportedly Se...
+Posted by  admin on Jul 10, 2011
+
+
+Watch The Final Space Sh...
+Posted by  admin on Jul 10, 2011
+
+
+25 great idea for Librar...
+Posted by  admin on Jul 10, 2011
+
+
+ 
+
+
+Satellite 235cds Battery on EA Gamescom 2011 Press Conference (LIVE)
+online portfolio on 5 Things that Kill Startups
+photography website templates on Glossy Xbox 360 to be phased out
+Patti Mondale on Obama Conscripts ISPs as "Copyright Cops", Unveils "Six Strikes" Plan
+car repo on 25 great idea for Libraries Home
+  
+
+ 
+
+Tags@CNN
+advertising
+android
+Apple
+Applications
+apps
+business
+companies
+entertainment
+europe
+facebook
+features
+gadgets
+games
+Global
+GMA
+Google
+health
+htc
+International
+internetNews
+iOS
+ipad
+iphone
+legal
+marketing
+media
+media-publishing
+Microsoft
+Mobile
+News
+politics
+samsung
+social
+social media
+Startups
+tablets
+technology
+technologyNews
+twitter
+Uncategorized
+US
+VentureBeat
+video
+WNT
+     
+ 
+
+Powered by  WordPress | Designed by  Elegant Themes
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by Gb-rugs.com - Rugs & Carpets
+
+
+

@@ -1,0 +1,447 @@
+Market Swings Are Becoming New Standard - Yahoo! Finance
+
+Skip navigation
+
+
+
+
+ Skip to search.      New User? Register  Sign In 		Help	  Make Y! My Homepage Yahoo!Drag the "Y!" and drop it onto the "Home" icon.Select "Yes" from the pop up window.Nothing, you're done.If this didn't work for you see detailed instructionsClose this window    Mail    My Y!    Yahoo!                 Yahoo! Finance              Search   Search Web       
+
+
+
+
+
+
+
+What are streaming quotes?
+
+
+
+
+ 
+			{ "market" : {"NAME" : "", "ID" : "us", "TZ" : "", "TZOFFSET" : "-14400", "open" : "", "close" : "", "flags" : ""} ,"STREAMER_SERVER" : "http://streamerapi.finance.yahoo.com" ,"arrowAsChangeSign" : false ,"throttleInterval": "1000","localize":"0" ,"region": "US","lang" : "en-US","mu":"1" ,"up_arrow_icon" :"http://l.yimg.com/a/i/us/fi/03rd/up_g.gif" , "down_arrow_icon":"http://l.yimg.com/a/i/us/fi/03rd/down_r.gif" ,"up_color" :"green" , "down_color":"red","pass_market_id" : "0","market_status_yrb" :"YFT_MARKET_WILL_OPEN"}
+		
+
+
+
+Home
+Investing
+Market Overview
+Market Stats
+Stocks
+Mutual Funds
+ETFs
+Bonds
+Options
+Industries
+Currencies
+Education
+Commodities
+
+
+News
+
+Markets
+Investing Ideas
+Expert Advice
+Special Editions
+Company Finances
+Providers
+Video
+
+
+Personal Finance
+Banking & Budgeting
+Career & Work
+College & Education
+Family & Home
+Insurance
+Loans
+Real Estate
+Retirement
+Taxes
+Lifelong Investing
+
+
+
+My Portfolios
+Sign in to access My Portfolios
+Free trial of Real-Time Quotes
+
+
+
+new!EXCLUSIVES
+Breakout
+The Daily Ticker
+Daniel Gross
+Financially Fit
+
+
+
+
+
+
+
+Search for share prices
+Search for share prices
+
+
+Finance SearchTue, Sep 13, 2011, 7:37AM EDT - U.S. Markets open in 1 hr 53 mins
+
+
+
+
+
+
+
+
+
+
+
+Market Swings Are Becoming New Standard
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOUISE STORY and GRAHAM BOWLEY, 	On Sunday September 11, 2011, 10:07 pm EDT
+
+The stock market just can’t seem to make up its mind.Day after day, stocks swing sharply by hundreds of points. Last week they tumbled 3 percent in the first 90 minutes of trading on Tuesday morning, then on Wednesday closed nearly 3 percent higher and dropped almost 3 percent on Friday. All of this on the heels of unusual back-to-back 4 percent leaps and dives in one week in August.Now traders head into the week with fresh worries about the chances that Greece will default on its debt and the havoc that would wreak on European banks.All of this anxiety has caused experts to ask whether there are new forces at work in the stock market that make trading permanently more erratic.In fact, big price moves are more common than they used to be.It has become more likely for stock prices to make large swings — on the order of 3 percent or 4 percent — than it has been in any other time in recent stock market history, according to an analysis by The New York Times of price changes in the Standard & Poor’s 500-stock market index since 1962.Some experts see volatility as a problem because it can scare investors away from the markets, make companies reluctant to go public and undermine confidence in the economy, causing further drops in shares.But another viewpoint is that stocks are rightly volatile now because there is so much uncertainty about where the economy is heading — and canny investors could profit from the big swings, or simply sit them out until the market eventually finds equilibrium.“It’s neither good nor bad,” said Michael Schmanske, head of United States index volatility trading at Barclays Capital. “It is a measure of  high opportunity but also peril.”So what’s causing the rise in the big bounces?It’s hard to know for sure, but market analysts point to new types of souped-up computerized trading and extraordinary global economic turmoil — from protests over a second bailout for Greece to the downgrade of United States debt.It is also possible that stocks simply move faster today because of the quicker pace of news and trading, and so drops and surges in prices that might have been spread over days in past times are now condensed within hours.Some economists say they fear the volatility may feed upon itself. The violent ups and downs, said Robert Shiller, an economics professor at Yale, may in turn undermine confidence in the economy, and the weakness in the economy can lead to more strident politics — all of which feeds the volatility loop.“It is not well understood why we have these bursts of volatility," Mr. Shiller said.  “It seems that in these rare periods of bad economic performance and anxiety about the economy, we have volatility in the markets and high volatility in the political arena. Bad things can happen. This worries me.”The Times looked at two sorts of historical data — the closing prices of the S.& P. 500-stock index as well as the highest and lowest points the index reached during each trading day. Both measures, from 1962 through the end of this August, painted similar pictures of the market — it rises and falls more now in greater size.Since the start of this century, The Times found, price fluctuations of 4 percent or more during intraday sessions have occurred nearly six times more than they did on average in the four decades leading up to 2000. The price swings today may feel even more notable because the 1990s represented a relatively calm time for trading. In contrast, price fluctuations of 1 percent and more during intraday trading were more common in the 1970s and 1980s.As for closing prices, the more-frequent jumps could also be clearly spotted. Thirty percent of trading days since the start of 2010 were up or down more than 1 percent at the time of the closing bell. That’s far more than the 20 percent of such jumps in the 1990s. The trend toward greater volatility is more pronounced in larger price moves.Regulators at the Securities and Exchange Commission have been looking at changes in the markets and automated trading strategies in connection with volatility. The market is no longer based on one single exchange but is fractured across four big exchanges and several smaller forums. High-frequency traders, using powerful computers to trade at exceptionally high speeds, now account for up to 60 percent of daily turnover.And in the last decade, exchange-traded funds have become a large factor in trading, after hundreds of billions of dollars were poured into them. Those funds — like mutual funds, but traded daily — tie their values to indexes or bundles of stocks rather than individual companies.But even as financial problems simmer in America and abroad, officials have yet to pinpoint exactly why stocks seem to move more quickly and to greater extremes.Some financial historians question whether the markets are in a “new normal” of permanently heightened volatility.“The last few years have been the most volatile for all of recorded history,” said Andrew Lo, professor of finance at the M.I.T. Sloan School of Management. For evidence, he says that 10 of the biggest 20 daily upswings and 11 of the largest 20 daily drops since the beginning of 1980 to the end of last month have occurred in just the last three years.Some analysts shrug off the big swings, saying all that matters is where prices land in the longer run, not each day. After all, the S.& P. 500 index is roughly where it was a year ago and, after the roller coaster of August, finished less than 6 percent down.“The best thing people could have done last month is nothing,” said Alec Young, an equity strategist at Standard & Poor’s Equity Research. “We don’t think that it’s a smart way to manage to be taking the temperature every day because you’ll be trading your portfolio till the cows come home.”And volatility may not herald dips in prices — a study by Sam Stovall, a strategist at S.& P. Equity Research, found that markets since 1950 have typically been calm just before the highest consecutive price declines. But, he found, volatility goes up after prices start going down and the markets can remain nervous while prices recover.Some longtime market observers attribute the skittishness to aftershocks of the 2008 financial crisis.“When there is uncertainty in the world, there is uncertainty in the market,” said James J. Angel, a professor of finance at Georgetown University. “After a big shock, it takes years for the markets to settle down.”
+
+Follow Yahoo! Finance on Twitter; become a fan on Facebook.
+
+
+
+
+
+
+
+ 
+
+Top Stories
+
+
+
+
+Greece Weighs on Markets Despite China-Italy Talks - AP
+
+
+Greece, Europe struggle to contain debt crisis - AP
+
+
+China called on as lender amid Italy crisis - Bloomberg 
+
+
+HP extends $11.2 billion Autonomy offer - Reuters 
+
+
+
+
+
+
+
+
+ 
+
+441 comments
+
+
+
+Show:
+
+Newest FirstOldest FirstHighest RatedMost Replied
+
+
+
+
+Sort
+
+
+
+
+
+
+                         Post a comment
+
+
+Comments 1 - 10 of 441First PrevNextLast
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Roger H 9 minutes ago Report Abuse It doesn't help that there are conflicting economic reports being released daily.   Jobs up.   Housing down.   Unemployment up.   Oil up.   Mouse excrement down.   Investing used to be about just that...investing in a company.   Now it is just a casino.
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Mark 13 minutes ago Report Abuse The exact figures for the 3 consecutive3 freerolls were entered/paid/my position were: 223/27/27th, 115/20/15th, and 101/18/10th, if you need that.
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Nathan 24 minutes ago Report Abuse I am shocked people would even consider investing in Wallstreet
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Crafashion.com 32 minutes ago Report Abuse hello :
+ gucci prada lv chanel handbag and shoes   only 3o usd 
+ More tshirt jeans and hoodie fashion online   
+ look at my name<-- <-- 
+
+
+r to 67 for people born after. (To find your exact date, see Social Security Online.) For every addi50
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Mark 32 minutes ago Report Abuse For example I just finished 10th and 15th my last 2 online tourns at 2:15 a.m. and 5:30 a.m., and 27th the one before at 7 p.m. yesterday (where 27 made it), the other 2 tournaments 20 and 18 made it.
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment Mark 37 minutes ago Report Abuse I'm available to invest in to play live poker tournaments (maggerds@yahoo). Probably more stable than most of this.
+ 
+
+
+
+2 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment R E D O X  1 hour ago Report Abuse Large swings in any data values are indicators of chaotic behavior. Here we can assume the chaos will precede a calamitous crash in markets ! The supporting cash structures have long been stripped from our markets leaving a nested bubble structure..pop   the   right bubble and the   whole thing falls apart. The GOPtard Tea House   dogs sent the markets into a death spiral and now the drain approaches. Pity the small investor with trust in wall street .
+ 
+
+
+
+1 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment AbdulAhad Ally  1 hour ago Report Abuse Gateway into the Financial Big Bang soon to happen.Let the osmosis start.....
+ 
+
+
+
+2 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+0 users disliked this comment seriously  1 hour ago Report Abuse Wall Street says "stay for the long term and keep giving us money". The bad thing is people are listening and obeying.
+ 
+
+
+
+0 users liked this comment
+Please sign in to rate this comment up.
+Please sign in to rate this comment down.
+3 users disliked this comment Crafashion.com  1 hour ago Report Abuse hello :
+ gucci prada lv chanel handbag and shoes   only 3o usd 
+ More tshirt jeans and hoodie fashion online   
+ look at my name<-- <-- 
+
+
+beneficiaries has swollen — taxes to fund the program have gone up and up, a trend that experts say 33
+
+Comments 1 - 10 of 441First PrevNextLast 
+Post a comment
+ Sign in  to post a comment, or  Sign up  for a free account.
+                
+
+
+
+
+
+
+
+
+More From Provider
+
+
+
+Stock Market’s Sharp Swings Grow More Frequent NYTimes.com Financial Crisis in Europe Is Flaring Again NYTimes.com Bank Chief Has Big Job to Reassure Investors NYTimes.com
+
+
+
+
+
+
+
+
+The Daily Ticker Recent Posts
+
+
+
+Europe Crisis Grows as Governments Refuse to Offer Real Solutions  - Peter Gorenstein Roubini Is Wrong About Karl Marx Being Right: Chris Whalen  - Aaron Task Jobs Crisis Is Depression-Style Calamity for the Young: Demos’ Draut  - Peter Gorenstein
+
+
+
+View More 
+
+
+
+Subscribe to Topics
+
+
+
+Top Stories 
+					
+
+
+ 
+
+
+
+ 
+
+
+
+ Add Alert 		
+
+
+
+
+
+
+See all RSS links 
+
+
+
+
+
+
+
+
+
+
+
+Yahoo! Finance
+
+Banking & Budgeting
+Calculators
+Currency
+ETFs
+Experts
+Investing
+
+
+Insurance
+Market Stats
+Message Boards
+Mobile
+Personal Finance
+What's New
+
+
+
+Also on Yahoo!
+
+Autos
+Finance
+Flickr
+Games
+Groups
+Health
+
+
+Mail
+Maps
+Movies
+Music
+My Yahoo!
+News
+
+
+Shopping
+Sports
+Travel
+TV
+Video
+» All Y! Services
+
+
+
+
+Things To Do
+
+Read Our Blog
+Finance on Your Phone
+Check Home Values
+Find a New Car
+Search Jobs Across the Web
+
+
+
+
+Yahoo! Finance Worldwide
+
+Argentina
+Australia
+Brazil
+Canada
+China
+Chinese
+France
+French Canada
+Germany
+
+
+Hong Kong
+India
+Italy
+Japan
+Korea
+Mexico
+New Zealand
+Singapore
+Spain
+Spanish
+Taiwan
+UK & Ireland
+USA
+
+
+
+
+
+
+Quotes delayed, except where indicated otherwise. Delay times are 15 mins for NASDAQ, NYSE and Amex. See also delay times for other exchanges. Quotes and other information supplied by independent providers identified on the Yahoo! Finance partner page.Quotes are updated automatically, but will be turned off after 25 minutes of inactivity. Quotes are delayed at least 15 minutes. All information provided "as is" for informational purposes only, not intended for trading purposes or advice. Neither Yahoo! nor any of independent providers is liable for any informational errors, incompleteness, or delays, or for any actions taken in reliance on information contained herein. By accessing the Yahoo! site, you agree not to redistribute the information found therein.
+Fundamental company data provided by Capital IQ. Historical chart data and daily updates provided by Commodity Systems, Inc. (CSI). International historical chart data, daily updates, fundAnalyst estimates data provided by Thomson Financial Network. All data povided by Thomson Financial Network is based solely upon research information provided by third party analysts. Yahoo! has not reviewed, and in no way endorses the validity of such data. Yahoo! and ThomsonFN shall not be liable for any actions taken in reliance thereon.
+
+
+
+2142411077
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,100 @@
+Daily Georeferenced MODIS Image Subsets
+
+
+
+
+
+
+
+Daily Georeferenced MODIS Image Subsets
+
+
+
+
+
+
+Current Large Fires (Home)Fire Detection MapsInteractive Fire Detection ViewerSatellite ImageryFire Detection GIS DataFire Data in Google EarthFire Data Web ServicesLatest Detected Fire ActivityBurn Scar DataOther MODIS ProductsFrequently Asked QuestionsAbout Active Fire Maps 
+
+Remote Sensing Applications Center
+									2222 West 2300 South
+									Salt Lake City, UT
+									84119 - 2020
+									voice: (801) 975-3737
+									fax: (801) 975-3478
+									
+
+
+
+
+ 
+										Please click state or region of interest on the map below to view current MODIS imagery.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daily MODIS imagery subsets are generated from MODIS direct readout data acquired by the USDA Forest Service Remote Sensing Applicatons Center, University of Wisconsin Space Science and Engineering Center, and the NASA Goddard Space Flight Center Direct Readout Laboratory.
+Please see NASA Langley Research Center for current AVHRR and  GOES imagery of CONUS.
+
+
+
+
+
+Feedback | Disclaimers | Privacy Policy
+
+
+
+
+

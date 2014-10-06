@@ -1,0 +1,44 @@
+function poll() {
+
+document.write('');
+
+}
+
+function storyDiscussion() {
+
+document.write(''); 
+
+}
+
+
+
+function insertBlock($block) {
+	
+	if ($block == "Polls")
+	{
+		document.write('Polls 09/12/2011Who will win the Republican Primary for Aiken Mayor?Mayor Fred CavanaughJet BeckumI don't care Results / 6 comments ');
+		}
+	}
+function storyFooter() {
+	storyDiscussion();
+}
+
+function login() {
+
+
+
+document.write('loginUsernamePasswordRemember login?Create a new accountRetrieve forgotten password'); 
+
+}
+
+function mostEmailedStories() {
+
+
+
+document.write('most_e-mailed');
+}
+
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+	window.open(theURL,winName,features);
+}

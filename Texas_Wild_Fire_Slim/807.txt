@@ -1,0 +1,606 @@
+
+        Heavy Ion Fusion
+      - YouTube
+  
+
+
+
+
+
+
+
+
+
+
+
+
+Browse    Movies Upload
+Create Account Sign In
+
+
+Search 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Heavy Ion Fusion
+  
+
+
+GoogleTechTalks
+
+
+
+1,487 videos
+        
+
+
+Subscribe
+Subscribed
+
+
+
+
+Sign In or Sign Up now!
+
+
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+        You need Adobe Flash Player to watch this video.  Download it from Adobe.
+
+
+
+
+
+
+
+
+
+
+
+
+        Upgrade to Flash Player 10 for improved playback performance. Upgrade Now or More Info.
+close
+
+
+
+8,134
+
+
+
+Like
+Add to
+Share
+
+
+
+
+
+
+Loading...
+  
+
+ Sign In or Sign Up now!
+
+
+
+
+
+
+
+
+
+There is no Interactive Transcript.
+
+
+
+
+
+
+
+
+
+
+
+
+        
+Uploaded by GoogleTechTalks on Nov 30, 2010
+
+
+Google Tech TalkNovember 11th, 2010Presented by Dr. Charles Helsley.Abstract:The limited supply and worldwide environmental effects of carbon-based fuels demand that a different source of energy be identified and tapped. This analysis applies to synthetic bio fuels as well as fossil fuels. The obvious candidates to supplant carbon-based fuels are solar conversion, wind generation, hydraulic generation, geothermal extraction, fission, and fusion. When scaled to the size necessary to satisfy the energy demands of the world, all except fusion have severe unmitigated environmental impacts, induce geopolitical instability, or exhibit very limited availability, reliability, and sustainability. Most technologies suffer from more than one of these drawbacks.The fusion of Deuterium and Tritium ("DT") to form Helium and a neutron is a well-known reaction that yields prodigious amounts of energy. Though sufficient fuel is available in seawater to sustain the global energy demand for millennia, we still need an engine capable of running the reaction. As of 2009, the search for such an engine has been going on for 6 decades and common wisdom says it is still 5 decades away. The problem is that the search has been concentrated on the 1 GW regime (the size of a normal large power plant). HIF is that engine now.What is not generally known is that a safe practical way to harness the isotope's of Hydrogen reaction was developed in the 1970's but abandoned because it was only economically viable at a very large scale. The process is known as High Energy Heavy Ion Fusion. Such a fusion power plant would produce about 100 GW of power rather than the 1 GW desired by the power industry. Three facilities would meet the total needs of California, allowing fission and fossil fuel generation to be cut back significantlyHeavy Ion Fusion techology is more "ready to go" now than rocket technology was in 1961 when President Kennedy set the goal to go to the moon and back within the decade.The controlled ignition of DT provides a virtually unlimited source of energy. Fusion power can be on line in less than a decade. The energy produced by a single system is equivalent to a super giant oil field and will take about the same amount of time to come on line producing heat, electricity, hydrogen for synthetic fuel and water with a minimal carbon footprint.The life of HIF is thousands of years, while a giant oil field's life is only a few decades.Speaker Bio:Charles Helsley is a retired researcher at the University of Hawaii. He has lived in Hawaii for 32 years, was formerly the Director of the Hawaii Institute of Geophysics and was the Director of the University of Hawaii Sea Grant College Program at the time of his retirement. He is an expert in energy matters, especially in oil and gas resources and is knowledgeable about the effects that the of burning carbon-based fuels has on the earths ocean and atmosphere. He has been involved in many fields of research, from paleomagnetism, to seismology, to marine geology and more recently in free electron laser research and in open ocean aquaculture research under the banner of the Hawaii Offshore Aquaculture Research Program (HOARP) of which he was the principal investigator. He has published more than 100 papers in scientific journals during his career and still publishes papers every few years. He holds BS and MS degrees in Geology from the California Institute of Technology and a PhD in Geology from Princeton University.
+
+
+Category:
+Science & Technology
+Tags:
+
+google tech talk
+
+License:
+
+Standard YouTube License
+  
+
+
+
+
+
+
+
+
+
+
+74 likes, 4 dislikes
+        
+
+
+
+
+Show more 
+
+
+
+Show less 
+
+
+
+
+
+
+
+
+
+
+Link to this comment:
+
+
+
+
+Share to:
+
+
+
+
+
+
+
+Top Comments
+
+
+
+
+
+The best part was﻿ 0:00:24-1:02:22 !
+
+
+
+Sp4CC
+
+        9 months ago
+      
+
+          18 
+
+
+
+
+
+
+
+
+10 billion dollar gamble but it might just save﻿ the world, that's the price of 2 nuclear aircraft carriers, the US can afford it but does it have the vision? 
+
+
+
+ddnguyen278
+
+        9 months ago
+      
+
+          13 
+
+
+
+
+
+
+
+
+
+see all
+All Comments (78)
+ 
+
+Reactions
+              (0)
+
+
+
+
+
+Sign In or Sign Up now to post a comment!
+
+
+Your reaction? 
+
+
+Sign in to react to this video
+      
+
+
+
+
+
+
+
+
+
+
+
+Fusion in nature is scaled to the portion of stars... It lights up our physical Universe. We know how to ignite H-bombs... warheads are as small as﻿ household garbage cans... make them smaller and you get neutron bombs. The Physics and engineering are here, so the 'real' step is funding and project committment? How much to build this as a computation model with an accurate graphic animation sim? Build and design in cyberspace and run it down the gauntlet of peer review?
+
+
+
+
+granddad2002
+
+        1 month ago
+      
+
+
+
+
+
+
+
+@durgledoggy I am all for hydrogen fuel cell technology and things﻿ like (highly portable) hydrogen turbines.
+Hydrogen should be produced and used locally. I still think that large cylinders placed in the ocean current underwater could generate a lot of power.
+
+
+
+JungleJargon
+
+        1 month ago
+      
+
+
+
+
+
+
+
+@JungleJargon: That's an unfair oversimplification.
+Complexity seems this system's major downfall, as well as the initial costs. Its huge potential power capacity and versatility are its boon. I﻿ just don't see it being built and trialled within the 50 years that we will need a major new reliable and powerful source of energy. I hope someone has the balls to try this though.
+My money is still on LFTR for energy and VHTR for energy, hydrogen generation and desalination.
+
+
+
+durgledoggy
+
+        1 month ago
+      
+
+
+
+
+
+
+
+@durgledoggy There could be a better way to harness it﻿ because right now it is a series of "controlled" explosions that are supposed to fire a big piston. That doesn't sound very technologically advanced.
+
+
+
+JungleJargon
+
+        2 months ago
+      
+
+
+
+
+
+
+
+@JungleJargon: Fusion is what powers the universe. If we could harness it on a commercial level then it would likely render any other form of energy obsolete.﻿
+
+
+
+durgledoggy
+
+        2 months ago
+      
+
+
+
+
+
+
+
+@JungleJargon: Meltdown...! Fusion doesn't work that way.
+It could explode, but it would be﻿ no worse ... not even close, to the damage caused by a hydro dam failing or a gas explosion.
+
+
+
+durgledoggy
+
+        2 months ago
+      
+
+
+
+
+
+
+
+At the rate information is going, we﻿ may not need fusion as a power source.
+It could turn into a dinosaur before it is made.
+
+
+
+JungleJargon
+
+        2 months ago
+      
+
+
+
+
+
+
+
+What is the potential for melt﻿ down or an uncontrolled explosion?.
+
+
+
+JungleJargon
+
+        2 months ago
+      
+
+
+
+
+
+
+
+That's just like﻿ the old German "jet engines" ...sort of.
+
+
+
+JungleJargon
+
+        2 months ago
+      
+
+
+
+
+
+
+
+You just want to retain control of energy - no?
+Solar power alone is﻿ able to account for and even exceed individual energy needs.
+What we need is hydrogen fuel cell cars.
+
+
+
+JungleJargon
+
+        2 months ago
+      
+
+
+
+
+
+
+View all Comments »
+
+
+1 
+      2 
+      3 
+      4 
+      5 
+      6 
+      7 
+
+          Next
+
+
+
+
+
+
+Reply 
+
+ShareRemoveFlag for spamBlock UserUnblock User 
+
+Loading...
+
+
+
+
+
+Suggestions
+
+
+0:29Add toGlóbulo Blanco Persiguiendo a una Bacteriaby andresborbon164,983 views
+
+Featured Video
+
+40:40Add toIs Nuclear Waste Really Waste?by GoogleTechTalks11,170 views
+
+1:03:43Add toThe Quantum Conspiracy: What Popularizers of QM...by GoogleTechTalks28,519 views
+
+1:17:34Add toThe Origin of the Universe and the Arrow of Timeby GoogleTechTalks68,289 views
+
+52:28Add toA Vision For the Science of Imaginationby GoogleTechTalks2,751 views
+
+7:25Add toHEAT EXCHANGER TUBE EXPANSION WITH MAUS MA500.mpgby kenb574973,684 views
+
+9:03Add toHow will a fusion power plant work?by MaxPlanckSociety10,329 views
+
+4:58Add toIon Propulsion Engine Driveby frcalecse37,929 views
+
+46:07Add toCold Fusion Suppressed Technologyby SowhatNC53,597 views
+
+40:23Add toThe First Nuclear Related Fatality & Accident I...by rosaryfilms39,290 views
+
+10:00Add toThe Pyramid Code - Ep 2 - High Level Technology...by TheSandLine17,095 views
+
+8:05Add toHiPER - High Power laser Energy Research (Part 2)by CentralLaserFacility9,110 views
+
+7:02Add toFAR RELOADED POWERD BY GIANT MEGA MASS 4000by Styla1988reloaded24,223 views
+
+2:27Add toHydraulic testing of BONETTI's parallel slide g...by gdalmasso283 views
+
+0:40Add toRBC | Blue Water Project | Convertby TEGWork127 views
+
+4:14Add toHomemade Solar Energy (Hot Water System)by tatonkazi14,373 views
+
+1:39Add toUnderstanding How To Convert Water To Fuel | Hy...by SiteYouCanTrust12,222 views
+
+7:41Add toGeothermal Heating from Direct Energyby geothermalenergyaus25,905 views
+
+0:28Add toOperation Castle: Romeo testby riceicles1231,548 views
+
+1:18Add toKuwait oil fields burning Gulf War 1991by BongHitBrian89,160 views
+
+
+
+
+Loading more suggestions...
+        
+
+Load more suggestions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help
+
+About
+Press & Blogs
+Copyright
+Creators & Partners
+Advertising
+Developers
+Safety
+Privacy
+Terms
+
+
+
+Report a bug
+Try something new!
+
+
+
+Language:
+  English
+
+Location:
+  Worldwide
+
+Safety mode:
+  
+
+Off
+
+  
+
+
+
+Loading...
+
+
+
+
+
+
+
+ 
+Unsaved Playlist (0)
+    
+Options 
+
+
+
+Clear all videos from this list
+      
+
+
+
+Learn more
+
+
+
+
+Return to active list
+        
+ 
+
+Your queue is empty. Add videos to your queue using this button:  or sign in to load a different list.Loading...Saving... 
+
+
+
+
+
+Sign in to add this to a playlist
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

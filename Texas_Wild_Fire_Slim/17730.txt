@@ -1,0 +1,197 @@
+   SOA respository, built quickly and on a low budget · Hot Trends & News Today
+
+
+
+SOA respository, built quickly and on a low budget
+at Hot Trends & News Today
+
+
+
+
+
+
+
+
+
+
+
+
+Feedjit Live Blog Stats
+
+
+
+
+
+« Texas fires kill 4, destroy more than 1,000 homes
+ The Lion King: From B movie to masterpiece »
+
+
+SOA respository, built quickly and on a low budget
+
+ 
+Summary: Lightweight do-it-yourself SOA repository, bulit on open-source software.
+One of the greatest complaints about service orientated architecture is the complexity involved in installing and managing registries/repositories at the core of the service directories. But there is a quick, cheap, open-sourcey way.
+In a new InfoQ article, Ben Wilcock of SOA Growers Ltd describes how he has built a quick, lightweight registry for SOA projects: what he calls it a “Simple Service Repository,” or a way to share SOA artifacts over the Web.
+1. Create a Java web application (the Simple Service Repository application) using Maven: “By far the best thing about this Simple Service Repository is that it’s really just a Java web application with a bit of Maven thrown in to help with the contract standardization, contract centralization and contract-first development.
+2. Build the Simple Service Repository application and deploy it to an application server: “You need published changes to your repository’s content to be instantly available to everyone wherever they are…  Glassfish 3.1 is my personal application server of choice for Java web applications (but other servers would work just as well). Once deployed, the Simple Service Repository’s content will be instantly available via a browser.”
+3. Build a Web Service implementation from a contract hosted in the Simple Service Repository: “You want it to be easy to create contract-first implementation of your web service contracts and once more Maven comes to the rescue…The rest is plain sailing – normal boilerplate JAX-WS service implementation code.”
+Joe McKendrick is an author, consultant and speaker specializing in trends and developments shaping the technology industry.
+
+Disclosure
+
+Joe McKendrick
+Joe McKendrick is an independent consultant, editor and speaker.
+Joe has performed project work (white papers, articles, blogs, research and presentations) for the following companies in the IT marketspace:
+CBS Interactive/CNET/ZDNet (this blog)
+ebizQ
+Evans Data
+Gartner
+IBM
+Informatica
+IDC
+Microsoft
+Systinet/HP
+Teradata
+Unisphere Reseach, a division of Information Today, Inc.
+WebLayers
+Joe has also performed research work for the following sponsoring organizations in partnership with Unisphere Research, a division of Information Today, Inc.
+IBM
+Luminex
+Noetix
+Oracle Corp.
+Teradata
+Informatica
+International Oracle Users Group
+Oracle Applications Users Group
+Professional Association for SQL Server
+International DB2 Users Group
+International Sybase Users Group
+SHARE (IBM large systems users group)
+
+Biography
+
+Joe McKendrick
+Joe McKendrick is an author and independent analyst who tracks the impact of information technology on management and markets. Joe is co-author, along with 16 leading industry leaders and thinkers, of the SOA Manifesto, which outlines the values and guiding principles of service orientation. He also speaks frequently on Enterprise 2.0 and SOA topics at industry events and Webcasts. As an independent analyst, he has also authored numerous research reports in partnership with Unisphere Research, a division of Information Today, Inc. for user groups such as SHARE, Oracle Applications Users Group, and International DB2 Users Group. Joe is also an active SOA contributor for ebizQ/TechTarget. In a previous life, Joe served as director of the Administrative Management Society (AMS), an international professional association dedicated to advancing knowledge within the IT and business management fields.
+
+
+View full post on soa – Yahoo! News Search Results
+
+
+						This entry was posted
+						 
+						on Wednesday, September 7th, 2011 at 2:57 am						and is filed under Hot News.
+						You can follow any responses to this entry through the RSS 2.0 feed. 
+						
+													You can leave a response, or trackback from your own site.
+						
+												
+					
+
+
+
+ 
+
+
+Leave a Reply
+
+
+Name (required)
+
+Mail (will not be published) (required)
+
+Website
+
+
+
+
+
+
+
+
+
+
+ Related News
+Microsoft adds Acer and ViewSonic to Android licensees September 8, 2011Acer and ViewSonic are the latest companies to execute patent licensing agreements with Microsoft to protect their Android smartphones and tablet devi […]Robert Reich: Tonight's Republican Debate: The 19th Century or the Stone Age? September 7, 2011Listen tonight, if you can bear it, for anything other than standard Republican boilerplate since the 1920s -- a wistful desire to return to the era o […]Feisty Palin, mum on bid, promotes plan for change September 4, 2011Without declaring a bid for the White House, Sarah Palin disparaged the current GOP presidential candidates and made the case for her own plan to chan […]CORRECTING and REPLACING Think Finance Named to Inc. 5000 for Second Year August 31, 2011Please replace the boilerplate for “About Think Finance” with the following corrected version due to multiple revisions. […]Source: No Special Conduct Clauses August 30, 2011Answering the question many people had about the new Michael Vick contract, a source close to the situation said late last night that there are no spe […]Nothing new from Jackson Hole - BBH August 26, 2011FXstreet.com (Córdoba) - "The only forward looking guidance is to reaffirm the recent FOMC statement and boilerplate language about being prepare […]Bernanke Did Not Break New Ground: Opinion August 26, 2011NEW YORK (BBH FX Strategy) --The much anticipated Bernanke speech in Jackson Hole is underwhelming. He did not break any new ground. Although much of  […]CORRECTING and REPLACING Gore Receives Zero Reports of Erosion Associated With GORE® HELEX® Septal Occluder August 22, 2011Last sentence of release following the boilerplate should read: GORE®, GORE-TEX®, HELEX®, and designs are trademarks of W. L. Gore & Associates. […]Press Release August 16, 2011Avinger Inc. Posted on:16 Aug 11 Please replace the release with the following corrected version due to revisions to the Avinger boilerplate. […]CORRECTING and REPLACING Avinger Receives FDA 510(k) Clearance to Market the Wildcat Catheter for Crossing Chronic ... August 16, 2011Please replace the release with the following corrected version due to revisions to the Avinger boilerplate. […]
+Popular Search Terms
+枝野 寝ろ CNNwhat school does rebecca black go toroselyn sanchezhow did rebecca black get famousnuclear reactorFisher Investments MarketMinder
+Recent Search Terms
+pia toscanodancing with the starsbellesa latina 2011Heather Morris
+SEO Booster PRO
+finalistas de nuestra belleza latina 2011www.nuestrabellesalatina.comhelen mirren hotsister wives homes in nevada
+Tags
+2011
+after
+American Idol
+Amp
+Barack Obama
+Bieber
+Black
+blog
+Charlie Sheen
+Cnn
+Daily
+Dies
+Espn
+Facebook
+Fans
+From
+Game
+Getty Images
+Google
+Google News
+Justin
+Justin Bieber
+Lady Gaga
+live
+Love
+Nbsp
+News
+News Search
+Obama
+over
+Rebecca
+Rebecca Black
+Reuters
+Selena Gomez
+Show
+Times
+Tweet
+Tweets
+Twitter
+Video
+World
+Yahoo
+Yahoo News
+Yahoo Search
+Youtube
+
+
+
+ 
+
+
+
+2010 Hot Trends News
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

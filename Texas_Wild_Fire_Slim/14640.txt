@@ -1,0 +1,1929 @@
+Live Earthquakes Map
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close legend
+
+			Legend:
+		
+
+
+
+
+
+
+
+
+
++ All
+- All
+
+			Type:
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GlobalIncidentMap.com
+Amber-Alert Map
+HAZMAT Situations Map
+Forest Fires Map
+Disease Outbreaks Map
+
+Gang Activity Map
+Border Security Issues
+Presidential Threat Map
+Terrorism Event Predictions
+New - Quakes Map
+
+Drug Interdictions Map
+Non-Terror Aviation Incidents
+NEW - Food/Medicine Incidents
+NEW - Human Trafficking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DATE/TIME
+REGION
+MAGNITUDE
+DEPTH (in km)
+DETAIL
+
+
+Tuesday September 13 2011, 11:36:09 UTC
+
+Nevada
+
+1.5
+10.2
+Detail
+
+
+Tuesday September 13 2011, 11:33:58 UTC
+
+Central Alaska
+
+1.5
+54.6
+Detail
+
+
+Tuesday September 13 2011, 11:33:58 UTC
+
+Central Alaska
+
+1.5
+54.6
+Detail
+
+
+Tuesday September 13 2011, 10:49:36 UTC
+
+Central California
+
+1.2
+10.7
+Detail
+
+
+Tuesday September 13 2011, 10:32:49 UTC
+
+Central California
+
+2.3
+5.0
+Detail
+
+
+Tuesday September 13 2011, 10:29:52 UTC
+
+Island of Hawaii, Hawaii
+
+2.0
+33.4
+Detail
+
+
+Tuesday September 13 2011, 09:56:24 UTC
+
+Southern California
+
+1.1
+11.7
+Detail
+
+
+Tuesday September 13 2011, 09:43:46 UTC
+
+Northern California
+
+1.0
+3.3
+Detail
+
+
+Tuesday September 13 2011, 09:32:36 UTC
+
+Southern Alaska
+
+2.4
+42.2
+Detail
+
+
+Tuesday September 13 2011, 09:32:35 UTC
+
+Southern Alaska
+
+2.5
+13.7
+Detail
+
+
+Tuesday September 13 2011, 09:10:19 UTC
+
+near the east coast of Honshu, Japan
+
+5.0
+27.5
+Detail
+
+
+Tuesday September 13 2011, 08:53:38 UTC
+
+Island of Hawaii, Hawaii
+
+1.8
+35.5
+Detail
+
+
+Tuesday September 13 2011, 08:27:36 UTC
+
+New Guinea, Papua New Guinea
+
+4.8
+10.0
+Detail
+
+
+Tuesday September 13 2011, 07:56:09 UTC
+
+New Guinea, Papua New Guinea
+
+5.2
+15.5
+Detail
+
+
+Tuesday September 13 2011, 07:31:07 UTC
+
+Central California
+
+1.6
+5.9
+Detail
+
+
+Tuesday September 13 2011, 07:31:07 UTC
+
+Central California
+
+1.6
+5.9
+Detail
+
+
+Tuesday September 13 2011, 07:23:12 UTC
+
+Northern California
+
+1.1
+2.7
+Detail
+
+
+Tuesday September 13 2011, 07:21:35 UTC
+
+western Texas
+
+2.5
+5.1
+Detail
+
+
+Tuesday September 13 2011, 06:35:29 UTC
+
+Southern California
+
+1.4
+10.8
+Detail
+
+
+Tuesday September 13 2011, 05:47:34 UTC
+
+Central California
+
+2.5
+5.4
+Detail
+
+
+Tuesday September 13 2011, 05:46:39 UTC
+
+Colorado
+
+2.5
+4.9
+Detail
+
+
+Tuesday September 13 2011, 05:44:40 UTC
+
+San Diego County urban area, California
+
+1.6
+35.3
+Detail
+
+
+Tuesday September 13 2011, 05:24:39 UTC
+
+New Mexico
+
+4.0
+5.0
+Detail
+
+
+Tuesday September 13 2011, 04:50:39 UTC
+
+Northern California
+
+1.2
+3.7
+Detail
+
+
+Tuesday September 13 2011, 04:49:37 UTC
+
+near the west coast of Colombia
+
+5.1
+25.7
+Detail
+
+
+Tuesday September 13 2011, 04:47:19 UTC
+
+Northern California
+
+1.2
+1.5
+Detail
+
+
+Tuesday September 13 2011, 04:46:48 UTC
+
+Central Alaska
+
+1.7
+0.1
+Detail
+
+
+Tuesday September 13 2011, 04:38:49 UTC
+
+near the west coast of Colombia
+
+5.0
+18.9
+Detail
+
+
+Tuesday September 13 2011, 04:35:19 UTC
+
+Northern California
+
+1.6
+2.1
+Detail
+
+
+Tuesday September 13 2011, 04:34:05 UTC
+
+Kodiak Island region, Alaska
+
+3.4
+68.1
+Detail
+
+
+Tuesday September 13 2011, 04:26:40 UTC
+
+Southern Alaska
+
+1.7
+12.0
+Detail
+
+
+Tuesday September 13 2011, 04:15:06 UTC
+
+Southern Yukon Territory, Canada
+
+1.3
+15.0
+Detail
+
+
+Tuesday September 13 2011, 04:00:28 UTC
+
+Central California
+
+2.0
+1.6
+Detail
+
+
+Tuesday September 13 2011, 03:58:07 UTC
+
+Central California
+
+1.6
+12.4
+Detail
+
+
+Tuesday September 13 2011, 03:31:02 UTC
+
+Central Alaska
+
+1.8
+2.2
+Detail
+
+
+Tuesday September 13 2011, 03:10:46 UTC
+
+Central Alaska
+
+1.9
+2.2
+Detail
+
+
+Tuesday September 13 2011, 02:59:14 UTC
+
+New Mexico
+
+2.6
+9.0
+Detail
+
+
+Tuesday September 13 2011, 02:38:35 UTC
+
+northern Alaska
+
+1.9
+22.7
+Detail
+
+
+Tuesday September 13 2011, 02:22:58 UTC
+
+Northern California
+
+1.2
+3.9
+Detail
+
+
+Tuesday September 13 2011, 01:55:44 UTC
+
+Northern California
+
+1.4
+12.4
+Detail
+
+
+Tuesday September 13 2011, 01:51:50 UTC
+
+Nevada
+
+1.5
+7.0
+Detail
+
+
+Tuesday September 13 2011, 01:37:19 UTC
+
+New Mexico
+
+3.4
+6.8
+Detail
+
+
+Tuesday September 13 2011, 00:48:24 UTC
+
+near the coast of Nicaragua
+
+4.2
+60.6
+Detail
+
+
+Tuesday September 13 2011, 00:24:12 UTC
+
+Southern Alaska
+
+1.5
+21.1
+Detail
+
+
+Tuesday September 13 2011, 00:18:52 UTC
+
+Northern California
+
+2.3
+9.4
+Detail
+
+
+Tuesday September 13 2011, 00:04:52 UTC
+
+Northern California
+
+1.4
+2.5
+Detail
+
+
+Monday September 12 2011, 23:35:58 UTC
+
+Southern California
+
+1.4
+6.4
+Detail
+
+
+Monday September 12 2011, 23:17:13 UTC
+
+Southern California
+
+1.7
+0.0
+Detail
+
+
+Monday September 12 2011, 23:17:13 UTC
+
+Southern California
+
+1.7
+0.0
+Detail
+
+
+Monday September 12 2011, 23:02:42 UTC
+
+off the east coast of Honshu, Japan
+
+5.0
+26.1
+Detail
+
+
+Monday September 12 2011, 22:44:31 UTC
+
+near the north coast of New Guinea, Papua New Guinea
+
+6.2
+34.9
+Detail
+
+
+Monday September 12 2011, 22:44:05 UTC
+
+Southern California
+
+1.2
+5.5
+Detail
+
+
+Monday September 12 2011, 22:40:07 UTC
+
+Northern California
+
+2.0
+8.5
+Detail
+
+
+Monday September 12 2011, 22:34:29 UTC
+
+Northern California
+
+1.8
+9.1
+Detail
+
+
+Monday September 12 2011, 22:33:26 UTC
+
+Northern California
+
+2.1
+7.6
+Detail
+
+
+Monday September 12 2011, 22:27:10 UTC
+
+Northern California
+
+1.1
+1.4
+Detail
+
+
+Monday September 12 2011, 22:26:26 UTC
+
+Kenai Peninsula, Alaska
+
+1.5
+2.6
+Detail
+
+
+Monday September 12 2011, 22:13:34 UTC
+
+Southern Alaska
+
+1.8
+70.5
+Detail
+
+
+Monday September 12 2011, 22:13:31 UTC
+
+Southern Alaska
+
+2.2
+96.8
+Detail
+
+
+Monday September 12 2011, 22:13:20 UTC
+
+Southern Alaska
+
+1.7
+1.5
+Detail
+
+
+Monday September 12 2011, 22:08:01 UTC
+
+Central Alaska
+
+2.6
+8.2
+Detail
+
+
+Monday September 12 2011, 21:38:06 UTC
+
+Central California
+
+2.2
+5.2
+Detail
+
+
+Monday September 12 2011, 21:16:42 UTC
+
+northern Colombia
+
+4.4
+47.0
+Detail
+
+
+Monday September 12 2011, 21:08:39 UTC
+
+Southern Alaska
+
+1.4
+17.9
+Detail
+
+
+Monday September 12 2011, 21:03:20 UTC
+
+northern Alaska
+
+1.4
+12.9
+Detail
+
+
+Monday September 12 2011, 20:58:37 UTC
+
+Southern Alaska
+
+1.5
+93.0
+Detail
+
+
+Monday September 12 2011, 20:18:49 UTC
+
+Central Alaska
+
+1.5
+0.1
+Detail
+
+
+Monday September 12 2011, 19:43:50 UTC
+
+Island of Hawaii, Hawaii
+
+2.4
+34.9
+Detail
+
+
+Monday September 12 2011, 19:42:29 UTC
+
+Northern California
+
+1.3
+7.0
+Detail
+
+
+Monday September 12 2011, 18:38:57 UTC
+
+Northern California
+
+1.9
+3.2
+Detail
+
+
+Monday September 12 2011, 18:23:55 UTC
+
+southwest of Sumatra, Indonesia
+
+5.0
+14.7
+Detail
+
+
+Monday September 12 2011, 18:23:55 UTC
+
+southwest of Sumatra, Indonesia
+
+5.0
+14.7
+Detail
+
+
+Monday September 12 2011, 18:11:24 UTC
+
+Greater Los Angeles area, California
+
+1.6
+5.7
+Detail
+
+
+Monday September 12 2011, 18:07:59 UTC
+
+Las Vegas urban area, Nevada
+
+1.9
+12.2
+Detail
+
+
+Monday September 12 2011, 18:07:53 UTC
+
+Nevada
+
+2.2
+6.0
+Detail
+
+
+Monday September 12 2011, 18:07:39 UTC
+
+Northern California
+
+1.2
+2.9
+Detail
+
+
+Monday September 12 2011, 18:07:39 UTC
+
+Northern California
+
+1.2
+2.9
+Detail
+
+
+Monday September 12 2011, 17:59:11 UTC
+
+Southern Alaska
+
+2.0
+58.7
+Detail
+
+
+Monday September 12 2011, 17:58:01 UTC
+
+Southern California
+
+1.8
+23.0
+Detail
+
+
+Monday September 12 2011, 17:48:53 UTC
+
+Northern California
+
+1.0
+4.0
+Detail
+
+
+Monday September 12 2011, 17:42:42 UTC
+
+near the east coast of Honshu, Japan
+
+4.9
+61.2
+Detail
+
+
+Monday September 12 2011, 17:18:55 UTC
+
+Andreanof Islands, Aleutian Islands, Alaska
+
+1.9
+33.7
+Detail
+
+
+Monday September 12 2011, 17:12:36 UTC
+
+Canada
+
+3.2
+84.0
+Detail
+
+
+Monday September 12 2011, 16:58:32 UTC
+
+Northern California
+
+2.8
+1.3
+Detail
+
+
+Monday September 12 2011, 16:58:25 UTC
+
+Northern California
+
+2.8
+3.9
+Detail
+
+
+Monday September 12 2011, 16:58:12 UTC
+
+Southern Alaska
+
+1.0
+58.2
+Detail
+
+
+Monday September 12 2011, 16:49:59 UTC
+
+Hokkaido, Japan region
+
+4.7
+91.9
+Detail
+
+
+Monday September 12 2011, 16:45:57 UTC
+
+Las Vegas urban area, Nevada
+
+1.7
+0.1
+Detail
+
+
+Monday September 12 2011, 16:40:32 UTC
+
+Fox Islands, Aleutian Islands, Alaska
+
+2.8
+45.5
+Detail
+
+
+Monday September 12 2011, 16:14:10 UTC
+
+Southern California
+
+1.9
+16.8
+Detail
+
+
+Monday September 12 2011, 16:07:00 UTC
+
+Central California
+
+1.8
+10.3
+Detail
+
+
+Monday September 12 2011, 16:02:01 UTC
+
+Southern California
+
+1.3
+10.8
+Detail
+
+
+Monday September 12 2011, 15:52:29 UTC
+
+Island of Hawaii, Hawaii
+
+2.6
+6.5
+Detail
+
+
+Monday September 12 2011, 15:43:40 UTC
+
+Kodiak Island region, Alaska
+
+3.6
+54.7
+Detail
+
+
+Monday September 12 2011, 15:41:07 UTC
+
+Southern Alaska
+
+1.5
+92.6
+Detail
+
+
+Monday September 12 2011, 15:35:28 UTC
+
+Oklahoma
+
+3.3
+3.4
+Detail
+
+
+Monday September 12 2011, 15:25:58 UTC
+
+near the east coast of Honshu, Japan
+
+4.6
+36.1
+Detail
+
+
+Monday September 12 2011, 14:53:01 UTC
+
+Greater Los Angeles area, California
+
+1.5
+16.3
+Detail
+
+
+Monday September 12 2011, 14:44:13 UTC
+
+Southern Alaska
+
+1.3
+20.1
+Detail
+
+
+Monday September 12 2011, 14:39:17 UTC
+
+Southern California
+
+1.1
+12.4
+Detail
+
+
+Monday September 12 2011, 14:38:21 UTC
+
+Nevada
+
+2.1
+0.2
+Detail
+
+
+Monday September 12 2011, 14:29:43 UTC
+
+Central California
+
+1.7
+11.7
+Detail
+
+
+Monday September 12 2011, 14:18:34 UTC
+
+western Texas
+
+3.4
+7.9
+Detail
+
+
+Monday September 12 2011, 14:15:40 UTC
+
+Southern Alaska
+
+1.2
+34.9
+Detail
+
+
+Monday September 12 2011, 14:12:20 UTC
+
+Canada
+
+2.4
+84.0
+Detail
+
+
+Monday September 12 2011, 14:06:45 UTC
+
+Central Alaska
+
+2.2
+130.0
+Detail
+
+
+Monday September 12 2011, 13:50:32 UTC
+
+Central Alaska
+
+1.2
+1.0
+Detail
+
+
+Monday September 12 2011, 12:53:36 UTC
+
+Central Alaska
+
+1.8
+0.0
+Detail
+
+
+Monday September 12 2011, 11:30:24 UTC
+
+Northern California
+
+1.4
+12.8
+Detail
+
+
+Monday September 12 2011, 11:19:53 UTC
+
+Southern California
+
+1.7
+0.0
+Detail
+
+
+Monday September 12 2011, 11:17:46 UTC
+
+Northern California
+
+1.2
+1.4
+Detail
+
+
+Monday September 12 2011, 10:56:24 UTC
+
+Central Alaska
+
+1.3
+0.1
+Detail
+
+
+Monday September 12 2011, 10:55:10 UTC
+
+Nevada
+
+1.1
+12.3
+Detail
+
+
+Monday September 12 2011, 10:34:12 UTC
+
+Southern Alaska
+
+1.9
+29.4
+Detail
+
+
+Monday September 12 2011, 10:33:16 UTC
+
+Central California
+
+2.1
+5.9
+Detail
+
+
+Monday September 12 2011, 10:31:05 UTC
+
+Nevada
+
+1.8
+4.7
+Detail
+
+
+Monday September 12 2011, 10:28:21 UTC
+
+Southern Alaska
+
+2.6
+66.6
+Detail
+
+
+Monday September 12 2011, 10:25:19 UTC
+
+Guatemala
+
+4.5
+100.4
+Detail
+
+
+Monday September 12 2011, 10:15:20 UTC
+
+Central California
+
+1.8
+5.8
+Detail
+
+
+Monday September 12 2011, 09:51:33 UTC
+
+Central California
+
+1.3
+4.5
+Detail
+
+
+Monday September 12 2011, 09:49:39 UTC
+
+Southern California
+
+1.1
+10.9
+Detail
+
+
+Monday September 12 2011, 09:37:32 UTC
+
+Vancouver Island, Canada region
+
+4.2
+29.4
+Detail
+
+
+Monday September 12 2011, 09:37:25 UTC
+
+Canada
+
+4.6
+207.0
+Detail
+
+
+Monday September 12 2011, 09:30:54 UTC
+
+Southern California
+
+1.3
+7.9
+Detail
+
+
+Monday September 12 2011, 09:26:12 UTC
+
+western Texas
+
+2.7
+5.0
+Detail
+
+
+Monday September 12 2011, 09:23:57 UTC
+
+Central Alaska
+
+1.3
+44.2
+Detail
+
+
+Monday September 12 2011, 09:19:46 UTC
+
+western Texas
+
+2.6
+4.8
+Detail
+
+
+Monday September 12 2011, 09:14:17 UTC
+
+Nevada
+
+2.3
+9.0
+Detail
+
+
+Monday September 12 2011, 09:02:36 UTC
+
+Nevada
+
+2.1
+12.6
+Detail
+
+
+Monday September 12 2011, 08:58:03 UTC
+
+Northern California
+
+1.1
+2.9
+Detail
+
+
+Monday September 12 2011, 08:52:22 UTC
+
+Mona Passage, Puerto Rico
+
+3.2
+101.1
+Detail
+
+
+Monday September 12 2011, 08:29:55 UTC
+
+Baja California, Mexico
+
+2.9
+7.2
+Detail
+
+
+Monday September 12 2011, 08:29:44 UTC
+
+Baja California, Mexico
+
+2.6
+10.0
+Detail
+
+
+Monday September 12 2011, 07:59:13 UTC
+
+Southern Alaska
+
+1.0
+25.0
+Detail
+
+
+Monday September 12 2011, 07:36:01 UTC
+
+Washington
+
+2.1
+12.8
+Detail
+
+
+Monday September 12 2011, 07:30:35 UTC
+
+Philippine Islands region
+
+5.0
+117.1
+Detail
+
+
+Monday September 12 2011, 07:05:19 UTC
+
+Kermadec Islands, New Zealand
+
+4.8
+98.7
+Detail
+
+
+Monday September 12 2011, 06:32:40 UTC
+
+Southern Alaska
+
+1.5
+0.0
+Detail
+
+
+Monday September 12 2011, 05:28:52 UTC
+
+Northern California
+
+1.0
+2.4
+Detail
+
+
+Monday September 12 2011, 05:15:13 UTC
+
+Taiwan region
+
+5.1
+43.1
+Detail
+
+
+Monday September 12 2011, 04:32:30 UTC
+
+near the coast of central Peru
+
+4.7
+48.2
+Detail
+
+
+Monday September 12 2011, 03:48:23 UTC
+
+Kenai Peninsula, Alaska
+
+2.2
+0.0
+Detail
+
+
+Monday September 12 2011, 03:47:47 UTC
+
+Sumbawa region, Indonesia
+
+4.6
+75.3
+Detail
+
+
+Monday September 12 2011, 03:47:39 UTC
+
+Southern California
+
+1.1
+12.3
+Detail
+
+
+Monday September 12 2011, 03:37:32 UTC
+
+Southern Alaska
+
+1.9
+80.0
+Detail
+
+
+Monday September 12 2011, 02:50:59 UTC
+
+Central California
+
+1.4
+4.9
+Detail
+
+
+Monday September 12 2011, 02:31:42 UTC
+
+Northern California
+
+1.1
+3.1
+Detail
+
+
+Monday September 12 2011, 02:29:30 UTC
+
+western Texas
+
+2.3
+5.3
+Detail
+
+
+Monday September 12 2011, 02:29:30 UTC
+
+western Texas
+
+2.3
+5.3
+Detail
+
+
+Monday September 12 2011, 02:27:14 UTC
+
+Washington
+
+1.3
+18.4
+Detail
+
+
+Monday September 12 2011, 02:24:24 UTC
+
+Arkansas
+
+2.2
+3.8
+Detail
+
+
+Monday September 12 2011, 02:20:32 UTC
+
+Southern Alaska
+
+1.7
+47.4
+Detail
+
+
+Monday September 12 2011, 02:12:38 UTC
+
+Southern California
+
+1.4
+3.3
+Detail
+
+
+Monday September 12 2011, 02:11:51 UTC
+
+Southern California
+
+1.5
+24.7
+Detail
+
+
+Monday September 12 2011, 02:08:38 UTC
+
+Canada
+
+2.8
+225.0
+Detail
+
+
+Monday September 12 2011, 02:02:32 UTC
+
+Southern Alaska
+
+1.6
+8.9
+Detail
+
+
+Monday September 12 2011, 01:58:56 UTC
+
+Northern California
+
+2.1
+2.9
+Detail
+
+
+Monday September 12 2011, 01:47:03 UTC
+
+Washington
+
+1.8
+1.7
+Detail
+
+
+Monday September 12 2011, 01:44:53 UTC
+
+Southern California
+
+1.4
+12.3
+Detail
+
+
+Monday September 12 2011, 01:43:01 UTC
+
+Washington
+
+1.4
+0.3
+Detail
+
+
+Monday September 12 2011, 01:19:39 UTC
+
+Central California
+
+1.4
+6.4
+Detail
+
+
+Monday September 12 2011, 00:34:22 UTC
+
+Central Alaska
+
+1.1
+16.8
+Detail
+
+
+Monday September 12 2011, 00:31:49 UTC
+
+western Texas
+
+2.8
+4.3
+Detail
+
+
+Sunday September 11 2011, 23:50:08 UTC
+
+Central Alaska
+
+1.7
+25.8
+Detail
+
+
+Sunday September 11 2011, 23:38:44 UTC
+
+Central California
+
+1.3
+11.0
+Detail
+
+
+Sunday September 11 2011, 23:37:36 UTC
+
+Vanuatu
+
+6.0
+35.1
+Detail
+
+
+Sunday September 11 2011, 23:34:48 UTC
+
+Southern Alaska
+
+2.0
+0.1
+Detail
+
+
+Sunday September 11 2011, 23:27:06 UTC
+
+Nevada
+
+1.5
+2.9
+Detail
+
+
+Sunday September 11 2011, 23:17:41 UTC
+
+Southern Alaska
+
+1.1
+33.1
+Detail
+
+
+Sunday September 11 2011, 23:15:35 UTC
+
+San Francisco Bay area, California
+
+2.4
+5.9
+Detail
+
+
+Sunday September 11 2011, 23:11:39 UTC
+
+Central California
+
+1.0
+5.5
+Detail
+
+
+Sunday September 11 2011, 22:52:03 UTC
+
+Puerto Rico
+
+2.6
+77.4
+Detail
+
+
+Sunday September 11 2011, 22:48:28 UTC
+
+Northern California
+
+1.4
+2.6
+Detail
+
+
+Sunday September 11 2011, 22:47:30 UTC
+
+Yellowstone National Park, Montana
+
+2.2
+6.4
+Detail
+
+
+Sunday September 11 2011, 22:29:13 UTC
+
+Northern California
+
+2.0
+4.4
+Detail
+
+
+Sunday September 11 2011, 22:09:29 UTC
+
+Central Alaska
+
+1.8
+61.5
+Detail
+
+
+Sunday September 11 2011, 21:46:41 UTC
+
+Central California
+
+1.2
+3.3
+Detail
+
+
+Sunday September 11 2011, 21:41:16 UTC
+
+Central Alaska
+
+2.2
+0.1
+Detail
+
+
+Sunday September 11 2011, 21:40:12 UTC
+
+Washington
+
+1.8
+11.5
+Detail
+
+
+Sunday September 11 2011, 21:35:35 UTC
+
+Central Alaska
+
+1.1
+27.7
+Detail
+
+
+Sunday September 11 2011, 21:18:31 UTC
+
+Central California
+
+1.5
+4.5
+Detail
+
+
+Sunday September 11 2011, 21:18:29 UTC
+
+Southern California
+
+1.2
+7.0
+Detail
+
+
+Sunday September 11 2011, 20:38:18 UTC
+
+Southern California
+
+1.6
+7.8
+Detail
+
+
+Sunday September 11 2011, 20:33:59 UTC
+
+Greater Los Angeles area, California
+
+1.4
+12.7
+Detail
+
+
+Sunday September 11 2011, 20:31:58 UTC
+
+western Texas
+
+2.7
+5.0
+Detail
+
+
+Sunday September 11 2011, 20:19:53 UTC
+
+Fox Islands, Aleutian Islands, Alaska
+
+3.0
+26.2
+Detail
+
+
+Sunday September 11 2011, 20:13:50 UTC
+
+Northern California
+
+1.1
+3.3
+Detail
+
+
+Sunday September 11 2011, 20:03:43 UTC
+
+Southern California
+
+1.1
+15.9
+Detail
+
+
+Sunday September 11 2011, 20:01:33 UTC
+
+Northern California
+
+1.2
+2.0
+Detail
+
+
+Sunday September 11 2011, 20:00:23 UTC
+
+Greater Los Angeles area, California
+
+1.3
+18.0
+Detail
+
+
+Sunday September 11 2011, 19:51:53 UTC
+
+Canada
+
+1.2
+16.0
+Detail
+
+
+Sunday September 11 2011, 19:51:53 UTC
+
+Vancouver Island, Canada region
+
+1.8
+38.7
+Detail
+
+
+Sunday September 11 2011, 19:51:53 UTC
+
+Vancouver Island, Canada region
+
+1.7
+47.5
+Detail
+
+
+Sunday September 11 2011, 19:47:47 UTC
+
+Central California
+
+1.1
+5.9
+Detail
+
+
+Sunday September 11 2011, 19:38:51 UTC
+
+Central Alaska
+
+1.3
+0.0
+Detail
+
+
+Sunday September 11 2011, 19:04:08 UTC
+
+Canada
+
+1.8
+10.0
+Detail
+
+
+Sunday September 11 2011, 19:02:10 UTC
+
+Andreanof Islands, Aleutian Islands, Alaska
+
+3.5
+41.4
+Detail
+
+
+Sunday September 11 2011, 18:56:05 UTC
+
+Southern California
+
+1.2
+11.0
+Detail
+
+
+Sunday September 11 2011, 18:55:02 UTC
+
+Central Alaska
+
+1.6
+54.2
+Detail
+
+
+Sunday September 11 2011, 18:53:37 UTC
+
+Southern California
+
+1.7
+10.9
+Detail
+
+
+
+
+
+
+
+
+
+    Copyright © 2006-2007 TransitSecurityReport.com, Inc. All Rights Reserved.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

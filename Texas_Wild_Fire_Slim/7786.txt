@@ -1,0 +1,42 @@
+Interactive Fire Detection Viewer
+
+
+
+
+
+
+
+Interactive Fire Detection Viewer
+
+
+
+
+
+
+Current Large Fires (Home)Fire Detection MapsInteractive Fire Detection ViewerSatellite ImageryFire Detection GIS DataFire Data in Google EarthFire Data Web ServicesLatest Detected Fire ActivityBurn Scar DataOther MODIS ProductsFrequently Asked QuestionsAbout Active Fire Maps 
+
+Remote Sensing Applications Center
+									2222 West 2300 South
+									Salt Lake City, UT
+									84119 - 2020
+									voice: (801) 975-3737
+									fax: (801) 975-3478
+									
+
+
+
+
+ 
+These interactive map viewers facilitate the display of MODIS, AVHRR and GOES satellite fire detection data in conjunction with other geospatial data layers. Fire detection geospatial data on these interactive maps are updated hourly. Users may draw geospatial data layers of their choice and pan and zoom to a desired map extent. Click on any of the thumbnails above to access the interactive viewer for that region.
+For important information regarding the usage of these interactive viewers, please click here.
+
+
+
+
+
+Feedback | Disclaimers | Privacy Policy
+
+
+
+
+

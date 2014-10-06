@@ -1,0 +1,22 @@
+Texas wildfires burn out of control
+
+
+
+            {
+                "movie":"http://media10.washingtonpost.com/wp/swf/OmniPlayer.swf",
+                "id":"oplayer-video-swf",
+                "width":"480", height:"270",
+                "vars":{
+                    "title":"Texas wildfires burn out of control",
+            	    "flvStreamingServer":"rtmp://cp18289.edgefcs.net/ondemand",
+                    "stillURL":"http://www.washingtonpost.com/rf/image_606w/2010-2019/WashingtonPost/2011/09/07/Health-Environment-Science/Videos/09062011-77v/09062011-77v.jpg",
+                    "autoStart":0,
+                    "clickThru":"http://www.washingtonpost.com/national/health-science/texas-wildfires-burn-out-of-control/2011/09/06/gIQA7s3x7J_video.html",
+                    "flvURL":"/media/2011/09/06/09062011-77v.m4v"
+                },
+                "params":{
+                    "allowFullScreen":"true"
+                }
+            }
+        
+

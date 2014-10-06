@@ -1,0 +1,436 @@
+ » Compound Interest Week: An Introduction 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+Contact
+
+Terms
+Archive
+Advertising
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compound Interest Week: An Introduction
+
+
+
+9Comments
+
+
+
+
+ 
+A lot of personal finance bloggers write about compound interest. I have written about it myself in the past. This week, I'd like to cover compound interest in more detail than I have in the past.  I hope to cover some new ground in this area and/or put a little twist on the topic.
+I think I've always had a slightly more pessimistic, but probably more realistic view of how it really works. We'll get into an example first, but here's a handy chart that we'll refer to time and again... Thanks to Golbguru of Money, Matter, and More Musings for providing the chart on the left as well as this quote on compound interest:
+"Another quick and crude way to estimate the time is to 'double rate and half time'- meaning, if you double your rate of return (interest rate), it will take half as much time to double your money. For example, at 1% interest rate it takes about 70 years to double your initial investment, so at twice the interest rate (2%) it will take about 70/2 = 35 years; and if you double it once more (4%) it will take about 35/2 = 17.5 years.... A rise of rate of return from 1% to 4% (a difference of 3%) has a drastic effect on reducing the time (from about 70 years to about 17.5 years), however, a rise from 17% to 20% (again a difference of 3%) reduces the time from 4 years and 5 months to just 3 years and 10 months."
+I have to agree that going from 1-4% is a huge difference. If I'm making just 1% my money is going to double just once in my lifetime, if I'm lucky. If I'm making 4%, my money may double 3-4 times in my life. So if I start with $1000, at 1%, in 70 years I'll end up with $2000. However, at 4%, I'll end up with $16,000 as the original $1000 becomes $2000 after 17.5 years, $4000 after 35 years, $8000 after 52.5 years, and $16,000 after 70 years. That's very significant indeed.
+Let's take the 17% to 20% and see how that works over 70 years. The math is may get a little difficult, but I'll walk you through it. First off, instead of dealing with years we'll convert everything into days. It's simply an easier unit to work with - rather than saying money at 17% doubles in 4.1666 years, we can say it doubles in 1612 days (give or take a leap year). If you are able to earn a 17% gain, according to the chart your money does indeed double every 1612 days. In the 70 year (25550 days) outlook that we were using above, that means that it will double 15.85 times in that span. A 20% compound interest rate will double every 1400 days or a total of 18.25 times in a 70 year time span. How much is the $1,000 worth? Hold onto your hats - a little over 59 million dollars. At the 20% interest rate, $1000 becomes a jaw-dropping 311.7 Million dollars. I'd be okay with either number, but the difference between 17% and 20% is indeed a lot bigger than it looks when it's applied to standard lifetime.
+That sad thing is that it's nearly impossible to earn either 17% or 20% on average for a span of 70 years. However, this illustrates what a great difference one percentage point of interest can be over a long span. We'll come back and build on this later in the week.
+(Thanks to Money, Matter, and More Musings for the chart.)
+                   			
+			
+			This post deals with:
+			   			... and focuses on:
+			   Investing
+
+
+ Email This!
+ | 
+					
+ Stumble | 
+					
+ Reddit | 
+					
+ Digg | 
+					
+ Del.icio.us | 
+
+ Tipd
+
+
+
+			
+					Posted by Lazy Man on May 7, 2007 
+
+									
+
+
+
+Related Posts  Alternative Income Streams Progress - March 2007   Compound Interest Week: Real Interest Rates of the Stock Market  Compound Interest Week: Real Interest Rates of High-Interest Saving Accounts
+Compound Interest Week: Real Interest Rates of the Stock Market
+Compound Interest Week: The Real Rate of Return
+Our Early Retirement Plan: Introduction (Part 0)
+Personal Finance Blogging Pet Peeves #1 (or the 10% compounding myth)
+Twelve Posts of Review – May 2007
+High Interest Checking Accounts
+Bear Sterns Sold For $2 a Share? Fed Drops Interest Rate…
+Related Websites  Never been so disappointed in a sub-3 hour 20 mile long run #running #twit2fit   Eagle Ridge Golf Club  
+
+9 Responses to “Compound Interest Week: An Introduction”
+
+
+
+
+Joseph Sangl says: 
+
+			May 7, 2007 at 7:13 am 
+One GUARANTEED way to make 17% per year is to start up a credit card company!
+
+
+
+
+
+
+
+broknowrchlatr says: 
+
+			May 7, 2007 at 10:25 am 
+Its not so easy to have a CC company.  you have to deal with defaults.  You have to deal with giving people free loans for 30 days.  You also have to have rewards to get many people to get the card.
+No way does that come out to 17%
+
+
+
+
+
+
+
+Customers Revenge says: 
+
+			May 8, 2007 at 5:34 am 
+Instead of saying “it will take half as much time to double your money”, why not say that you will have a huge amount more in the same time.  Take the below chart: notice that doubling the rate over, say 15 years, produces 3 times the return (you have $4.2 for every dollar instead of $2.1).  After 25 years your returns are almost 5 times.
+Years	5%	10%
+1	1.05	1.10
+5	1.28	1.61
+10	1.63	2.59
+15	2.08	4.18
+20	2.65	6.73
+25	3.39	10.83
+30	4.32	17.45
+In compound interest the sensitivity is with time and interest rate.  The initial investment almost doesn’t matter, just invest something, anything, to get the benefits.
+
+
+
+
+
+
+
+Lazy Man says: 
+
+			May 8, 2007 at 6:05 am 
+Customer’s Revenge, I usually do it that way, but I liked the simplicity of time to double your money for this example.  Telling people that they can double their money in 70 years, I think is a sobering thought vs. 7 years.  
+Of course we also aren’t counting some things like inflation and taxes at this stage… That’s later this week.
+
+
+
+
+
+
+
+Ben says: 
+
+			May 8, 2007 at 2:59 pm 
+The sad part is that taxes are a killer, they can pull the rug right out from under the power of compounding.
+
+
+
+
+
+
+
+Quixote says: 
+
+			May 11, 2007 at 10:21 am 
+The math isn’t hard, but in general, if the rate is low: seventy divided by the rate (for a number of periods) will give you the doubling time (in terms of those periods) to a very close approximation. In an inflation ridden country – 70 divided by inflation rate will give you, close enough, the number of periods in which you will have to be earning twice what you are earning now: If inflation is double digit, at say 15% per year – you’d have to earn double in 70/15 = 4.7 years. A day trader that can work an average gain of 3% per day – with no failures (pretty sharp!) would double his capital in 70/3 = 23 working days, or a little more than a month…
+The method is used in nuclear physics, to estimate the “half life” of a radioactive isotope: a gramme of Carbon 14 would be 1/2 gramme in 5570 years (which makes it useful for dating ‘historical’ times); a gramme of Plutonium 239 would be down to half that in some 20 000 years, which is why we don’t want the stuff around (of course, its quicker decay, as in a fission blast we don’t want at all)
+
+
+
+
+
+
+
+Investing Blog says: 
+
+			May 13, 2007 at 3:59 pm 
+An alternative to starting a credit card company is supplying loans to borrowers at prosper. With a diversified portfolio, you can earn 15 to 17% easily. I only have about $100 invested, but I plan to increase that amount in the next couple of months. Besides, spending the time finding trustworthy borrowers is invaluable. Then once you calculate compound interest gains over say the 3 year loan period, you will be amazed at all the money Visa and American Express earns. It’s truly powerful!
+
+
+
+
+
+
+
+15 Products that save Time, Money, and Space says: 
+
+			March 4, 2008 at 5:36 pm 
+[...] While I appreciate DVD box sets as much as anyone else, I thought I’d consider something productive for the ones I love this year. There are lot of ways to classify productivity or efficiency, and many would include items that save time or money on that list. I’m adding items that save space as well. It’s often overlooked, but the more space your possessions take up, the bigger home you’ll need. This leads to a direct expense of having to buy a more expensive home, paying more property tax, and having to heat/cool all that extra space. Since a home is typically everyone most expensive purchase and savings here can translate to thousands of dollars compounded over time. [...]
+
+
+
+
+
+
+
+SEP-IRAs: A Primer and a Funding Strategy says: 
+
+			June 21, 2010 at 10:11 am 
+[...] The pretax portion of the SEP-IRA is what makes it so attractive to non 401K users. By deferring taxes you not only save in cash flow today, but push out the dollar cost of your eventual taxes so that their NPV is significantly less even if you are in a higher tax bracket in retirement. And on top of that you get the value of compounding interest. [...]
+
+
+
+
+
+
+
+
+
+
+Leave a Reply
+
+Click here to cancel reply.
+
+
+
+Name (required)
+
+Mail (will not be published) (required)
+
+Website
+
+
+
+
+
+ Notify me of followup comments via e-mail. You can also subscribe without commenting.
+
+
+
+
+
+                      
+      	Previous: Weekend Personal Finance Review
+      	Next: Compound Interest Week: The Real Rate of Return
+
+
+
+
+
+
+ 
+lambda_73">The Money Writers 
+The Digerati Life
+Brip Blap
+Generation X Finance
+Million Dollar Journey
+The Sun's Financial Diary
+Money Smart Life
+My Dollar Plan
+Frugal Dad
+
+Randomized BlogrollBlueprint for Financial ProsperityBudgets Are SexyConsumer BoomerConsumerism CommentaryGet Rich SlickGood Financial CentsMy Money BlogNot Made of MoneyProsper Lending ReviewSimple DollarSponsors 
+ 
+ 
+ 
+ 
+
+
+
+ 
+Subscribe 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Most Popular Articles 
+How To Be Successful
+MonaVie Scam?  Was My Wife Recruited to Sell Snake Oil?
+Easy Homemade Hummus
+Seven Things You Must Do to Prepare for an Emergency
+
+Banking
+
+Free Credit Scores
+High Interest Checking Accounts
+
+MLM Scams
+
+
+MonaVie
+Protandim
+
+
+One24
+Orrin Woodward
+
+
+Company Reviews
+
+
+Lending Club
+Credit Karma
+
+
+Credit Sesame
+
+
+
+Recent CommentsStrangely on Protandim Scam?DTM on Protandim Scam?Vogel on Protandim Scam?Lazy Man on Protandim Scam?ALLPROz on Protandim Scam?Karen on Protandim Scam?Vogel on Protandim Scam?Lazy Man on Protandim Scam?Karen on Protandim Scam?Evan on Nine Things I Think I Think (and Personal Finance Links) MonaVie ScamMonaVie’s “Pain Reduction and Improvement in Range of Motion” StudyMonaVie Active and MonaVie Original?MonaVie Adding “Fake” Fiber (Fibersol-2 / Maltodextrin)My Experience with TEAM MonaVieJim Janssen: MonaVie Distributor / Scammer Protandim ScamsProtandim, Miracle Claims, Scientific Breakthroughs, and the FTCDr. Joe McCord’s Role at LifeVantageProtandim Inventor Paul Myhill has No Medical BackgroundLiveVantage’s Policies and Procedures Contradicts ItselfCheap Curcumin in Protandim Activates Nrf2 by Stimulating Free Radical Production   Get widget at Refinance Mortgage Rates   
+ 
+
+
+ 
+
+
+      Also from Lazy Man and Money
+   
+
+Lazy Man and Health | MonaVie Scam | Protandim Scams | How To Fix | How To Car | How To Computer
+
+
+
+
+
+      Lazy Man Financial Directory [About This Directory]
+
+
+
+Financial Tools
+Quick Loans
+Credit/Debt
+Insurance/Mortgage
+
+Miscellaneous
+
+
+
+
+
+LifeLock
+Retirement Planner
+Mutual Fund Analysis
+Sportsmans Guide Coupons
+
+
+Payday Loans
+Personal Loans
+payday loans
+payday advance
+Payday Loan
+Payday Loans
+Cash Advances
+Online Payday Loans
+Speedy Pay Day Cash
+direct payday lenders
+instant payday loans
+
+
+Credit Card Relief
+
+
+Allianz Life Insurance
+
+
+Google Finance - 
+
+Payday Loans - 
+
+Term Life Insurance Quote - 
+
+Wikipedia Finance - 
+
+How To Save Money. - 
+
+payday loans online - 
+
+payday loans online - 
+
+Senate Finance - 
+
+Code Promo - Offres Pas Cher, Reduc - 
+
+Caskets - 
+
+New York Federal Reserve Bank - 
+
+Life Insurance Quotes - 
+
+best affiliate program - 
+	       Promotional Pens
+
+
+                
+            
+           wp_reset_query(); ?>
+                
+
+
+
+
+
+
+
+
+Copyright © 2006 - 2011 by Lazy Man and Money
+
+
+
+
+
+
+
+
+As suggested by FTC regulations, please note that we have a financial relationship with the companies mentioned on this site. We frequently review products or services that we have been given access to for free. However, we do not accept compensation in any form in exchange for positive reviews, and the reviews found on this site represent the opinions of the author.
+
+
+

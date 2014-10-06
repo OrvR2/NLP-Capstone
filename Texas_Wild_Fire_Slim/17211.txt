@@ -1,0 +1,752 @@
+Spitting cobras track first, predict later
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Science News
+
+
+ Blog    Cite
+
+
+
+
+
+
+
+ Save
+ Email
+ Print
+ Share
+
+
+
+
+
+
+
+
+
+
+
+Spitting Cobras Track First, Predict Later
+
+ScienceDaily (May 15, 2010)  Most venomous snakes are legendary for their lethal bites, but not all. Some spit defensively. Bruce Young, from the University of Massachusetts Lowell, explains that some cobras defend themselves by spraying debilitating venom into the eyes of an aggressor.
+
+
+See Also:
+Plants & Animals
+
+Frogs and Reptiles
+Developmental Biology
+Mice
+Fish
+Animals
+Biology
+
+Strange Science
+Reference
+
+King Cobra
+Crotalus atrox
+Snake
+Lizard
+
+
+
+Getting the chance to work with spitting cobras in South Africa, Young took the opportunity to record the venom spray tracks aimed at his eyes. Protected by a sheet of Perspex, Young caught the trails of venom and two things struck him: how accurately the snakes aimed and that each track was unique. This puzzled Young. For a start the cobra's fangs are fixed and they can't change the size of the venom orifice, "so basic fluid dynamics would lead you to think that the pattern of the fluid should be fixed," explains Young.
+But Young had also noticed that the snakes 'wiggled' their heads just before letting fly. "The question became how do we reconcile those two things," says Young, who publishes his discovery that the snakes initially track their victim's movement and then switch to predicting where the victim is going to be 200 milliseconds in the future in the Journal of Experimental Biology.
+Young remembers that Guido Westhoff had also noticed the spitting cobra's "head wiggle," so he and his research assistant, Melissa Boetig, traveled to Horst Bleckmann's lab in the University of Bonn, Germany, to find out how spitting cobras fine-tune their venom spray. The team had to find out how a target provokes a cobra to spit, and Young was the man for that job, "I just put on the goggles and the cobras start spitting all over," laughs Young.
+Wearing a visor fitted with accelerometers to track his own head movements while Boetig and Westhoff filmed the cobra's movements at 500 frames/s, Young stood in front of the animals and taunted them by weaving his head about. Over a period of 6 weeks, the team filmed over 100 spits before trying to discover why Young was so successful at provoking the snakes.
+Analyzing Young's movements, only one thing stood out; 200 ms before the snake spat, Young suddenly jerked his head. The team realized that Young's head jerk was the spitting trigger. They reasoned that the snake must be tracking Young's movements right up to the instant that he jerked his head and that it took a further 200 ms for the snake to react and fire off the venom.
+But Young was still moving after triggering the snake into spitting and the snake can't steer the stream of venom, so how was the cobra able to successfully hit Young's eyes if it was aiming at a point where the target had been 200 ms previously? Realigning the data to the instant when Young jerked his head, the team compared all of the snakes' head movements and noticed that the cobras were all moving in a similar way. They accelerated their heads in the same direction that Young's eyes were moving. "Not only does it speed up but it predicts where I am going to be and then it patterns its venom in that area," explains Young.
+So spitting cobras defend themselves by initially tracking an aggressor's movements. However, at the instant that an attacker triggers the cobra into spitting, the reptile switches to predicting where the attacker's eyes will be 200 ms in the future and aims there to be sure that it hits its target.
+Recommend this story on Facebook, Twitter, and Google +1:
+
+
+
+
+
+
+
+
+
+
+Other bookmarking and sharing tools:
+
+
+
+
+
+
+
+
+
+
+
+
+|
+More
+
+
+
+
+
+Story Source:
+The above story is reprinted (with editorial adaptations by ScienceDaily staff) from materials provided by Journal of Experimental Biology, via EurekAlert!, a service of AAAS. The original article was written by Kathryn Knight.
+
+
+Journal Reference:
+
+Westhoff, G., Boetig, M., Bleckmann, H. and Young, B.A. Target tracking during venom 'spitting' by cobras. Journal of Experimental Biology, 2010; 213: 1797-1802 [link]
+
+
+
+
+Need to cite this story in your essay, paper, or report? Use one of the following formats:
+
+
+ APA
+ MLA
+							
+
+
+
+
+
+
+Note: If no author is given, the source is cited instead.
+
+Disclaimer: Views expressed in this article do not necessarily reflect those of ScienceDaily or its staff.
+
+
+
+enlarge
+
+Spitting cobra. (Credit: iStockphoto)
+
+
+Related Stories
+
+
+
+Here's Venom In Your Eye: Spitting Cobras Hit Their Mark (Jan. 26, 2009)  Spitting cobras have an exceptional ability to spray venom into eyes of potential attackers. A new study reveals how these snakes maximize their chances of hitting the target. Using high-speed ...  > read more Cone of Poison: The Secret Behind the Cone Snail's Venom Pump (Oct. 29, 2010)  Scientists have discovered the secret of how an amazing sea snail injects its venom after shooting a harpoon-like tooth into its prey -- or some unlucky swimmer -- at jetliner speeds. The creatures, ...  > read more 
+Snakebites a Public Health Problem in Africa (Sep. 10, 2011)  One and a half million people per year are poisoned by snake venom in Sub-Saharan Africa. An IRD researcher recently analysed around 100 surveys and medical reports published over the past 40 years. ...  > read more 
+Biophysics of Snakebites: How Do Venomous Snakes Inject Venom Into Victim's Wound? (May 16, 2011)  Most snakes do not inject venom into their victims bodies using hollow fangs, contrary to common misconceptions. The fact is that most snakes and many other venomous reptiles have no hollow fangs. ...  > read more 
+Snake Venom Tells Tales About Geography (July 15, 2008)  Just as people give away their origins by that southern drawl or New England twang, venomous snakes produce venom that differs distinctly from one geographic area to another, the first study of the ...  > read more
+
+
+
+
+
+Search ScienceDaily
+Number of stories in archives: 108,669
+
+
+
+
+Find with keyword(s):
+
+ 
+						 
+
+
+Enter a keyword or phrase to search ScienceDaily's archives for related news topics, the latest news stories, reference articles, science videos, images, and books.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Just In:
+New Species of Ancient Predatory Fish
+'Trojan Horse' Kills Ovarian Cancer Cells
+Mitosis: Surprises in Cell Division Exposed
+Brain Areas Link Voice and Face Recognition
+Sea Urchins See With Their Whole Body
+Famous Optical Illusion Surprisingly Potent
+Sea Levels Much Less Stable Than Thought
+Tiny Teeth Indicate Ancient Shark Nurseries
+ 
+
+
+  more breaking science news
+Social Networks
+
+Recommend this story on Facebook, Twitter, and Google +1:
+
+
+
+
+
+
+
+
+
+
+Other bookmarking and sharing tools:
+
+
+
+
+
+
+
+
+
+
+
+
+|
+More
+
+
+
+
+
+
+
+
+
+Science Video News
+
+
+
+High Tech Crime Fighting Tool
+Engineers at the University of Virginia  have developed a new program, called web-cat, that allows police to easily access crime data online -- and. ...  > full story
+
+
+Astronomy Students Find 1,300 New Asteroids
+Physiologists Investigate The Role Of Perception In Motion Sickness
+Improving Accuracy Of Hurricane Forecasts
+more science videos
+
+
+
+
+
+
+Breaking News
+... from NewsDaily.com
+
+
+
+
+
+
+
+
+
+
+
+Superstrong spider skin: Art or scientific miracle?
+Rocket lifts off with satellites to probe moon
+Defunct 6-ton satellite crashing back to Earth
+Scientists find gene that controls chronic pain
+Rocket failure exposes space station vulnerability
+more science news
+
+In Other News ...
+
+Greek default jitters hammer French banks, euro
+Obama urges no "political games" on jobs plan
+Chipmaker Broadcom to buy NetLogic for $3.7 billion
+Warren Buffett picks another little-known successor
+Exclusive: Holiday shoppers plan to spend less this year
+Russia resists Syria sanctions, U.N. says 2,600 dead
+BofA looking to cut $5 billion in annual costs
+European crisis spurs flight to safety
+more top news
+
+
+Copyright Reuters 2008. See Restrictions.
+Free Subscriptions
+... from ScienceDaily
+
+
+Get the latest science news with our free email newsletters, updated daily and weekly. Or view hourly updated newsfeeds in your RSS reader:
+
+Email Newsletters
+RSS Newsfeeds
+
+
+Feedback
+... we want to hear from you!
+
+
+Tell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?
+
+
+
+
+Your Name:
+
+
+
+Your Email:
+
+
+
+Comments:
+
+
+
+Click button to submit feedback:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Save
+ Email
+ Print
+ Share
+
+
+
+
+ 
+
+
+
+
+About ScienceDaily®  |  Editorial Staff  |  Awards & Reviews  |  Contribute News  |  Advertise With Us  |  Privacy Policy  |  Terms of Use
+Copyright © 1995-2011 ScienceDaily LLC  —  All rights reserved  —  Contact: editor@sciencedaily.com
+		Note: This web site is not intended to provide medical advice, diagnosis or treatment.
+Part of the iVillage Your Total Health Network
+
+
+
+
+
+Health & Medicine
+
+Allergy
+Alternative Medicine
+Bird Flu
+Birth Control
+Breast Cancer
+Cancer
+Diabetes
+Diet and Weight Loss
+Diseases and Conditions
+Fitness
+Gene Therapy
+Heart Disease
+HIV and AIDS
+Lung Cancer
+Men's Health
+Nutrition
+Obesity
+Pharmacology
+Pregnancy and Childbirth
+Sexual Health
+Skin Care
+Stem Cells
+Women's Health
+... more topics
+
+
+Mind & Brain
+
+ADD and ADHD
+Addiction
+Alzheimer's
+Anxiety
+Autism
+Depression
+Gender Difference
+Headaches
+Insomnia
+Intelligence
+Language Acquisition
+Parkinson's
+Perception
+Psychology
+Relationships
+Schizophrenia
+Social Psychology
+... more topics
+
+
+Plants & Animals
+
+Agriculture and Food
+Animals
+Behavior
+Biology
+Biotechnology
+Cell Biology
+Cloning
+Developmental Biology
+Dogs
+Dolphins and Whales
+Endangered  Animals
+Extinction
+Frogs and Reptiles
+Genetically Modified
+Marine Biology
+Microbes and More
+Nature
+New Species
+Pests and Parasites
+Spiders
+Zoology
+... more topics
+
+
+Earth & Climate
+
+Air Quality
+Climate
+Coral Reefs
+Earthquakes
+Ecology
+Environmental Science
+Geography
+Geology
+Global Warming
+Hurricanes and Cyclones
+Ice Ages
+Oceanography
+Ozone Holes
+Pollution
+Renewable Energy
+Tsunamis
+Weather
+Wildfires
+... more topics
+
+
+Space & Time
+
+Astronomy
+Astrophysics
+Big Bang
+Black Holes
+Dark Matter
+ESA
+Extrasolar Planets
+Mars
+Moon
+NASA
+Pluto
+Saturn
+Solar System
+Space Missions
+Space Station
+Space Telescopes
+Stars
+Sun
+... more topics
+
+
+Matter & Energy
+
+Alternative Fuels
+Aviation
+Biochemistry
+Biometric
+Chemistry
+Detectors
+Electronics
+Energy Technology
+Forensics
+Fossil Fuels
+Inorganic Chemistry
+Nanotechnology
+Organic Chemistry
+Physics
+Quantum Physics
+Solar Energy
+Technology
+Wind Energy
+... more topics
+
+
+Computers & Math
+
+Artificial Intelligence
+Communications
+Computer Graphics
+Computer Modeling
+Computer Science
+Encryption
+Hacking
+Mathematics
+Quantum Computers
+Robotics
+Software
+Statistics
+Video Games
+Virtual Reality
+... more topics
+
+
+Fossils & Ruins
+
+Ancient Civilizations
+Anthropology
+Archaeology
+Dinosaurs
+Early Climate
+Early Humans
+Early Mammals
+Evolution
+Human Evolution
+Lost Treasures
+Origin of Life
+Paleontology
+Tyrannosaurus Rex
+... more topics
+
+
+
+
+
+
+
+  
+
+
+News
+
+Front Page
+Today's Summaries
+Latest Headlines
+Top News
+Search Archives
+Living Well
+Strange Science
+Most Popular
+RSS Newsfeeds
+Email Newsletters
+News Sections
+Health & Medicine
+Mind & Brain
+Plants & Animals
+Space & Time
+Earth & Climate
+Matter & Energy
+Computers & Math
+Fossils & Ruins
+Science & Society
+
+
+Articles
+
+
+Health & Medicine
+Mind & Brain
+Plants & Animals
+Space & Time
+Earth & Climate
+Matter & Energy
+Computers & Math
+Fossils & Ruins
+Science & Society
+
+
+
+Videos
+
+
+Health & Medicine
+Mind & Brain
+Plants & Animals
+Space & Time
+Earth & Climate
+Matter & Energy
+Computers & Math
+Fossils & Ruins
+Science & Society
+
+
+
+Images
+
+
+Health & Medicine
+Mind & Brain
+Plants & Animals
+Space & Time
+Earth & Climate
+Matter & Energy
+Computers & Math
+Fossils & Ruins
+Science & Society
+
+
+
+Books
+
+
+Health & Medicine
+Mind & Brain
+Plants & Animals
+Space & Time
+Earth & Climate
+Matter & Energy
+Computers & Math
+Fossils & Ruins
+Science & Society
+
+
+
+
+
+
+
+
+
+Post this page to your favorite social bookmarking site:
+close
+
+
+
+del.icio.us
+Digg
+Furl
+Netscape
+Yahoo! My Web
+StumbleUpon
+Google Bookmarks
+Technorati
+BlinkList
+Newsvine
+ma.gnolia
+reddit
+Facebook
+Tailrank
+Slashdot
+Fark
+
+
+
+
+
+Include this item in your blog or web site:
+close
+
+
+
+
+
+Title:
+
+
+
+Link:
+
+
+
+Summary:
+
+
+
+Click button to copy above text for pasting into your site:
+
+
+
+
+
+
+
+
+Cite this article in your essay, paper, or report:
+close
+
+
+
+
+
+APA style:
+
+
+
+
+MLA style:
+
+
+
+
+Click button to copy above text for pasting into your document:
+
+
+
+
+
+
+
+
+Email this page's link to a friend or colleague:
+close
+
+
+
+
+
+To Email:
+
+
+
+Your Name:
+
+
+
+Your Email:
+
+
+
+cc to self
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

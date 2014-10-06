@@ -1,0 +1,3160 @@
+Netflix Streaming Limit Reportedly Allows Only One Movie At A Time (UPDATE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HuffPost's QuickRead...
+
+
+
+
+Loading...
+
+ 
+
+
+
+
+
+
+
+
+
+
+HuffPost's QuickRead...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	EDITION: U.S.	
+
+CA Canada
+		
+
+US United States
+		
+
+UK United Kingdom
+		
+
+
+
+
+
+Yahoo!AppleBlackberryFacebook
+
+
+Smarter Ideas More
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|
+
+
+Sign Out
+
+
+
+
+
+
+
+
+  
+
+
+    September 8, 2011    
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Like
+
+
+
+25K
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+CONNECT
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FRONT PAGE
+
+
+UK
+U.S.
+CANADA
+
+
+
+
+POLITICS
+
+
+POLITICS
+HUFFPOST HILL
+2012 ELECTIONS
+
+
+GREEN
+POLLSTER
+SPECULATRON
+
+
+
+
+BUSINESS
+
+
+DAILYFINANCE
+SMALL BUSINESS
+AUTOBLOG
+
+
+REAL ESTATE
+JOBS
+THE WATCHDOG
+
+
+
+
+ENTERTAINMENT
+
+
+CELEBRITY
+ENTERTAINMENT
+MUSIC
+
+
+MOVIES
+TV
+GAMES.COM
+
+
+
+
+TECH
+
+
+HUFFPOST TECH
+ENGADGET
+APPLE BLOG
+
+
+TECHCRUNCH
+JOYSTIQ
+TRANSLOGIC
+
+
+
+
+MEDIA
+
+
+LIFE & STYLE
+
+
+STYLE NEWS
+FOOD
+DIVORCE
+TRAVEL
+IMPACT
+
+
+STYLELIST
+RECIPES
+RELIGION
+GREEN
+HOME/DIY
+
+
+
+
+CULTURE
+
+
+ARTS
+PARENTS
+TRAVEL
+COLLEGE
+
+
+RELIGION
+IMPACT
+BOOKS
+EDUCATION
+
+
+
+
+COMEDY
+
+
+URLESQUE
+
+
+
+
+HEALTHY LIVING
+
+
+BODY
+SPIRIT
+
+
+MIND
+HEALTH NEWS
+
+
+
+
+WOMEN
+
+
+HEALTHY LIVING
+PARENTS
+
+
+
+
+LOCAL
+
+
+NEW YORK
+SAN FRANCISCO
+DENVER
+PATCH
+
+
+CHICAGO
+LOS ANGELES
+TRAVEL
+MAPQUEST
+
+
+
+
+MORE
+
+
+BLACKVOICES
+SPORTS
+WORLD
+EDUCATION
+
+
+LATINOVOICES
+COLLEGE
+CRIME
+WEIRD NEWS
+
+
+
+
+
+
+
+
+
+
+
+TECHNOLOGY 
+ENGADGET
+TECHCRUNCH
+JOYSTIQ
+SOCIAL MEDIA
+APPLE BLOG
+TRANSLOGIC
+CRUNCHBASE
+WOMEN IN TECH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																				Netflix Streaming Limit Reportedly Allows Only One Movie At A Time (UPDATE)
+									
+
+
+
+
+
+
+The Huffington Post
+ 
+Jason O. Gilbert
+ 
+
+																		First Posted: 9/7/11 10:15 AM ET Updated: 9/7/11 12:07 PM ET									
+									
+
+
+
+
+
+
+React
+
+
+
+
+
+Inspiring
+Funny
+Obsolete
+Scary
+Must-Have
+Amazing
+Innovative
+Nerdy
+
+
+
+
+Follow
+
+
+
+
+
+
+ 
+
+														Netflix
+													
+
+											
+										, 																							
+ 
+
+														Video
+													
+
+											
+										, 											
+													
+														Netflix Stream
+													
+											
+										, 											
+													
+														Netflix Instant Limit
+													
+											
+										, 											
+													
+														Netflix Streaming Caps
+													
+											
+										, 											
+													
+														Netflix Streaming Limits
+													
+											
+										, 											
+													
+														Netflix Streaming One At a Time
+													
+											
+										,
+									
+ Technology News
+
+
+
+
+
+
+  
+
+
+
+share this story
+
+
+
+
+
+
+
+
+
+
+				Get Technology Alerts
+				
+
+
+Sign Up
+
+
+
+Submit this story
+
+
+digg
+reddit
+stumble
+
+
+
+
+
+
+
+
+UPDATE: 
+In an email to tech website GigaOM, Netflix denied that they were limiting users to one stream-per-account. They wrote:
+“No Netflix member is limited to less than two concurrent streams. A few Netflix members have heard differently from us, which is an error that we are correcting.”
+
+Good news for families and friends sharing accounts, if true.
+ORIGINAL STORY:
+
+Call up your mom, your dad, your roommates, your neighbors and anyone else you're sharing your Netflix account with. The company is apparently only allowing customers to stream one movie at a time per account.
+According to the Internet watchdogs at Stop The Cap, several Netflix users have reported seeing an error message when trying to watch a movie at the same time as someone who shares their account. Here is a screen capture of the horrific error message:
+
+A simple Google search shows that the error message has been showing up as far back as 2009, though Stop The Cap claims that the limit is now being enforced more heavily. Mashable says that the rules only apply to movies: In their tests, they were able to watch two television shows at once, and a movie and a TV show at the same time, but not two movies. (And, as you can see in the screenshot above, the error message does specify to stop playing one "movie"). 
+From the Netflix Help Desk, here are the rules on the number of streams you can watch at once:
+Some membership plans allow you to watch simultaneously on more than one personal computer or Netflix-ready device. If you are on the Unlimited Streaming plan, the Unlimited Streaming + 1 DVD out-at-a-time plan or a limited streaming plan, you may watch only one device at a time.
+If you are on the Unlimited Streaming + 2 DVDs out-at-a-time plan, you may watch on up to two devices at a time. Members on the Unlimited Streaming + 3 DVDs out-at-a-time plan may watch on up to three devices at a time. The maximum is four devices at a time -- available for members on the Unlimited Streaming + 4-or greater DVDs out-at-a-time plan.
+
+This news on streaming limits comes during a busy week for Netflix. They have started their expansion into 43 Spanish and Portuguese-speaking countries, including Brazil and Mexico, hot on the heels of letting Starz walk away from the table on contract renewal negotiations, which means that Netflix will lose about 1,000 Starz movies from its Instant Play streaming library in February 2012. 
+Netflix has not made any official announcement about these reports of streaming caps; their public relations page is currently non-existent, but when it reappears, we'll reach out for a statement and update here.
+If you share your Netflix account with another person or several people, we want to hear from you. Have you noticed Netflix enforcing a streaming limit for movies? Let us know in the comments. 
+
+
+
+
+
+
+					FOLLOW HUFFPOST TECH
+ON
+
+
+Facebook:
+
+
+
+
+
+
+Like
+
+
+
+25K
+
+
+
+
+ 
+
+
+
+Twitter:
+
+
+
+
+
+GET  ALERTS
+
+
+
+
+  		CONTRIBUTE
+  		TO THIS STORY
+
+
+
+
+Send Corrections
+
+
+
+
+Send us a Link
+
+
+
+
+Contact us
+
+
+
+
+
+
+Send a Tip
+
+
+
+
+Send Photos/Videos
+
+
+
+
+Comment
+
+
+
+
+
+ 
+
+
+
+  
+
+
+
+
+
+
+Video
+
+
+Netflix
+
+
+
+
+				UPDATE: 
+
+In an email to tech website GigaOM, Netflix denied that they were limiting users to one stream-per-account. They wrote:
+
+“No Netflix member is limited to less than two concurrent strea...			
+
+				UPDATE: 
+
+In an email to tech website GigaOM, Netflix denied that they were limiting users to one stream-per-account. They wrote:
+
+“No Netflix member is limited to less than two concurrent strea...			
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+
+Around the Web:
+  Netflix Now Enforcing Limit of One Movie Stream at a Time Netflix - Unlimited TV Shows & Movies. How Does It Work?
+
+
+
+
+
+
+
+
+More in Technology...
+
+
+
+IFA 2011: The Best Gadgets From Berlin's...Solar Flare Unlikely To Cause Problems, National...Facebook Revenue For First-Half 2011 DoublesTaser Axon, An On-Officer Head Camera, Wants...
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+401
+Pending Comments
+5
+View FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login or connect with: 
+
+
+
+
+
+
+More Login Options
+
+
+
+
+
+
+Login with:
+
+
+
+
+
+
+
+
+
+
+You must be logged in to comment.
+
+
+
+
+
+
+Post Comment
+Preview Comment
+
+To reply to a Comment: 
+					Click "Reply" at the bottom of the comment; after being approved your comment will appear directly underneath the comment you replied to.
+				
+
+
+
+
+Share your Comment:
+
+
+Post to Facebook.
+
+
+
+
+
+Post to Blogger.
+
+
+
+
+
+Post to Twitter.
+
+
+
+
+
+Post to WordPress.
+
+
+
+
+
+Post to TypePad.
+
+
+
+
+
+Post to Tumblr.
+
+
+
+
+
+Post to Yahoo!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View All
+
+
+
+Favorites
+
+
+
+
+
+
+
+
+
+Recency
+							 | 
+						
+
+Popularity
+
+
+ Page: 1 2 3 4 5
+			 Next ›
+			 Last »
+			  (10 total)  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+HUFFPOST SUPER USER
+NonPrawf
+
+							My life fits in one sentence.						
+
+185 Fans
+
+
+
+
+
+
+					44 minutes ago (12:06 AM)				
+
+																												
+				I will send Netflix my hate mail.			
+
+
+
+
+
+NonPrawf: I will send Netflix my hate mail.
+http://www.huffingtonpost.com/social/NonPrawf/netflix-streaming-limit_n_951880_106907622.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Kenee0034
+
+
+
+20 Fans
+
+
+
+
+
+
+					60 minutes ago (11:50 PM)				
+
+																												
+				I don't have a problem my kids stream to their computer and I stream to my IPAD at the same time.			
+
+
+
+
+
+Kenee0034: I don't have a problem my kids stream to their
+http://www.huffingtonpost.com/social/Kenee0034/netflix-streaming-limit_n_951880_106905859.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Mel Rook
+
+
+
+46 Fans
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+					1 hour ago (11:47 PM)				
+
+																												
+				I was attempting to stream every episode of Louie Season One on every device I have so I could watch them all at the same time and... oh wait it's working. Be back in an half hour.			
+
+
+
+
+
+Mel_Rook: I was attempting to stream every episode of Louie Season
+http://www.huffingtonpost.com/social/Mel_Rook/netflix-streaming-limit_n_951880_106905429.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+kissthecrook
+
+
+
+1 Fans
+
+
+
+
+
+
+					1 hour ago (11:41 PM)				
+
+																												
+				I am streaming only, now,
+and still love the service.			
+
+
+
+
+
+kissthecrook: I am streaming only, now, and still love the service.
+http://www.huffingtonpost.com/social/kissthecrook/netflix-streaming-limit_n_951880_106904785.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+RussT
+
+							A system of reward, not entitlements.						
+
+753 Fans
+
+
+
+
+
+
+					2 hours ago (11:05 PM)				
+
+																												
+				Seems like lately there has been a campaign on here to smear Netflix. I am curious to know who is profiting off of this smear campaign and for what purpose?			
+
+
+
+
+
+RussT: Seems like lately there has been a campaign on here
+http://www.huffingtonpost.com/social/RussT/netflix-streaming-limit_n_951880_106900048.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+HUFFPOST SUPER USER
+emmeaki
+
+
+
+114 Fans
+
+
+
+
+
+
+					2 hours ago (11:02 PM)				
+
+																												
+				No matter how good something is, people will always complain.			
+
+
+
+
+
+emmeaki: No matter how good something is, people will always complain.
+http://www.huffingtonpost.com/social/emmeaki/netflix-streaming-limit_n_951880_106899719.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+nelgom
+
+
+
+14 Fans
+
+
+
+
+
+
+					2 hours ago (10:54 PM)				
+
+																												
+				Well, Netflix...­it was a good run. I'm canceling my membership as soon as this period ends. I was going to cancel today but it turns out you stop the streaming immediatel­y even though I paid for a month. I have to say that watching this company go down is fascinatin­g. It all started for me when all of a sudden they released one of the worst updates in app history. I mean, the user experience was terrible. How can you go from an app with mostly 5 stars to mostly 1 stars. Bye bye.			
+
+
+
+
+
+nelgom: Well, Netflix...it was a good run. I'm canceling my membership
+http://www.huffingtonpost.com/social/nelgom/netflix-streaming-limit_n_951880_106898547.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+fatuglynerd
+
+							Gay FSM Socialist ... Your worst nightmare!						
+
+381 Fans
+
+
+
+
+
+
+					2 hours ago (10:46 PM)				
+
+																												
+				Someone really has it out for Netflix ... the media bashing continues ...
+
+I wonder which influentia­l person has vested interest in RedBox ...			
+
+
+
+
+
+fatuglynerd: Someone really has it out for Netflix ... the media
+http://www.huffingtonpost.com/social/fatuglynerd/netflix-streaming-limit_n_951880_106897309.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Kyuzo
+
+
+
+163 Fans
+
+
+
+
+
+
+					21 minutes ago (12:29 AM)				
+
+																												
+				AOL is partnered with Hulu.  These articles are a conflict of interest.			
+
+
+
+
+
+Kyuzo: AOL is partnered with Hulu. These articles are a conflict
+http://www.huffingtonpost.com/social/Kyuzo/netflix-streaming-limit_n_951880_106909986.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Simon Byrd
+
+
+
+10 Fans
+
+
+
+
+
+
+					2 hours ago (10:41 PM)				
+
+																												
+				Can't some enterprisi­ng coder fix it so it says "There IS 1 movie being watched.."­?			
+
+
+
+
+
+Simon_Byrd: Can't some enterprising coder fix it so it says "There
+http://www.huffingtonpost.com/social/Simon_Byrd/netflix-streaming-limit_n_951880_106896508.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+BrwnSknGurl4
+
+							We are what we repeatedly do.						
+
+135 Fans
+
+
+
+
+
+
+					2 hours ago (10:30 PM)				
+
+																												
+				What Netflix NEEDS to fix is the very poor and limited movie selection?  This weekend, I attempted to watch "The Departed", "The Blind Side" and "Akeelah & the Bee".  Come on -- not one of them was available!­! WTF?  We rarely use this feature because it's pretty useless...			
+
+
+
+
+
+BrwnSknGurl4: What Netflix NEEDS to fix is the very poor and
+http://www.huffingtonpost.com/social/BrwnSknGurl4/netflix-streaming-limit_n_951880_106894875.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Euges
+
+
+
+8 Fans
+
+
+
+
+
+
+					2 hours ago (11:05 PM)				
+
+																												
+				Maybe you should write to the film studios, they are the ones that decide what movies can be stream when.			
+
+
+
+
+
+Euges: Maybe you should write to the film studios, they are
+http://www.huffingtonpost.com/social/Euges/netflix-streaming-limit_n_951880_106900066.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Razzer
+
+							When the moon is in the 7th house, and Zyra collid						
+
+348 Fans
+
+
+
+
+
+
+					2 hours ago (10:27 PM)				
+
+																												
+				Yet another Netflix conspiracy story?? What grudge does HuffPo have against Netflix?  
+
+This  progressiv­e feels a business has market protection­s in this country, so it can set terms on what it is willing to offer for a fair price.  That's why I promote and support government regulation of the business environmen­t:  level playing field, predictabl­e rules, promote fair market practices for both the businesses and consumers.
+
+What in the world is improper with offering a tiered subscripti­on pricing?  Every subscripti­on-based business does:  Cable TV.  Print journalism­.  Software subscripti­ons like antivirus products.  Netflix' subscripti­on works the same way.
+
+It would never enter my head that my $8/month lets me slice up and subdivide my subscripti­on and start handing it out like candy to neighbors and friends.  There's a word for that: greed. 
+
+If a subscriber gets multiple streams for the price of one, it disproport­ionately uses more server and bandwidth resources than they pay for, and competes unfairly with you and me.			
+
+
+
+
+
+Razzer: Yet another Netflix conspiracy story?? What grudge does HuffPo have
+http://www.huffingtonpost.com/social/Razzer/netflix-streaming-limit_n_951880_106894395.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Ming the Merciless
+
+
+
+22 Fans
+
+
+
+
+
+
+					3 hours ago (10:02 PM)				
+
+																												
+				lol it looks like NetFlix quickly fixed the "error", can't blame them, they are in damage control mode the last thing they need now is another negative news			
+
+
+
+
+
+Ming_the_Merciless: lol it looks like NetFlix quickly fixed the "error", can't
+http://www.huffingtonpost.com/social/Ming_the_Merciless/netflix-streaming-limit_n_951880_106890375.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+HUFFPOST SUPER USER
+jflorish
+
+
+
+57 Fans
+
+
+
+
+
+
+					3 hours ago (9:52 PM)				
+
+																												
+				Sounds like a smart move by them, they are trying to run a business.			
+
+
+
+
+
+jflorish: Sounds like a smart move by them, they are trying
+http://www.huffingtonpost.com/social/jflorish/netflix-streaming-limit_n_951880_106888646.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Mr Harry Koch
+
+
+
+11 Fans
+
+
+
+
+
+
+					3 hours ago (9:29 PM)				
+
+																												
+				Good Lord! for $8 how many streams do you want at the same time?  They are a corporatio­n and they have to make money... get a grip.			
+
+
+
+
+
+Mr_Harry_Koch: Good Lord! for $8 how many streams do you want
+http://www.huffingtonpost.com/social/Mr_Harry_Koch/netflix-streaming-limit_n_951880_106884556.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+LinkFish
+
+
+
+18 Fans
+
+
+
+
+
+
+					1 hour ago (11:46 PM)				
+
+																												
+				They are a PERSON and they have to make money.
+
+Fixed your post.			
+
+
+
+
+
+LinkFish: They are a PERSON and they have to make money.
+http://www.huffingtonpost.com/social/LinkFish/netflix-streaming-limit_n_951880_106905312.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+HUFFPOST SUPER USER
+Theangryathiest
+
+
+
+27 Fans
+
+
+
+
+
+
+					4 hours ago (9:04 PM)				
+
+																												
+				Two movies at once?  How about just one movie anywhere?  I can neither stream, nor get a movie sent, to Costa Rica from my U.S. account.  So much for globalizat­ion.  Appalling - the executive that made that decision obviously suffers from an ethnocentr­ic complex.			
+
+
+
+
+
+Theangryathiest: Two movies at once? How about just one movie anywhere?
+http://www.huffingtonpost.com/social/Theangryathiest/netflix-streaming-limit_n_951880_106880378.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Kyuzo
+
+
+
+163 Fans
+
+
+
+
+
+
+					19 minutes ago (12:31 AM)				
+
+																												
+				The film studios dictate the distributi­on, not Netflix.			
+
+
+
+
+
+Kyuzo: The film studios dictate the distribution, not Netflix.
+http://www.huffingtonpost.com/social/Kyuzo/netflix-streaming-limit_n_951880_106910135.html
+
+
+								History
+							 |
+						
+
+							Permalink
+						
+												 |						
+							Share it
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+ Page: 1 2 3 4 5
+			 Next ›
+			 Last »
+			  (10 total)  
+
+
+
+
+
+ new comment(s) on this entry — Click to refresh
+
+
+
+
+
+		Loading comments…
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+PHOTO GALLERIES
+
+
+
+
+
+
+
+
+
+
+
+
+
+			            	Best Of Summer Tech Fair			            
+
+
+
+
+
+
+			            	Twitter, Bing Tweets Announce Renewal Of...			            
+
+
+
+
+
+
+			            	Who Will Helm Yahoo?			            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with your friends
+
+
+Check out stories you might like,  and see what your friends are sharing!
+
+
+
+
+
+
+
+
+
+
+
+
+Loading twitter module...
+
+
+
+
+
+
+
+
+
+
+Most Popular on HuffPost
+
+
+
+wslVMyzErO47ERvCjxdc21xmYraJu%2Bg67H5vsoOtkWImZVwjCPoQkdGYAQ8I9Q5JRfNC4vDhE2eAgfMAgZYLd%2BgXbCRz%2Bb0k
+ttPk2g%2FN644fypsrP6oxRiZgYwrHVW9Np7D5dRhe%2FCEtlNCnlLH%2FEFfzC%2B5Tvdu6Cu2KAT8yyRbopE0yBPSApmxRYIyRxz%2Bz
+
+
+
+1 of 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHOTOS: Evan Rachel Wood Beauty Evolution
+
+
+
+
+
+
+Like
+
+
+
+362
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHOTOS: Pippa Middleton's Year Of Style
+
+
+
+
+
+
+Like
+
+
+
+250
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kate Gosselin's Worried About Life After 'Kate Plus 8'
+
+
+
+
+
+
+Like
+
+
+
+546
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moviefone Blog: The Sexiest Woman of the Summer Is ... Mila Kunis
+
+
+
+
+
+
+Like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shelterpop: How to Get Rid of Roaches: Testing 8 Odd Ways
+
+
+
+
+
+
+Like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Story Template For Every iPhone 5 Release Rumor Ever
+
+
+
+
+
+
+Like
+
+
+
+546
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHOTOS: The World's Most Secluded Destinations
+
+
+
+
+
+
+Like
+
+
+
+1K
+
+
+
+
+
+
+
+
+
+
+
+
+
+AOL Music Blog: Did Beyonce Fake Her Baby Bump?!
+
+
+
+
+
+
+Like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AOL Music Blog: YouTube Video Compiles Every 'Baby' and 'Crazy' Britney Spears Has Uttered
+
+
+
+
+
+
+Like
+
+
+
+109
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don't Miss HuffPost Bloggers
+
+
+
+1 of 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jared Bernstein
+Romney’s Jobs Plan: Punts Short, Goes Long on Supply-Side Tax Cuts and Fiscal Austerity
+
+
+
+
+
+
+
+
+
+
+
+
+
+Al Gore
+Obama’s EPA: Confronting Disappointment
+
+
+
+
+
+
+
+
+
+
+
+
+
+Michael Vlahos
+Did We Lose the War?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bernard-Henri Lévy
+September 11th, Ten Years Later
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biz Stone
+Introducing The Biz and Livia Stone Foundation
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donna Karan
+A Woman’s Greatest Strength
+
+
+
+
+
+
+
+
+
+
+
+
+
+Susan Blumenthal, M.D.
+Non-Communicable Diseases (NCDs): The Costs of Omission from the MDGs Results in a September UN Summit
+
+
+
+
+
+
+
+
+
+
+
+
+
+Klaus Schwab
+Remembering Tragedy and Human Solidarity
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dean Baker
+Getting Those Republican Attacks Right
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robert Reich
+Tonight’s Republican Debate: The 19th Century or the Stone Age?
+
+
+
+ 
+
+
+
+
+
+
+
+
+TOP VIDEO PICKS
+
+
+1 of 11
+
+
+
+
+
+
+
+
+
+
+
+
+Google offices raided in South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Steve Job's Successor Tim Cook More Than Qualified for the Job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video Game Addict: Games Crowd Out Real Life 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOST DISCUSSED RIGHT NOW
+
+
+2RgnQXLokElFimSGDV8i8a43pip0bdKP
+iJKomeBLqmM3QvAVQ0trgKQA9zRBn5c9
+
+
+
+1 of 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forecasters: New Solar Flare Won't Cause Problems
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook Facing Lawsuit After 12-Year-Old Girl Posts Lewd Photos
+
+
+
+
+
+ 
+
+
+
+
+
+HOT ON FACEBOOK
+
+
+2RgnQXLokElFimSGDV8i8TKPvBq8xPkmgYINREC4w8w%3D
+iJKomeBLqmM3QvAVQ0trgPTAYkCdRanfpr%2BnvSQA9QM%3D
+jpeKJKgSs0bJPlRX0pV4Fss35VaaM%2Fhsd5ArrOAf1yA%3D
+uD%2FL3QHpA0l6Tjsbj6VT2Q%3D%3D
+
+
+
+1 of 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+TVs, Tablets And Ducks! Oh My! The 11 Best Gadgets From Summer's Last Big Tech Expo 
+
+
+
+
+
+
+Like
+
+
+
+126
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Story Template For Every iPhone 5 Release Rumor Ever
+
+
+
+
+
+
+Like
+
+
+
+546
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+HUFFPOST'S BIG NEWS PAGES
+
+
+
+
+
+
+
+
+
+
+
+Models to Watch: New York Fashion Week Predictions
+
+
+
+Models
+
+
+
+
+
+
+
+
+Presidential Debate: Republican Candidates Face Off In California (FULL TEXT, VIDEO)
+
+
+
+Michele Bachmann 2012
+
+
+
+
+
+
+
+
+Libya: Gaddafi Offers Defiance In Call To Syrian TV
+
+
+
+Libya
+
+
+
+
+
+
+
+
+
+Rick Perry, Mitt Romney Locked In Cage Match On Social Security Following California Debate
+
+
+
+Social Security
+
+
+
+
+
+
+
+
+Obama Honors NASCAR: Jimmie Johnson, Jeff Gordon And Other Drivers At White House
+
+
+
+Motorsports
+
+
+
+
+
+
+
+
+Grace Jones at Studio 54, 1978: A Look Back
+
+
+
+Culture
+
+
+
+
+
+
+
+
+
+Tropical Storm Lee's Remnants Bring Fresh Flood Worries To East Coast
+
+
+
+Extreme Weather
+
+
+
+
+
+
+
+
+Paul Hamm Arrested: Olympic Champ Accused Of Assault In Ohio
+
+
+
+Olympics
+
+
+
+
+
+
+
+
+GOP Debate: Jon Huntsman 'The Best He's Ever Been'
+
+
+
+Tea Party
+
+
+
+
+more big news pages »
+			
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FRONT PAGE
+
+
+UK
+U.S.
+CANADA
+
+
+
+
+POLITICS
+
+
+POLITICS
+HUFFPOST HILL
+2012 ELECTIONS
+
+
+GREEN
+POLLSTER
+SPECULATRON
+
+
+
+
+BUSINESS
+
+
+DAILYFINANCE
+SMALL BUSINESS
+AUTOBLOG
+
+
+REAL ESTATE
+JOBS
+THE WATCHDOG
+
+
+
+
+ENTERTAINMENT
+
+
+CELEBRITY
+ENTERTAINMENT
+MUSIC
+
+
+MOVIES
+TV
+GAMES.COM
+
+
+
+
+TECH
+
+
+HUFFPOST TECH
+ENGADGET
+APPLE BLOG
+
+
+TECHCRUNCH
+JOYSTIQ
+TRANSLOGIC
+
+
+
+
+MEDIA
+
+
+LIFE & STYLE
+
+
+STYLE NEWS
+FOOD
+DIVORCE
+TRAVEL
+IMPACT
+
+
+STYLELIST
+RECIPES
+RELIGION
+GREEN
+HOME/DIY
+
+
+
+
+CULTURE
+
+
+ARTS
+PARENTS
+TRAVEL
+COLLEGE
+
+
+RELIGION
+IMPACT
+BOOKS
+EDUCATION
+
+
+
+
+COMEDY
+
+
+URLESQUE
+
+
+
+
+HEALTHY LIVING
+
+
+BODY
+SPIRIT
+
+
+MIND
+HEALTH NEWS
+
+
+
+
+WOMEN
+
+
+HEALTHY LIVING
+PARENTS
+
+
+
+
+LOCAL
+
+
+NEW YORK
+SAN FRANCISCO
+DENVER
+PATCH
+
+
+CHICAGO
+LOS ANGELES
+TRAVEL
+MAPQUEST
+
+
+
+
+MORE
+
+
+BLACKVOICES
+SPORTS
+WORLD
+EDUCATION
+
+
+LATINOVOICES
+COLLEGE
+CRIME
+WEIRD NEWS
+
+
+
+
+
+
+
+
+
+
+
+TECHNOLOGY 
+ENGADGET
+TECHCRUNCH
+JOYSTIQ
+SOCIAL MEDIA
+APPLE BLOG
+TRANSLOGIC
+CRUNCHBASE
+WOMEN IN TECH
+
+
+
+
+
+
+Advertise | 
+
+Make HuffPost your Home Page | 
+RSS | 
+Careers | 
+FAQ
+
+
+User Agreement | 
+Privacy | 
+Comment Policy | 
+About Us | 
+Contact Us
+
+
+Copyright © 2011 TheHuffingtonPost.com, Inc. | 
+"The Huffington Post" is a registered trademark of TheHuffingtonPost.com, Inc. All rights reserved.
+
+
+Part of AOL Tech
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HuffPost Lightbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+

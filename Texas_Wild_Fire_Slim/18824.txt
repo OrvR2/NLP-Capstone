@@ -1,0 +1,581 @@
+
+Amazon.com Help: Transferring, Downloading, and Sending Files to Kindle 
+
+
+
+
+
+
+
+
+
+
+
+
+
+amazon.com
+
+
+
+
+
+
+
+Hello.
+Sign in to get personalized recommendations.
+New customer? Start here.
+
+
+ 
+
+
+
+
+
+
+            FREE 2-Day Shipping: See details
+          
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Your Amazon.com
+ | 
+        Today's Deals
+ | 
+Gifts & Wish Lists
+ | 
+Gift Cards
+
+ 
+
+Your Digital Items
+ | 
+Your Account
+ | 
+Help
+
+
+
+
+
+
+
+
+Shop All Departments
+
+
+
+
+
+
+
+
+
+Search
+    All DepartmentsAmazon Instant VideoAppliancesApps for AndroidArts, Crafts & SewingAutomotiveBabyBeautyBooksCell Phones & AccessoriesClothing & AccessoriesComputersElectronicsGift CardsGrocery & Gourmet FoodHealth & Personal CareHome & KitchenIndustrial & ScientificJewelryKindle StoreMagazine SubscriptionsMovies & TVMP3 DownloadsMusicMusical InstrumentsOffice ProductsPatio, Lawn & GardenPet SuppliesShoesSoftwareSports & OutdoorsTools & Home ImprovementToys & GamesVideo GamesWatches     
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+Wish List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+     
+Help > Digital Products > Kindle Support > Kindle (Latest Generation) > Transferring, Downloading, and Sending Files to Kindle
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics
+
+Digital ProductsKindle SupportKindle (Latest Generation)New to Kindle? Start HereWireless on Your KindleTroubleshooting Your KindleShopping for Kindle ContentManaging Your Kindle on Amazon.comOrganizing Your Kindle ContentExperimental FeaturesTraveling with Your KindleUsing Kindle if You Live Outside the United StatesCustomize Your Reading on Kindle (Latest Generation)Giving Kindles and Kindle ContentManaging Your Kindle SubscriptionsTransferring, Downloading, and Sending Files to KindleKindle One-Year Limited Warranty
+Troubleshooting & User GuidesDiagnose your KindleDownload a User GuideTroubleshooting Wi-FiManage Your Kindle
+
+
+
+
+
+
+
+
+Other Help Areas
+Shipping & Delivery
+Changing or Canceling Orders
+Returns and Refunds
+Problem with an Order
+Payment, Pricing & Promotions
+Placing an Order
+Kindle
+Amazon MP3 Store & Cloud Player
+Amazon Instant Video
+Gifts, Gift Cards & Gift Registries
+Privacy, Security & Accessibility
+Site Features
+Ayuda en Espańol
+Selling at Amazon.com
+Author, Publisher & Vendor Guides
+Business Opportunities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Help:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transferring, Downloading, and Sending Files to Kindle
+
+
+
+Transferring Files to a New Kindle
+Downloading Archived Items From Kindle
+Transferring Periodical Subscriptions
+
+Downloading Archived Items Without a Wireless Connection
+
+
+
+Transferring Files via USB
+Sending Personal Documents to Kindle 
+Fees for Personal Document Service
+Downloading to Multiple Devices
+Files Kindle Recognizes
+
+
+
+
+
+
+Transferring Files to a New Kindle
+If you already own a Kindle and Kindle content, you can download content to  your new Kindle. Download your books directly from your new Kindle wirelessly  and transfer subscriptions from the Manage Your Kindle page.  Transfer personal documents, and MP3 and Audible files from your computer to  your new Kindle via USB.
+
+Downloading Archived Items From Kindle
+Kindle displays the items you've downloaded on the Home screen. If you have  Kindle content stored in your Kindle Library that isn't displayed, you can  download it from Archived Items when your Kindle's wireless connection is turned  on. Your purchases are also available for download on the Manage Your Kindle page.  Additional information is available on the Your  Kindle Library Content Help page.
+To download archived items:
+
+Select "Archived Items" from the Home screen or "View Archived Items" from the menu.
+Select the item from the Archived Items screen.
+
+Transferring Periodical Subscriptions
+To transfer a periodical subscription for delivery of future issues from one  Kindle to another, follow these steps: 
+
+From your       computer's web browser, go to the Manage Your Kindle page. 
+Scroll       down to the section entitled Your Active Kindle subscriptions. 
+Under       "Deliver future editions," select the Kindle to which you'd like       the subscription to be transferred, and then select "Save." 
+Upon       publication of the next issue, the periodical will appear in the       designated Kindle. 
+
+Downloading Archived Items Without a Wireless Connection
+If you are traveling outside your Free 3G service area, you can still  download your Kindle content purchased from Amazon.com to your computer and  transfer it via USB or Wi-Fi to your Kindle. To download items archived on  Amazon.com to your computer with Wi-Fi, press the Menu button and select Turn Wireless On. If a Wi-Fi network has  been set up and is within range, your Kindle will use the Wi-Fi connection by  default. If you need assistance  configuring your Wi-Fi network, visit the Wireless on Your Kindle Help page.
+To download items archived on Amazon.com to your computer:
+
+Visit the Manage Your Kindle page.
+Scroll to the "Your orders" section and locate the item you wish to download.
+Click on the "Deliver to" pull-down menu and select "Transfer via Computer."
+Select the Kindle your wish to transfer the file to and click the "Download to computer" button.
+Choose "Save file" when prompted by your Web browser.
+Follow the instructions in the Transferring Files Via USB section below to place the file on your Kindle.
+Click "Close" on the Manage Your Kindle page when the file is done downloading.
+
+Transferring Files Via USB
+Both Macintosh and Windows users can download and transfer Kindle content,  personal documents, and MP3 and Audible files from their computers to their  Kindles through the USB cable. When your Kindle is plugged into your  computer, your Kindle will appear as a removable mass-storage device. 
+Transferring Kindle Content Via USB
+Watch this video to learn how transfer content to your Kindle via USB.
+
+System Requirements
+Windows-based: Windows 2000 or later. Macintosh: Mac OS X 10.2 or later. USB port: An available port or an attached USB hub with an available port.  
+Downloading Kindle Content
+
+Open the Manage Your Kindle page. 
+You'll  see Your Kindle Library. To the right of the book title you want to transfer to  your Kindle, click Actions.
+
+    If you have not yet purchased the  book or periodical issue that you want to transfer to your Kindle via USB,  choose "Transfer via  Computer" when purchasing the content, then click "Buy now with 1-Click."
+
+
+    If you have more than one Kindle registered  to the account, you will see a pop-up window asking you to choose one of your registered devices.
+You may be prompted to       open or save the file; choose "Save" and select a location that is easy to       find again, such as the desktop. 
+Once the file has been       saved, connect your Kindle to your computer using the USB       cable. Plug the       larger end of the USB cable into an available USB port or a powered USB       hub connected to your computer, and the smaller end into your Kindle.
+
+
+When connected to your computer, your Kindle will go into USB drive mode and you won't be able to use the device. Your wireless service is temporarily  shut off and you will not receive any of your subscriptions while in this mode.  
+Your Kindle will appear in the same location as external USB drives usually appear. For Windows users, this is typically in the "Computer" or "My Computer" menu. For Mac users, the drive will appear on the desktop.
+
+Open the Kindle drive. You       will see several folders inside, one of which will be named "documents."       This is the folder you will move your downloaded Kindle content into.  You'll move any  MP3 files into the folder named "music."
+Locate your downloaded       file, and drag and drop it into the correct file. 
+Safely 
+  eject       your Kindle from your computer, then unplug the USB       cable. The file you transfered will now appear on your Kindle Home screen.
+
+Remember: Kindle will only recognize transferred files if:
+
+File types       are listed in the Files Kindle Recognizes section       below.
+  Files are       transferred to the correct folder for their type.
+  Files are       free of digital rights management software.
+
+Using Kindle While Charging Via USB
+You can continue charging your Kindle via USB and still use it by unmounting  or ejecting it to exit USB drive mode.
+
+Windows       Vista and 7: Click on the Start button, select       "Computer" from the options, right-click on the Kindle drive       icon and select "Eject" from the pop-up menu.  
+  Windows       XP: Right-click on the "Safely remove hardware"       icon in the lower left-hand corner of the task bar and follow the       on-screen instructions to remove Kindle.
+  Mac OS: Control-click on the Kindle device icon and choose "Eject."
+
+Kindle will then exit USB drive mode and display the Home screen. You'll see  a lightning bolt on the battery status icon that indicates your Kindle is still  charging. 
+Sending Personal Documents to Kindle 
+Kindle makes it easy to take your personal documents with you. Each Kindle  has a unique and customizable e-mail address you can set on your Manage Your Kindle page. You  can send unprotected Microsoft Word, PDF, HTML, TXT, RTF, JPEG, GIF, PNG, BMP,  PRC and MOBI files to your Kindle e-mail address. 
+To access your personal documents on your Kindle, send attachments  to your Kindle's e-mail address ("name"@free.kindle.com). The files  will be sent to your Kindle via the Wi-Fi connection and  also to the e-mail address associated with your Amazon.com account at no charge. You can use the "name"@kindle.com address for wireless delivery via the 3G network, or "name"@free.kindle.com for free delivery via Wi-Fi only, or to the e-mail address associated with your Amazon.com account.
+To have your PDF documents converted to Kindle format so you can take  advantage of functionality such as variable font size, annotation,  Text-to-Speech, etc., type "Convert" in the subject of the e-mail  when you submit your personal document to "name"@free.kindle.com.  Image-heavy PDF files are presented in landscape orientation and don't work  with devices that have auto-rotation, so those will be delivered in the Kindle  format.
+You can also transfer  personal documents to your Kindle at no charge using your USB connection. 
+You may send personal documents to a Kindle for your personal,  non-commercial use only.  You may not send or authorize the sending of documents from automated  distribution services. We may limit the volume or number of documents you may  send, download, or store. 
+Using your  Kindle's e-mail address: 
+When you register your Kindle, you'll automatically set up  two e-mail addresses you'll use to send files to your Kindle: "name"@free.kindle.com and "name"@kindle.com. You  can find this address from your Kindle's Home screen: Press the Menu button and  select Settings. Your Kindle's "name"@kindle.com e-mail address is listed under Device E-mail. Use the same name to also send  documents to your Kindle at "name"@free.kindle.com .
+
+
+
+
+
+  In general, send personal documents to your "name"@free.kindle.com address to wirelessly transfer personal documents to your Kindle over Wi-Fi as  well as to the e-mail address associated with your Amazon.com account at no  charge.
+If you are not able to  connect your Kindle via Wi-Fi, send your documents to your "name"@kindle.com address. The files will  be sent to your Kindle over Wi-Fi if available. If Wi-Fi is not available, the  files will be sent via 3G for a small fee. 
+To set up your Kindle's e-mail address:
+
+Visit the Manage Your Kindle page and sign in with       your Amazon.com account. 
+In the       Your Kindle Account section, select Manage Your Devices.
+In the       Kindle E-mail Address text field, change the first part of the e-mail       address to what you would like it to be. The @free.kindle.com and the @kindle.com       will automatically be appended. 
+Select       "Update information" to save your changes and close the text       entry box. 
+
+To set up approved "From" e-mail addresses:
+
+Visit the Manage Your Kindle page and sign in with      your Amazon.com account.
+Click on Personal Document Settings under Your Kindle Account.
+In the Approved Personal Document E-mail List section, select "Add a new approved e-mail address".
+Enter the e-mail       address and select "Add Address." 
+
+To send your personal documents: 
+
+Attach       your document to a new e-mail or forward an existing e-mail that has a       document attached. A subject is not necessary, unless you  want to convert your PDF documents to the Kindle  format. To convert your PDF document to the Kindle format, add "convert" in the subject line.
+Send the       e-mail to your Kindle e-mail address for wireless delivery directly to       your Kindle; if your Kindle has Wi-Fi enabled, it will be delivered to       your Kindle at no charge. A small       fee will be charged for the wireless delivery over 3G. 
+Personal       documents in supported file formats smaller than 5 MB sent to "name"@free.kindle.com are typically delivered to your e-mail address and to your Kindle, if your Kindle's Wi-Fi is connected,  within five       minutes (per document). Personal documents larger than 5 MB may take       longer.
+Personal       documents in supported file formats smaller than 5 MB  sent to "name"@free.kindle.com are typically ready       for wireless auto-delivery to your Kindle within five minutes (per       document), not including actual wireless download time, which will vary       with file size. Personal documents larger than 5 MB may take longer. 
+Personal       documents in some file formats (such as PDF files) may take longer. 
+Your       e-mail provider may have additional limitations on file size. 
+
+Keep in  mind:
+
+The file       size of each attached personal document should be 50MB or less (before       compression in a ZIP file).
+  The       submitted e-mail should contain no more than 25 attached personal       documents.
+  The       submitted e-mail should target less than 15 distinct Kindles.
+
+Fees for Personal Document Service
+Fees for transfer of personal documents to the Kindle via 3G are based on  the size of the file submitted (before compression if you use a .ZIP file),  your country, and where you're accessing 3G. Fees will only be charged for  documents that are successfully received wirelessly on your Kindle. (Personal  Document Service is not available wirelessly in Canada. Please see Sending  Personal Documents to Kindle for information about e-mailing personal  documents to your computer for USB transfer to your Kindle.)
+
+Kindle (Free 3G + Wi-Fi) user living in the United States: If you transfer personal documents to your Kindle via Wi-Fi there is no delivery fee. If you transfer personal documents to your Kindle via  3G while inside the United States, the fee is $ .15 per megabyte. When traveling outside the United States, a fee of $.99 per megabyte will apply.
+
+Kindle user living outside the United States: We'll send personal documents to your Kindle via 3G for a fee of $ .99 (USD) per megabyte anywhere in the world you access 3G service.
+
+Fees are rounded up to the next whole MB and apply to each personal document  delivered via 3G to each  Kindle. You can transfer personal documents to your Kindle via USB for free at  any time.
+Setting your Personal Document Charge Limit
+You can set the maximum charge allowed for a single personal  document sent wirelessly to your Kindle. Any personal document exceeding this  charge will be sent to your @free.kindle.com address and a notification will be  sent to your Kindle. We will also attempt to send the document to your Kindle  for free via Wi-Fi. 
+To set the charge limit for Personal Document Service:
+
+Visit the Manage Your Kindle Page and sign in with       your Amazon.com account. 
+Click on Personal Document Settings under Your Kindle Account.
+Click the change link next to Maximum Charge Limit and enter your preferred maximum charge  value.
+
+The limit you set is a per document limit. If you send multiple documents  for conversion in a .ZIP file, the total aggregated charge for conversion of  all the documents may exceed your per document limit. As  long as each document's charge is below the limit,  conversion and  delivery will be successful.
+Aggregation of Fees for Personal Document Service
+Consecutive orders for Personal Document Service via wireless that  cost less than $5.00 may be combined into one transaction and appear as a single  charge on your credit or debit card billing statement. You may see a combined  transaction charge if the Personal Document Service has not been used for  longer than one month.
+ 
+Downloading to Multiple Devices
+Content purchased from the Kindle Store can be downloaded to your Kindle, or  Kindle compatible device, as long as you've registered the device to the  Amazon.com account that purchased the Kindle content. There is no limit on the  number of times a title can be downloaded to a registered device, but there may  be limits on the number of devices (usually 6) that can simultaneously use a  single book.
+
+  That means you can download and read your books on any Kindle device you own  as long you've registered each device to the Amazon.com account where your  Kindle Library is stored.
+
+You can see the items in your  Kindle Library under Archived Items on your Kindle and send downloads to  your registered Kindles from the "Your Orders" section of the Manage Your Kindle page.
+
+Files Kindle Recognizes
+You can purchase and wirelessly download Kindle books, newspapers, magazines  and blogs from the Kindle Store as well as download and read other types of  non-DRM (Digital Rights Management)  text-based content on your Kindle. You can  also play Audible audiobooks or MP3 files. When your Kindle is connected to a  computer and mounted as a USB drive, you will see three default directories or  folders. Here's a list of the directories and the file types recognized by  Kindle:
+Documents: Kindle (.AZW, .AZW1). Text (.TXT), Unprotected Mobipocket (.MOBI, .PRC)
+  Audible: Audible (.AA, .AAX)
+  Music: MP3 (.MP3)
+
+Mobipocket files must have no Digital  Rights Management (DRM) protection  applied to be readable on your Kindle. If you purchased a Mobipocket file from  a Mobipocket retailer, you will not be able to open the file on your Kindle.
+EPUB eBooks are not supported on Kindle.
+You can add any of the above file types to your Kindle without using the Personal Document Service to convert those files to a compatible type.  If it is not listed above, conversion would be necessary to read the file on the Kindle.
+Personal Document Services
+Kindle's  Personal Document Service allows you to e-mail the following approved file  types to your Kindle's e-mail address for conversion to a format that is recognized by your Kindle:
+
+Microsoft       Word (.DOC)
+  HTML (.HTML, .HTM)
+  RTF (.RTF)
+  JPEG       (.JPEG, .JPG)
+  GIF (.GIF)
+  PNG (.PNG)
+  BMP (.BMP)
+  PDF       (.PDF): See below for details. 
+  Microsoft       Word (.DOCX) is supported in our experimental category.
+
+The above file types can also be combined in a compressed ZIP (.ZIP) file.  ZIP files are automatically opened up by the conversion service, converted to  the Kindle format, and sent to your Kindle or computer as specified. Some complex  PDF and DOCX files might not format correctly on your Kindle.
+Built-in PDF Reader for  Kindle (Latest Generation), Kindle (2nd Generation), and Kindle DX devices
+Your Kindle displays most PDF documents without losing the formatting  of the original file. You can magnify PDFs by viewing them in landscape mode. The only Kindles with PDF support are the Kindle (Latest Generation and 2nd Generation) and Kindle DX.
+To zoom on a PDF document:
+
+Press the       Text key .
+Select the       zoom percentage from the available options.
+Position       the zoom box over the section you'd like to view using the 5-way controller       and press to select.
+
+You'll see scroll bars appear at the edges of the page that indicate what  section you're viewing. Use the 5-way controller to move across the page and  view different sections. To return to the previous view, press the Text key and  select "fit-to-screen."
+To have your PDF documents converted to the Kindle format so you can take  advantage of functionality such as variable font size, annotation,  Text-to-Speech, etc., type "Convert" in the subject of the e-mail  when you submit your personal document to "name"@free.kindle.com.  Image-heavy PDF files are presented in landscape orientation and don't work  with devices that have auto-rotation, so those will be delivered in the Kindle  format.
+Option to Convert PDF Files to Kindle Format
+If you prefer to have your personal PDF documents converted to the Kindle format so you can take advantage of Kindle functionality such as variable font size, annotation, Text-to-Speech, etc., type "Convert" in the subject of the e-mail when you submit your personal document to your "name"@free.kindle.com address.
+Image-heavy PDF files are presented in landscape orientation and don't work with devices that have auto-rotation, so those will be delivered in the Kindle format.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kindle ToolsKnow Your KindleKindle FAQs | Kindle Discussions | Manage Your Kindle | Troubleshooting Your Kindle
+
+
+
+
+
+
+
+
+
+
+Self-Service
+Kindle ToolsManage Your KindleManage Your Subscriptions1-Click Payment SettingsView Digital PurchasesView Your CollectionsRegistering Your KindleCustomer Service Forum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get to Know Us
+
+Careers
+Investor Relations
+Press Releases
+Amazon and Our Planet
+
+
+
+
+Make Money with Us
+
+Sell on Amazon
+Become an Affiliate
+Advertise Your Products
+Self-publish with Us
+› See all
+
+
+
+
+Let Us Help You
+
+Shipping Rates & Policies
+Amazon Prime
+Returns Are Easy
+Manage Your Kindle
+Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada
+China
+France
+Germany
+Italy
+Japan
+United Kingdom
+
+
+
+
+
+AbeBooks Rare Books & Textbooks
+
+AmazonLocal Great Local Deals in Your City
+
+AmazonWireless Cellphones & Wireless Plans
+
+Askville Community Answers
+
+Audible Download Audio Books
+
+Diapers.com Everything But The Baby
+
+DPReview Digital Photography
+
+Endless Shoes & More
+
+Fabric Sewing, Quilting & Knitting
+   
+IMDb Movies, TV & Celebrities
+
+MYHABIT Private Fashion Designer Sales
+
+Shopbop Designer Fashion Brands
+
+Small Parts Industrial Supplies
+
+Soap.com Health, Beauty & Home Essentials
+
+Warehouse Deals Open-Box Discounts
+
+Woot Never Gonna Give You Up
+
+Zappos Shoes & Clothing
+
+ 
+
+
+
+
+
+Conditions of Use
+Privacy Notice
+
+Š 1996-2011, Amazon.com, Inc. or its affiliates
+
+
+
+
+
+
+
+
+

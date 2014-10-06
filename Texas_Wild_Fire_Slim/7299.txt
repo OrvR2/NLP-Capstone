@@ -1,0 +1,51 @@
+function google_ad_request_done(google_ads) {
+
+	if (google_ads.length == 0) return;
+	var s = ''; var i;
+	var reflink="https://adwords.google.com/select/OnsiteSignupLandingPage?client=ca-freedom_js&referringUrl=" + 'www.themonitor.com';
+	/*
+	* If an image or Flash ad is returned, display that ad.
+	* Otherwise, build a string containing all of the ads and
+	* then use a document.write() command to print that string.
+	*/
+
+	if (google_ads[0].type == "image") {
+		s += 'Ads by Google';
+
+	} else if (google_ads[0].type == "flash") {
+		s += 'Ads by Google' + '' + '' + '' + '';
+		
+} else if (google_ads[0].type="text") {
+		s += 'Ads by Google';
+		if (google_ads.length == 1) {
+			s += '';
+			s += '';
+			s += '' + google_ads[0].line1 + '';
+			s += '' + google_ads[0].line2 + '' + google_ads[0].line3 + '';
+			s += '';
+			s += '' + google_ads[0].visible_url + '';
+			s += '';
+		} else if (google_ads.length > 1) {
+			for(i=0; i ';
+				s += '';
+				s += '' + google_ads[i].line1 + '';
+				s += '' + google_ads[i].line2 +  '' + google_ads[i].line3 + '';
+				s += '';
+				s += '' + google_ads[i].visible_url + '';
+				s += '';
+			}
+		}
+		s += "";
+	}
+
+	document.write(s);
+	return;
+}
+
+google_ad_client="ca-freedom_js";google_ad_channel="cng,texas,the_monitor,bottom";google_ad_output='js';
+google_max_num_ads="4";google_ad_type="text,image";google_image_size="728x90";google_language="en";google_encoding='utf8';
+google_safe='high';
+google_adtest="off";
+
+document.write('');
+document.write('' + 'script' + '>');

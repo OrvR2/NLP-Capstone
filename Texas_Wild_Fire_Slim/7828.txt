@@ -1,0 +1,99 @@
+{
+													"key": "e19d000d885013ceeca",
+				"contextMenu": ["BIMvid Video player 5.0.0"],
+							"clip": {
+					"url": "http://cdn.bimfs.com/KVUE/2fb8d8cad5483aa2f90be2849abe0d50df61f6a0.mp4",
+									"autoPlay": false,
+									"scaling":"fit",
+					"pageUrl":"http://www.kvue.com/news/Bastrop-evacuees--129443363.html",
+																	"id":"129443363",
+					"dockey":"2fb8d8cad5483aa2f90be2849abe0d50df61f6a0",
+					"title":"Bastrop+evacuees+begin+to+learn+the+extent+of+the+fire%27s+damage",                
+					"description":"Fire+officials+in+Bastrop+released+the+latest+on+the+fire.+It+is+now+confirmed+that+1%2C386+homes+have+been+destroyed+in+Bastrop.",
+					"duration":"146",				
+					"keywords":"",    
+					"categories":"home",
+									"useadaptv":true,
+					"zid":"bi_kvue"
+								},
+				"plugins": {		
+					"controls": {
+						"zIndex": 10,
+						"url": "http://swfs.bimvid.com/bimvid_controls-3_2_3.swf?x-bim-callletters=KVUE",
+						"backgroundColor": "#c4c4c4",
+						"backgroundGradient": [0.1,0.2,0.5],
+						"borderRadius": "0",
+						"volumeColor": "#bd7c7a",
+						"progressColor": "#CCCCCC",
+						"progressGradient": "none",
+						"bufferColor": "#bd7c7a",
+						"bufferGradient": "none",
+						"sliderColor": "#383838",
+						"sliderBorder": "1px solid rgba(128, 128, 128, 0.7)",
+						"sliderGradient": "none",
+						"buttonColor": "#424242",
+						"buttonOverColor": "#ffffff",
+						"volumeSliderColor": "#ffffff",
+						"volumeSliderGradient": "none",
+						"volumeBorder": "1px solid rgba(128, 128, 128, 0.7)",
+											"timeColor": "#000000",
+						"tooltipColor": "#000000",
+						"tooltipTextColor": "#ffffff",
+	
+											"autoHide": "always",
+											"durationColor": "#a3a3a3",
+						"height": 24,
+						"opacity": 1.0,
+											"fastBackward": false,
+						"fastForward": false,
+						"slowForward": false,
+						"slowBackward": false
+									},
+									"thumbnail" : {
+						"zIndex":5,
+						"url":"http://swfs.bimvid.com/bimvid_embedthumb-20110825a.swf?x-bim-callletters=KVUE",
+						"imgsrc" : "http://cdn.bimfs.com/KVUE/2fb8d8cad5483aa2f90be2849abe0d50df61f6a0.jpg"
+					},
+									"sharing":{
+						"zIndex": 15,
+						"url":"http://swfs.bimvid.com/bimvid_sharing-20110831b.swf?x-bim-callletters=KVUE",
+						"email":{
+							"subject": "Bastrop+evacuees+begin+to+learn+the+extent+of+the+fire%27s+damage"
+						},
+						"embed": {
+							  "preScript": "http%3A%2F%2Fwww.kvue.com%2Ftemplates%2Fbelo_embedWrapper.js%3Fstoryid%3D129443363%26pos%3Dtop%26swfw%3D%24swfw", "postScript": "http%3A%2F%2Fwww.kvue.com%2Ftemplates%2Fbelo_embedWrapper.js%3Fstoryid%3D129443363%26pos%3Dbottom", 							"configUrl": "http%3A%2F%2Fwww.kvue.com%2F%3Fj%3D129443363%26ref%3Dhttp%3A%2F%2Fwww.kvue.com%2Fnews%2FBastrop-evacuees--129443363.html"
+						},
+						"twitter": {
+							"description": "Bastrop+evacuees+begin+to+learn+the+extent+of+the+fire%27s+damage"
+						}
+					},
+					"dock": {
+						"right": 14,
+						"horizontal": false,
+						"width": "8%",
+						"autoHide": true
+																					},
+					"omniture": {
+						"url": "http://swfs.bimvid.com/bimvid_omniture_BELO-20110829a.swf?x-bim-callletters=KVUE", 
+						"id": "bikvuecom,bikbnglobal",
+						"domain": "kvue.com",
+						"pageUrl": "",
+						"pageTitle": "Bastrop+evacuees+begin+to+learn+the+extent+of+the+fire%27s+damage"					
+									},
+					"bimga": {
+						"url": "http://swfs.bimvid.com/bimvid_googleAnalytics-20110825a.swf?x-bim-callletters=KVUE",
+						"customer":"KVUE", 																								"accountId":"UA-164600-17"
+									},
+					"adaptv": {
+						"zIndex":50,
+										"url":"http://swfs.bimvid.com/bimvid_adaptv-20110831.swf?x-bim-callletters=KVUE",
+						"key":"broadcastinteractivemedia", 
+						"adaptag":"home",
+						"context":{ "DART_zone":"home","DART_site":"bi.kvue" },	
+						"companionId":"bimvidplayer0_cb",
+						"videoPlayerId":"bimvidplayer_api"
+									}
+				}
+			}
+
+ 

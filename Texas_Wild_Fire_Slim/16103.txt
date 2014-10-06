@@ -1,0 +1,881 @@
+2007  February | Firefighter Blog
+Skip to content
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+More Partners
+
+999 Medic
+A Day In The Life Of An Ambulance Driver
+A Firefighters Own Worst Enemy
+Ash & Dreams
+Backstep Firefighter
+Boron Extrication
+Brotherhood Instructors
+buyfacebookfans1's blog
+Command Safety
+EMS 12-Lead
+EMT to Physician Assistant
+Fire and Rescue Concepts, LLC
+Fire Daily
+Fire Department Training Network
+Firefighter Basics
+Firefighter Blog
+Firefighter Radio
+Firegeezer
+Firehouse Zen
+Fire Law
+Fire Special Operations
+Fire Truck Blog
+Green Maltese
+Iron Firemen
+Medic Diaries
+Medic Three
+Parapup Blog
+Pink Warm & Dry
+Raising Ladders
+Rescuing Providence
+S.A.F.E. Firefighter
+SideCharlie.com
+South Carolina on Fire
+STATter911.com
+Street Watch: Notes of a Paramedic
+The Company Officer
+The Fire PIO
+The State of Prehospital/Emergency Care
+The Tailboard
+Tiger Schmittendorf
+Traditional Tactics
+
+
+
+
+
+ This Blog
+ Network
+ 
+
+
+
+ 
+
+
+Firefighter Blog
+
+
+About
+Contact
+
+
+
+
+
+
+Archives for 
+See all posts in the network tagged with 
+
+
+Satellite To Cell Phone Fire Alarms
+Comments Off
+
+
+
+
+
+
+Using a combination of MODIS and METEOSAT South African power company Eskom is able to pinpoint fires threatening their power lines.
+““What is particularly nice about this is all of our field staff have mobile phones,” says Vosloo. They can be out in the field, away from their computers and still get the fire alert. “The system is set up so that a particular field personnel would only get the information that they would need for their lines. If they get a notification, they can phone the local land owner and inquire about the extent of the fire,” explains Vosloo. “Then the person will say, ‘Don’t worry, I’m just burning some old maize,’ or sometimes they might say ‘This is a fire, and it’s running away, and we can’t control it.’”
+If a fire is large and out-of-control near power lines, the field person notifies the national control center, who also receives the alerts, to confirm that the fire is a threat to the power lines. If backup lines are available, the control center can then divert power away from the affected lines until the fire is controlled…” earthobservatory.nasa.gov
+
+Here is another example of satellite based fire monitoring linked to email alerts. Diane Davies of the University of Maryland developed an email alert system emailing fire locations from the university’s MODIS-based Web Fire Mapper to individuals in remote areas.“Davies has expanded the system into a global fire alert system that automatically emails subscribers whenever there is a fire near their area of interest. By January 2007, the global system, called the Fire Information for Resource Management System, or FIRMS, had been operating for just a few months and already had 580 subscriptions. “We now have users in 60 countries,” says Davies.”
+
+
+
+
+Posted by Mike
+on 02/26/2007 •
+		Filed under: fire alarms, fire alerts, satellite fire photos
+
+
+
+Who Knew?
+1 comment
+
+
+
+
+
+
+An interesting tool that suggests the value of individual blogs. Since a good deal of my visitors are other bloggers I thought I would post the tool.
+
+ My blog is worth $6,209.94.How much is your blog worth?
+
+
+
+
+
+
+Posted by Mike
+on 02/26/2007 •
+		Filed under: Uncategorized
+
+
+
+Sleek Fire Site; Grampian Fire And Rescue Service
+Comments Off
+
+
+
+
+
+
+In yesterday’s post on Shanghai Fire Service I pointed out how difficult it was to get information on the department, personnel, equipment or individual stations. Today I found a model fire service website from the Aberdeen City, Scotland area.  Grampian Fire website is clean, well organized and built for easy navigation. The page I like most is the  interactive map page.  Grampian Fire and Rescue services an area of about 800,000 residents.  Shanghai China Fire services roughly 14 million residents.
+
+
+
+
+Posted by Mike
+on 02/24/2007 •
+		Filed under: Uncategorized
+
+
+
+Shanghai Firefighters In Training
+Comments Off
+
+
+
+
+
+
+Physical training, recreation and maintaining a cohesive unit. This China Daily article has some interesting photos of the Shanghai.I have found it difficult to find decent information on city fire departments in China.  Compared to the vast information available in the Western world China’s fire service personnel are still underserved on the web.  Their training, dedication and skills should be shared with the rest of the world. Internet growth in China is running along the lines or 10,000 new users per day so personal web pages published by firefighters should follow.Back to Shanghai, I was very surprised there was not much official information available but I did run across a website that provides a brief description of Shanghai Fire
+From Tales of Old Shanghai.“Fire Brigade
+The crowding of the Settlements with cheaply constructed Chinese houses during the period of the rebellion added to the danger of fire. In order to cope with this menace fire wells were sunk in the main thoroughfares to serve as reservoirs for water. Before the introduction of a system of waterworks, these fire wells, the creeks, and the river were the only available sources upon which the one fire engine could draw. This engine was imported from the United States in 1863 by the Courcil, and formed the nucleus of a voluntary fire brigade service >organized in 1866. Captain J. P. Roberts was elected first Chief Engineer, and Mr. C. J. Ashley, foreman of the Mih-ho-oong (destroy fire dragon) Hook and Ladder Company. The French joined heartily in the enterprise and the three Settlements worked in complete harmony.
+The Brigade was not at first under the control of the Municipal Council, and, as it was largely supported by the Insurance Companies, was not a great drain on municipal resources.
+Fire alarms were in the beginmng given by the ringing of the church bell and the firing of three guns from the senior man-of-war in port, and the ringing of the bells of the steamers in harbour. Owing to the fact that the church bell could not be heard distinctly, a tower was erected at the Hongkew Police Station, and one of the church bells not in use was lent by the trustees as a fire alarm.
+In 1880 a large bell weighing 5,150 pounds was purchased from the Meneely Founders of West Troy, N.Y. The bell had been cast in 1865 and was obtained at the low cost of $1,500 gold. It was hung in the 100-feet high tower erected at the Central Fire Station on Shantung Road and the one in use there was transferred to the tower at the Hongkew Police Station. Some time after bells ceased to be used for fire alarms, the large bell purchased in 1880 was moved to Jessfleld Park and mounted on a stone pedestal in front of a small Chinese pavilion where it may now be seen.
+The second and third articles of the constitution of the voluntary Shanghai Fire Department read as follows:
+“Article 11 – The Shanghai Fire Department is instituted for the better preservation of all property exposed to conflagration and its motto shall be ‘We Fight the Flames.’
+“Article 111 – That the American, English and French Settlements be known respectively as Fire Districts Nos. 1, 2, and 3, and the operations of the S. F. D. shall be within the foreign settlements of Shanghai, and these limits shall not be passed except in cases of urgent necessity, and by order of the Chief Engineer.”
+The Fire Brigade played an important part in the life of the Settlements. The young men took up the service with considerable eagerness and enjoyed the excitement and the social life connected with it. Some of them lived at the fire stations, so as to be on hand when alarms were given, and no matter what social functions they might be attending, at the sound of the fire bell, they rushed off so as to be at their stations as quickly as possible. There was keen competition among the different units as to which would reach the scene of the fire first.
+As we shall see later, owing to the extension of the Settlement area and to great increase in the number of fires, it became necessary to abandon the voluntary system, and to introduce in its place a paid fire brigade,with a trained Chief Officer at its head, appointed by the Municipal Council…”
+
+
+
+
+Posted by Mike
+on 02/24/2007 •
+		Filed under: China fire departments, fire service history, foreign fire brigades
+
+
+
+Firedog's Newest Contest
+Comments Off
+
+
+
+
+
+
+
+
+Study Reveals U.S.  Firefighters Face Critical Equipment and Training Shortages
+
+ 
+“firedogSM Across America” Contest Challenges  Communities to Win Funds for Their Local Firehouses
+ 
+Richmond, Va. – A recent study from the U.S. Fire Administration, a  division of the Department of Homeland Security, reveals that many firehouses  across the U.S. lack adequate funding for some  of the most essential firefighting tools. 
+ 
+Among the greatest needs are  communications equipment, protective gear and training. To call attention to the many ways  firefighters contribute to their communities and to help promote awareness of  their long list of needs, Circuit City’s new firedogSM services brand  recently launched “firedogSM Across America”  - http://web.firedog.com/acrossamerica.   The national online essay contest invites Americans  to nominate their local firefighters for outstanding service and the chance to  win $550,000 in much needed donations. 
+ 
+“Firefighters risk their lives  everyday to protect us. However, as  the U.S. Fire Administration study indicates, many firehouses are in serious  need of additional resources,” said Peter C. Weedfald, senior vice president and  chief marketing officer, Circuit City Stores, Inc. “Through ‘firedogSM Across  America,’ we hope not only to demonstrate our appreciation for firefighters’  dedicated service, but also promote awareness across the country of their  equipment and training needs.”
+ 
+The 2006 U.S. Fire Administration  study — “Four Years Later – A Second Needs Assessment of the U.S. Fire Service”  — was co-authored by the National Fire Protection Agency. Based on responses from more than 15,000  firehouses nationwide, the results indicate a serious need in the areas of  equipment and training. Findings  indicate that an estimated:
+ 
+• 65 percent of fire departments do not have enough portable radios to  equip all emergency responders on a shift.
+• 60 percent of fire departments do not have enough self-contained  breathing apparatus to equip all firefighters on a shift. 
+• 66 percent of departments have at least some personal protective clothing  that is at least 10 years old. 
+• 14 percent of departments protecting communities with populations less  than 2,500 have no ladder/aerial apparatus but have at least one building four  stories high or higher in the community.
+• 36 percent of fire departments deliver emergency medical services (EMS),  but have not provided formal EMS training to  all involved personnel.
+• 63 percent of fire departments involved in wildland firefighting have not  provided formal training in those duties to all involved  personnel.
+ 
+The full needs assessment is  available online through the U.S. Fire Administration at: http://www.usfa.dhs.gov/fireservice/grants/needs-assess2.shtm.   
+ 
+“With more than 1.1 million  firefighters working in the United States, chances are that most  Americans have benefited in some way from the dedicated services of their local  firehouse,” Weedfald said. “By  sharing their experiences with these everyday heroes through the ‘firedogSM  Across America’ essay contest, Circuit City will ensure that 10 fire stations  receive the additional funds they need to continue serving and protecting their  communities.”
+ 
+How “firedogSM Across America”  works:
+ 
+• December 6, 2006 – March 31, 2007: Americans are invited to submit essays  at www.firedog.com that describe how their local firehouse or firefighters went  above and beyond in helping them or their community.
+• April 28, 2007 – The 10 winning essays will be announced. Each finalist  firehouse will receive a prize of $20,000. The authors of each winning essay will receive a home “techover” valued  at $10,000, courtesy of firedogSM.
+• April 28, 2007 – May 13, 2007: Americans will be invited to vote at  www.firedog.com for one story among the 10 finalists that most inspires  them. For each vote received  online, Circuit  City will make a matching  donation up to $250,000, to be distributed proportionally among the finalists  based on the number of votes cast.
+• May 14, 2007 – The firehouse with the most votes will be awarded a grand  prize of $100,000. 
+ 
+The “firedogSM Across America”  campaign has already lent a helping hand to firefighters with its recent  contribution of $100,000 to the FDNY Foundation in New York City at a ceremony  held Dec. 6 at the Ladder 3/Battalion 6 firehouse. As part of that campaign kick-off,  Circuit  C
+ity also donated $100,000  to the National Law Enforcement and Firefighters Children’s Foundation.  Additional information about “firedogSM Across America” is available online at:  www.firedog.com. 
+ 
+About  firedogSM
+Circuit City Stores, Inc. launched  its firedogSM brand in response to a growing public demand for help with using  and enjoying electronic products. firedogSM provides a new level of personal computer services, home  theater installations and integration of home electronics.
+ 
+About Circuit City Stores,  Inc.
+Circuit City Stores, Inc. (NYSE:CC)  is a leading specialty retailer of consumer electronics and related  services.  The domestic segment  operates through 645 Superstores and 12 other locations in 158 U.S.  markets. The international segment operates through more than 800 retail stores  and dealer outlets in Canada.  Circuit City also operates Web sites at  www.circuitcity.com, www.thesourcecc.ca and at  www.firedog.com.
+
+
+
+
+
+Posted by Mike
+on 02/22/2007 •
+		Filed under: contests, Firedog, firehouse funding
+
+
+
+Prolific Blogger Firefighter Wayne Hangs It Up
+Comments Off
+
+
+
+
+
+
+Firefighter Wayne author of Firefighter has filed his last blog.
+Firefighter Wayne served on the Detroit Fire Department from 1962 to 1998, 36 years.  The stated goal of his blog was to “Promote The History Of Firefighting” and he did by posting interesting stories of historic fires and fire service trivia.  I aliked Wayne’s style, often caps locked with a straight forward delivery.  The cache will always remain indexed on the search engines so Wayne’s works will be recorded for all time.  Thanks Wayne, God bless.
+Wayne posted 435 entries, nearly one per day beginning in October 2005.
+Some gems from Wayne’s site.
+“DO YOU KNOW
+SOME OLD TIME BOSSES HID  PENNIES UNDER THE FENDERS OF THEIR RIG TO SEE IF THE DRIVER WASHED UNDER THERE.ALSO THEY PUT THEM ON WINDOW  AND DOOR LEDGES AND ON LOCKER TOPS TO TEST IF THE MEN DUSTED THERE
+DO YOU KNOWIN THE EARLY DAYS, IN SOME COMMUNITIES, TO GET ON THEIR FIRE DEPARTMENTYOU DIDN’T: HAVE TO TAKE A PHYSICALFILL OUT AN APPLICATIONHAVE A BACKGROUND CHECKTAKE A WRITTEN TESTYOU DID:HAVE TO BE BETWEEN 21 & 35 YEARS OLDHAVE TO MEET WITH THE CHIEF( IF HE DEEMED YOU CAPABLE OF DOING THE JOB, YOU WERE HIRED.NOTE: ONE FACTOR WAS YOU HAD TO BE FIT ENOUGH TO SERVE IN THE ARMY
+DO YOU KNOW
+THE FIRST HOOK AND LADDER TRUCK THAT FORT WORTH TEXAS BOUGHT WAS SHIPPED BY TRAIN TO DALLAS.IT WAS THEN PULLED BY VOLUNTEER FIREMEN 40 MILES TO FORT WORTH.THE THINKING OF A TRUCK RATHER THEN A PUMPER WAS TO PULL DOWN THE SURROUNDING STRUCTURES RATHER THEN TRY TO EXTINGUISH THE ONE ON FIRE.
+DO YOU KNOW
+IN SOME COMMUNITIES, THEY HAD MANY OF ITS TOWNS FOLKS THAT OWNED HORSES.RATHER THEN HAVING THEIR DEPARTMENT OWNING OR RENTING HORSES FROM A STABLE,WOULD USE SOME OF THE TOWNS FOLKS HORSES AS THEY RESPONDED TO THE FIREHOUSE FOR AN ALARM.
+DO YOU KNOW
+WHAT IS “SKY JELLO”PINK FIRE RETARDANT CHEMICAL THAT IS DROPPED FROM PLANES ON A FOREST FIRE
+DO YOU KNOW
+THAT SOME OF THE EARLY FIRE ENGINES , THAT HAD BOOSTER TANKS WERE KEPT IN UNHEATED GARAGES.THEREFORE THE TANKS WERE KEPT EMPTY IN THE WINTER AND HAD TO BE QUICKLY FILLED UPON AN ALARM OF FIRE.”
+
+
+
+
+Posted by Mike
+on 02/18/2007 •
+		Filed under: Firefighter Bloggers, Firefighter Blogs, Firefighter Wayne
+
+
+
+Prepare Your Property For Fire Season
+Comments Off
+
+
+
+
+
+
+It’s the time of year Western home owners should address compliance with vegetation clearance ordinances. Fire Safe California’s do it yourself page offer tips and links for proper vegetation clearance.More than anything the clearance issue is a safety issue for fire service personnel.  If you don’t clear your property don’t expect fire crews to waste much time saving it, that’s a given.  What makes it dangerous for firefighters is when the fuel load from your property impacts your neighbor’s home, the one the firefighters are concentrating on.
+
+Image from FireSafeCouncil.org
+
+
+
+
+Posted by Mike
+on 02/16/2007 •
+		Filed under: brush clearance
+
+
+
+Florida Firefighters Escape Death, "Nothing's Routine"
+Comments Off
+
+
+
+
+
+
+From News4Jax.com (link below)Firefighters Rescued From Burning Home
+Firefighters Rescue Man, 2 Of Their Own From House Fire
+“Typical investigation of smoke in the house. We came and there was a guy standing at the door, waving us in,” said firefighter Josh Covelli.However, the seemingly routine call quickly turned into a near-death experience for the crew of Jacksonville Fire Rescue’s crew of engine No. 2.”It didn’t sound like an explosion. It sounded like if you took a match and just whoosh,” said Jacksonville firefighter Steve Grant. “I’ve never seen anything like this, and I hope I never see it again.”What began as an investigation of smoke became a full-blown fire, with Covelli and Lt. Mark Kruger firefighters trapped inside. “He said he had found the fire.  So, we were getting the hose lines to get in the extinguisher,” said Kruger.
+Covelli said he heard his lieutenant calling for him from a front room when the home became fully engulfed with flames and the fire cut him off.Covelli was able to escape through the back door, where ladder No. 1 was opening a passage.Kruger had no idea what had happened in the other rooms.”I was on fire and one of my friends, a lieutenant on ladder No. 1 actually beat me out and put me out,” Kruger said.He said his personal well-being was the least of his worries because Covelli had been in the house with no hose…..” More
+
+
+
+
+Posted by Mike
+on 02/14/2007 •
+		Filed under: Uncategorized
+
+
+
+Break Glass & Kick Ass; Into The Fire
+Comments Off
+
+
+
+
+
+
+The History Channel today ran “Into The Fire” sponsored by the Fireman’s Fund Insurance Company. The show offers first hand accounts of firefighters and their thoughts on the realities of the job including the glamour, the hard work and the rewards of the job.
+From the Fireman’s Fund site;“Into The Fire” is now available on DVD. For every DVD sold, Fireman’s Fund donates funds to the fire service. You can even designate a specific fire department to receive a portion of our donation.”
+Actor Gary Sinise hosts the show and I have to say this might be the best production of its kind. It’s the best I’ve seen.   Everyone should see this video.
+Oddly and sadly the History Channel does not have it scheduled to show again and for some reason doesn’t even have it featured on the home page. On a site search I was able to find a video clip that does little justice to the actual scene in the show.
+
+
+
+
+Posted by Mike
+on 02/11/2007 •
+		Filed under: firefighter documentary
+
+
+
+Aussie Mega Fires Contained After 69 Days
+1 comment
+
+
+
+
+
+
+Australian news service ABC.net.au reports the Great Divide fires have been contained.
+“Victoria’s longest running bushfire has been declared contained after the Swifts Creek section of the fires, in the state’s south-east, was contained this morning.The Great Divide fires were started by lightning strikes in bushland 69 days ago.Farmers have lost stock, outbuildings, fencing and valuable fodder.More than one million hectares of land has been burnt. New Zealanders, Canadians and Americans joined more than 19,000 firefighters from across Australia to fight the blaze. The cost of the fire fight has blown out to more than $200 million. Firefighters now need to maintain control lines, patrolling and extinguishing any flare-ups and searching for hot spots.”
+ 
+
+
+
+
+Posted by Mike
+on 02/08/2007 •
+		Filed under: Bush fires, Great Divide fires
+
+
+
+IAFF Takes Proactive Stance On Trans Fats
+Comments Off
+
+
+
+
+
+
+From IAFF’s FoodFit.com:“It’s no surprise that fire fighting is one of the most dangerous of all professions, but the risks don’t always involve fires or other obvious hazards associated with fire fighting. The fact is, heart disease is the number-one cause of death – nearly half of on-duty fire fighter deaths are the result of cardiac arrest. Next to driving an engine, the most dangerous thing fire fighters do is eat. 
+We are what we eat, and one of the biggest threats to your health comes from trans fats, artificially made fats that clog arteries and increase levels of bad cholesterol in your body – and which are linked to an increased risk of heart disease and diabetes……
+What Are Trans Fats?
+Made by combining liquid vegetable oil with hydrogen to create partially hydrogenated oil – or trans fatty acids – this man-made fat was originally developed to protect us against the health risks associated with butter. Turns out, trans fats act like butter once ingested. Think shortening and margarine. These fats are liquids turned solid, so instead of melting as they would in their natural state, they revert to their waxy, solid makeup inside your arteries. 
+ Because trans fats are cheap and increase the shelf life of many processed foods, they get added to a wide variety of products, including chips, French fries, cookies, crackers, muffins and other baked goods….”
+
+
+
+
+Posted by Mike
+on 02/02/2007 •
+		Filed under: firefighter diet, foodfit, iaff
+
+
+
+First Responder Appreciation Day Promotion
+Comments Off
+
+
+
+
+
+
+First Response Coalition
+ is making a push for a “National First Responder Appreciation Day”.  What a great idea, one that deserves support.  Check out the catchy video.
+[youtube=http://www.youtube.com/watch?v=-7QAdkEr86k]
+Petition Page
+
+
+
+
+Posted by Mike
+on 02/02/2007 •
+		Filed under: first responder appreciation day, first responders
+
+
+
+Promotions Using FAKE Degrees
+Comments Off
+
+
+
+
+
+
+Makes a mockery of those who applied themselves and obtained REAL college degrees.Shameful!New York Times report
+.
+
+
+
+
+Posted by Mike
+on 02/02/2007 •
+		Filed under: Uncategorized
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Twitter @FireBlogger
+
+
+Lightning Sparks 40 Wildfires in Sierras, Kern County (Webcam views) http://t.co/2Vbsv5F #CalFire #KernCounty 15 hrs ago
+September 11, 2001 by Tom Dunn FDNY http://t.co/gjm7pRo #9 11 #Sept11 #GroundZero #FDNY 21 hrs ago
+Bastrop Texas Wildfire http://t.co/NSHUc27 Geomac Imagery #bastrop #Texasfires 5 days ago
+Per Wildlandfire.com  12 homes have been destroyed by the #CanyonFire   9,000 acres. Aircraft diverted to a new fire in L.A.County #CalFire 5 days ago
+More updates...
+ Posting tweet...
+Must See Videos
+
+Blogroll
+
+About.com/Fires
+Active Fire Map
+Basin Complex Knol
+Big Sur Kate
+Bravest Home
+Cal Cam Links
+Cal Fire
+Cal Weather Satellite
+CalFire Mt Diablo Scanner
+California Webcams
+CalWebCams
+Charlotte Fire Blog
+CHP Incident Page
+Crowley
+Darley Fire Co
+Fallen FF Memorial
+FamWeb
+FDNY Trucks
+Fire Chief
+Fire Maps (KML)
+Fire News Blog
+Fire Rescue 1
+Fire Service Links
+Fire Service Resource
+Fire Wives Forum
+Firefighter Exchange
+Firefighter Hourly
+Firefighter Jobs Board
+Firehouse.com
+FireSafeGarden
+Firewhirl
+FIRMS Fire Mapping
+First on Scene Fire
+First Resp. Coalition
+Flickr Firefighters
+Frederick Schafer Landscapes
+Fusee
+GeoMAC Fire Mapper
+H5N1
+Historical ISC 209's
+Historical ISC 209's
+Hotshot Raleigh
+Incident Mgmt Teams
+Inciweb
+Inciweb (slow servers)
+Jason's Fire VLOG
+Jody Gomez Photojournalist
+JPL Coast Wind
+Kitchen Table
+Klamath N.F.
+KSBW Fire Coverage
+KUSP Big Sur Fire
+LAFD Blog
+Large Fires Map
+Lassen N.F.
+Los Padres N.F.
+Malkin
+Mendocino N.F.
+MilBlogs
+Morning Report
+NASA Fire Images
+NIIC
+Oz Bushfire Report
+Plumas N.F.
+RAMSDIS
+RapidFire (NASA)
+Redding.com No.State Fire News
+RescueUS
+Roanoke Firefighters
+Rudy's Firefighters
+Saving Our Own
+SCWHC
+Shasta-Trinity N.F.
+Sierra Fire Cams
+Sierra N.F.
+Sierra Sun Times
+Sitting With Fire
+Six Rivers N.F.
+Stanislaus N.F.
+Surcoast.com
+Survival Blog
+Tahoe N.F.
+Troop Support Site
+USFirefighters.net
+VolunteerFD.org
+W.I.S.E.
+Whiskeytown N.P.
+Wilderness Society
+Wildland Fire Hotlist
+Xasuan Today (Big Sur)
+
+
+Wildland Fire Sites
+
+Cal Fire San Diego
+Copter Chick
+Fire Pirates
+Firescaping
+FireWise
+IMT Center
+InciWeb
+NIFC
+Wildfire Today
+
+
+Follow on Twitter:
+
+
+
+
+Tags Across Firefighter Blog
+2010 fire season
+AGW
+Arizona
+Arson
+bark beetle
+Basin Complex
+Bore Beetle
+Cal Fire
+climate change
+El Nino
+Esperanza Fire
+Fire
+Firefighter Monopoly
+Fire Monks
+Fire Story
+Forest Fire
+Four Mile Canyon fire
+games
+global warming
+H1N1
+Haiti
+hand crews
+Indians Fire
+Las Conchas Fire
+LODD
+Old Fire
+OnStar
+Police
+politics
+Product Review
+Rescue
+Rincons
+Russian Wildfires
+september 11th
+Staffing
+Swine Flu
+Tassajara
+Traffic accident
+Video
+Wallow Fire
+Weather
+Wildland
+wildland fire
+wildland fire fatalities
+Yosemite
+
+
+
+
+
+Archives
+ Select Month  September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ December 2004 
+ November 2004 
+ October 2004 
+ September 2004 
+ August 2004 
+ May 2004 
+ April 2004 
+
+
+ Recent Posts
+
+Lightning Strikes Spark Fires in Sierras
+September 11, 2001 by Tom Dunn FDNY
+Austin Texas Fire Chief Vacations as Austin Area Burns
+Texas Fires Situation Report
+10 Tanker to Texas
+
+
+
+
+Tags Across FireEMSBlogs.com
+
+
+ambulance
+arson
+Building construction
+Christopher Naum
+Collapse
+Command Fire Apparatus
+County
+Dave Statter
+destroyed
+emergency
+EMS
+EMS 12-Lead
+ems12lead.com
+EMT
+engine
+extrication
+fdny
+fire
+Fire Critic
+FireCritic.com
+firefighter
+firefighters
+firefighting
+Fires
+fire service
+Fire Truck Blog
+firetruckblog.com
+fossilmedic
+Glenn Usdin
+House Fire
+leadership
+LODD
+Maryland
+paramedic
+Prehospital 12-Lead ECG blog
+rescue
+Rhett Fleitz
+safety
+Sellfiretrucks.com
+South Carolina
+STATter911.com
+tactics
+Tom Bouthillet
+Training
+video 
+
+    This blog is part of the Emergency Services Ad Network. For marketing opportunities, please click here   
+
+FireEMSBlogs.com Community
+
+A Firefighters Own Worst Enemy
+Ambulance Driver Files
+Ash & Dreams
+Backstep Firefighter
+Command Safety
+Fire Critic
+Fire Daily
+Fire Geezer
+Fire Law
+Fire Special Ops
+Firefighter Blog
+Firehouse Zen
+Iron Firemen
+Life Under the Lights
+Medic 22
+Medic Three
+Pink Warm & Dry
+Prehospital 12-Lead ECG
+Raising Ladders
+Rescuing Providence
+S.A.F.E. Firefighter
+South Carolina on Fire
+STATter 911
+Street Watch
+The Company Officer
+The Fire PIO
+Tiger Schmittendorf
+
+
+
+
+
+
+
+
+
+Featured from across Fire/EMS
+
+
+
+Lightning Strikes Spark Fires in Sierras…
+
+Early morning air to ground lighting has ignited 40 new fires in the Southern Sierra Nevada's and… (more)
+
+
+
+
+9/11 Thoughts of Eric Lamar…
+
+Ten years after, the number continues to defy believability in its astounding size.… (more)
+
+
+
+
+Why am I even here?…
+
+I've asked myself that question thousands of times since the attacks on our Nation back in 2001. My… (more)
+
+
+
+
+9/11 Memorial Events In Northern IL…
+
+9/11 AMERICAN FLAG MEMORIAL, 8 a.m. Sept. 11, Fountain View Pavilion at Sun City, 12880 Del Webb… (more)
+
+
+
+
+
+
+
+
+
+Fire, Rescue & EMS BlogsConnecting the World's Emergency Responders				
+
+
+
+Get the RSS FeedFirefighter NationJEMSAdvertise HerePrivacy PolicyTerms of Service 
+
+
+Contact Us
+Get the scoop on hosting your blog or podcast here, site suggestions, questions and technical support.
+
+Advertising & Sponsorships
+FireEMSblogs.com is among over 30 fire and EMS Web sites in the Emergency Services Ad Network. Click here to get your company noticed.
+ 
+
+
+
+
+	© 2009 Elsevier Public Safety and Hosted Bloggers in partnership with Go Forward Media. All rights reserved unless otherwise indicated.				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

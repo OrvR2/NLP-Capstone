@@ -1,0 +1,28 @@
+function ka_include_css(filename){
+	var headID = document.getElementsByTagName("head")[0];         
+	var cssNode = document.createElement('link');
+	cssNode.type = 'text/css';
+	cssNode.rel = 'stylesheet';
+	cssNode.href = filename;
+	cssNode.media = 'screen';
+	headID.appendChild(cssNode);
+}
+
+function ka_include_js(filename){
+	var headID = document.getElementsByTagName("head")[0];         
+	var jsNode = document.createElement('script');
+	jsNode.type = 'text/javascript';
+	jsNode.src = filename;
+	headID.appendChild(jsNode);
+}
+
+	//dynamically include css files
+	ka_include_css('http://s2.static.kicklive.com/hearst/comments/css/style.css?v=1');
+	ka_include_css('http://s2.static.kicklive.com/hearst/comments/css/colorbox.css');
+	
+	//dynamically include javascript files
+	//ka_include_js('http://s3.static.kicklive.com/hearst/comments/js/jquery-1.3.2.min.js');
+	//ka_include_js('http://s4.static.kicklive.com/hearst/comments/js/jquery.colorbox-min.js');
+	//ka_include_js('http://s5.static.kicklive.com/hearst/comments/js/util.js');
+	ka_include_js('http://s5.static.kicklive.com/hearst/comments/js/commenting_combined.js?v=4');
+	ka_include_js('https://rpxnow.com/openid/v2/widget');

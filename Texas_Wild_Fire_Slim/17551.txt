@@ -1,0 +1,730 @@
+/* define arrays */
+var listingMLS = new Array();
+var listingAgencyName = new Array();
+var listingAgencyPhone = new Array();
+var listingAgentFName = new Array();
+var listingAgentLName = new Array();
+var listingAgentPhone = new Array();
+var listingAgentHSId = new Array();
+var listingCity = new Array();
+var listingImageUrl1 = new Array();
+var listingAddress = new Array();
+var listingURL = new Array();
+var listingLocation = new Array();
+var listingBedrooms = new Array();
+var listingSQFT = new Array();
+var listingAmenities = new Array();
+var listingHSListingId = new Array();
+var listingYearBuilt = new Array();
+var listingBathrooms = new Array();
+var listingType = new Array();
+var listingBasement = new Array();
+var listingGarage = new Array();
+var listingPrice = new Array();
+var listingZipCode = new Array();
+var listingCounty = new Array();
+var listingState = new Array();
+var listingHeadline = new Array();
+
+/* apply values to arrays */
+listingMLS[0] = 3259945;
+
+listingAgencyName[0]= 'William Zamarelli, Inc.';
+
+
+listingAgencyPhone[0]='3308562299';
+
+
+listingAgentFName[0]='Leslie';
+
+
+listingAgentLName[0]='Cornicello';
+
+
+listingAgentPhone[0]='3302198224';
+
+
+listingAgentHSId[0]='107865';
+
+
+listingCity[0]='Warren';
+
+
+listingImageUrl1[0]='http://s3.amazonaws.com/pulse_homeseller_50_99/94_3259945_001.jpg';
+
+
+listingAddress[0]='372 Southeast Avalon Dr';
+
+
+listingURL[0]='http://focus.pulseresearch.com/homeseller/site/OH/Youngstown/listing.html?hs_listing_id=1501347';
+
+
+listingLocation[0]='Howland';
+
+
+listingBedrooms[0]='4';
+
+
+listingSQFT[0]='2643';
+
+
+listingAmenities[0]='<ul><li>Appliances: Countertop Range,Dishwasher,Garbage Disposal,Microwave,Oven,Refrigerator,Smoke Detector,Sump Pump</li><li>Cooling: Central Air</li><li>Driveway: Paved</li><li>Exterior: Vinyl</li><li>Exterior Features: Enclosed Patio/Porch,Inground Pool,Patio,Storage Shed/Out Bld</li><li>Fencing: Privacy,Wood</li><li>Garage Description: Attached,Door Opener,Heated</li><li>Heating: Forced Air</li><li>Lot Size: 19166</li><li>Roof: Asphalt/Fiberglass</li><li>Style: Colonial</li><li>Stories: 2.00</li><li>Kitchen Dimensions: 13.00 x 18.00</li><li>Living Room Dimensions: 12.00 x 15.00</li><li>Family Room Dimensions: 15.00 x 18.00</li><li>Master Bedroom Dimensions: 13.00 x 16.00</li><li>Bedroom 2 Dimensions: 11.00 x 12.00</li><li>Bedroom 3 Dimensions: 11.00 x 15.00</li><li>Bedroom 4 Dimensions: 11.00 x 11.00</li></ul>';
+
+
+listingHSListingId[0]=' ';
+
+
+listingYearBuilt[0]='1993';
+
+
+listingBathrooms[0]='4';
+
+
+listingType[0]='Residential';
+
+
+listingBasement[0]='Finished,Full';
+
+
+listingGarage[0]='2';
+
+
+listingPrice[0]='230000';
+
+
+listingZipCode[0]='44484';
+
+
+listingCounty[0]='Trumbull';
+
+
+listingState[0]='OH';
+
+
+listingHeadline[0]='Residential in Warren';
+
+
+listingMLS[1] = 1463566;
+
+listingAgencyName[1]= 'Real Living Volpini Rlty Group, Poland';
+
+
+listingAgencyPhone[1]='330-757-1300';
+
+
+listingAgentFName[1]='Patricia';
+
+
+listingAgentLName[1]='Mika';
+
+
+listingAgentPhone[1]='(330) 718-8191';
+
+
+listingAgentHSId[1]='128491';
+
+
+listingCity[1]='Girard';
+
+
+listingImageUrl1[1]='http://s3.amazonaws.com/pulse_homeseller_50_99/94_1463566_001.jpg';
+
+
+listingAddress[1]='101 STATE St';
+
+
+listingURL[1]='http://focus.pulseresearch.com/homeseller/site/OH/Youngstown/listing.html?hs_listing_id=1015051';
+
+
+listingLocation[1]='Girard';
+
+
+listingBedrooms[1]=' ';
+
+
+listingSQFT[1]='1700';
+
+
+listingAmenities[1]='<ul><li>Heating: Forced Air</li><li>Roof: Flat</li></ul>';
+
+
+listingHSListingId[1]=' ';
+
+
+listingYearBuilt[1]='1940';
+
+
+listingBathrooms[1]=' ';
+
+
+listingType[1]='Commercial';
+
+
+listingBasement[1]='Full';
+
+
+listingGarage[1]=' ';
+
+
+listingPrice[1]='30900';
+
+
+listingZipCode[1]='44420';
+
+
+listingCounty[1]='Trumbull';
+
+
+listingState[1]='OH';
+
+
+listingHeadline[1]='Commercial in Girard';
+
+
+listingMLS[2] = 1262019;
+
+listingAgencyName[2]= 'Cocca Real Estate II';
+
+
+listingAgencyPhone[2]='3307589904';
+
+
+listingAgentFName[2]='Teresa';
+
+
+listingAgentLName[2]='Cocca-Kay';
+
+
+listingAgentPhone[2]='3307275947';
+
+
+listingAgentHSId[2]='107922';
+
+
+listingCity[2]='Boardman';
+
+
+listingImageUrl1[2]='http://idxftp.neohrex.com/Commercial/1262019/1262019_0.jpg';
+
+
+listingAddress[2]='100 DeBartolo Place';
+
+
+listingURL[2]='http://focus.pulseresearch.com/homeseller/site/OH/Youngstown/listing.html?hs_listing_id=801048';
+
+
+listingLocation[2]='Boardman';
+
+
+listingBedrooms[2]=' ';
+
+
+listingSQFT[2]='6250';
+
+
+listingAmenities[2]='<ul><li>Cooling: Central Air</li></ul>';
+
+
+listingHSListingId[2]=' ';
+
+
+listingYearBuilt[2]='1958';
+
+
+listingBathrooms[2]=' ';
+
+
+listingType[2]='Commercial';
+
+
+listingBasement[2]=' ';
+
+
+listingGarage[2]=' ';
+
+
+listingPrice[2]='850';
+
+
+listingZipCode[2]='44512';
+
+
+listingCounty[2]='Mahoning';
+
+
+listingState[2]='OH';
+
+
+listingHeadline[2]='Office in Boardman';
+
+
+listingMLS[3] = 1377685;
+
+listingAgencyName[3]= 'Jack Kohl Realty';
+
+
+listingAgencyPhone[3]='3302969996';
+
+
+listingAgentFName[3]='Matthew';
+
+
+listingAgentLName[3]='Chionchio';
+
+
+listingAgentPhone[3]='3302969996';
+
+
+listingAgentHSId[3]='107688';
+
+
+listingCity[3]='Ravenna';
+
+
+listingImageUrl1[3]='http://idxftp.neohrex.com/Commercial/1377685/1377685_0.jpg';
+
+
+listingAddress[3]='4805 Prospect';
+
+
+listingURL[3]='http://focus.pulseresearch.com/homeseller/site/OH/Youngstown/listing.html?hs_listing_id=800570';
+
+
+listingLocation[3]='Rootstown';
+
+
+listingBedrooms[3]=' ';
+
+
+listingSQFT[3]='1200';
+
+
+listingAmenities[3]='<ul><li>Cooling: None</li><li>Heating: Other</li><li>Roof: Flat</li></ul>';
+
+
+listingHSListingId[3]=' ';
+
+
+listingYearBuilt[3]='1960';
+
+
+listingBathrooms[3]=' ';
+
+
+listingType[3]='Commercial';
+
+
+listingBasement[3]='None';
+
+
+listingGarage[3]=' ';
+
+
+listingPrice[3]='79900';
+
+
+listingZipCode[3]='44266';
+
+
+listingCounty[3]='Portage';
+
+
+listingState[3]='OH';
+
+
+listingHeadline[3]='Other in Ravenna';
+
+
+listingMLS[4] = 3259993;
+
+listingAgencyName[4]= 'Real Living Volpini Rlty Group, Poland';
+
+
+listingAgencyPhone[4]='330-757-1300';
+
+
+listingAgentFName[4]='Marsha';
+
+
+listingAgentLName[4]='Ruha';
+
+
+listingAgentPhone[4]='(330) 757-1300';
+
+
+listingAgentHSId[4]='128667';
+
+
+listingCity[4]='Hubbard';
+
+
+listingImageUrl1[4]='http://s3.amazonaws.com/pulse_homeseller_50_99/94_3259993_001.jpg';
+
+
+listingAddress[4]='200 Wrenfield Dr';
+
+
+listingURL[4]='http://focus.pulseresearch.com/homeseller/site/OH/Youngstown/listing.html?hs_listing_id=1501349';
+
+
+listingLocation[4]='Hubbard';
+
+
+listingBedrooms[4]='3';
+
+
+listingSQFT[4]='2268';
+
+
+listingAmenities[4]='<ul><li>Appliances: Dishwasher,Sump Pump</li><li>Cooling: Central Air</li><li>Driveway: Paved</li><li>Exterior: Vinyl</li><li>Garage Description: Attached,Electric</li><li>Heating: Forced Air</li><li>Lot Size: 30056</li><li>Roof: Asphalt/Fiberglass</li><li>Style: Colonial</li><li>Stories: 2.00</li><li>Kitchen Dimensions: 0.00 x 0.00</li><li>Living Room Dimensions: 0.00 x 0.00</li><li>Family Room Dimensions: 0.00 x 0.00</li><li>Master Bedroom Dimensions: 0.00 x 0.00</li><li>Bedroom 2 Dimensions: 0.00 x 0.00</li><li>Bedroom 3 Dimensions: 0.00 x 0.00</li><li>Bedroom 4 Dimensions: 0.00 x 0.00</li></ul>';
+
+
+listingHSListingId[4]=' ';
+
+
+listingYearBuilt[4]='2001';
+
+
+listingBathrooms[4]='3';
+
+
+listingType[4]='Residential';
+
+
+listingBasement[4]='Full,Unfinished';
+
+
+listingGarage[4]='2';
+
+
+listingPrice[4]='215000';
+
+
+listingZipCode[4]='44425';
+
+
+listingCounty[4]='Trumbull';
+
+
+listingState[4]='OH';
+
+
+listingHeadline[4]='Residential in Hubbard';
+
+
+listingMLS[5] = 1261980;
+
+listingAgencyName[5]= 'Cocca Real Estate II';
+
+
+listingAgencyPhone[5]='3307589904';
+
+
+listingAgentFName[5]='Teresa';
+
+
+listingAgentLName[5]='Cocca-Kay';
+
+
+listingAgentPhone[5]='3307275947';
+
+
+listingAgentHSId[5]='107922';
+
+
+listingCity[5]='Boardman';
+
+
+listingImageUrl1[5]='http://idxftp.neohrex.com/Commercial/1261980/1261980_0.jpg';
+
+
+listingAddress[5]='250 DeBartolo Place';
+
+
+listingURL[5]='http://focus.pulseresearch.com/homeseller/site/OH/Youngstown/listing.html?hs_listing_id=801047';
+
+
+listingLocation[5]='Boardman';
+
+
+listingBedrooms[5]=' ';
+
+
+listingSQFT[5]='9230';
+
+
+listingAmenities[5]='<ul><li>Cooling: Central Air</li><li>Roof: Flat</li></ul>';
+
+
+listingHSListingId[5]=' ';
+
+
+listingYearBuilt[5]='1964';
+
+
+listingBathrooms[5]=' ';
+
+
+listingType[5]='Commercial';
+
+
+listingBasement[5]=' ';
+
+
+listingGarage[5]=' ';
+
+
+listingPrice[5]='1306';
+
+
+listingZipCode[5]='44512';
+
+
+listingCounty[5]='Mahoning';
+
+
+listingState[5]='OH';
+
+
+listingHeadline[5]='Office in Boardman';
+
+
+listingMLS[6] = 1262104;
+
+listingAgencyName[6]= 'Cocca Real Estate II';
+
+
+listingAgencyPhone[6]='3307589904';
+
+
+listingAgentFName[6]='Teresa';
+
+
+listingAgentLName[6]='Cocca-Kay';
+
+
+listingAgentPhone[6]='3307275947';
+
+
+listingAgentHSId[6]='107922';
+
+
+listingCity[6]='Boardman';
+
+
+listingImageUrl1[6]='http://idxftp.neohrex.com/Commercial/1262104/1262104_0.jpg';
+
+
+listingAddress[6]='4214 Market St';
+
+
+listingURL[6]='http://focus.pulseresearch.com/homeseller/site/OH/Youngstown/listing.html?hs_listing_id=801049';
+
+
+listingLocation[6]='Boardman';
+
+
+listingBedrooms[6]=' ';
+
+
+listingSQFT[6]='2200';
+
+
+listingAmenities[6]='<ul><li>Heating: Forced Air</li><li>Roof: Flat</li></ul>';
+
+
+listingHSListingId[6]=' ';
+
+
+listingYearBuilt[6]='1964';
+
+
+listingBathrooms[6]=' ';
+
+
+listingType[6]='Commercial';
+
+
+listingBasement[6]='None';
+
+
+listingGarage[6]=' ';
+
+
+listingPrice[6]='500';
+
+
+listingZipCode[6]='44512';
+
+
+listingCounty[6]='Mahoning';
+
+
+listingState[6]='OH';
+
+
+listingHeadline[6]='Industrial in Boardman';
+
+
+listingMLS[7] = 1481184;
+
+listingAgencyName[7]= 'Altobelli Real Estate';
+
+
+listingAgencyPhone[7]='330-652-0200';
+
+
+listingAgentFName[7]='Carla';
+
+
+listingAgentLName[7]='Cicero';
+
+
+listingAgentPhone[7]='330-652-0200';
+
+
+listingAgentHSId[7]='126759';
+
+
+listingCity[7]='Youngstown';
+
+
+listingImageUrl1[7]='http://s3.amazonaws.com/pulse_homeseller_50_99/94_1481184_001.jpg';
+
+
+listingAddress[7]='1705 Canfield Niles Rd';
+
+
+listingURL[7]='http://focus.pulseresearch.com/homeseller/site/OH/Youngstown/listing.html?hs_listing_id=1015865';
+
+
+listingLocation[7]='Austintown';
+
+
+listingBedrooms[7]=' ';
+
+
+listingSQFT[7]='2094';
+
+
+listingAmenities[7]='<ul><li>Cooling: Window Unit(s)</li><li>Heating: Forced Air</li><li>Parking: Driveway,On Site/Private</li></ul>';
+
+
+listingHSListingId[7]=' ';
+
+
+listingYearBuilt[7]='1908';
+
+
+listingBathrooms[7]=' ';
+
+
+listingType[7]='Commercial';
+
+
+listingBasement[7]='Full';
+
+
+listingGarage[7]=' ';
+
+
+listingPrice[7]='724900';
+
+
+listingZipCode[7]='44515';
+
+
+listingCounty[7]='Mahoning';
+
+
+listingState[7]='OH';
+
+
+listingHeadline[7]='Commercial in Youngstown';
+
+
+
+var len = listingMLS.length;
+	function printFeaturedListings(){
+	 /* define array(s)length*/
+		for(i=0;i');
+		for(i=0;i');
+				document.write('');
+			document.write(''+listingCity[i]+''+listingType[i]+'');
+		}
+		document.write('');
+	}
+	function printFeatured(){
+		var featured_len = len - 1; 
+		document.write('Featured Homes');
+		for(i=0;i'); 
+			 if(listingImageUrl1[i]=="http://idxftp.neohrex.com/Residential/3059566/3059566_0.jpg"){document.write('');}
+			 else{ 
+			 	if(listingImageUrl1[i]=="http://idxftp.neohrex.com/Residential/1546749/1546749_0.jpg"){document.write('');}
+			 	else{
+			 		if(listingImageUrl1[i]=="http://s3.amazonaws.com/pulse_homeseller_50_99/94_3128646_001.jpg"){document.write('');}	
+			 		else{
+						if(listingImageUrl1[i]=="http://idxftp.neohrex.com/MultiFamily/1470935/1470935_0.jpg"){document.write('');}
+						else{
+							if(listingImageUrl1[i]=="http://idxftp.neohrex.com/MultiFamily/1470935/1470935_0.jpg"){document.write('');}
+							else{
+								if(listingImageUrl1[i]=="http://idxftp.neohrex.com/Residential/3049234/3049234_0.jpg"){document.write('');}
+								else{
+									if(listingImageUrl1[i]=="http://idxftp.neohrex.com/Residential/1539752/1539752_0.jpg"){document.write('');}
+									else{
+										document.write('');
+									}
+								}
+							}
+						}
+					}
+				}
+			 }
+			 document.write(''+listingCity[i]+''+listingType[i]+'');
+		} 
+		document.write('');
+	}	
+	function printFeatured2(){
+		var featured_len = len - 1; 
+		document.write('Featured Homes');
+		for(i=0;i'); 
+			 if(listingImageUrl1[i]=="http://idxftp.neohrex.com/Residential/3059566/3059566_0.jpg"){document.write('');}
+			 else{ 
+			 	if(listingImageUrl1[i]=="http://idxftp.neohrex.com/Residential/1546749/1546749_0.jpg"){document.write('');}
+			 	else{
+			 		if(listingImageUrl1[i]=="http://s3.amazonaws.com/pulse_homeseller_50_99/94_3128646_001.jpg"){document.write('');} 
+			 		else{document.write('');}
+			 		}
+			 }
+			 document.write(''+listingCity[i]+''+listingType[i]+'');
+		} 
+		document.write('');
+	}	
+	function printFeaturedHome(){
+		var featured_len = len - 1; 
+		document.write('Featured Homes');
+		for(i=0;i'); 
+			 if(listingImageUrl1[i]=="http://idxftp.neohrex.com/Residential/3059566/3059566_0.jpg"){document.write('');}
+			 else{ 
+			 	if(listingImageUrl1[i]=="http://idxftp.neohrex.com/Residential/1546749/1546749_0.jpg"){document.write('');}
+			 	else{
+			 		if(listingImageUrl1[i]=="http://s3.amazonaws.com/pulse_homeseller_50_99/94_3128646_001.jpg"){document.write('');}	
+				 		else{
+							if(listingImageUrl1[i]=="http://idxftp.neohrex.com/MultiFamily/1470935/1470935_0.jpg"){document.write('');}
+							else{
+								if(listingImageUrl1[i]=="http://idxftp.neohrex.com/Residential/3049234/3049234_0.jpg"){document.write('');}
+								else{
+									if(listingImageUrl1[i]=="http://idxftp.neohrex.com/Residential/1539752/1539752_0.jpg"){document.write('');}
+									else{
+										document.write('');
+									}
+								}
+							}
+							
+						}
+					}
+				 }
+			 document.write(''+listingCity[i]+''+listingType[i]+'');
+		} 
+		document.write('');
+	}

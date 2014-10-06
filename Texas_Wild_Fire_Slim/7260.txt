@@ -1,0 +1,97 @@
+Component ajax
+ajax
+Component ajax 
+
+
+
+hierarchy:
+WEB-INF.cftags.component       ajax
+
+path:
+C:\Websites\GoHorseShowcom\V400\Webroot\ajax.cfc
+
+serializable:
+Yes
+			
+
+properties:
+
+
+
+methods:
+ ajaxCall, returnStuff
+
+
+* - private method
+
+
+ajaxCall
+
+
+
+remote
+ajaxCall
+	
+	(
+ 	
+		
+		required string
+		
+		c="menu", 
+		
+		required string
+		
+		f="", 
+		
+		required struct
+		
+		a="" 
+	)
+	
+	
+
+	
+
+	
+
+	Output: 
+
+	
+	
+		Parameters:
+		
+			   c:
+			string, required, c 
+			
+		
+			   f:
+			string, required, f 
+			
+		
+			   a:
+			struct, required, a 
+			
+
+
+
+returnStuff
+
+
+
+remote
+returnStuff
+	
+	(
+ 	
+	)
+	
+	
+
+	
+
+	
+
+	Output: 
+
+
+

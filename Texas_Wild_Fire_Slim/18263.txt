@@ -1,0 +1,679 @@
+The Endeavour - powered by FeedBurner
+&
+
+
+
+The Endeavour
+
+syndicated content powered by FeedBurner
+
+
+
+
+
+
+...
+
+Reset this favorite; show all Subscribe options
+
+
+
+Subscribe Now!
+...with web-based news readers. Click your choice below:
+
+
+
+
+
+
+
+...with other readers:
+
+(Choose Your Reader)FeedDemonNetNewsWireNewsFireNewsGator Outlook EditionRSSOwlShrookUniversal Subscription Mechanism (USM)
+
+
+Get The Endeavour delivered by email
+
+
+ View Feed XML
+
+
+
+
+FeedBurner makes it easy to receive content updates in My Yahoo!, Newsgator, Bloglines, and other news readers.
+
+Learn more about syndication and FeedBurner...
+
+Current Feed Content
+
+
+
+Counting magic squares
+
+
+Posted: Mon, 12 Sep 2011 16:07:29 +0000
+How many k × k magic squares are possible? If you start from a liberal definition of magic square, there’s an elegant result. For the purposes of this post, a magic square is a square arrangement of non-negative numbers such that the rows and columns all sum to the same non-negative number m called the magic constant. Note that this allows the possibility that numbers will be repeated, and this places no restriction on the diagonals.
+With this admittedly non-standard definition, the number of k × k magic squares with magic constant m is always a polynomial in m of degree no more than (k – 1)2. For k = 3, the result is
+(m + 1)(m + 2)(m2 + 3m + 4)/8
+There is no general formula for all k, but there is an algorithm for finding a formula for each value of k.
+Source: The Concrete Tetrahedron
+Update: I had reported the polynomial degree as k + 1, but looking back at Concrete Tetrahedron, that book lists the order as (k + 1)2. However, the paper cited in the comments lists the exponent as (k – 1)2, which I believe is correct.
+Related posts:
+Knight’s magic tour
+King’s magic tour
+Jupiter’s magic square
+
+
+
+
+Bad science is tolerable, résumé padding is not
+
+
+Posted: Mon, 12 Sep 2011 14:01:17 +0000
+The Economist posted an article online this weekend about the scandal over irreproducible cancer research by Anil Potti. My colleagues Keith Baggerly and Kevin Coombes have been crying foul about this since 2007. I first blogged about it in January 2008.
+The story started getting wide-spread attention last summer when the Cancer Letter reported that Dr. Potti had lied on grant applications. Since then there have been articles in the popular press, and people are staring to file lawsuits.
+Apparently the tipping point in the story was finding a fib on Potti’s resume. According to The Economist
+He falsely claimed to have been a Rhodes Scholar in Australia (a curious  claim in any case, since Rhodes scholars only attend Oxford  University).
+So what finally got people to pay attention was not accusations of incompetent or fraudulent science, but résumé padding. As Keith Baggerly commented,
+I find it ironic that we have been yelling for three years about the science, which has the potential to be very damaging to patients, but that was not what has started things rolling.
+Related posts:
+Popular research areas produce more false results
+Using Photoshop on research results
+Highlights from Reproducible Ideas
+
+
+
+
+Weekend miscellany
+
+
+Posted: Sat, 10 Sep 2011 09:23:54 +0000
+Photography
+Texas drought and wildfires from Boston Globe
+Bastrop fire photos by Kerri West
+Saturnine eclipse by Cassini probe
+Color
+Crayola history
+Color in scientific visualization
+Why should scientists and engineers be worried about color?
+Math
+Prize awarded for classification of finite simple groups
+Computer science
+10 technical papers every programmer should read at least twice
+Small memory software
+Source control done right
+Learning Unix
+Have you tried JavaScript?
+Video
+
+Tchaikovsky Timelapse from joe clarke on Vimeo.
+
+
+
+
+Five interesting things about Mersenne primes
+
+
+Posted: Fri, 09 Sep 2011 11:18:21 +0000
+A Mersenne prime is a prime number that is one less than a power of 2. These primes are indexed by the corresponding power of two, i.e. Mp = 2p – 1. It turns out p must be prime before 2p – 1 can be prime.
+Here are five things I find interesting about Mersenne primes.
+1. Record size primes
+The largest known prime number is a Mersenne prime, M43,112,609, proved prime in 2008. And ever since M521 was proven prime in 1952, the largest known prime has always been a Mersenne prime (with one exception in 1989). See a history of prime number records.
+One reason for the prevalence of Mersenne primes in the record books is that there is a special algorithm for testing whether a number of the form 2p – 1 is prime, the Lucas-Lehmer test.
+2. Finiteness
+There may only be a finite number of Mersenne primes. Only 47 are known so far. There are conjectures that predict there are an infinite number of Mersenne primes, but these have not been settled.
+3. Connection with perfect numbers
+Euclid proved that if M is a Mersenne prime, M(M+1)/2 is a perfect number. Two millennia later, Euler proved that if N is an even perfect number, N must be of the form M(M+1)/2 where M is a Mersenne prime. (More details here.)
+Since we only know of 47 Mersenne primes at the moment, and we don’t know of any odd perfect numbers, there are only 47 known perfect numbers.
+4. Connection with random number generation
+The Mersenne twister is a popular, high-quality random number generator. The generator is so named because its period is a Mersenne prime, M19,937.
+5. History
+Mersenne primes are named after the French monk Marin Mersenne (1588–1648) who compiled a list of Mersenne primes. Mersenne wasn’t the first to be aware of such primes. As mentioned above, Euclid connected these primes with perfect numbers.
+Marin Mersenne is one of my academic ancestors. I studied under Ralph Showalter, who studied under Tsuan Ting, and so forth back to Frans van Shooten Jr., who studied under Marin Mersenne.
+What I find fascinating about this is not my particular genealogy, but that adequate records exist to construct such genealogies. The Mathematics Genealogy Project has over 150,000 records, some reaching back to the Middle Ages.
+
+
+
+
+
+Wildfires make interesting sunsets
+
+
+Posted: Thu, 08 Sep 2011 03:42:04 +0000
+Wildfires 100 miles west of Houston make for interesting sunsets.
+
+Larger version
+Related post: Bastrop wildfire
+
+
+
+
+Normal subgroups are not transitive
+
+
+Posted: Thu, 08 Sep 2011 03:28:33 +0000
+The property “is a normal subgroup of” is not transitive.
+If A is a subgroup of B, and B is a subgroup of C, then A is a subgroup of C. But the corresponding statement about normal subgroups is false. And there’s a simple example that shows it is false.
+We need to find a group C with subgroups A and B such that A is normal in B, B is normal in C, but A is not normal in C.
+The subgroup A must have at least two elements, otherwise A would just be the group identity and would then be a normal subgroup of C. The order of a subgroup divides the order of the group, so B must have at least twice as many elements as A, and C must have twice as many elements as B. So the smallest possible example would be a group with 8 elements and subgroups of order 2 and 4.
+We’re in luck, because there’s a group of order 8 that will work, D8. This is the group of symmetries of a square under flips and rotations. Let A be the subgroup of flips about the vertical axis of symmetry. Let B the symmetries you can find by combinations of such flips and 180 degree rotations. You can show that A is normal in B, and B is normal in C.
+Now let c be a 90 degree clockwise turn and let a be a flip. You can show that cac-1 is not a flip or the identity, so A is not a normal subgroup of C.
+Related post:
+A 3,000 page proof (classification of finite simple groups)
+
+
+
+
+Bastrop wildfire
+
+
+Posted: Wed, 07 Sep 2011 15:32:26 +0000
+Smoke from the wildfires in Bastrop, Texas.
+[Update: See the comment by Kerri West below. I could not tell where the photo came from, but now that I know I will honor the photographer's wishes. She has offered to provide a watermarked version of her photo. I will post it here as soon as I receive it.]
+At least two people have died in the fires and many have lost their homes.
+I’ve taken my daughters a couple times to a father-daughter retreat at Wilderness Ridge Camp near Bastrop. That camp has been completely destroyed by the fires.
+
+
+
+
+Synchronizing metronomes
+
+
+Posted: Wed, 07 Sep 2011 12:21:14 +0000
+
+
+
+
+
+Anti-calculus proposition of Erdős
+
+
+Posted: Wed, 07 Sep 2011 03:45:45 +0000
+The “anti-calculus proposition” is a little result by Paul Erdős that contrasts functions of a real variable and functions of a complex variable.
+A standard calculus result says the derivative of a function is zero where the function takes on its maximum. The anti-calculus proposition says that for analytic functions, the derivative cannot be zero at the maximum.
+To be more precise, a differentiable real-valued function on a closed interval takes on its maximum where the derivative is zero or at one of the ends. It’s possible that the maximum occurs at one of the ends of the interval and the derivative is zero there.
+The anti-calculus proposition says that the analogous situation cannot occur for functions of a complex variable. Suppose a function f is analytic on a closed disk and suppose that f is not constant. Then |f| must take on its maximum somewhere on the boundary by the maximum modulus theorem. Erdős’ anti-calculus proposition adds that at the point on the boundary where |f| takes on its maximum, the derivative cannot be zero.
+Related posts:
+Six degrees of Paul Erdős
+Easy to guess, hard to prove
+Publish or perish
+
+
+
+
+A thermonuclear word processor
+
+
+Posted: Wed, 07 Sep 2011 01:25:55 +0000
+“I use Emacs, which might be thought of as a thermonuclear word processor.” — Neal Stephenson
+From In the beginning was the command line
+Related posts:
+Giving Emacs another try
+Bumblebee software
+Personal organization software
+
+
+
+
+Bayes isn’t magic
+
+
+Posted: Tue, 06 Sep 2011 12:44:18 +0000
+If a study is completely infeasible using traditional statistical methods, Bayesian methods are probably not going to rescue it. Bayesian methods can’t squeeze blood out of a turnip.
+The Bayesian approach to statistics has real advantages, but sometimes these advantages are oversold. Bayesian statistics is still statistics, not magic.
+
+
+
+
+Intolerant anarchists
+
+
+Posted: Mon, 05 Sep 2011 23:23:29 +0000
+From Jaron Lanier:
+Even in the places that are called anarchistic, in fact, what happens  is a new kind of order, which is often very oppressive if you don’t  happen to fit in. In San Francisco you can be attacked by mobs of  bicycling advocates who’ve occasionally been quite ruthless because they  believe in bicycles, and they think that they’re the most enlightened,  free people in the world, and yet if somebody doesn’t agree with them,  then they have trouble.
+Similarly, Burning Man, which people who fit in at Burning Man must  perceive is the most open, accepting place in the world is, in fact,  extraordinarily unaccepting of people who don’t conform.
+
+
+
+
+Loving your literal neighbor
+
+
+Posted: Mon, 05 Sep 2011 01:09:02 +0000
+It’s one thing to love your neighbor in the abstract. It’s quite another to love your literal neighbor.
+As G. K. Chesterton explains:
+We make our friends; we make our enemies; but God makes our next-door neighbor. … The duty towards humanity may often take the form of some choice which is personal or even pleasurable. That duty may be a hobby … We may be made as to be particularly fond of lunatics or specially interested in leprosy … But we have to love our neighbor because he is there — a much more alarming reason for a much more serious operation. He is the sample of humanity actually given us.
+Quote found in From the Library of C. S. Lewis
+
+
+
+
+
+Friday miscellany
+
+
+Posted: Fri, 02 Sep 2011 11:50:11 +0000
+The inculcation of systems thinking
+Harry Potter in 99 seconds
+A history of Bayes’ theorem
+The parable of the toaster
+R програмування для тих, хто прибуває з інших мов
+(Ukrainian translation of my intro to R notes)
+Richard Feynman explains why trains stay on their tracks
+
+Daily tips for sed and awk start Monday from @SedAwkTip.
+
+
+
+
+Willie Sutton and the multivariate normal distribution
+
+
+Posted: Thu, 01 Sep 2011 14:52:47 +0000
+When asked why he robbed banks, Willie Sutton famously replied “Because that’s where the money is.”
+If you read about data analysis in high dimensions, you might hear someone say they’re focused on a thin shell because that’s where the probability is. For a multivariate normal distribution in high dimensions, nearly all the probability density is concentrated in a thin shell some distance away from the origin.
+What does that mean? Why is it true? How thin is the shell and what is its radius?
+It seems absurd to say the probability is concentrated in a shell. The multivariate normal density looks has its greatest value at the origin and quickly decays as you move out in any direction. So most of the probability must be near the origin, right? No, because mass equals density times volume. The density decays quickly as you move away from the origin, but volume increase quickly. The product of the two is greatest at some radius away from the origin. That’s the shell.
+The volume of a sphere in d dimensions is proportional to rd, so volume increases very quickly if d is large. For example, if d = 100, how much of the volume of a unit sphere is between a distance of 0.99 and 1 from the origin? Since 1100 – 0.99100 = 0.634, this says 63.4% of the volume is in the outer shell of thickness 0.01.
+Since volume of a sphere is proportional to rd, the volume of a shell of radius r and thickness Δr is roughly proportional to d rd-1 Δr. When you multiply that volume by the probability density exp( -r2 / 2 ) you get that the probability mass in the shell is proportional to
+rd-1 exp( -r2 / 2 ) Δr.
+This leads to a χ distribution with d degrees of freedom. (Not the better known χ2 distribution.) This distribution has mode √(d-1) and variance 1. For large d, the distribution is approximately normal. So a multivariate normal in d dimensions with d large has roughly 95% of its probability mass in a shell of radius √d with thickness 4, two standard deviations either side of √d. (I’m approximating anyway, so I approximated √(d-1) as √d to make the conclusion a little simpler.)
+The graph below gives the probability density of shells as a function of radius in dimensions 10 and 100.
+
+Related post:
+Volumes of Lp unit balls
+
+
+
+
+What most C++ programmers do
+
+
+Posted: Wed, 31 Aug 2011 20:58:45 +0000
+“Nobody knows what most C++ programmers do.” — Bjarne Stroustrup
+The quote above came up in a discussion of C++ by Scott Meyers, Andrei Alexandrescu, and Herb Sutter. They argue that C++ is used in so many diverse applications that if someone starts a sentence with “Most C++ programmers …” he probably doesn’t know what he’s talking about.
+Related post:
+The dark matter of programmers
+
+
+
+
+Awk one-liners
+
+
+Posted: Wed, 31 Aug 2011 13:20:55 +0000
+Peteris Krumins has written a fine little book Awk One-Liners Explained. It’s just 58 pages, and it’s an easy read.
+As I commented here, I typically try master the languages I use. But for some languages, like awk and sed, it makes sense to learn just a small, powerful subset. (The larger a language is, the harder it can be to just learn part of it because the features intertwine.) Krumins’ book would be good for someone looking to learn just a little awk rather than wanting to explore every dark corner of the language.
+Awk One-Liners Explained is exactly what title would lead you to expect. It has 70 awk one-liners along with a commentary on each. Some of the one-liners solve common specific problems, such as converting between Windows and Unix line endings. Most of the one-liners are solutions to general types of problems rather than code anyone is likely to run verbatim. For example, one of the one-liners is
+Change “scarlet” or “ruby” or “puce” to “red.”
+I doubt anybody has ever had to solve that exact problem, but it’s not hard to imagine wanting to do something similar.
+Because the book is entirely about one-line programs, it doesn’t cover how to write complex programs in awk. That’s perfect for me. If something takes more than one line of awk, I probably don’t want to use awk. I use awk for quick file filtering. If a task requires writing several lines of code, I’d use Python.
+You can get an idea of the style of the book by reading the author’s blog post Famous Awk One-Liners Explained, Part I: File Spacing, Numbering and Calculations.
+***
+If you’d like to learn the basics sed and awk by receiving one tip per day, you can follow @SedAwkTip on Twitter. If you don’t use Twitter, you can subscribe via RSS.
+
+
+
+
+Code to slice open a Menger sponge
+
+
+Posted: Wed, 31 Aug 2011 01:18:36 +0000
+Last month the New York Times ran a story about a sculpture based on cutting open a “Menger sponge,” a shape formed by recursively cutting holes through a cube. All the holes are rectangular, but when you cut the sponge open at an angle, you see six-pointed stars.
+Here are some better photos, including both a physical model and a computer animation. Thanks to Mike Croucher for the link.
+I’ve written some Python code to take slices of a Menger sponge. Here’s a sample output.
+
+
+The Menger sponge starts with a unit cube, i.e. all coordinates are between 0 and 1. At the bottom of the code, you specify a plane by giving a point inside the cube and vector normal to the plane. The picture above is a slice that goes through the center of the cube (0.5, 0.5, 0.5) with a normal vector running from the origin to the opposite corner (1, 1, 1).
+
+from math import floor, sqrt
+from numpy import empty, array
+from matplotlib.pylab import imshow, cm, show
+
+def outside_unit_cube(triple):
+    x, y, z = triple
+    if x < 0 or y < 0 or z < 0:
+        return 1
+    if x > 1 or y > 1 or z > 1:
+        return 1
+    return 0
+
+def in_sponge( triple, level ):
+    """Determine whether a point lies inside the Menger sponge
+    after the number of iterations given by 'level.' """
+    x, y, z = triple
+    if outside_unit_cube(triple):
+        return 0
+    if x == 1 or y == 1 or z == 1:
+        return 1
+    for i in range(level):
+        x *= 3
+        y *= 3
+        z *= 3
+
+        # A point is removed if two of its coordinates
+        # lie in middle thirds.
+        count = 0
+        if int(floor(x)) % 3 == 1:
+            count += 1
+        if int(floor(y)) % 3 == 1:
+            count += 1
+        if int(floor(z)) % 3 == 1:
+            count += 1
+        if count >= 2:
+            return 0
+
+    return 1
+
+def cross_product(v, w):
+    v1, v2, v3 = v
+    w1, w2, w3 = w
+    return (v2*w3 - v3*w2, v3*w1 - v1*w3, v1*w2 - v2*w1)
+
+def length(v):
+    "Euclidean length"
+    x, y, z = v
+    return sqrt(x*x + y*y + z*z)
+
+def plot_slice(normal, point, level, n):
+    """Plot a slice through the Menger sponge by
+    a plane containing the specified point and having
+    the specified normal vector. The view is from
+    the direction normal to the given plane."""
+
+    # t is an arbitrary point
+    # not parallel to the normal direction.
+    nx, ny, nz = normal
+    if nx != 0:
+        t = (0, 1, 1)
+    elif ny != 0:
+        t = (1, 0, 1)
+    else:
+        t = (1, 1, 0)
+
+    # Use cross product to find vector orthogonal to normal
+    cross = cross_product(normal, t)
+    v = array(cross) / length(cross)
+
+    # Use cross product to find vector orthogonal
+    # to both v and the normal vector.
+    cross = cross_product(normal, v)
+    w = array(cross) / length(cross)
+
+    m = empty( (n, n), dtype=int )
+    h = 1.0 / (n - 1)
+    k = 2.0*sqrt(3.0)
+
+    for x in range(n):
+        for y in range(n):
+            pt = point + (h*x - 0.5)*k*v + (h*y - 0.5)*k*w
+            m[x, y] = 1 - in_sponge(pt, level)
+    imshow(m, cmap=cm.gray)
+    show()
+
+# Specify the normal vector of the plane
+# cutting through the cube.
+normal = (1, 1, 0.5)
+
+# Specify a point on the plane.
+point = (0.5, 0.5, 0.5)
+
+level = 3
+n = 500
+plot_slice(normal, point, level, n)
+
+Related post:
+A chip off the old fractal block
+
+
+
+
+The power of parity
+
+
+Posted: Tue, 30 Aug 2011 12:00:54 +0000
+Puzzle: Give an elegant proof that the following matrix is invertible.
+
+Solution: The determinant of the matrix is odd, so the determinant is not zero, so the matrix is invertible.
+Why is the determinant odd? The determinant is defined as a sum of products that pick an element from each row and each column. Some of the products are multiplied by -1, but that doesn’t matter for our purposes. Each product of three elements is even except for the product that takes the terms along the diagonal, which are all odd. The sum of an odd number and several even numbers is odd.
+In full detail, the determinate is
+397×91×(-11) + (-12)×1000×314 + (-98)×(-278)×218 – (-98)×91×314 – (-12)×(-278)×(-11) – 397×218×1000
+One odd number plus five even numbers is an odd number.
+I saw this example in a course by Jeff Vaaler years ago.
+For more examples of problems trivialized by parity arguments, see Saved by symmetry.
+Related post:
+Odd numbers in odd bases
+
+
+
+
+Gritty coordinate systems
+
+
+Posted: Mon, 29 Aug 2011 12:17:29 +0000
+Check out The Calculus of Grit by Venkat Rao. This article is somewhat similar to my Jack of all trades post but goes into far more depth. It is about 20 times longer than my article and well worth reading.
+Venkat Rao compares discipline boundaries to extrinsic coordinates and one’s career to intrinsic coordinates. You don’t have to understand the mathematical significance of these terms to read The Calculus of Grit, though it helps. Extrinsic coordinates describe a surface as it sits inside a larger space. Intrinsic coordinates describe a surface as it would be experienced by a bug crawling around on it. A line that is straight in one coordinate system will typically not be straight in the other coordinate system.
+For some background on the technical use of the term “grit,” see the Psychology Today article The Winning Edge. (The math in the first paragraph is annoying because the superscripts were stripped in the online version of the article. It says, for example, 32 + 42 = 52.)
+Thanks to DavidC for pointing out Venkat Rao’s post.
+
+
+
+
+Weekend miscellany
+
+
+Posted: Sat, 27 Aug 2011 12:21:12 +0000
+How could Toyota help redesign a cancer center?
+Gaddafi’s Condoleezza Rice scrapbook
+The resurgence of C++
+Interlaced eigenvalues
+Unsung icons of Soviet design
+As seen on TV: A tribute to doing it wrong 
+
+Next week @SansMouse starts over with keyboard shortcuts for Windows and Ubuntu. SansMouse starts with very basic shortcuts and moves to ones that are less commonly known.
+My other daily tip Twitter accounts are listed here.
+
+
+
+
+When rejected thoughts coming back
+
+
+Posted: Fri, 26 Aug 2011 12:53:45 +0000
+I was struck by this quote from Ralph Waldo Emerson, even though I’m not sure I understand what he meant.
+In every work of genius, we recognize our own rejected thoughts: they come back to us with a certain alienated majesty.
+Maybe Emerson was referring to that why-didn’t-I-think-of-that feeling when you see that someone else connected one or two more dots than you did. You thought about a challenge, and maybe you were close to resolving it, but you lacked a key insight to pull it all together. You decided your approach wouldn’t work, but someone did make it work.
+If that’s what Emerson had in mind, it’s puzzling that he speaks of “every work of genius.” It would be incredibly arrogant to think that you almost came up with every great idea you see. Maybe he means that we recognize genius best when it relates to something we’ve struggled with.
+What do you think Emerson meant? When have your rejected ideas come back to you?
+
+
+
+
+Wires and air
+
+
+Posted: Thu, 25 Aug 2011 13:34:10 +0000
+Tim O’Reilly recalls a remarkable prediction:
+I remember, must be 20 or 25 years ago, hearing a talk given by Nick Negroponte of the MIT Media Lab, in which he made a prediction … Everything that today goes through wires will go through the air, and everything that goes through the air today will go through wires.
+From an interview with John Donovan, CTO of AT&T.
+I find it interesting that Negroponte didn’t just predict a move to wireless but that there would be an exchange, wireless things becoming wired.
+
+
+
+
+Microsoft developers need not apply
+
+
+Posted: Wed, 24 Aug 2011 14:42:19 +0000
+Last night I shared the article Why we don’t hire .NET programmers by David Barrett on Twitter. Some of the responses I got said the article was
+
+A load of rubbish
+Amazingly successful trolling
+So narrow minded it hurts
+
+The article contains some provocative criticisms of Microsoft’s tool stack. But it also has high praise for the same tools.
+Here’s what I believe the article is saying at its core:
+The Microsoft tool stack is not optimized for the kind of development we want to do, so we doubt that people who have chosen to make a career using that tool stack will be a good fit for us.
+I’ll let David Barrett decide who is or is not a good fit for his company, but this much seems undeniable: Microsoft’s tools are optimized for a certain market. All tools are optimized for some market, at least tools that are successful. I would take Microsoft’s enormous financial success as evidence that their tools are indeed optimized for some market, and a large market at that. The article says
+[.NET is] the most modern platform for application development on the  planet.  Microsoft has always produced the best tools for building  internal business applications, and .NET is their masterpiece.  There’s a  reason why they own that space; they earned it.  That space employs  millions of people, and those people are unquestionably the masters at  what they do.
+That’s quite an endorsement. Microsoft should quote that in their marketing literature.
+I assume .NET developers don’t take offense to what Barrett says .NET does well but rather what he thinks it does poorly.
+Barrett’s main criticism of .NET is that it makes it easier to solve common problems at the expense of making it harder to solve uncommon problems. And that seems clear. He makes his point in an inflammatory way — implying that Microsoft wants to entrap developers, and that .NET developers are happy to let Microsoft think for them — but I agree that Microsoft has designed its tools for developers working on common problems. They’ve aimed at the profitable heart of the developer market.
+I don’t agree with Barrett’s argument that start-ups are necessarily working on unusual problems that are not well served by Microsoft tools. A start-up may have a unique product or service and yet have mainstream software needs. For example, suppose you develop a kit that lets people run their car on oatmeal. A web site for selling your kits might not be very different from a web site selling T-shirts.
+Related post:
+Usability versus composability
+Termites and programmers
+
+
+
+
+Weekend miscellany
+
+
+Posted: Sun, 21 Aug 2011 10:49:33 +0000
+Photography
+NASA after the space shuttle
+How a log is cut into lumber
+Science
+Physics of coffee rings
+Comparing common decongestants
+Computer science
+A cartoon guide to the Advanced Encryption Standard
+The busy beaver problem
+Algorithms behind the Kinect (machine learning keynote)
+Math
+Applied algebraic topology and sensor networks notes by Robert Ghrist
+
+Image from Robert Ghrist’s notes
+
+
+
+
+Jack of all trades?
+
+
+Posted: Thu, 18 Aug 2011 18:35:10 +0000
+Whether a person is a “jack of all trades and a master of none” depends on how you define trades. The same person could be a dilettante or a specialist depending on your mental categories.
+Take an expert programmer back in time 100 years. What are his skills? Maybe he’s pretty good at math. He has good general problem solving skills, especially logic. He has dabbled a little in linguistics, physics, psychology, business, and art. He has an interesting assortment of knowledge, but he’s not a master of any recognized trade.
+Is a manager a master of one trade or a jack of several trades? Obviously if you recognize management as a profession, then someone who is good at it is a master of that trade. But if you don’t have the mental category of manager, what is a manager good at? She knows a little psychology, a little sociology, a little math, she has good communication skills, etc. But she’s a jack of all trades and master of none unless you have a name for her trade.
+Calling someone a jack of all trades could be a way of saying that you  don’t have a mental category to hold what they do.
+Related post:
+Too much time on their hands
+
+
+
+
+Go and do
+
+
+Posted: Thu, 18 Aug 2011 13:51:24 +0000
+Another quote from Tristan Gylberd:
+If you always go where you have always have gone and always do what you have always done, you will always be what you have always been.
+Related post:
+Odd little bookshops
+
+
+
+
+Odd numbers in odd bases
+
+
+Posted: Wed, 17 Aug 2011 13:29:01 +0000
+My wife told me about someone on the radio yesterday discussing voluntary water rationing. People in odd-numbered houses are being asked to water their yards only on odd-numbered days. This person said “I suppose they’re talking about the last digit.”
+When she told me about this, my first two thoughts were:
+
+Yes, that’s what it means to be odd.
+Nearly every house number in suburban Houston starts with 1, so going by first digit would be a bad idea.
+
+Strictly speaking, it’s a theorem that odd numbers are those that end in odd digits. The definition of an odd number is one that leaves a remainder of 1 when divided by 2. And in base 10, a number is odd if and only if it ends in an odd digit.
+But what if you were using a base other than 10? If the base is even, then a number is odd if and only if the last digit is odd, just like base 10. But what if you’re using an odd base, say base 7? Then the theorem doesn’t hold. For example the number 122 in base 7 is odd, and the number 33 is even. And it’s not just the opposite of the rule for base 10 because 43 is also odd in base 7.
+In an odd base, a number is odd iff it has an odd number of odd digits.
+(In case you haven’t seen “iff” before, it’s an abbreviation for “if and only if.”)
+So, for example, in base 7, the number 642341 is even because it contains two odd digits. And the number 744017 in base 9 is odd because it has three odd digits.
+Why does this rule work? Suppose, for example, you have a 4-digit number number pqrs in base b where b is odd. Then pqrs represents
+p b3 + q b2 + r b + s
+All the powers of b are odd, so a number like p times a power of b is odd iff p is odd. So every odd digit in the number contributes an odd number to the sum that expands what the number means. Even digits contribute even terms. A sum is odd iff it has an odd number of odd terms, so a number in an odd base is odd iff it has an odd number of odd digits.
+Similar posts:
+Divisibility by 7
+Divisibility rules in hex
+Casting out z’s
+
+
+
+
+A couple Python-like features in C++11
+
+
+Posted: Wed, 17 Aug 2011 12:57:53 +0000
+The new C++ standard includes a couple Python-like features that I ran across recently. There are other Python-like features in the new standard, but here I’ll discuss range-based for-loops and raw strings.
+In Python you loop over lists rather than rather than incrementing a loop counter variable. For example,
+
+    for p in [2, 3, 5, 7, 11]:
+        print p
+
+Range-based for loops now let you do something similar in C++11:
+
+    int primes[5] = {2, 3, 5, 7, 11};
+    for (int &p : primes)
+        cout << p << "\n";
+
+Also, Python has raw strings. If you preface a quoted string with R, the contents of the string is interpreted literally. For example,
+
+    print "Hello\nworld"
+
+will produce
+Hello
+world
+but
+
+    print R"Hello\nworld"
+
+will produce
+Hello\nworld
+because the \n is no longer interpreted as a newline character but instead printed literally as two characters.
+Raw strings in C++11 use R as well, but they also require a delimiter inside the quotation marks. For example,
+
+    cout << R"(Hello\nworld)";
+
+The C++ raw string syntax is a little harder to read than the Python counterpart since it requires parentheses. The advantage, however, is that such strings can contain double quotes since a double quote alone does not terminate the string. For example,
+
+    cout << R"(Hello "world")";
+
+would print
+Hello "world"
+In Python this is unnecessary since single and double quotes are interchangeable; if you wanted double quotes inside your string, you’d use single quotes on the outside.
+Note that raw strings in C++ require a capital R unlike Python that allows r or R.
+The C++ features mentioned here are supported gcc 4.6.0. The MinGW version of gcc for Windows is available here. To use C++11 features in gcc, you must add the parameter -std=c++0x to the g++ command line. For example,
+
+    g++ -std=c++0x hello.cpp
+
+Visual Studio 2010 supports many of the new C++ features, but not the ones discussed here.
+Related links:
+C++0x features in GCC
+C++0x core language features in Visual Studio 2010
+C++0x Wikipedia article
+C++11 feature availability spreadsheet
+C++ TR1 random number generation
+C++ TR1 regular expressions
+
+
+
+
+Odd little bookshops
+
+
+Posted: Wed, 17 Aug 2011 09:38:38 +0000
+From Tristan Gylberd:
+The smaller, the odder, the more out of the way, and the more specialized, the better. That is my philosophy on bookshops. Come to think of it, that is my philosophy on everything else too — it makes for a very interesting life unconstrained by the smothering expectations of the tyranny of fashion or popularity.
+Related post:
+Small, local, old, and particular
+
+
+
+
+
+
+FeedBurner delivers the world's subscriptions wherever they need to go. Publish a feed for text or podcasting? 
+You should try FeedBurner today.
+
+

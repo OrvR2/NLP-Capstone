@@ -1,0 +1,1 @@
+IBSYS.hrst.commentCount.onKAToken({"TOKEN":"Bz76oaPZyHWZ53fv6D/duXGxvcO71oSW","METHOD":"POST","PRIVILEGES":"RW","payload_type":"json","role":"WEBMASTER","userId":4062430,"email":"ugc@hearst.com","username":"wesh"})

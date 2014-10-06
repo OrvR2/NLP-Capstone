@@ -1,0 +1,38 @@
+
+	Texas Forest Service
+
+
+
+
+
+
+
+
+
+
+
+PRIVACY AND SECURITY STATEMENT
+
+
+
+
+
+
+
+
+
+[ Print | 
+
+ ]
+
+
+
+Texas Forest Service (TFS) maintains this Web Site as a public service. This statement describes TFS’s privacy and security practices regarding information collected from visitors to the site, including what information is collected and how that information is used. This statement applies to all Texas Forest Service websites and online applications.Please note that all information collected or maintained by TFS is subject to the provisions of the Texas Public Information Act (Chapter 552, Texas Government Code). The email addresses of most members of the public who communicate with state agencies through the Internet is confidential under Texas law. Exceptions to confidentiality may be reviewed at Texas Government code, Subchap C, Sec 552.101-.148.Use / Release of InformationServer Logs/Analysis ToolsTFS uses server logs and log analysis tools to create summary statistics about Web site usage to improve site management. The statistics are used for purposes such as assessing what information is of most interest to users, determining technical design specifications, and identifying system performance or problem areas. TFS does not report or use this information in any manner that would reveal personally identifiable information and does not release the information to any outside parties unless required to do so under applicable law.The following information may be collected for this analysis:User/client hostname – Hostname (or IP address, if DNS is disabled) or the user/client requesting access.HTTP header, “user-agent” – Type of browser used, the browser version and operating system it is running on.HTTP header, “referrer” – Page from which the user/client accessed the current page.System date – Date and time of the user/client request.Full request – Exact request the user/client made.Status – Status code the server returned to the user/client.Content length – Length, in bytes, of the document sent to the user/clientUniform Resource Identifier (URI or URL) – Location of a resource on the server.Query string of the URL – Anything after the question mark in a URL.Protocol – Transport protocol and version used.Unauthorized attempts to upload information, change information on this site, or otherwise cause damage are strictly prohibited and may be punishable under Texas Penal Code Chapters 33 (Computer Crimes) or 33A (Telecommunications Crimes). Except as may be required for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits. TFS does not use raw data logs for any other purposes; however, it is possible that parts of raw data logs could be determined to be open records by the Office of the Attorney General. If such a determination were made subsequent to a Public Information Act request for the logs, TFS would be required to disclose parts of the logs deemed open by the Office of the Attorney General.EmailState agencies may not sell or release the email addresses of most members of the public that have been provided to communicate electronically with a government body without the affirmative consent of the affected member of the public. Exemptions to this confidentiality may be reviewed at Texas Government Code, Section 552.137. Personally identifiable information contained in a question or comment sent to TFS in an e-mail message or submitted in an online form is only used by TFS to respond to the request and to analyze trends. TFS may redirect the message to another government agency or government employee who is in a better position to answer the question.Web-Based FormsTFS uses Web-based forms for such purposes as collecting survey results, providing online registration for some TFS-sponsored events, initiating searches, and accepting questions and comments. Personally identifiable information collected from Web-based forms has a specified use (registration, survey response, etc.) and TFS uses the information only for that purpose. Each Web-based form contains a link to this privacy policy.An individual who submits information in electronic format through this Web site is entitled, on request, to receive and review the information TFS collects about the individual, and to have TFS correct the information. To do this, please email Webmaster.CookiesA cookie file contains unique information that a Web site can use to track such things as passwords, pages you have visited, the date you last looked at a specific page, and to identify your session at a particular Web site. TFS does not use cookies to collect information.For Additional InformationAdditional information regarding privacy and security policies is provided in the Privacy and Security Policy Guidelines. The U.S. Federal Trade Commission also provides information for educating consumers and businesses about the importance of personal information privacy.If you have questions or comments about TFS's privacy and security practices, please send e-mail to Webmaster or call 979-458-6609.
+
+
+
+
+
+
+
+

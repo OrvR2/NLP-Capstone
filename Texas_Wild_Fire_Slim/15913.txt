@@ -1,0 +1,35 @@
+try 
+{ 
+tref=1; 
+win_name='null'; 
+report_error=0; 
+docref='';
+try 
+{ 
+if (window.top.location=='') aa=1; 
+docref=document.referrer;
+} 
+catch(er) 
+{ 
+report_error=1; 
+docref='none';
+} 
+if (report_error==1) tref=0; 
+try 
+{ 
+if(window.name=='') win_name='null'; 
+else win_name=window.name; 
+} 
+catch(er) 
+{ 
+report_error=2; 
+} 
+var jsrand = Math.round(1000000*Math.random()); 
+temp_frame='ifr' + 'ame' + ' name="BidVertiser_Frame"' + ' src="http://bdv.bidvertiser.com/bidvertiser.dbm?pid=397123&bid=985344&RD=55&DIF=1' + '&bd_ref_v=' +  escape('http://slideyourworld.blogspot.com/2011/09/firefighters-gain-ground-on-largest.html?spref=tw') + '&tref=' + tref + '&win_name=' + win_name + '&docref=' + docref + '&jsrand=' + jsrand + '&js1loc=' + escape(window.location.href) + '"'  + ' width=160 ' + ' height=600 ' + ' marginwidth="0" ' + ' marginheight="0" ' + ' vspace="0" ' + ' hspace="0" ' + ' frameborder=0 ' + ' allowtransparency="true" ' + ' scrolling="no" style="filter:alpha(opacity=100);opacity=100;-moz-opacity:1;" '; 
+temp_script='scr' + 'ipt' + ' src="http://bdv.bidvertiser.com/bidvertiser.dbm?pid=397123&bid=985344&RD=55&DIF=2' + '&bd_ref_v=' +  escape('http://slideyourworld.blogspot.com/2011/09/firefighters-gain-ground-on-largest.html?spref=tw') + '&tref=' + tref + '&win_name=' + win_name + '&docref=' + docref + '&jsrand=' + jsrand + '&js1loc=' + escape(window.location.href) + '"'; 
+document.write('');document.write(''); 
+document.write('');document.write(''); 
+} catch(er) 
+{ 
+bdv_err=1;
+}
