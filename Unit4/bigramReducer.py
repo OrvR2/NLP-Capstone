@@ -30,7 +30,7 @@ for line in sys.stdin:
 
     line = line.strip() # remove whitespace
 
-    word, word2, count = line.split(',', 2) # splits tuple into 4 parts, where word = middle word and word2 is
+    word, word2, count = line.split(',') # splits tuple into 3 parts, where word = middle word and word2 is
                                                  # the word before or after in the bigram
     try:
         count = int(count)
