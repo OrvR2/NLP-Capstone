@@ -23,4 +23,5 @@ for sent in sents:
 	length = len(array)
 	for i in range(length):
 		if (i < length - 2):
-			print '{0}\t{1}\t{2}'.format(array[i].lower(), array[i+1].lower(), 1)
+			combined = array[i].lower() + array[i+1].lower()
+			print '{0}\t{1}'.format(combined, 1)
