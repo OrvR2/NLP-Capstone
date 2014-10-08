@@ -15,8 +15,8 @@ small_features = None
 train_documents = [(list(train_corpus.words(fileid)), fileid[-7:-4])
 		      for fileid in train_corpus.fileids()]
 
-test_documents = [list(test_corpus.words(fileid)) for
-		      fileid in test_corpus.fileids()]
+#test_documents = [list(test_corpus.words(fileid)) for
+#		      fileid in test_corpus.fileids()]
 
 random.shuffle(train_documents)
 
@@ -38,5 +38,7 @@ print '\n', nltk.classify.accuracy(classifier, test_set), '\n'
 
 classifier.show_most_informative_features(25)
 
+'''
 for i in range(1, 10):
     print classifier.classify(texas_wild_fire_features(test_documents[i])) 
+'''
