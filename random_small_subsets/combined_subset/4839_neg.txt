@@ -1,0 +1,351 @@
+theOptionWiz — using options to reduce risk & improve returns
+
+
+
+
+theOptionWizusing options to reduce risk & improve returns Using Options To Reduce Risk And Improve Returns   
+
+
+
+
+
+
+
+
+WFM call spread entered Jun 24th and closed on Jul 28th for a 14.36% gain...   ||   SINA bear call spread entered Jul 26th and closed on Jul 30th for a 7.99% gain...   ||   PCLN butterfly put spread entered Aug 3rd and closed on Aug 5th for a 8.66% gain...   ||   MSFT call spread entered May 12th and closed on Aug 9th for a 31.13% gain...   ||   VXX diagonal call spread entered Mar 24th and closed on Aug 15th for a 15.26% gain...   ||   APC bear call spread entered Jul 25th and closed on Aug 20th for a 7.71% gain...   ||   JNJ calendar call spread entered Aug 10th and closed on Aug 23th for a 19.00% gain...   ||   AXP calendar call spread entered Aug 15th and closed on Aug 26th for a 41.10% gain...
+Home
+Join
+Members
+Forum
+FAQ
+About Us
+Track Record
+Contact us
+
+ 
+
+You are here: Home 
+Trade Adjustment : diagonal call spread
+September 14, 2011  By TheWiz Leave a Comment  
+Stock / Symbol: [Content protected for Monthly members only]
+Opening Option Strategy: diagonal call spread
+Trade entry date: April 1
+Price at trade entry: $14.04
+Current Position:[Content protected for Monthly members only]
+Adjustment:  We’re going to sell the Oct11 12 strike calls against our position to lower our cost basis in the trade.  
+Trade Adjustment Details:[Content protected for Monthly members only]
+Non-members, click here for access
+
+Filed Under: diagonal call spread 
+
+
+Trade Adjustment / New Trade Opportunity : calendar call spread w/ protective call
+September 14, 2011  By TheWiz Leave a Comment  
+Stock / Symbol: [Content protected for Monthly members only]
+Original Option Strategy: diagonal call spread
+Original Trade entry date: Apr 19th
+Price at original trade entry: $51.68
+Price at this post: $41.59
+Position:[Content protected for Monthly members only]
+Update:
+For those of us currently in FCX, we’re going to roll the Nov 50 call into a Jan12 45 call & add a 40 strike calendar call spread.  For those of you not currently in the trade, this is a good entry point.  The new trade details will follow the adjustment.
+Trade Adjustment Details:
+STC 1 FCX Nov11 50 call
+BTO 1 FCX Jan12 45 call
+for a net debit of $2.40 per contract
+then,
+BTO 2 FCX Feb12 40 calls
+STO 2 FCX Oct11 40 calls
+for a net debit of $2.37 per contract
+Risk Profile (accounting for existing position)
+Max Risk: $1,260
+Max Profit: ($195) @ $40
+Profit Range: NA
+
+New Trade Details:
+BTO 2 FCX Feb12 40 calls
+STO 2 FCX Oct11 40 calls
+for a net debit of $2.37 per contract
+then,
+BTO 1 FCX Jan12 45 call
+for a net debit of $3.25 per contract
+Risk Profile (new position):
+Max Risk: $470
+Max Profit: $275 @ $40 for a 58.51% return by Oct11 exp
+Profit Range: $37.90 +
+Non-members, click here for access
+
+Filed Under: calendar call spread, simple call / put play 
+
+
+New Trade : diagonal call spread
+September 9, 2011  By TheWiz Leave a Comment  
+Stock / Symbol: Comcast / CMCSA
+Option Strategy: diagonal call spread
+Price at trade post: $20.85
+Reasoning: [Content protected for Monthly members only] is a defensive stock in this turbulent market. It will likely outperform in a down market and underpeform when the bulls are running. We believe that technically, the stock has support at the $20 level, and we expect the stock to be in the $22 range by it’s ex-dividend date (Oct 3rd), which is when we plan to close it out.
+Trade Details:[Content protected for Monthly members only]
+Max Risk: $650
+Profit Range: $19.60 – $24.20  (Oct11 exp)
+Max Profit: $400 or 61.5% @ $21 by Oct exp
+Suggested Downside Stop: @ $19.50
+Suggested Upside Stop: @ $23
+
+Filed Under: diagonal call spread 
+
+
+Trade Adjustment : calendar call spread
+September 9, 2011  By TheWiz Leave a Comment  
+Stock / Symbol: [Content protected for Monthly members only]
+Option Strategy: double calendar call spread
+Price at trade post: $42.00
+Reasoning:  We’re going to add a 42 strike calendar to our existing position in [Content protected for Monthly members only].  This will give us a wider profit range and more downside protection.
+Max Risk: $624 (inc 43 strike cal)
+Profit Range: $41.40 – $43.50
+Max Reward: $180 or 28.85% @ 42 – 43 by Sep 2011
+Suggested downside stop: $41.40
+Suggested upside stop: $43.50
+Trade Details:[Content protected for Monthly members only]
+Non-members, click here for access
+
+Filed Under: calendar call spread 
+
+
+closing trade : PCLN put spread
+September 9, 2011  By TheWiz Leave a Comment  
+Stock / Symbol: Priceline.com / PCLN
+Option Strategy: put spread
+Price at trade entry: $535.26
+Price at this post: $521.20
+Reasoning: Although our price target entering this trade was $500, we’re going to take advantage of a big down day in the market and grab a quick profit on this trade.  Of course, if you’d like, feel free to hold out for a bigger gain if you think PCLN can move much lower by Oct expiration.
+Trade Details:
+STC 1 PCLN Oct11 520 Put
+BTC -1 PCLN Oct11 500 Put
+for a net credit of $8.25 per contract (GTC, limit order)
+Max Risk: $685
+Max Reward: $1325 or 193% by Oct exp
+Profit Range: $0 – $513 by Oct exp
+Suggested Stop: at or above $562
+Realized Profit / Loss upon fill: $140 or 20% (pre-commission)
+Non-members, click here for access
+
+Filed Under: put spread 
+
+
+Order Adjustment : double calendar
+September 8, 2011  By TheWiz Leave a Comment  
+Stock / Symbol: [Content protected for Monthly members only]
+Option Strategy: double calendar call spread
+Price at this post: $43.03
+Adjustment:  We have not gotten filled on this spread so we’re going to cancel the order.  Then, we’re going to re-submit just the 43 strike calendar.  If [Content protected for Monthly members only] is then trading at around $43.55 or higher, we’ll look to add the 44 strike calendar.
+Cancel Order:[Content protected for Monthly members only]
+Non-members, click here for access
+
+Filed Under: calendar call spread 
+
+
+New Trade : double calendar
+September 8, 2011  By TheWiz Leave a Comment  
+Stock / Symbol: [Content protected for Monthly members only]
+Option Strategy: double calendar call spread
+Price at trade post: $43.34
+Reasoning:  This stock is trading in a very tight range, making it an idea candidate for a calendar spread.  We’re using 2 strikes to widen our profit range.  Unless we get stopped out earlier, we’ll be out of this trade on Sep 16th.
+Max Risk: $580
+Profit Range: $42.40 – $44.50
+Max Reward: $180 or 31% @ 43 – 44 by Sep 2011
+Suggested downside stop: $42.40
+Suggested upside stop: $44.50
+Trade Details:[Content protected for Monthly members only]
+Non-members, click here for access
+
+Filed Under: calendar call spread 
+
+
+Closing Trade : Calendar Call Spread
+September 6, 2011  By TheWiz Leave a Comment  
+Stock / Symbol: ProShares UltraShort 20+ Year Treasury / TBT 
+Option Strategy: calendar call spread
+Trade entry date: Aug 25th
+Price at trade entry: $25.35
+Price at this post: $21.90
+Reasoning: Our downside stop has been triggered.  We’re going to close out the trade here for a loss.  Once TBT looks like it’s bottomed, we’ll look to re-enter the trade.
+Trade Details:
+STC 4 TBT Mar12 27 calls
+BTC -4 TBT Sep11 27 calls
+for a net credit of $1.36 per contract
+
+Filed Under: calendar call spread 
+
+
+Order Update
+August 31, 2011  By TheWiz Leave a Comment  
+Stock / Symbol: [Content protected for Monthly members only]
+Price at trade entry: $535.25
+Option Strategy: put spread
+Update: We had to up our bid to $6.85 in order to get filled.  We were filled at 12:14.59PM (EST).
+Suggested Stop: at or above $562
+Position Details:[Content protected for Monthly members only]
+Non-members, click here for access
+
+Filed Under: Uncategorized, put spread 
+
+
+New Trade : put spread
+August 31, 2011  By TheWiz Leave a Comment  
+Stock / Symbol: [Content protected for Monthly members only]
+Price at trade post: $536
+Option Strategy: put spread
+Reasoning: While it does have strong fundamentals, we feel that [Content protected for Monthly members only] is technically due for a pull back as it’s close to its 52 week high.   We’ll look to close the trade when the sotck hits $500.  We’re using a day limit order here.  If you don’t get filled within a half an hour, consider upping your bid price.
+Max Risk: $675
+Max Reward: $1325 or 196% by Oct exp
+Profit Range: $0 – $513 by Oct exp
+Suggested Stop: at or above $562
+Trade Details:[Content protected for Monthly members only]
+Non-members, click here for access
+
+Filed Under: put spread 
+
+Next Page » 
+
+What is The OptionWiz ?
+
+A membership-based service offering stock selections coupled with sophisticated options strategies
+
+
+Membership Includes
+
+
+8 to 10 trades per month
+low risk / high probability trades averaging 10.50% in 30 day periods
+instant email alerts on every trade we make
+clear and concise entry and exit points
+complete risk / reward analysis on each trade
+
+
+
+
+click here to JOIN NOW
+
+or learn more about The OptionWiz
+
+AutoTrading
+We now offer Auto Trading with the following major brokers:
+
+
+
+
+
+ 
+
+Login Status
+You are not currently logged in.Username:Password: Remember Me» Register» Lost your Password?
+Get a FREE Trade
+
+ 
+
+About theOptionWiz Trading Method
+The goal is to generate monthly returns of at least 5 to 8% by selling options and keeping losses to an absolute minimum by focusing on high probability trades and utilizing powerful defensive techniques when necessary. Your account will receive monthly income, which you can either pull out to spend or re-invest to compound your earnings. We cherry-pick only the best trades each month, resulting in 8 to 10 high-probability trades per month. We do not go for home-runs, just consistent singles. If you're looking to make 300% on every trade, this site is not for you. HOWEVER, a number of our trades do yield returns of 30 to 50%.  We use several types of options strategies: butterflies, covered calls, calendars, condors, diagonals, ratios, and more. The current market conditions dictate which strategy will be used, allowing you to profit whether the marketing is going up, down, or sideways.
+
+Subscribe to our FREE newsletter
+
+
+ Recent Posts
+
+Trade Adjustment : diagonal call spread
+Trade Adjustment / New Trade Opportunity : calendar call spread w/ protective call
+New Trade : diagonal call spread
+Trade Adjustment : calendar call spread
+closing trade : PCLN put spread
+
+
+Categories
+
+bear call spred
+
+bull put spread
+
+butterfly call spead
+
+butterfly put spread
+
+calendar call spread
+
+calendar put spread
+
+call back spread
+
+call ratio backspread
+
+call spread
+
+call spread risk reversal
+
+combo (short put/long call)
+
+covered call
+
+covered strangle
+
+diagonal call spread
+
+diagonal put spread
+
+iron condor
+
+put spread
+
+ratio put spread
+
+simple call / put play
+
+Uncategorized
+
+vertical call spread
+
+
+
+Archives
+
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+May 2010
+April 2010
+March 2010
+November 2009
+
+
+ 
+
+
+Return to top of pagePrivacy Policy | T&C's | FAQ | Track Record | Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

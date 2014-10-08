@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import shutil, os
+import shutil, os, random
 
 source_folder = '../Texas_Wild_Fire_Slim'
 dest_folder = '../random_small_subsets'
@@ -15,7 +15,10 @@ mikesWork = open('../random_small_subsets/mike_laundry_list.txt', 'w')
 
 count = 0
 
-for fileName in os.listdir(source_folder):
+file_list = os.listdir(source_folder)
+random.shuffle(file_list)
+
+for fileName in file_list:
 	if count >= 300:
 		break
 

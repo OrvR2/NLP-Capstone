@@ -1,7 +1,7 @@
 import os
 import mmap
 
-dir_path = "./Brazil_NightClub_Fire/Brazil_NightClub_Fire/"
+dir_path = "../Texas_Wild_Fire_Slim/"
 count = 0
 
 for file in os.listdir(dir_path):
@@ -10,9 +10,8 @@ for file in os.listdir(dir_path):
         file_stats = os.stat(file_path)
         f = open(file_path)
         s = mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ)
-        if s.find("Fire") == -1 and s.find("fire") == -1:
-            print "No 'fire' found in:", file, file_stats.st_size
+        if s.find("Texas Forest Service") != -1:  
             os.remove(file_path)
-        count += 1
+            count += 1
 
 print "# Removed:", count
