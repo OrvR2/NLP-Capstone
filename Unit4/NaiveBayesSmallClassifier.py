@@ -32,7 +32,7 @@ def texas_wild_fire_features(document):
 
 featuresets = [(texas_wild_fire_features(d), c) for (d, c) in train_documents]
 train_set, test_set = featuresets[50:], featuresets[:50]
-classifier = nltk.MaxentClassifier.train(train_set)
+classifier = nltk.NaiveBayesClassifier.train(train_set)
 
 print '\n', nltk.classify.accuracy(classifier, test_set), '\n'
 
