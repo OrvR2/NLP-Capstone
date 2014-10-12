@@ -18,7 +18,7 @@ train_documents = [(list(train_corpus.words(fileid)), fileid[-7:-4])
 #test_documents = [list(test_corpus.words(fileid)) for
 		     # fileid in test_corpus.fileids()]
 
-random.shuffle(train_documents)
+#random.shuffle(train_documents)
 
 with open('SmallFeatures.pickle', 'rb') as file:
     small_features = pickle.load(file)
@@ -36,9 +36,12 @@ classifier = nltk.MaxentClassifier.train(train_set)
 
 print '\n', nltk.classify.accuracy(classifier, test_set), '\n'
 
-classifier.show_most_informative_features(25)
+classifier.show_most_informative_features(5)
 
-'''
-for i in range(1, 10):
-    print classifier.classify(texas_wild_fire_features(test_documents[i])) 
-'''
+with open('MaxentClassifier.pickle', 'wb') as file:
+    pickle.dump(classifier, file)
+
+# Test the newly pickled classifier
+with open('MaxentClassifier.pickle', 'rb') as file:
+    c = pickle.load(file)
+    print nltk.classify.accuracy(c, test_set)

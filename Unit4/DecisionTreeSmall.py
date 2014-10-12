@@ -43,3 +43,6 @@ print classifier.pp()
 for i in range(1, 10):
     print classifier.classify(texas_wild_fire_features(test_documents[i])) 
 '''
+
+with open('DecisionTreeClassifier.pickle', 'wb') as file:
+    pickle.dump(classifier, file)

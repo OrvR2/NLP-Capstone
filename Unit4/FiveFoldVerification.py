@@ -15,10 +15,10 @@ small_features = None
 train_documents = [(list(train_corpus.words(fileid)), fileid[-7:-4])
 		      for fileid in train_corpus.fileids()]
 
-test_documents = [list(test_corpus.words(fileid)) for
-		      fileid in test_corpus.fileids()]
+#test_documents = [list(test_corpus.words(fileid)) for
+		     # fileid in test_corpus.fileids()]
 
-random.shuffle(train_documents)
+#random.shuffle(train_documents)
 
 with open('SmallFeatures.pickle', 'rb') as file:
     small_features = pickle.load(file)
@@ -30,22 +30,13 @@ def texas_wild_fire_features(document):
         features['contains(%s)' % word] = (word in document_words)
     return features
 
-featuresets = [(texas_wild_fire_features(d), c) for (d, c) in train_documents]
-train_set, test_set = featuresets[50:], featuresets[:50]
-classifier = nltk.NaiveBayesClassifier.train(train_set)
+for i in range(60, 301, 60):
+    featuresets = [(texas_wild_fire_features(d), c) for (d, c) in train_documents]
+    train_set, test_set = featuresets[0:i - 60] + featuresets[i:], featuresets[i - 60:i]
+    classifier_maxent = nltk.MaxentClassifier.train(train_set)
+    classifier_naivebayes = nltk.NaiveBayesClassifier.train(train_set)
+    classifier_decisiontree = nltk.DecisionTreeClassifier.train(train_set)
 
-print '\n', nltk.classify.accuracy(classifier, test_set), '\n'
+    print nltk.classify.accuracy(classifier_decisiontree, test_set), nltk.classify.accuracy(classifier_naivebayes, test_set), nltk.classify.accuracy(classifier_maxent, test_set)
 
-classifier.show_most_informative_features(25)
-
-with open('NaiveBayesClassifier.pickle', 'wb') as file:
-    pickle.dump(classifier, file, -1)
-
-c = None
-# Test the newly pickled classifier
-with open('NaiveBayesClassifier.pickle', 'rb') as file:
-    c = pickle.load(file)
-    print nltk.classify.accuracy(c, test_set)
-
-for i in range(0, len(test_documents)):
-    print c.classify(texas_wild_fire_features(test_documents[i]))
+#classifier.show_most_informative_features(25)
