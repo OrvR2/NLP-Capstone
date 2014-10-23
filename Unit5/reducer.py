@@ -16,7 +16,7 @@ for line in sys.stdin:
     except ValueError:
         continue
 
-    if current_word == word and current_tag == tag:
+    if current_word == word:
         current_count += count
     else:
         if current_word and current_tag and current_count > 2:
@@ -26,5 +26,5 @@ for line in sys.stdin:
         current_tag = tag
         current_count = count
 
-if current_word == word and current_tag == tag and current_count > 2:
+if current_word == word and current_count > 2:
     print "{2}\t{0}\t{1}".format(current_word, current_tag, current_count)
