@@ -1,0 +1,915 @@
+Call of Duty: World at War - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+Call of Duty: World at War
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+Call of Duty: World at War
+
+
+
+
+
+Developer(s)
+Treyarch
+Certain Affinity
+(some multiplayer maps and work)
+Arkane Studios
+(some multiplayer maps)
+
+
+Publisher(s)
+Activision
+
+
+Director(s)
+Margaret Tang
+
+
+Producer(s)
+Marwan A. Assad Ramzan
+Daniel Bunting
+
+
+Designer(s)
+Margaret Tang
+
+
+Artist(s)
+Brian Anderson
+
+
+Writer(s)
+Patrick Doody
+Craig Houston
+Chris Valenziano
+
+
+Composer(s)
+Sean Murray
+
+
+Series
+Call of Duty
+
+
+Engine
+IW 3.0 (Modified from Call of Duty 4: Modern Warfare)
+
+
+Version
+1.7
+
+
+Platform(s)
+Microsoft Windows
+PlayStation 3
+Wii
+Windows Mobile
+Xbox 360[1][2][3]
+
+
+Release date(s)
+
+
+NA November 11, 2008[4]
+EU November 14, 2008[5]
+AUS November 12, 2008[6]
+
+
+
+
+Genre(s)
+First-person shooter
+
+
+Mode(s)
+Single-player, Multiplayer
+
+
+Media/distribution
+Optical disc, Download
+
+
+Call of Duty: World at War is a first-person shooter video game developed by Treyarch and published by Activision for PC, PlayStation 3, Wii, and Xbox 360. It is generally considered to be the fifth mainstream game of the Call of Duty series and returns the setting to World War II. The game was released in North America on November 11, 2008, and in Europe on November 14, 2008. A Windows Mobile version was also made available by Glu Mobile and different storyline versions for the Nintendo DS and PlayStation 2 were also produced, but remain in the World War II setting. The game is based on an enhanced version of the Call of Duty 4: Modern Warfare game engine developed by Infinity Ward with increased development on audio and visual effects.
+The narrative for the Microsoft Windows, PlayStation 3, Wii, and Xbox 360 versions focuses on the Pacific and Eastern Front theatres of World War II, involving the United States, the Empire of Japan, the Soviet Union, and Nazi Germany. It is told from the perspectives of Marine Raider Private C. Miller, US Navy Petty Officer Locke and Red Army soldier Private Dimitri Petrenko and is based on several historical battles. The multiplayer component of the game contains various game modes and a leveling system that allows the player to unlock additional weapons and rewards as they progress, similar to Call of Duty 4. The game also contains downloadable content called "map packs", which can be purchased online. A new feature to the series was the addition of a cooperative mode, which supports up to two players locally and four players online.
+
+
+
+
+Contents
+
+
+1 Gameplay
+
+1.1 Overview
+1.2 Multiplayer
+
+
+2 Synopsis
+
+2.1 Characters
+2.2 Plot
+
+
+3 Development
+
+3.1 Audio
+
+
+4 Marketing
+
+4.1 Downloadable content
+
+
+5 Other versions
+
+5.1 Nintendo DS
+5.2 PlayStation 2
+5.3 Windows Mobile version
+
+
+6 Reception
+
+6.1 Critical response
+6.2 Sales
+
+
+7 References
+8 External links
+
+
+
+
+[edit] Gameplay
+[edit] Overview
+World at War is a game in the Call of Duty series,[7] and features a more mature theme than its previous installments.[8] The game is also open-ended, giving the player multiple ways to complete objectives.[9] The gameplay of World at War shares several features with previous iterations of the franchise. Players fight alongside AI-controlled teammates. They help during the game's missions by providing cover fire, shooting down enemies, and clearing rooms for entry.[10]
+When playing the Wii version of the game, instead of using a normal controller,such as the ones used by the Xbox 360 and the PlayStation 3, an optional gun-like expansion controller known as the Wii Zapper can be used. The Zapper, or Wii Remote and Nunchuk, can be used to aim at targets to fire at them and simulate marksmanship.[11]
+The game's return to World War II-era warfare reintroduces weapons and technology that have been seen in other games in the Call of Duty franchise, including the Thompson submachine gun, the M1 Garand Rifle, the Mosin–Nagant rifle, and the Panzerschreck anti-tank rocket launcher. The player gains access to these over the course of the game, but may only carry up to two weapons in addition to hand grenades. Weapons and ammo from fallen foes or friendlies can be picked up to replace weapons in a player's arsenal. Players can also find weapons with additional attachments, including guns equipped with rifle grenades, telescopic sights, and bayonets.[10]
+A character can be positioned in one of three stances: standing, crouching, or prone; each affecting the character's rate of movement, accuracy, and stealth. Using cover helps the player avoid enemy fire or recover health after taking significant damage, as there are no armor or health powerups. When the character has taken damage, the edges of the screen glow red and the character's heartbeat increases. If the character stays out of fire, the character can recover. When the character is within the blast radius of a live grenade, a marker indicates the direction of the grenade, helping the player in deciding whether to flee or throw it back at the enemy.[10]
+The single player campaign includes thirteen hidden "death cards", denoted by playing cards attached to makeshift war graves. There is one in each level (barring those that take place in vehicles); collecting them unlocks cheats for Co-op mode, such as reduced enemy endurance and "paintball mode".[12]
+[edit] Multiplayer
+World at War includes a similar multiplayer experience to that which was established in Call of Duty 4: Modern Warfare. All versions of the game use a similar perk and ranking system[2] and feature six different multiplayer modes, including team deathmatch and capture the flag.[13] There are a group of three "killstreak rewards" that can be used to turn the tide of battle. The killstreak rewards include a recon plane, showing opposing players on the mini-map, an artillery strike upon an area, and attack dogs, which spawn and attack opposing players, which come with 3, 5, and 7 kills, respectively. They are available in all game modes, and cannot be edited.
+
+
+
+
+Gameplay in online multiplayer's War mode
+
+
+The game also features a cooperative gameplay mode with up to two players via split screen on consoles, or four players online, for the first time in the franchise. The Wii version of the game does not include online co-op, but two players can play through a "squadmate co-op" mode which allows both players to experience the game through the same screen and point of view.[2]
+All versions but the Wii feature the minigame Nazi Zombies, which consists of 1-4 players fighting an unlimited number of waves of Nazi zombies. Players can work together with other people to assassinate the zombies in a "co-op" (cooperative) mode either offline with two players or online with 2-4 players. The players gain points by injuring or killing the zombies or repairing boarded-up windows, which are used to remove blockages inside the bunker and to gain access to more useful weapons than the starting M1911 pistol and unlock more rooms. Zombies continually break the windows to gain entrance and to find and beat the players; when all players are damaged enough to fall, the game is over.[14] Three extra maps for the Nazi Zombie game mode were added with the World at War map packs. These maps, Shi No Numa, Verruckt and Der Riese added on to the Nacht Der Untoten map which came with the game.
+[edit] Synopsis
+
+
+
+Call of Duty
+fictional chronology
+
+
+
+
+World War II story arc
+1942–1945 – Call of Duty
+                   – United Offensive
+                   – Finest Hour
+                   – Call of Duty 2
+                   – Big Red One
+                   – Call of Duty 3
+                   – Roads to Victory
+
+Modern Warfare story arc
+2011 – Modern Warfare (DS)
+2015 – Defiance
+2016–2017 – Modern Warfare 2
+                   – Mobilized
+                   – Modern Warfare 3
+
+Black Ops story arc
+1942–1945 – World at War (DS)
+                   – Final Fronts
+1961–1968 – Black Ops 1986–2025 – Black Ops II (Declassified)
+
+Zombies story arc
+1945 – Nazi Zombies (Call of Duty: Zombies)
+1962–2011 – Zombies (Black Ops: Zombies)
+
+
+
+
+[edit] Characters
+During the single-player campaign, the player controls three different characters from a first-person perspective. The player first assumes the role of Private C. Miller of the United States Marine Corps' 1st Division in the Pacific campaign. He is captured by the Japanese, but is rescued by Corporal Roebuck (voiced by Kiefer Sutherland) and his men from the Marine Raiders squad, during the Makin Island raid. Other notable non-playable characters of the Marine Raiders unit include Sergeant Tom Sullivan (voiced by Chris Fries) and Private Polonsky (voiced by Aaron Stanford). Sullivan dies during the campaign and either Roebuck or Polonsky die depending on the player's actions.[15] Private Dimitri Petrenko, the second playable character, fights on the Eastern Front with Sergeant Viktor Reznov (voiced by Gary Oldman). Reznov appeared again in Call of Duty: Black Ops with Dimitri Petrenko, who later dies in a Nova 6 chamber. A war hero of sorts, Petrenko is responsible for the assassination of General Heinrich Amsel (a fictional character, responsible for massacres all over the Soviet Union according to Reznov), as well as eventually putting the Red Army banner over the Reichstag at the Battle of Berlin, despite being shot by a German, who Viktor Reznov brutally slaughters with a machete. Three years later, they are joined by a third character, Private Chernov, Reznov's subordinate, who serves as a voice of reason throughout the campaign and regularly voices shock and disapproval at the brutal slaughter he regularly witnesses. Chernov is severely burned by a German flamethrower in the campaign mission "Heart of The Reich." It is unknown whether or not he survives. They are all soldiers in the 3rd Shock Army under the command of Commissar Markhov.[15] The third playable character in the campaign is Petty Officer Locke, a weapons operator on a PBY Catalina flying boat, who is only playable in the mission "Black Cats" during a solo campaign.[15]
+[edit] Plot
+
+
+
+
+The opening scene of the campaign
+
+
+The story begins in Makin Island at night on August 17, 1942. Marine Private C. Miller watches the torture and execution of a fellow Marine, along with another Marine being beaten to death by a Japanese soldier. Miller is rescued by a squad of Marines, led by Corporal Roebuck and Sergeant Sullivan as they assault the island, replicating the Makin Island raid. The following story sets two years later at the beginning of the Battle of Peleliu. After breaking through the Japanese lines on the bloody Peleliu beach, Miller destroys two Type 97 Chi-Ha tanks with rocket strikes, allowing the American tanks to advance. At the end of the mission, Sergeant Sullivan is killed by a Japanese officer with a katana. Roebuck, now promoted to Sergeant, and his squad make their way through the Peleliu swamps to launch an assault on a Japanese-held airfield to disable anti-aircraft guns. During the assault, Miller acquires a flamethrower to destroy a bunker and a bazooka to blow up Japanese tanks.[15]
+The story then shifts to the Eastern Front on September 17, 1942 during the Battle of Stalingrad. Private Dimitri Petrenko regains consciousness in a blood and body-filled fountain, just as German troops execute his surviving comrades. When they leave, Dimitri meets the injured Sergeant Viktor Reznov, another survivor, who tells him of his intention: a secret mission to kill a German general named Heinrich Amsel who is responsible for the massacres. After killing some German soldiers in their way, Dimitri follows Reznov through buildings and streets and they meet up with the remainder of Dimitri's unit, who are about to assault the General's communication post. During the assault, Dimitri manages to kill Amsel. Dimitri and Reznov jump into a small canal and escape. The following mission takes place three years later, during the Battle of the Seelow Heights, near Berlin. Dimitri has been captured by German soldiers in an abandoned house. He is saved when the Red Army attacks the house and he is re-united with Sgt. Reznov. Reznov's right-hand-man Pvt. Chernov is also introduced. The Soviet troops advance through German lines and Dimitri aids them with a Panzerschreck until they reach a German camp.[15] The story then returns to the Pacific Theatre. On Peleliu, the Americans are pushing further inland. Miller and his unit take out enemy mortar crews, so their tanks can go inland. They then proceed through the Japanese underground tunnels to attack the artillery-filled Point, one of the major Japanese strongholds that had destroyed many landing boats when they first landed, allowing American ships to advance, and the island of Peleliu finally falls into American hands.[15]
+
+
+
+
+A firefight in the streets of Berlin
+
+
+The following mission campaign returns to Eastern Europe, where Dimitri and Reznov pilot T-34 tanks, pushing through German lines. The Soviet troops then board a train to Berlin. Upon arrival, they engage German soldiers on the outskirts of Berlin, commencing the Battle of Berlin. They then advance through the streets, killing any soldiers who stand in their way, taking no prisoners and eventually, the Soviet soldiers reach the entrance to the Berlin U-Bahn, where three German soldiers are attempting to surrender. Reznov is unwilling to deny his men their revenge and gives Dimitri the choice of determining their method of death: he and Chernov can shoot them, or burn them alive with molotov cocktails. They head into the U-Bahn and start fighting German soldiers around the platforms, until a surge of water fills the tunnel and Dimitri, unable to avoid the oncoming tidal wave, almost drowns.[15]
+The story then shifts back to the Pacific during the Battle of Okinawa, where the player becomes Petty Officer Locke in a PBY Catalina flying boat, which takes part in a raid on three merchant ships. On their way back to base, another Catalina, codenamed Hammerhead, is destroyed by Japanese Zeroes, leaving Locke and his crew alone. The US fleet is assaulted, replicating Operation Ten-Go. Locke's PBY, which is the only PBY near enough to come to immediate aid, arrives. They are able to rescue American sailors in the sea, but if the player takes too long to respond, the sailors are killed by enemy machine gun fire by attacking enemy PT boats. Locke also has to shoot at Japanese PT boats and kamikaze planes. With the PBY almost completely destroyed, more US aircraft arrive. In the following mission, Miller's squad makes a ground assault on Okinawa. They clear out the Japanese from machine gun bunkers, allowing American tanks to progress. With the battle almost won, the Americans storm Shuri Castle. Having cleared the entrance, they reach the center of the castle. Once there, they encounter Japanese soldiers surrendering. However, when Roebuck and Polonsky go to search them, they reveal concealed grenades under their clothes, at which point the player is presented with a grim choice of saving either Roebuck or Polonsky. The remaining American troops arrive to assist the squad and engage the remaining Japanese soldiers in a battle in the castle center. After Miller calls in air strikes on two buildings, the Americans take Shuri Castle, crushing the last bastion of Japanese resistance in the Pacific War.[15]
+The final mission starts as Reznov drags Dimitri out of the U-Bahn to regroup with Soviet infantry. The Red Army then advances towards the Reichstag. During the assault at the Reichstag's entrance, Chernov is badly burned by a German flamethrower. He is presumably killed, as he is left behind. Reznov, Dimitri, and the remaining Soviet soldiers enter the Reichstag and clear it of its German defenders, and reach the rooftop. Before he can replace the Nazi flag, Dimitri is shot by a dying German soldier, whom Reznov kills with a machete shortly after. Although wounded, Dimitri manages to plant the Soviet flag (in an allusion to Raising a flag over the Reichstag), signalling Soviet victory, ending the war.[15]
+[edit] Development
+
+
+System requirements
+
+
+
+
+
+
+Requirements
+
+
+Microsoft Windows[16]
+
+
+Operating system
+Windows XP or Windows Vista
+
+
+CPU
+Intel Pentium 4 3 GHz or AMD 64 3200+ processor
+
+
+Memory
+512 MB (1 GB for Vista)
+
+
+Hard drive space
+8 GB of free space
+
+
+Graphics hardware
+256MB Nvidia GeForce 6600 GT or ATI Radeon X1600
+
+
+Sound hardware
+DirectX 9.0c compliant card
+
+
+
+
+
+World at War was announced on June 23, 2008 by Activision, who confirmed that the game was to be released in fall 2008, and that the series would revert back to its customary World War II setting.[17] The game had an approximately two-year long development cycle, double that of Treyarch's previous entry to the series, Call of Duty 3.[8] The game is powered by an enhanced version of the Call of Duty 4: Modern Warfare engine, with several improvements made to the physics model. Environments are more destructible and can be set on fire with the flamethrower, which features propagating fire. Dismemberment, as well as realistic skin and clothes burning of the characters were added.[18]
+Not long after, Treyarch released the modding tools for Call of Duty: World at War. These tools were the same ones used to create all the other Call of Duty series games, but with slight changes version to version, which can be downloaded online.[8] Kiefer Sutherland and Gary Oldman were cast as voice actors for the game. Sutherland voices the narrator and squad leader of the American campaign, Sergeant Roebuck, while Oldman voices that of the Soviet campaign, Sergeant Reznov.[19][20] A full-sized replica PBY Catalina was constructed for motion capture use.[8]
+
+
+
+
+Full-sized replica PBY Catalina in a motion capture studio.
+
+
+[edit] Audio
+The music for Call of Duty: World at War was composed by Sean Murray. He was hired after Brian Tuey, Treyarch's audio director, approached Murray. Murray stated that they had worked together earlier on True Crime: New York City, the sequel to the first True Crime: Streets of LA, and that "he [Tuey] knew I would bring a fresh approach to Call of Duty: World at War". This also led to Adam Levenson, the audio director of Activision, being called in to help them. Murray also said that he wanted to make the music more fun and intense, but also "a specific musical path that follows the psyche of the gameplay".[21]
+The new technology of occlusion, which changes the sound made by nearby object depending on objects blocking its path e.g. walls, has been added to World at War. The game has various levels of "muffled" sound depending on the objects it travels though e.g. a more muffled sound through a thick wall compared to a slightly muffled sound through a thin short wall. For the first time in a Call of Duty game, the player is able to tell the difference between someone walking next to the player and someone walking above or below the player, as well as telling the difference between a shot fired in the distance and a shot fired close by, but behind a solid object.[22]
+The other technology of Flux was also developed using field recording systems. The World at War crew traveled to a desert with mountains on both side of the range to test the frequencies of sounds made by World War II weapons. Microphones were placed 60 yards (55 m) behind and 60 yards in front of the gun to test the echoes. This was later replicated and developed in the studio for the game software. It means that players will be able to pinpoint a sniper rifle shot, as it reflects off them, as well as hearing the initial 'pop' of a hand grenade blowing up and then the grenade's loud "whoosh" sound that begins where the grenade blew up, and ends behind the player. The flux system also combines with the occlusion system.[22]
+[edit] Marketing
+The first trailer for the game premiered on Xbox Live on June 21, 2008,[23] and arrived on PlayStation Network five days later.[24] A beta of the game's online multiplayer mode was released for the Xbox 360 on October 10, 2008.[25] A PC version of the beta was later released on October 28, 2008.[26] Those who pre-ordered the game at GameStop, Game and EB Games in Australia or North America or who are members of the Call of Duty official website were given codes which allowed them to download both beta versions of the game.[27] Coinciding with the release of the game, McFarlane Toys produced four action figures. Three are different varieties of US Marine Corps infantry, and the fourth is a British Special Ops soldier.[28]
+A collector's edition of World at War was released on November 11, 2008 in North America and November 14, 2008 in Europe.[29] It includes several bonus items, among them a stainless steel canteen imprinted with the Call of Duty series logo and a metal storage tin. The collector's edition also gives the player access to an unlockable weapon and the opportunity to earn double experience points in the online multiplayer mode, as well as a specially colored clan tag to denote the player's VIP status. This edition of the game is only available for the Microsoft Windows and Xbox 360 platforms.[30]
+[edit] Downloadable content
+On February 26, 2009, an update was made available to the Xbox 360 and PlayStation 3 versions, as well as the addition of a new multiplayer map, Makin Day. The update included several bug fixes which removed glitches in several multiplayer maps and player movements, and provided more information in the stats display.[31] The Makin Day map was released for Microsoft Windows on February 6, 2009 in the downloadable patch 1.2. Makin Day has a similar layout as the existing Makin map,[32] but includes subtle changes such as daylight, reflected in the tide being out along the shoreline as well as some reworked areas of the map.[32]
+
+
+
+
+Screenshot of the gameplay in Verrückt
+
+
+On March 18, 2009, Activision and Treyarch announced that downloadable content (DLC) was under development for World at War, titled Map Pack 1. This first installment of DLC Treyarch released, Map Pack 1, on March 19, 2009 for the PlayStation 3 and Xbox 360, while the Windows version received the DLC at a later date. The map pack includes three new multiplayer maps and one new Nazi Zombies map. The Nazi Zombies map, entitled "Verrückt" (German: 'crazy'). The map was based on the multiplayer map Asylum and based on the asylum in the campaign mission Ring of Steel . The map includes new weapons and power-ups intended to expand the experience. Players can turn on a power generator that reunites both sides and enables perk machines.[33] The new multiplayer map called "Nightfire" takes places at night in the streets of a bombed-out area of Berlin. The "Knee Deep" map is in the jungle of Peleliu and contains fortified huts and streams. "Station" is located in a ruined underground train station in Berlin featuring subway cars and hidden passages.[34] Reports stated that Map Pack 1 sold over 1 million copies in the first week of availability, setting an Xbox Live record for the number of downloads in a week.[35]
+On April 30, 2009, Activision and Treyarch announced Map Pack 2,[36] which was released on June 11.[37] Map Pack 2 contains an additional four multiplayer maps. The "Shi No Numa" (Japanese: "死の沼" 'swamp of death') is a new map on the Nazi Zombies co-op mode set in a misty swamp-land surrounded by jungle. New features include flaming hellhounds, the Wunderwaffe DG-2 weapon and ten new achievements/trophies. Also, it featured four new characters: Tank Dempsey U.S.M.C, Nikolai Belinski of the Red Army, Nazi Doctor Edward Richtofen and Takeo Masaki of the Japanese Imperial Army. The multiplayer map "Banzai" is set in a jungle featuring a river bridge, villages, a waterfall and hidden caves. The "Corrosion" map is set in a run-down train yard in Russia, featuring broken pipelines and train cars. The "Sub Pens" map is located in a bombed-out Japanese submarine base with heavy rain.[38]
+On July 20, 2009, Activision and Treyarch announced Map Pack 3, which was released August 6, 2009. This DLC also consists of three new multiplayer maps and a new Nazi Zombies map. The three multiplayer maps are "Battery", which takes place on an abandoned coastal artillery battery Pacific; "Breach", which is set in the overcrowded streets of Berlin, Germany near the Brandenburg Gate; and "Revolution", which is based on an industrialized city in Russia. The new Nazi Zombies map, "Der Riese" which means "The Giant" in English, is based in a factory where Element 115 is being processed and used to build teleporters and other mysterious devices, such as the "Pack-a-Punch Machine", which upgrades guns, such as the Wunderwaffe DG-2. New weapons, such as Monkey Bombs were also added. This map also introduced the official backstory to Zombies mode, which is continued into Call of Duty: Black Ops.[39]
+All map packs were released for free to PC players. Xbox 360 and PS3 players were charged at $10 per map pack.[40]
+[edit] Other versions
+[edit] Nintendo DS
+Main article: Call of Duty: World at War (Nintendo DS)
+Call of Duty: World at War was released for the Nintendo DS on November 11, 2008 in North America,[41] and on November 14 in Europe.[42] It was published by Activision and developed by n-Space, who used the same game engine as their previous title, Call of Duty 4: Modern Warfare.[43] The game's scenarios are also based on World War II's Pacific theater and Eastern front with American, British and Soviet campaigns.[41] Up to four players can be supported online with four different types of game, as well as perks and rank-ups.[43] Compared to Modern Warfare, it has improved in-level geometry, has more responsive sprints and crouches and 3D-modeled guns instead of 2D sprites.[43] However the flamethrower, which is new to the game series, is rendered with 2D sprites.[43] The framerate is just under 30 and has lots of voice-over during the missions.[44] Players are able to defuse mines and send Morse code with the touch screen, as well as using mortar rounds, an anti-air gun from a battleship, parachuting and using mounted guns.[43] There is also a tank mode which allows the player to turn the main gun and fire machine gun rounds at the same time.[43]
+[edit] PlayStation 2
+Main article: Call of Duty: World at War – Final Fronts
+The PlayStation 2 version, titled Call of Duty: World at War: Final Fronts, differs significantly from the main versions. Developed by Rebellion Developments,[1] Final Fronts features 13 missions set near the end of World War II across three different campaigns. Aside from the two campaigns in the Pacific and Eastern Europe, Final Fronts also includes a third campaign involving the British advance on the Rhine River. The missions range from infantry, infiltration, sniper, large-scale assaults, night fighting and tank assaults.[45]
+The U.S. campaign follows Pvt. Miller and the squad from World at War, but here Miller is of the 2nd Marines Division, instead of the 1st. It goes in and around his missions from World at War. The Western Europe campaign is from the perspective of Lucas Gibson, of the American 80th Infantry Division. His missions are in Luxembourg and Austria. Most of the Europe campaign, the player controls Pvt. Tom Sharpe of the British 6th Airborne. Final Fronts does not feature online multiplayer or a Nazi Zombies mode. Like other versions, the game includes 2 flamethrower missions and a tank mission, but the latter is on-rails rather than free roaming. The flamethrower in Final Fronts only fires on a small scale, whereas the PlayStation 3 version allows the flamethrower to be used on a large scale in more missions and it is highly visible where it is fired. The tank mission is from the perspective of a tank gunner named Alex.[46]
+Also, the melee attack is not a knife slash or stab like in the PS3/Xbox 360 versions, but simply a hit from the butt of the gun.[47]
+[edit] Windows Mobile version
+Call of Duty: World at War was released for the Windows Mobile. However, the game features a run and gun genre similar to Commando from Capcom rather than a first-person shooter, a different storyline, and a different set of characters. The game was developed by Glu Mobile and published by Activision.[48]
+[edit] Reception
+
+
+ Reception
+
+
+Aggregate scores
+
+
+Aggregator
+Score
+
+
+GameRankings
+(X360) 85.57%[49]
+(PS3) 85.11%[50]
+(PC) 84.65%[51]
+(Wii) 83.59%[52]
+
+
+Metacritic
+(PS3) 85/100[53]
+(X360) 84/100[54]
+(PC) 83/100[55]
+(Wii) 83/100[56]
+
+
+Review scores
+
+
+Publication
+Score
+
+
+Game Informer
+8.75/10[57]
+
+
+GameSpot
+8.5/10[58]
+
+
+GameTrailers
+8.7/10[59]
+(Wii) 8.2/10[60]
+
+
+IGN
+9.2/10[61]
+(Wii) 8.0/10[62]
+
+
+Official Nintendo Magazine
+92%[63]
+
+
+Official Xbox Magazine
+7.5/10[64]
+
+
+Official Xbox Magazine (UK)
+9/10[65]
+
+
+PC Gamer UK
+77%[66]
+
+
+X-Play
+4/5[67]
+
+
+[edit] Critical response
+Call of Duty: World at War has received generally positive reviews. Describing the game as a whole, GameSpot stated that by returning to the World War II setting, "World at War achieves greatness but falls short of excellence."[58] IGN concluded that World at War was a "solid, confident shooter with plenty to offer the casual and hardcore alike."[61] Overall, the Official Xbox Magazine described the game as being more like an expansion pack in the Call of Duty series rather than a full game.[64]
+IGN applauded the developer Treyarch for its decision to stage World at War in the Pacific theater of World War II. The addition of a co-op mode was also complimented as helping to increase the game's replayability, and the multiplayer mode was described as "definitely an area where World at War shines."[61] Some positive points noted by GameSpot include the "well-acted dialogue" of the characters Sgt. Roebuck and Sgt. Reznov, as well as the solid and fast-paced single player/co-op campaign."[58]
+IGN criticized that the scope of the campaign hurt the continuity of the plot, with some missions taking place several years after others and disrupting the flow of the narrative.[61] Official Xbox Magazine's main criticism was that Treyarch had not expanded upon the success of Call of Duty 4: Modern Warfare, but had instead created a "play-it-safe sequel" that used elements of Call of Duty 4 but added "nothing noteworthy of its own."[64] Other flaws pointed out by the reviewer included the lack of excitement in the campaign storyline and the few differences between the Pacific theater missions and European theater missions, stating "you could just be marching through another European town with a lot more trees."[64] GameSpot criticized the game's use of "well-worn source material" and "déjà vu" game mechanics, also implying its similarity to the Call of Duty series' other games.[58] 1UP.com stated that the horror of the game is "almost too much at times".[68]
+GameSpot praised the darker, grittier portrayal of the World War II settings.[58] 1UP.com noted the significantly increased graphic violence and gore (even over the M-rated Call of Duty 4) as a positive improvement in realism saying, "While enemies died en masse in previous installments, dismemberment and gore were essentially nonexistent."[68] That's no longer the case — here, legs are severed, men cry out in agony as they reach for lost body parts, and gouts of blood fly as bullets pierce flesh." and that "World at War portrays the horror of WWII more accurately than ever before..."[68]
+[edit] Sales
+Call of Duty: World at War was the second best-selling game for November 2008 in the United States, selling over 1.41 million units.[69] The Xbox 360 and PlayStation 3 versions were the second and ninth best-selling game of December 2008 in the United States, selling in excess of 1.33 million and 533,000 copies respectively.[70] The Xbox 360 version was the sixth best-selling game of 2008, selling in excess of 2.75 million copies.[70] The Wii version ranked as the 19th best-selling game and the seventh best-selling Wii game of December 2008 in the United States.[71] It received particular interest in the United Kingdom, where it doubled the amount of first-week sales compared to Modern Warfare on the PS3 and Xbox 360.[72] It also became the third fastest-selling video game in the UK behind Grand Theft Auto IV and Grand Theft Auto: San Andreas.[73] As of June 2009, Call of Duty: World at War has sold over 11 million copies.[74]
+[edit] References
+
+
+^ a b Thorsen, Tor (2008-09-04). "World at War raging November 11, beta incoming". GameSpot. http://www.gamespot.com/pc/action/callofduty5/news.html?sid=6197246&om_act=convert&om_clk=newsfeatures&tag=newsfeatures;title;3. Retrieved 2008-09-29.
+^ a b c "CoD5 has co-op, vehicles in multiplayer, CoD4 engine, every format apart from PSP". VideoGaming247. 2008-06-09. http://www.videogaming247.com/2008/06/09/cod5-has-co-op-vehicles-in-multiplayer-every-format-apart-from-psp/. Retrieved 2008-09-29.
+^ "Windows Mobile Games Experience". Microsoft. http://www.microsoft.com/windowsmobile/en-us/meet/games.mspx?13=&14=&11.9=1?WT.mc_id=H_TAGames_Feb. Retrieved 2009-02-07.
+^ Ocampo, Jason (2008-08-19). "GC 2008: Call of Duty: World at War Co-op Hands-on". IGN. http://xbox360.ign.com/articles/900/900160p1.html. Retrieved 2008-09-29.
+^ Pearson, Dan (2008-09-05). "Call of Duty 5 gets Euro date, beta". EuroGamer. http://www.eurogamer.net/article.php?article_id=230559. Retrieved 2008-09-29.
+^ Perdikis, Steve (2008-10-29). "Call of Duty: World at War - beta client, reporting for duty". Games On Net (Internode). http://games.on.net/article/4374/Call_of_Duty_World_at_War_-_beta_client_reporting_for_duty. Retrieved 2008-10-29.
+^ Andy Robinson (2008-06-09). "News: Call of Duty: World at War - first details in OXM". Computer and Video Games. http://www.computerandvideogames.com/article.php?id=190547. Retrieved 2008-06-09.
+^ a b c d "Call of Duty: World at War". Official Xbox Magazine UK: pp. 30–34. July 2008 (Issue 35).
+^ Ocampo, Jason (2008-06-23). "Call of Duty: World at War First Look". IGN. http://pc.ign.com/articles/883/883374p1.html. Retrieved 2008-09-29.
+^ a b c Denick, Thom (2008-11-16). Call of Duty: World at War Signature Series Guide. Brady Games. ISBN 074401056.
+^ Watters, Chris (2008-12-13). "Call of Duty: World at War Review". GameSpot. http://uk.gamespot.com/wii/action/callofduty5/review.html. Retrieved 2009-12-31.
+^ Antista, Chris. "Call of Duty: World at War - Death Card Guide". GamesRadar. http://www.gamesradar.com/call-of-duty-world-at-war-death-card-guide/. Retrieved 2011-09-11.
+^ Antista, Chris (2008-10-08). "Call of Duty: World at War - multiplayer hands-on". Games Radar. http://www.gamesradar.com/pc/call-of-duty-world-at-war/preview/call-of-duty-world-at-war-multiplayer-hands-on/a-20081008142113707013/g-200806239353171091. Retrieved 2008-10-10.
+^ Geoff Keighley, Amanda Mackay, Daniel Kayser. Call of Duty: Word at War interview. GameTrailers.com. Event occurs at 18:42 — 20:23. http://www.gametrailers.com/gametrailerstv_player.php?ep=43&sd=0&ch=4. Retrieved 2009-01-04.
+^ a b c d e f g h i Treyarch. Call of Duty: World at War.  (Activision). PlayStation 3, (v1.1). (2008-11-14)
+^ "Call of Duty: World at War (PC) requirements". VGRequirements. http://www.vgrequirements.info/?p=7759. Retrieved 2009-01-05.
+^ Panter, Suzanne (PR Manager) (2008-06-23). "Call Of Duty: World At War press release". gamesindustry.biz (Activision UK Ltd). http://www.gamesindustry.biz/articles/call-of-duty--world-at-war-co-op-gameplay-and-flamethrowers-on-the-menu. Retrieved 2009-02-19.
+^ Ward, Colin (2009-08-20). "Call Of Duty: World at War". Video Game Reviews. http://www.videogame-reviews.co.uk/reviews/call-of-duty-world-at-war/. Retrieved 2011-09-11.
+^ "Gary Oldman To Star In 'Call of Duty: World at War'". G4TV. 2008-08-20. http://www.g4tv.com/thefeed/blog/post/688417/Gary_Oldman_To_Star_In_Call_of_Duty_World_at_War.html. Retrieved 2008-08-20.
+^ Breckon, Nick (July 15, 2008). "Call of Duty: World at War Gains Multiplayer Vehicles, Kiefer Sutherland's Voice". ShackNews. http://www.shacknews.com/onearticle.x/53697. Retrieved 2008-09-29.
+^ "Behind the Music of Call of Duty: World at War". Music4Games. 2008-12-05. http://www.music4games.net/Features_Display.aspx?id=315. Retrieved 2009-01-23.
+^ a b "World At War Audio Technology". Call of Duty Headquarters. 2009-01-20. http://www.callofduty.com/intel/185. Retrieved 2009-01-28.
+^ Hryb, Larry (2008-06-21). "Trailer: Call of Duty: World at War". MajorNelson.com. http://majornelson.com/archive/2008/06/21/trailer-call-of-duty-world-at-war.aspx. Retrieved 2009-02-01.
+^ PlayStation Blog (2008-06-26). "Trailer: Call of Duty: World at War". PlayStation.com. http://blog.us.playstation.com/2008/06/26/playstation-store-update-40/. Retrieved 2008-06-26.
+^ "CoD:WW Friends and Family Xbox 360 Multiplayer BETA is LIVE!". Call of Duty Hub. 2008-10-10. http://www.callofduty.com/intel/149. Retrieved 2008-10-26.
+^ "Call of Duty: World at War PC Beta Now Open". Voodoo Extreme. 2008-10-28. http://ve3d.ign.com/articles/news/42599/Call-of-Duty-World-at-War-PC-Beta-Now-Open. Retrieved 2008-10-28.
+^ Thang, Jimmy (September 4, 2008). "CoD: World at War Beta Approaches". IGN. http://xbox360.ign.com/articles/907/907752p1.html. Retrieved 2008-09-29.
+^ Stephen Totilo (2008-07-03). "First Look At ‘Call of Duty: World At War’ The Action Figure". MTV Multiplayer Blog. http://multiplayerblog.mtv.com/2008/07/03/first-look-at-call-of-duty-world-at-war-the-action-figure/. Retrieved 2009-02-01.
+^ "Call of Duty: World at War". GameFAQs. http://www.gamefaqs.com/console/xbox360/data/944199.html. Retrieved 2009-01-23.
+^ Thang, Jimmy (2008-09-25). "Call of Duty: World at War Collector's Edition Detailed". IGN. http://xbox360.ign.com/articles/913/913526p1.html. Retrieved 2008-10-25.
+^ PlayStation Network and Xbox Live, 2009-02-26.
+^ a b "Call of Duty: World at War PC Patch 1.2". Call of Duty website. 2009-02-06. http://www.callofduty.com/supplies/pc-updates. Retrieved 2009-03-08.
+^ McInnis, Shaun (2009-03-11). "Call of Duty: World at War DLC Hands-on - Zombie Verrückt". GameSpot. http://www.gamespot.com/xbox360/action/callofduty5/news.html?sid=6205929&tag=topslot;img;1. Retrieved 2009-03-12.
+^ "Map Pack 1". Call of Duty. http://www.callofduty.com/supplies/wawmappack1. Retrieved 2009-12-31.
+^ Brudvig, Erik (2009-03-31). "Call of Duty Map Pack Racks up Sales". IGN. http://ps3.ign.com/articles/968/968238p1.html. Retrieved 2009-04-02.
+^ "Map Pack 2 Announced - Coming This June!". Treyarch. 2009-04-30. http://www.treyarch.com/news/217. Retrieved 2009-12-31.
+^ Philonious, Matt (2009-06-11). "COD: World at War map pack two deploys June 11". GameSpot. http://uk.gamespot.com/news/6211798.html. Retrieved 2009-12-31.
+^ "Map Pack 2". Call of Duty. http://www.callofduty.com/supplies/wawmappack2/. Retrieved 2009-12-31.
+^ lightell, mark (2009-07-22). "Call of Duty: World at War Map Pack 3". Treyarch. http://www.callofduty.com/supplies/wawmappack3/. Retrieved 2009-07-22.
+^ "http://www.callofdutymappacks.com/category/world-at-war/". http://www.callofdutymappacks.com/category/world-at-war/. Retrieved 31 March 2012.
+^ a b "Buy Call of Duty: World at War on Amazon.com". Amazon.com. http://www.amazon.com/dp/B001AWIP8G. Retrieved 2009-02-14.
+^ "Buy Call of Duty: World at War on Amazon.co.uk". Amazon.co.uk. http://www.amazon.co.uk/dp/B001BEL4UY. Retrieved 2009-02-14.
+^ a b c d e f "Hands-on Call of Duty: World at War DS". IGN. 2008-09-30. http://uk.ds.ign.com/articles/914/914965p1.html. Retrieved 2009-02-14.
+^ "GC 2008: Call of Duty World at War First Look". IGN. 2008-08-19. http://uk.ds.ign.com/articles/900/900352p1.html. Retrieved 2009-02-14.
+^ "Call of Duty: World at War - Final Fronts at Best Buy". Best Buy. http://www.bestbuy.com/site/olspage.jsp?skuId=8887626&type=product&id=1211455018084. Retrieved 2008-10-26.
+^ Bishop, Sam (2008-11-18). "Call of Duty: World at War -- Final Fronts Review". IGN. http://uk.ps2.ign.com/articles/929/929976p1.html. Retrieved 2011-09-11.
+^ Rebellion Developments. Call of Duty: World at War: Final Fronts.  (Activision). Wii, (v1.1). (2008-11-14)
+^ "Call of Duty: World at War - Cell - IGN". IGN. http://uk.wireless.ign.com/objects/142/14262551.html. Retrieved 2011-09-11.
+^ "Call of Duty: World at War (Xbox 360) Review". GameRankings. http://www.gamerankings.com/xbox360/944199-call-of-duty-world-at-war/index.html. Retrieved 2008-11-17.
+^ "Call of Duty: World at War (PlayStation 3) Review". GameRankings. http://www.gamerankings.com/ps3/944198-call-of-duty-world-at-war/index.html. Retrieved 2008-11-17.
+^ "Call of Duty: World at War (PC) Review". GameRankings. http://www.gamerankings.com/pc/944197-call-of-duty-world-at-war/index.html. Retrieved 2008-11-17.
+^ "Call of Duty: World at War (Wii) Review". GameRankings. http://www.gamerankings.com/wii/946229-call-of-duty-world-at-war/index.html. Retrieved 2008-11-17.
+^ "Call of Duty: World at War (PlayStation 3)". Metacritic. http://www.metacritic.com/game/playstation-3/call-of-duty-world-at-war. Retrieved 2008-12-11.
+^ "Call of Duty: World at War (Xbox 360)". Metacritic. http://www.metacritic.com/game/xbox-360/call-of-duty-world-at-war. Retrieved 2008-12-11.
+^ "Call of Duty: World at War (PC)". Metacritic. http://www.metacritic.com/game/pc/call-of-duty-world-at-war. Retrieved 2008-12-11.
+^ "Call of Duty: World at War (Wii)". Metacritic. http://www.metacritic.com/game/wii/call-of-duty-world-at-war. Retrieved 2008-12-11.
+^ Bertz, Matt. "Call of Duty: World at War Review from Game Informer". Game Informer. http://www.gameinformer.com/games/call_of_duty_world_at_war/b/ps3/archive/2009/09/23/review.aspx. Retrieved 2009-03-14.
+^ a b c d e Watters, Chris (2008-11-12). "Call of Duty: World at War Review at GameSpot". GameSpot. http://www.gamespot.com/ps3/action/callofduty5/review.html. Retrieved 2008-11-13.
+^ "Game Trailers Call of Duty: World at War Review". Game Trailers. 2008-11-11. http://www.gametrailers.com/player/42154.html. Retrieved 2008-11-13.
+^ "Game Trailers Call of Duty: World at War Review (Wii)". Game Trailers. http://www.gametrailers.com/game/9172.html. Retrieved 2009-01-31.
+^ a b c d Ocampo, Jason (2008-11-11). "Call of Duty: World at War Review". IGN. http://xbox360.ign.com/articles/927/927055p1.html. Retrieved 2008-11-11.
+^ Bozon, Mark (2008-11-11). "Call of Duty: World at War Review". IGN. http://wii.ign.com/articles/929/929080p1.html. Retrieved 2008-11-11.
+^ "Official Nintendo Magazine Call of Duty: World at War review (Wii)". Official Nintendo Magazine. http://www.officialnintendomagazine.co.uk/game.php?id=10364. Retrieved 2009-01-31.
+^ a b c d McCaffrey, Ryan (2008-11-12). "Call of Duty: World at War Review at OXM". Official Xbox Magazine. http://oxmonline.com/article/reviews/xbox-360/a-f/call-duty-world-war. Retrieved 2008-11-13.
+^ "It's World War II... but not as we know it". Official Xbox Magazine. http://www.oxm.co.uk/7008/reviews/call-of-duty-world-at-war-review/. Retrieved 2011-07-22.
+^ Meer, Alec (Christmas 2008). "Call of Duty: World at War". PC Gamer UK
+^ Marriott, Scott Alan. "Call of Duty: World at War (X360) Review". XPlay. http://www.g4tv.com/xplay/reviews/1864/Call_of_Duty_World_At_War.html. Retrieved 2008-11-17.
+^ a b c "Call of Duty 5 World at War (PC)". 1UP.com. 2008-11-21. http://www.1up.com/do/reviewPage?cId=3171247&p=1. Retrieved 2009-01-01.
+^ Chng, Grace; Tan Chong Yaw (2008-12-17). "Video games sales rise in U.S.". Digital Life (Singapore: Singapore Press Holdings): p. 4.
+^ a b "NPD: Nintendo Drives '08 Industry Sales Past $21 Billion". GameDaily. 2009-01-15. http://www.gamedaily.com/articles/news/npd-nintendo-drives-08-industry-sales-past-21-billion-/?biz=1. Retrieved 2009-01-15.
+^ "Top 10 Games of December 2008, By Platform". blog.Wired.com. 2009-01-18. http://blog.wired.com/games/2009/01/top-10-games-of.html. Retrieved 2009-01-19.
+^ "World At War Doubles CoD4's Sales News". Total Video Games. 2008-11-18. http://www.totalvideogames.com/Call-of-Duty-World-at-War/news/World-At-War-Doubles-CoD4s-Sales-13446.html. Retrieved 2009-02-19.
+^ "CoD: WaW the third fastest selling game ever". Computer and Video Games. 2008-11-18. http://www.computerandvideogames.com/article.php?id=201950. Retrieved 2009-02-19.
+^ McWhertor, Michael (2009-06-15). "Call of Duty: World At War Tops 11 Million". Kotaku. http://kotaku.com/5291547/. Retrieved 2011-09-11.
+
+
+[edit] External links
+
+Call of Duty World at War at US.PlayStation.Com
+Official website
+Call of Duty: World at War at MobyGames
+Call of Duty: World at War at the Internet Movie Database
+Call of Duty wiki
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Call of Duty
+
+
+
+
+
+
+Games
+
+
+
+
+
+World War II story arc
+
+
+
+
+Call of Duty
+
+United Offensive
+Finest Hour
+
+
+Call of Duty 2
+
+Big Red One
+
+
+Call of Duty 3
+
+Roads to Victory
+
+
+
+
+
+
+
+
+
+
+
+Modern Warfare story arc
+
+
+
+
+Modern Warfare
+
+DS
+
+
+Modern Warfare 2
+
+Mobilized
+
+
+Modern Warfare 3
+
+DLC
+Defiance
+
+
+Online
+
+
+
+
+
+
+
+
+
+Black Ops story arc
+
+
+
+
+World at War
+
+Final Fronts
+DS
+Zombies
+
+
+Black Ops
+
+Zombies
+
+
+Black Ops II
+
+Declassified
+
+
+
+
+
+
+
+
+
+
+
+
+
+Characters
+
+
+
+Captain Price
+
+
+
+
+
+
+
+
+Media
+
+
+
+Modern Warfare 2: Ghost
+Find Makarov: Operation Kingfish
+Not Ready to Die
+
+
+
+
+
+
+
+
+Misc
+
+
+
+Controversies surrounding Modern Warfare 2
+Call of Duty: Elite
+Call of Duty: Experience 2011
+
+
+
+
+
+
+
+
+Studios
+
+
+
+Infinity Ward
+Treyarch
+Sledgehammer Games
+Raven Software
+n-Space
+Gray Matter Interactive
+Ideaworks Game Studio
+Pi Studios
+Rebellion Developments
+Spark Unlimited
+
+
+
+
+
+
+
+
+
+
+
+ Book:Call of Duty series
+ Category:Call of Duty series
+ Portal:Video games
+ Portal:Call of duty
+ Call of Duty Task Force
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Call_of_Duty:_World_at_War&oldid=536248314"				
+
+
+Categories: 2008 video gamesActivision gamesCall of Duty seriesCooperative video gamesGames for Windows certified gamesMultiplayer online gamesNintendo Wi-Fi Connection gamesPlayStation 3 gamesTreyarch gamesUnited States Marine Corps in popular cultureVideo game sequelsVideo games set in GermanyVideo games set in JapanVideo games set in the PhilippinesVideo games set in RussiaWii gamesWii Wi-Fi gamesWii Zapper gamesWindows gamesWindows Mobile Professional gamesWorld War II first-person shootersXbox 360 gamesZombie video gamesHidden categories: Articles prone to spam from May 2012 
+
+
+
+
+
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+Create accountLog in 
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+
+Search
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+
+
+
+
+
+
+
+
+Interaction
+
+
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+
+
+
+
+
+
+Toolbox
+
+
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page 
+
+
+
+
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+
+Languages
+
+
+العربية
+Azərbaycanca
+Català
+Česky
+Dansk
+Ελληνικά
+Español
+فارسی
+Français
+Galego
+한국어
+Hrvatski
+Italiano
+עברית
+Lietuvių
+Македонски
+Nederlands
+日本語
+Norsk (bokmål)‎
+Polski
+Português
+Română
+Русский
+Simple English
+Slovenčina
+Slovenščina
+Српски / srpski
+Srpskohrvatski / српскохрватски
+Suomi
+Svenska
+Татарча/tatarça
+Türkçe
+Українська
+Tiếng Việt
+中文
+
+
+
+
+
+
+
+
+
+
+ This page was last modified on 2 February 2013 at 21:13.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Contact us
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

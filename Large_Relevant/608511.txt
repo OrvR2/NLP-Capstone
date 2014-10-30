@@ -1,0 +1,359 @@
+RNA Fragments May Yield Rapid, Accurate Cancer Diagnosis - Yahoo! News
+
+
+
+
+ Skip to search.     New User? Register  Sign InHelp  Make Y! My Homepage        Notifications Help      Mail    My Y!    Yahoo!                 Yahoo! News              Search   Search Web        Breaking News Visit Yahoo! News for the latest.  ×Close this window      
+HomeVideoPhotosGMAYear in ReviewOddComicsTravelOpinionTrending NowWho Knew?WeatherTech It UpU.S.U.S. VideoGMAEducationReligionCrimes and TrialsThe LookoutLocalContributor NetworkYear In ReviewWorldWorld VideoMiddle EastEuropeLatin AmericaAfricaAsiaCanadaAustralia/AntarcticaBusinessVideoExclusivesToday's MarketsStocksPersonal FinancePress ReleasesMarketplaceEntertainmentVideoClinton ConcertCelebrityTVMoviesMusicFashionBooksArtsTheaterDear AbbyComicsOdd NewsSportsVideoNFLMLBNBANCAAFNCAABSoccerCyclingNHLTennisGolfBoxingMotor SportsMMAOlympicsTechTech It UpBest in TechGadgetsWirelessAppleSocial MediaSecurityOpen SourceGamingAppsThis Could Be BigUpgrade Your LifePoliticsThe TicketThe SignalRemake AmericaThe IssuesWomen and PoliticsPress ReleasesVideoScienceScience VideoWeather NewsSpace / AstronomyPetsDinosaurs / FossilsBiotechEnergyGreenHealthVideoWeight LossCancerSexual HealthMedications/DrugsParenting/KidsSeniors/AgingDiseases/ConditionsBlogsThe LookoutThe SideshowExpress TicketAround the WorldKatie's TakePower PlayersThis Could Be BigNewsmakersTrending NowLocalPopular
+
+
+
+SearchKeywordNews Search
+
+
+Featured»VideosPhotosKatie's TakeTrending NowThis Could Be BigWeatherWho Knew?NewsmakersEnterprise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Yahoo! With Your Friends Loginclose 
+
+
+
+YOUR FRIENDS' ACTIVITY
+
+
+
+prev
+
+
+next
+
+
+
+
+
+
+
+
+
+
+
+RNA Fragments May Yield Rapid, Accurate Cancer DiagnosisBy William Ferguson | Scientific American – Wed, Jan 30, 2013
+
+
+Email
+0
+
+
+Share
+Tweet0
+
+Share0
+Print
+
+
+
+
+
+
+
+
+ Fragments of RNA that cells eject in fatty droplets may point the way to a new era of cancer diagnosis, potentially eliminating the need for invasive tests in certain cases.
+
+
+ Cancer tumor cells shed microvesicles containing proteins and RNA fragments, called exosomes, into cerebral spinal fluid, blood, and urine. Within these exosomes is genetic information that can be analyzed to determine the cancer’s molecular composition and state of progression. Researchers at Massachusetts General Hospital discovered that exosomes preserve the genetic information of their parent cells in 2008, however exosomes have not seen widespread clinical testing as a means of cancer diagnosis until now.
+
+
+ “We have never really been able to detect the genetic components of a tumor by blood or spinal fluid,” says Harvard University neurologist Fred Hochberg. “This is really a new strategy.” He says exosome diagnostic tests could potentially detect and monitor the progression of a wide variety of cancers. He is one of the lead researchers in a multicenter clinical study using new exosomal diagnostic tests developed by New York City-based Exosome Diagnostics to identify a genetic mutation found exclusively in glioma, the most common form of brain cancer.
+
+
+ When treating other forms of cancer, surgeons are able to biopsy tumors to diagnose and monitor the state of the disease. For brain cancers like glioma, however, multiple biopsies can be life threatening. Bob Carter, head of neurosurgery at the University of California, San Diego, says well-preserved RNA in blood and spinal fluid enables researchers to test and monitor for these genetic changes noninvasively.
+
+
+ He says study researchers separate exosomes from bio-fluids with a diagnostic kit and then extract the relevant genomic information. Once the specific cancer mutation is identified, clinicians will periodically draw additional bio-fluids to monitor the mutation levels to determine whether a patient is responding to therapy.  
+
+
+ Whereas Magnetic Resonance Imaging (MRI) is a useful tool, tumors only show up on imaging scans once they are at least one millimeter in diameter and comprise about 100,000 tumor cells. By that time, it may be too late for an early intervention. On the flip side, MRIs can also yield false positives. Hochberg says individuals who have been treated with conventional radiation therapy often have benign residual tissue from dying tumor cells that have been killed by the treatment but which the body has not yet eliminated. This tissue is often mistaken for tumor growth on a MRI scan. “You would identify to the patient that the drug is not working when in reality it is doing well,” Hochberg says. “On the other hand, having an easily accessible biomarker for glioma would give you a clear response.”
+
+
+ There are 18 U.S. hospitals participating in the clinical trial, sponsored by the Accelerated Brain Cancer Cure Foundation. Hochberg says study researchers have recruited 41 of 120 patients so far. Preliminary results will be presented in April at the International Society for Extracellular Vesicles Symposium in Boston.
+
+
+ From a technical standpoint I don’t believe there is a barrier,” Carter says. “This test can certainly be used now, what we are trying to finalize is the sensitivity and specificity of the test.”
+
+
+ Exosomes may be a reliable method of screening for prostate cancer as well. A PSA test is currently the most common, noninvasive means to screen for prostate cancer in the U.S. PSA testing measures for elevated levels of prostate-specific antigen, a protein produced by the prostate gland that is used to liquefy semen in men. The higher a man’s PSA level, the more likely it is that he has prostate cancer, says James McKiernan, director of urologic oncology at Columbia University Medical Center. There are additional reasons, however, for high PSA levels-and some men with prostate cancer do not always have elevated PSA, he added. In addition, for many cases of prostate cancer, new research published in May 2012 in The New England Journal of Medicine shows that  treatment does not actually extend the life of the patient. 
+
+ “Honestly PSA is not cancer-specific,” says Sudhir Srivastava, head of the National Cancer Institute’s Cancer Biomarkers Research Group. “Exosomes could be very much [more] cancer specific. PSA might give you one specific biomarker for cancer identification, but exosomes can give you an entire disease specific profile so you would know whether or not it is a form of prostate cancer that necessitates treatment.”
+
+
+ Researchers at Exosome have developed a diagnostic kit for prostate cancer with a diagnostic accuracy of around 75 percent-a rate comparable with that of actually taking a tissue biopsy, says Wayne Comper, a renal physiologist and chief science officer at Exosome. He says the first diagnostic kit could be available commercially by the end of 2013.
+
+
+ Researchers use the kit to look for the genetic biomarker TMPRSS2:ERG or T:E in exosomes taken from a urine sample. Comper says levels of T:E are nine times higher in a cancerous prostate versus a healthy one.
+
+
+ McKiernan says researchers found these exosomal diagnostic tests gave better predictive results for cancer than current prescreening methods, such as PSA. PSA levels are measured via a blood draw but also require a visit to a doctor’s office for a digital rectal exam, something that isn’t necessary with an exosomal diagnostic test. “Our study got enough interest to put together a series of sites for investigation to lead to potential FDA approval of this particular kit,” he says. “That is ongoing right now and the last time I checked there were about 1,000 patients who have been enrolled in the study.”
+
+
+ Srivastava says Exosome's prostate kit could prove to be extremely relevant in cancer treatment if it survives the U.S. Food and Drug Administration’s grueling approval process. He says it is a precursor to what he hopes will be a series of multiple-gene-signature cancer tests. “We are looking for something with about 90 percent accuracy before it can be used by itself for clinical diagnosis,” he says. “NCI has done two prostate trials with exosomes to date and is looking into creating standard isolation procedures to make the tests more specific.”
+
+
+ In the meantime Srivastava says exosomal tests could be used in conjunction with current methods of diagnosis like PSA to help physicians better determine if the nature of a prostate tumor is severe enough to warrant radical treatment or removal without ever performing a biopsy. “If someone has high PSA and also has biomarkers which are positive in exosomes that would be a great test,” he says. “Exosomes have the potential to really further the detection of cancer and help analyze things that would have otherwise not been detected noninvasively.”
+
+
+  
+
+
+
+      Follow Scientific American on Twitter @SciAm and @SciamBlogs.
+      Visit ScientificAmerican.com for the latest in science, health and technology news.
+      © 2013 ScientificAmerican.com. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+Explore Related Content1 - 4 of 20prevnext Grandma's cancer diagnosis inspires girl's scarf-collecting campaign WTAE - Pittsburgh Videos Oklahoma research could save lives of breast c KOCO - Oklahoma City VideosSome docs screen for prostate cancer without asking Reuters NEW YORK (Reuters Health) - One in four family doctors doesn't ask male patients before screening …  Oklahoma research could save lives of breast c KOCO - Oklahoma City Videos Woman credits dog for tipping off cancer diagnosis WTAE - Pittsburgh Videos   Louisville CyberKnife Offers Prostate Cancer Patients Advanced Form of Radiation Therapy PRWeb Three months after opening, Kentucky-based cancer treatment center shares personal story from one …  Cancer patients in study to help find a possible cure KFSN – Fresno Ariz. Mom Stuns Doctors, Beats Deadliest Brain Cancer Good Morning America   PAACT Announces the Prostate Cancer 101 Event as Part of Their 2013 Event Calendar PRWeb PAACT Announces Its Second 2013 Event Geared Toward Becoming More Informed About Prostate CancerGrand …  12-Year-Old Fighting Brain Cancer Is First Recipient Of Cam Neely Award For Courage CBS-Boston   A Study Finds Eating Deep Fried Food is Associated with An Increased Risk of Prostate Cancer, PCRI Offers Online Resources for 2013 to Fight Prostate Cancer PRWeb As a new study shows a connection between eating deep fried foods and prostate cancer, PCRI leads …  'Golden key' to unlocking canine cancer? FOX News Videos   Voices Against Brain Cancer Responds to the Use of More Focused Radiation to Treat Brain Tumors PRWeb Voices Against Brain Cancer responds to an article that reports on new research suggesting that a …  New cancer study weighs in on screenings WPVI – PhiladelphiaProstate Cancer Roundtable Announces Updated National Policy Agenda PR Newswire WASHINGTON, Jan. 16, 2013 /PRNewswire-USNewswire/ -- Representing the interests of the 240,000 American …  Bringing together the best and brightest in cancer research FOX News Videos   Doctors Health Press Reports on Study: Fiber Found to Help Control the Progression of Prostate Cancer PRWeb Doctors Health Press, a division of Lombardi Publishing Corporation and publisher of various natural …  Cancer Society Reports Drop In Those Dying From Cancer CBS-Minneapolis   More Screenings, Tailored Treatments, & Less Stigma Could Improve Prostate Cancer Outcomes in Ghana, say Jefferson Researchers PRWeb Low screening rates and lack of treatment resulting in late-stage diagnoses, poor outcomes in prostate …  Family hosts bake sale for cancer patient KETV - Omaha Videos
+
+
+
+
+
+
+
+
+All Comments
+ 
+
+
+
+                        5 comments
+                        
+
+Popular Now
+Newest
+
+Oldest
+
+Most Replied
+
+
+
+
+
+
+v1/comments/context/eeb3d2dd-11f3-3f49-889a-c2531c244733/comment/1359684097833-e123e2ad-63d4-4f2c-9247-c01244d65591
+
+
+
+
+
+
+
+granny
+ • 
+1 day 7 hrs ago
+
+Urine test for breast cancer.  Yesssss!
+Come on, you know you want to save them!
+
+
+
+
+ 
+
+v1/comments/context/eeb3d2dd-11f3-3f49-889a-c2531c244733/comment/1359606899913-730d66ca-a20b-4598-b297-0fbcb886f0a8
+
+
+
+
+
+
+
+Curtis
+ • 
+2 days 4 hrs ago
+
+Greed will always win over...cancer runs in my family...I know I am doomed.
+
+
+
+
+ 
+
+v1/comments/context/eeb3d2dd-11f3-3f49-889a-c2531c244733/comment/1359602027686-8e512449-9c9c-491e-8914-6d1bbd0bc98d
+
+
+
+
+
+
+
+Abinico Warez
+ • 
+2 days 5 hrs ago
+
+I worked for oncologist. They know how to prevent cancer, but of course do not advocate activity that does so out of pure evil greed.
+
+
+
+
+ 
+
+v1/comments/context/eeb3d2dd-11f3-3f49-889a-c2531c244733/comment/1359615415472-d9f9860e-3deb-4db5-815a-16f3064eb52f
+
+
+
+
+
+
+
+Krash
+ • 
+2 days 2 hrs ago
+
+Thank you for helping the human race grow from a mere .6 billion in 1800 to 7 billion today, 1.2% through war and peace on average, doubling every 60 years. The next leaps are 14 and 28 billion by 2150. Longevity, low infant mortality, and plentiful food blessed us and now if we cure cancer - a disease that took my sister in her 49th - we will really make progress.
+
+
+
+
+ 
+
+v1/comments/context/eeb3d2dd-11f3-3f49-889a-c2531c244733/comment/1359603040052-cb25d896-001a-4927-a4b5-1ad098fce0e4
+
+
+
+
+
+
+
+strange times
+ • 
+2 days 5 hrs ago
+
+Whatever happened to Jack Andraka and his novel mesothelin test strip? What, did the powers that be think that everyone forgot or something?
+
+
+
+
+
+
+
+
+ Post a comment
+                           
+
+
+
+
+
+
+More Health NewsNew rules aim to get rid of junk foods in schools AP - 45 mins agoObama offers faith groups new birth control rule AP - 39 mins agoHedgehog Alert! Prickly pets can carry salmonella AP - Thu, Jan 31, 2013U.S. rushing treatment for Brazil fire victims Reuters - 7 hrs agoU.S. military veteran suicides rise, one dies every 65 minutes Reuters - 8 hrs ago 
+
+
+
+
+
+You on Yahoo! News   Your Activity |Social: OFFON Turn Social ONRemind me when I share|Options What is this?Not you? Log out of FacebookHow to remove this experience
+
+
+
+Today on Yahoo!1 - 8 of 48prevnextWomen in combat: What riles Marines mostDemi pulls off the perfect cocktail dressBeyoncé admits she lip-syncedPenelope Cruz reportedly pregnant againNine pretty makeup looks for date night'Got milk?' The Rock will, no matter whatAmericans ripping up their retirement plansModel admits: 'I won a genetic lottery'
+
+
+Most PopularApplebee’s fires waitress who posted receipt from pastor complaining about auto-tipAP Interview: Clinton raps Benghazi criticsSylvester Stallone supports assault weapon banUnderground dentist not remorseful about illegal practicePostal Service says it’s immune from local traffic lawsMarine survey lists concerns on women in combat
+
+Follow Yahoo! NewsTop Stories on FacebookAre you on Facebook? Join our page for top stories! More »www.facebook.comFollow @ Yahoo! News on TwitterThe official account of Yahoo! News. 100% feed-free tweets by news fans for news fans! More »twitter.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yahoo! NewsHomeU.S.WorldBusinessEntertainmentSportsTechPoliticsScienceHealthBlogsLocalPopularAll Yahoo! News »
+
+
+
+
+Also On Yahoo!AutosFinanceGamesGroupsHealthMapsMoviesMusicomg!ShineShoppingSportsTravelTVY! News RSSY! News Alert All Yahoo! »
+
+
+Trending NowPop star shaves headBurger King admits to horse meat49ers gay adEd Koch diesFormer first dog diesVan Exel's son gets 60 yearsCruz wants big raiseJustin Bieber's Ferrari$14.3M jackpot abandonedMissing truck driver 
+
+
+
+
+
+
+
+
+
+
+1996-2013 - Scientific American, Inc.
+
+
+
+
+
+
+                Copyright © 2013 Yahoo! Inc. All rights reserved.
+            
+
+                 | Yahoo! - ABC News Network | 
+            
+
+Help / Suggestions
+Privacy Policy
+About Our Ads
+Terms of Service
+Copyright/IP Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

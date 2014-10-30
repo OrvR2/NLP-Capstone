@@ -1,0 +1,641 @@
+BBC News - Hacking work: How to break the rules to work better
+
+
+       
+
+                Accessibility links  Skip to content Skip to local navigation Accessibility Help      bbc.co.uk navigation   News   Sport   Weather   Travel   Future   Autos   TV   Radio   More…         Search term:             
+
+
+
+
+Business
+
+
+
+
+
+
+
+Home
+US & Canada
+Latin America
+UK
+Africa
+Asia
+Europe
+Mid-East
+Business
+Health
+Sci/Environment
+Tech
+Entertainment
+Video
+
+
+Asia Business
+Market Data
+Economy
+Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 May 2012
+Last updated at 19:01 ET
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+Hacking work: How to break the rules to work better
+ 
+
+Viewpoint by Josh Klein
+Author, Hacking work
+
+
+
+Buck the system: Hacking work - finding ways round restrictive systems in the workplace - has risks but could benefit your whole company, says Josh Klein
+
+"Hacking" means to reassemble a system to produce a different or superior result.
+
+Continue reading the main story 
+
+
+
+
+
+
+Special Report: The Technology of Business
+Can social influence sites be trusted?
+Can images stop data overload?
+21st Century eureka moment 
+Small firms 'easy targets' for cyber crime
+Small businesses and technology
+
+ "Work" has long meant a series of highly structured, heavily bureaucratic processes through which financial value is derived from human labour. 
+The former is more popular than ever before in human history due to widespread access to information, expertise and instruction via the internet - and the latter? Well, the latter is on the way out.
+Call it "agile" or "iterative," "innovating" or "pivoting", call it "freelancing" or "outsourced." 
+It's the ugly truth that globalisation and technology are creating a workforce that can move faster, think quicker, and produce newer/better than the large corporations which purport to retain them.
+The result of this upsurge of independents, when combined with all this freely available computational capability and information access that now resides in the cloud, is the complete reworking of "work." 
+
+Continue reading the main story “Start Quote
+There are downsides [of hacking work]; namely, you could lose your job”
+End Quote
+Josh Klein
+ Employment is being hacked, and increasingly, it's being hacked in the interest of the smaller/faster upstarts whose insight large companies so require. So what's to be done?
+Join them. 
+If your company is suffering from inefficiencies, lack of insight, stagnation, or outmoding of any kind, the answer lies right in front of you in the form of those iconoclasts who are so busily rewriting the rules of your formerly staid marketplaces. 
+As an exercise, try some of these:
+
+ Find one hated piece of software you're "required" to use and Google a workaround; use Google Docs instead of Excel, Drop Box instead of Sharepoint, or whatever it is you're saddled with. Try it for a week or two. See how much more efficient you are.
+ Write a list of the most obviously bad policies in your company and identify what easy, free, or cheap solutions exist that might address them. Put a monetary value on how much the company would save if you used one or more of those solutions. Pitch it to your boss.
+
+ Ask your 10-year-old nephew or 15-year-old niece what they think is wrong with your recent ad campaign or car design or performance evaluation. Take their answer seriously and consider how you could implement their solutions.
+
+
+Josh Klein defines hacking work as breaking the rules in small ways to net you greater efficiency
+
+
+ Set up a wiki (a web page anyone can edit) that allows for anonymous contributions. Encourage your co-workers to participate in problem solving on the wiki and see where it gets you.
+ Poke around online for ways to hack the one piece of hardware that pains you the most. Jailbreak your phone so you can put better software on it. Flash the firmware on your wi-fi router so you can ensure your team gets good bandwidth. Put a piece of tape over the webcam your boss uses to surreptitiously spy on you and your peers.
+ What's the common thread here? Hacking. 
+It's breaking the rules, typically in small ways, to net you greater efficiency from the working systems you're stuck within. 
+Pros and cons
+The goal is to improve those systems, not just for yourself, but for everyone - and ultimately to improve and replace those systems altogether.
+When companies lock down their systems and fail to listen to staff feedback, more often than not the result is that employees take matters into their own hands and find ways getting round their restrictions.
+It's what we're seeing in the dissolution of archaic markets and business models, and in the creation of new ones - a highly efficient, individual-driven community shift towards solutions that work, and that carry more than just precedent.
+There are downsides; namely, you could lose your job. 
+
+
+The goal is to improve working systems for everyone, says Josh Klein
+
+But the upsides far outweigh the risk. 
+Research shows that job security today is an illusion, and simultaneously throws into stark relief that the ones who are excelling in their fields are doing so despite the corporate systems that surround them. 
+The worst-case scenario is you try to improve your work for everyone and learn a great deal in the process, but the best-case scenario makes you a superhero. 
+Freed of deliberate inefficiencies and artificial constraints, you become capable of truly great work, and in doing so you'll discover what motivates you - and how to be truly great at something you love.
+It's not an overnight affair, but it's a better journey than the dead-end course chartered by your cubicle. 
+What's more, it's the path you're already on now whether you know it or not: you just have to take the first step.
+Josh Klein is the co-author of the book Hacking work: Breaking Stupid Rules for Smart Results. He is currently working on The Link, a television series for the National Geographic channel on the history of innovation, which will be broadcast at the end of May 2012.
+
+ 
+
+
+
+More on This Story
+
+
+More from Technology of Business
+	      
+
+
+
+Key stories
+
+
+
+Monkey business
+
+Should you be recording your phone calls?
+
+
+
+Edible edifice
+
+
+
+
+Predictive text
+
+
+
+
+Getting it right
+
+
+
+
+Let's sail away
+
+
+
+
+
+
+
+Viewpoint
+
+
+
+Start-up and up! 
+
+
+
+
+Push your buttons
+
+
+
+
+Come together
+
+
+
+
+Make it work
+
+
+
+
+May I help you?
+
+
+
+
+Champagne fast lane
+
+
+
+
+
+
+
+
+
+Related Internet links
+
+
+Josh Klein
+
+
+Hacking Work
+
+
+
+The BBC is not responsible for the content of external Internet sites
+
+
+
+
+       Comments   This entry is now closed for comments  Jump to comments pagination    Editors' Picks All Comments 129       Order by: Latest First Highest Rated Lowest Rated                rate this     +1      rate this     +1   Comment number 29.  laughingman  4th May 2012 - 12:16   @28 TerryPoor and weak managers where people are too often promoted to the level of their incompetence.I'd rather reward a good programmer than promote into a bad manager.*LOL, agreed & I wish more companies rewarded programmers who didnt want to go into management.Based on my experience though, bad promotions aren't the main issue, rather it's career bureaucrats from non-IT backgrounds.    Report this comment (Comment number 29) Link to this (Comment number 29)                 rate this     +2      rate this     +2   Comment number 28.  Terry  4th May 2012 - 12:06   Have to disagree with you laughinman, while that is one potential cause, in my (many years) experience in this field the underlying problem is:Poor and weak managers where people are too often promoted to the level of their incompetence. I'd rather reward a good programmer than promote into a bad manager.    Report this comment (Comment number 28) Link to this (Comment number 28)                 rate this     0      rate this     0   Comment number 27.  laughingman  4th May 2012 - 12:05   @25 Terry"21 laughingmanLarger organisations tend to have more legislative requirements they are required to adhere to such as DPAct, PCI DSS..The Information Security depts of these larger organisations have a legal obligation.."*The problem isn't legalities, it's that the people designing policies often know little about IT. Larger companies are more likely to have poor administration!    Report this comment (Comment number 27) Link to this (Comment number 27)                 rate this     +5      rate this     +5   Comment number 26.  Damon  4th May 2012 - 11:56   Saying "everyone" will be helped doesn't necessarily follow. Many cloud services are not accessible to blind or disabled people. So, for your best bet, tried and tested software is going to be usable by more of your workforce than these newer cloud services. Before you take Klein's advice, you do really want to leave the door open for ALL talented employees. Oh and there are laws.    Report this comment (Comment number 26) Link to this (Comment number 26)                 rate this     +7      rate this     +7   Comment number 25.  Terry  4th May 2012 - 11:55   @21 laughinmanLarger organisations tend to have more legislative requirements they are required to adhere to.  such as DPAct, PCI DSS, ISO27k, to name just a few. The Information Security departments of these larger organisations have a legal obligation to ensure their data is secured properly.  The small company that can demonstrate this will get the business from the larger organisation.    Report this comment (Comment number 25) Link to this (Comment number 25)                 rate this     +2      rate this     +2   Comment number 24.  vamparrot  4th May 2012 - 11:47   It's stated that the worst thing that could happen is "you could lose your job".Wrong.  If I used Google Docs instead of Excel, I would definitely be fired.  I'd probably lose my pension.  I'd might be sued by both my employer and by customers.  I'd probably be fined.  I could easily spend time in jail.    Report this comment (Comment number 24) Link to this (Comment number 24)                 rate this     +7      rate this     +7   Comment number 23.  Dot_Fish  4th May 2012 - 11:47   I'm assuming that this article was intended as extremely light hearted?If not it probably needs a disclaimer to cover the BBC from the numerous security breach, lost data, malware present, lost jobs etc that people may claim were a result of folloiwng the advice within...    Report this comment (Comment number 23) Link to this (Comment number 23)                 rate this     -3      rate this     -3   Comment number 22.  nborders  4th May 2012 - 11:38   @Mysturji Part of doing your job is learning how to do your job better.  On the flip side, could people stop emailing me when they or I am at home?    Report this comment (Comment number 22) Link to this (Comment number 22)                 rate this     0      rate this     0   Comment number 21.  laughingman  4th May 2012 - 11:45   Hmm, it depends on the size of the organisation you work for, as the larger the company, the more likely they are to have cripplingly stupid & innefficient policies for pretty much everything.For the last 20 years I have mainly worked for relatively small companies where their attitude is usually, "as long as you are consistently productive & efficient, we will trust your professional judgement"    Report this comment (Comment number 21) Link to this (Comment number 21)                 rate this     +3      rate this     +3   Comment number 20.  Terry  4th May 2012 - 11:36   18.silverfish51 "isn't breaking stupid organisational rules to get results what we've all been doing for a lifetime?"True, and that's why HMRC lost 25 million records, DVLA lost 6 million, do I need to go on? Good organisations listen to their employees, good employees present reasoned busines cases & accept that sometimes things are done for a reason.The alternative is unemployment.    Report this comment (Comment number 20) Link to this (Comment number 20)                 rate this     +2      rate this     +2   Comment number 19.  Khimkharmakan  4th May 2012 - 11:34   This is the last thing organisations need as it's a sloppy reaction to sloppy thinking. Try instead a laser-like focus on requirements for systems backed up by a proper strategy. That way you end up with global systems that are thought through. No point slagging off something like SharePoint as it's only as good as the deployment - which presupposes the discipline of upfront thinking.    Report this comment (Comment number 19) Link to this (Comment number 19)                 rate this     +1      rate this     +1   Comment number 18.  Silvia  4th May 2012 - 11:30   Er - leave aside the hi-tech glitz, isn't breaking stupid organisational rules to get results what we've all been doing for a lifetime? Organisations can rigidify at the moment of birth, and one of their most consistent features is that none of them ever want listen to the workers on the ground. Better keep doing it, I suppose...    Report this comment (Comment number 18) Link to this (Comment number 18)                 rate this     +1      rate this     +1   Comment number 17.  CarpCarp  4th May 2012 - 11:19   @9 Erm, with the exception of military and law enforcement, every sector you've mentioned there appears on our client list. We're a small British software company. The world's moved on since typewriters and carbon paper.    Report this comment (Comment number 17) Link to this (Comment number 17)                 rate this     +5      rate this     +5   Comment number 16.  Mysturji  4th May 2012 - 11:12   Want to be more efficient and more productive at work?Step one: Stop surfing the web and get back to work!    Report this comment (Comment number 16) Link to this (Comment number 16)                 rate this     +1      rate this     +1   Comment number 15.  typicallistener  4th May 2012 - 11:10   The use of sub contractors in fuel delivery is an example of work hacking, but the unions are dead against it. We need to adopt more flexible work practices and laws to hack our way effectively to efficiency.    Report this comment (Comment number 15) Link to this (Comment number 15)                 rate this     +1      rate this     +1   Comment number 14.  CarpCarp  4th May 2012 - 11:09   Whilst I agree with the sentiments, the piece itself smacks of the "I can haz gadgetz plz" way of thinking that ultimately leads to more complex, brittle, insecure and ultimately more expensive IT systems. Well-reasoned, constructive change is clearly desirable, but is rarely achieved via a piecemeal approach.    Report this comment (Comment number 14) Link to this (Comment number 14)                 rate this     +4      rate this     +4   Comment number 13.  TruthTyper  4th May 2012 - 11:09   This is perhaps the stupidest article I have ever read on BBC news - in fact I don't think much more needs said about it.  Anyone with two brain cells can work out why.    Report this comment (Comment number 13) Link to this (Comment number 13)                 rate this     +2      rate this     +2   Comment number 12.  Acet  4th May 2012 - 10:59   The Hacker mindset, applies to all kinds of contraptions and is all about trying stuff out: open a device up, see how it works, disassemble it and put it back together, tweak somethingA Hacker is just a TinkererThe difference between a Hacker and most people is that the former is either not afraid of breaking stuff or is confident of eventually fixing what he/she breaks    Report this comment (Comment number 12) Link to this (Comment number 12)                 rate this     +5      rate this     +5   Comment number 11.  Freds  4th May 2012 - 10:59   Following Terry's (@10) comments:for company's working on Government and other sensitive commercial contracts having employees put data on dropbox or Google would also break security rules potentially losing the company contracts and putting yourself out of a job.very irresponsible article    Report this comment (Comment number 11) Link to this (Comment number 11)                 rate this     +12      rate this     +12   Comment number 10.  Terry  4th May 2012 - 10:41   Probably the most irresponsible article I've ever read: put company data on Google docs - recipe for breach of Data Protection Act.creating a wiki for employees to 'problem solve' - Read potental to devalue the company leading it to go bust - everybody out of work.hacking hardware, kiss goodbye to warranties and exposing hardware to malwareGood grief - well done BBCStupid Stupid!    Report this comment (Comment number 10) Link to this (Comment number 10)         Page 6 of 7    Newer 1 ... 3 4 5 6 7 Older       Add your comment    Sign in with your BBC iD, or Register to comment and rate comments     All posts are reactively-moderated  and must obey the house rules.      
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Business stories
+RSS
+
+
+
+
+Google boss labels China 'IT menace'
+
+Google Chairman Eric Schmidt uses a new book to call China an Internet menace that backs cyber-crime for economic and political gain, reports say.
+
+
+
+Iraqi mobile firm raises $1.3bn
+
+
+
+
+Barclays finance chief to step down
+
+
+
+
+
+
+
+
+
+
+
+
+Top stories
+
+
+
+Assad: Israel destabilising Syria
+
+
+French jets bomb northern Mali 
+
+
+Malala recovering after surgery
+
+
+Deadliest US sniper is shot dead
+
+
+Memorials for Brazil fire victims
+
+
+
+
+
+
+
+
+
+Features & Analysis
+
+
+
+
+Staying alive Watch
+
+The legendary Phantom's comic strip appeal 	
+				  
+
+
+
+
+Mashed potato rows
+
+Kathy Etchingham remembers life as Jimi Hendrix's 'Foxy Lady' 	
+				  
+
+
+
+
+Miles from home
+
+Has Hillary’s journey ended, or is more to come? 	
+				  
+
+
+
+
+Set for the Super Bowl
+
+Photographer Stephen McLaren's explores New Orleans 	
+				  
+
+
+
+
+
+
+Most Popular
+Shared
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Etch A Sketch inventor dies at 86
+
+
+
+3: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+4: Car park dug up around parked car
+
+
+
+5: Malala recovering after operation
+
+
+
+Read
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: French jets bomb northern Mali 
+
+
+
+3: Assad: Israel destabilising Syria
+
+
+
+4: Car park dug up around parked car
+
+
+
+5: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+6: Mars rover hammers down into rock
+
+
+
+7: Dolphins 'saved' by distress call
+
+
+
+8: Taser used near Buckingham Palace
+
+
+
+9: Bolshoi director 'knows' attacker
+
+
+
+10: Malala recovering after operation
+
+
+
+Video/Audio
+
+
+
+
+1: Iran unveils 'stealth fighter' plane Watch
+
+
+
+2: US child still hostage in bunker Watch
+
+
+
+3: Pencil drawings amaze art critics Watch
+
+
+
+4: Apology over police beating footage Watch
+
+
+
+5: Stallone joins gun control debate Watch
+
+
+
+6: Syria airs 'Israeli strike' footage Watch
+
+
+
+7: The art looking death in the face Watch
+
+
+
+8: Knives man Tasered outside palace Watch
+
+
+
+9: Digital artists inspired by the gif's resurgence Watch
+
+
+
+10: One-minute World News Watch
+
+
+
+
+
+
+
+
+
+
+
+
+Elsewhere on the BBC
+
+
+
+Coast stories
+
+BBC Travel discovers why the island of Mauritius is much more than just a fly-and-flop destination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programmes
+
+
+
+The Culture Show Watch
+
+Look death in the face with objects that chart how we try to make peace with the end of life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+ Mobile
+ Connected TV
+ News feeds
+ Alerts
+ E-mail news
+
+
+
+About BBC News
+
+Editors' blog
+BBC College of Journalism
+News sources
+Media Action
+
+
+
+
+    BBC links    Mobile siteTerms of UseAbout the BBC     Advertise With UsPrivacyBBC Help     Ad ChoicesCookiesAccessibility Help     Parental GuidanceContact Us       BBC © 2013 The BBC is not responsible for the content of external sites. Read more. This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+

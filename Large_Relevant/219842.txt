@@ -1,0 +1,638 @@
+BBC News - Cloud computing for business goes mainstream
+
+
+       
+
+                Accessibility links  Skip to content Skip to local navigation Accessibility Help      bbc.co.uk navigation   News   Sport   Weather   Travel   Future   Autos   TV   Radio   More…         Search term:             
+
+
+
+
+Business
+
+
+
+
+
+
+
+Home
+US & Canada
+Latin America
+UK
+Africa
+Asia
+Europe
+Mid-East
+Business
+Health
+Sci/Environment
+Tech
+Entertainment
+Video
+
+
+Asia Business
+Market Data
+Economy
+Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 May 2010
+Last updated at 19:04 ET
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+Cloud computing for business goes mainstream
+
+By Tim Weber
+Business editor, BBC News website
+
+
+
+Investing in the cloud means less capital expenditure. 
+
+
+Continue reading the main story Related Stories
+
+Cloud computing to double by 2012
+Privacy and trust up in the cloud
+sState attacks fuel cyber threats
+
+
+Cloud computing has been an information technology buzzword for many years. Now it is going mainstream.
+Bryan Kinsella has a problem. As chief information officer of business services provider Rentokil Initial he looks after a widely dispersed and mobile workforce.
+Email is a key management tool but as the company grew it found itself with 40 different email systems across 50 countries for 20,000 employees, with another 15,000 staff offline. 
+Setting up a new single email system with a global server infrastructure would have meant a massive capital expenditure.
+Instead, he settled on a "cloud" solution, rolling out Google's enterprise email across the company. It's saving Rentokil about 70% in expenditure, he says, with lower support costs on top of that.
+The Cloud explained
+But what is cloud computing? In the simplest of terms, it is IT-as-a-Service. Instead of building your own IT infrastructure to host databases or software, a third party hosts them in its large server farms. Your company has access to its data and software over the internet (which in most IT diagrams is shown as a cloud).
+Cloud fans claim five key benefits:
+
+ Cheap: your IT provider will host services for multiple companies; sharing complex infrastructure is cost-efficient and you pay only for what you actually use.
+ Quick: The most basic cloud services work out of the box; for more complex software and database solutions, cloud computing allows you to skip the hardware procurement and capital expenditure phase - it's perfect for start-ups.
+ Up-to-date: Most providers constantly update their software offering, adding new features as they become available.
+ Scaleable: If your business is growing fast or has seasonal spikes, you can go large quickly because cloud systems are built to cope with sharp increases in workload.
+ Mobile: Cloud services are designed to be used from a distance, so if you have a mobile workforce, your staff will have access to most of your systems on the go. 
+ In other words: information technology becomes a utility, consumed like electricity, water, or even outsourced HR or payroll services, says Chuck Hollis, chief technology officer at information management company EMC. This year, he exhorts companies, "is the year to get your cloud strategy together."
+Bear in mind, cloud computing is not new. Most of us are using the cloud already, through services like Hotmail, Flickr, Blogger and Facebook. It's business that has been slow in the take-up.
+Using the cloud
+For Bryan Kinsella, the cloud strategy is paying off at an enterprise level. So far his team has moved close to 10,000 staff on to Google's email services; another 10,000 will have migrated by the end of the year. 
+
+
+For a cloud, it has an awful lot of cables
+
+"We never went into this to get cost reduction," says Mr Kinsella. It was about "unifying the business... to operate and collaborate on a global basis."
+Now he is rolling out Google Sites to share documents across Rentokil and create intranets for both the global company and its many divisions.
+It's this easy scaling that makes cloud-computing attractive. Insurance giant Aviva, for example, moved all its enterprise content management and business intelligence tools online, using Microsoft's Sharepoint online service.
+Logistics firm Pall-Ex can grow fast and cheaply by moving much of its IT to UK hosting firm Outsourcery.
+Universal Music is using the cloud computing services of e-commerce provider Venda to roll out its online store model across Europe.
+"It's so expensive to build a world-class e-commerce platform, no single retailer can build it by themselves unless they are the size of Amazon," says James Cronin, chief technology architect at Venda.
+Competition boosts cloud computing 
+Cloud computing can be applied nearly anywhere: the small retailer that needs a secure e-commerce website quickly and cheaply; the ferry operator that has huge computing spikes in May and June while 90% of its IT system idle the rest of the year; the fire service that needs extra computing power to predict the movement of forest fires during the summer. 
+
+
+Leave IT worries to your cloud provider
+
+Cloud services range from fulfilling single business functions, say calculating payroll taxes, to outsourcing heavy-duty computing for complex 3-D modelling. 
+Many firms "have not moved significantly to cloud computing yet," acknowledges Cassio Dreyfuss at technology consultancy Gartner. But he predicts that "more dynamic" industries, "where business models change very fast, where competition is very hard... will move more quickly." 
+Right now, the cloud computing market is worth almost $2.4bn, says Gartner and predicts that by 2013 this will have grown to almost $8.1bn. 
+Get ready now and map your company's IT needs, says Mr Hollis. "If IT is your company's differentiator you may want to keep it in-house." But most IT is just another service that "can go the same way as other corporate functions like finance, logistics and manufacturing".
+Storm clouds
+Cloud computing is not without problems. 
+For starters, to be cheap cloud computing tasks need to be standardised. While traditional applications have many little-used features to cope with specialised needs, customising a cloud service costs extra.
+For firms on a tight budget this may result in a few standard network solutions. However, it does not mean a standard look and feel. "I challenge you to spot that our customers' websites run on the same platform," says James Cronin at Venda. Plus most Software-as-a-Service (SaaS) providers roll-out newly developed features to other customers as well.
+Usability is another issue. Some people, firmly wedded to "their" software, whether it's Lotus Notes or Microsoft Outlook, are reluctant to switch to plainer online applications. Rentokil's Bryan Kinsella counters that his migration team received few complaints.
+Connectivity is another worry. The City of Los Angeles wants to move 34,000 employees to Google Apps, but there are complaints about speed and reliability - problems that may be rooted more in the city's internal network than Google's service.
+But what if you go offline? Well, most SaaS providers offer resilient offline solutions. Microsoft - a late-comer to the cloud computing party - likes to point out that it offers proven offline applications like Microsoft Office that integrate with its new suite of online applications. 
+In cloud we trust   
+Security concerns are a much bigger issue. Will your corporate and customers' data be safe? What about data protection? Can you meet all legal compliance requirements?
+"There are enormous security [...] and auditing risks that have not been addressed yet," says Gartner's Mr Dreyfuss.
+
+
+Google's Dave Girouard says cloud computing has a good track record
+
+"Cloud computing," warns a top expert for business security, "is the concentration of corporate risk in one single place."  
+Not so, say the providers of cloud services. "We put together multiple points of replication... multiple lines of defence... multiple levels of sophistication...  that a single company just could not afford," says Jean-Philippe Courtois, the president of Microsoft International. 
+His words are echoed by all his competitors. Dave Girouard, the man in charge of Google's enterprise solutions, says "trust" is the issue customers raise most often when they explore whether cloud computing fits their business needs. 
+"There are now enough proof-points, enough track record for it to go mainstream," he says. "Company data are much safer inside Google than in a company's data centre."
+Pushing Cloud 2.0
+If Marc Benioff is not the high priest of cloud computing, then he's certainly its televangelist.
+
+
+Marc Benioff predicts another IT revolution
+
+Eleven years ago he founded salesforce.com. Today his "enterprise cloud computing company" is approaching annual revenues of $1.5bn.
+Its key product, a cloud service for customer relationship management, is used by organisations ranging from small charities to computer maker Dell.
+For years Mr Benioff has been repeating his "no software" mantra, arguing that the old IT and business models of companies like Microsoft, SAP and Oracle are broken.
+Cloud computing, he says, is a total revolution of how we use and pay for software, and it is spreading fast.
+His company now offers services like Force.com and Vmforce.com that provide developers platforms to build customised cloud services themselves.
+Once belittled by rivals, he now revels in the fact that they all compete to prove their cloud computing credentials. 
+For Marc Benioff, though, one cloud is not enough.
+These days he speaks about the transition to "Cloud 2.0". Just as he once queried why enterprise software was not more like Amazon, he now asks why it is not more like Facebook. 
+
+
+Enterprise computing is going mobile
+
+Mr Benioff promises that new software like Salesforce's new Chatter will do just that.
+"We are going through a major shift in computing," he says, where enterprise computing gets both more social (think collaboration) and mobile (think tablet computers, netbooks and smartphones).
+Rentokil may be a case in point. Instant messaging software like "Google Chat has become a very powerful tool for us," says Mr Kinsella, while using Google's Android phones has made the enterprise software mobile. His new intranet, meanwhile, is getting a touch of YouTube: "We are using it carefully, but we now send out video messages to all employees, and they have the ability to comment."
+Microsoft's direction is similar. It's new Office 2010 software, to be launched next week, makes steps to integrate both "social connections" and online services.
+"People are working more and more from everywhere... home and workspace are merging," says Per-Olof Schroeder at Microsoft's Office software division.
+Helpful downturn
+Cloud firms are upbeat. 
+"The growth of cloud computing is phenomenal," says Fabio Torlini of hosting company Rackspace. "In the downturn all enterprises are asking 'what's safe to put in the cloud, and how can I save in the cloud'."
+And there are other opportunities for growth. As connectivity improves, cloud computing can bring high-end IT services to developing countries. 
+Right now, says Google's Dave Girouard, cloud computing is just at the start of its evolution. 
+"All business computing will be more web-enabled," predicts Mr Dreyfuss at Gartner. "For some [companies] it will reach the point where it will be totally web centric."
+
+
+
+
+More on This Story
+
+Related Stories
+
+
+Cloud computing to double by 2012
+26 APRIL 2010, 
+                        TECHNOLOGY
+
+
+Privacy and trust up in the cloud
+16 APRIL 2010, 
+                        CLICK ONLINE
+
+
+sState attacks fuel cyber threats
+30 JANUARY 2010, 
+                        BUSINESS
+
+
+Storm warning for cloud computing
+27 MAY 2008, 
+                        TECHNOLOGY
+
+
+
+
+
+
+Related Internet links
+
+
+EMC
+
+
+Gartner
+
+
+Google Enterprise
+
+
+Microsoft
+
+
+Outsourcery
+
+
+Rackspace
+
+
+Salesforce.com
+
+
+Venda
+
+
+
+The BBC is not responsible for the content of external Internet sites
+
+
+
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Business stories
+RSS
+
+
+
+
+Google boss labels China 'IT menace'
+
+Google Chairman Eric Schmidt uses a new book to call China an Internet menace that backs cyber-crime for economic and political gain, reports say.
+
+
+
+Iraqi mobile firm raises $1.3bn
+
+
+
+
+Barclays finance chief to step down
+
+
+
+
+
+
+
+
+
+
+
+
+Top stories
+
+
+
+Assad: Israel destabilising Syria
+
+
+French jets bomb northern Mali 
+
+
+Malala recovering after surgery
+
+
+Deadliest US sniper is shot dead
+
+
+Memorials for Brazil fire victims
+
+
+
+
+
+
+
+
+
+Features & Analysis
+
+
+
+
+Staying alive Watch
+
+The legendary Phantom's comic strip appeal 	
+				  
+
+
+
+
+Mashed potato rows
+
+Kathy Etchingham remembers life as Jimi Hendrix's 'Foxy Lady' 	
+				  
+
+
+
+
+Miles from home
+
+Has Hillary’s journey ended, or is more to come? 	
+				  
+
+
+
+
+Set for the Super Bowl
+
+Photographer Stephen McLaren's explores New Orleans 	
+				  
+
+
+
+
+
+
+Most Popular
+Shared
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Etch A Sketch inventor dies at 86
+
+
+
+3: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+4: Car park dug up around parked car
+
+
+
+5: Stallone joins gun control debate
+
+
+
+Read
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+3: Assad: Israel destabilising Syria
+
+
+
+4: Mars rover hammers down into rock
+
+
+
+5: French jets bomb northern Mali 
+
+
+
+6: Taser used near Buckingham Palace
+
+
+
+7: Car park dug up around parked car
+
+
+
+8: Iran seeks 'authentic' US talks
+
+
+
+9: Malala recovering after operation
+
+
+
+10: Hillary Clinton's long journey
+
+
+
+Video/Audio
+
+
+
+
+1: Iran unveils 'stealth fighter' plane Watch
+
+
+
+2: Syria airs 'Israeli strike' footage Watch
+
+
+
+3: Stallone joins gun control debate Watch
+
+
+
+4: Knives man Tasered outside palace Watch
+
+
+
+5: Acid attack victim recalls ordeal Watch
+
+
+
+6: Apology over police beating footage Watch
+
+
+
+7: Pencil drawings amaze art critics Watch
+
+
+
+8: What is inside a zombie's mind? Watch
+
+
+
+9: One-minute World News Watch
+
+
+
+10: Brothers head-to-head at Superbowl Watch
+
+
+
+
+
+
+
+
+
+
+
+
+Elsewhere on the BBC
+
+
+
+Coast stories
+
+BBC Travel discovers why the island of Mauritius is much more than just a fly-and-flop destination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programmes
+
+
+
+The Culture Show Watch
+
+Look death in the face with objects that chart how we try to make peace with the end of life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+ Mobile
+ Connected TV
+ News feeds
+ Alerts
+ E-mail news
+
+
+
+About BBC News
+
+Editors' blog
+BBC College of Journalism
+News sources
+Media Action
+
+
+
+
+    BBC links    Mobile siteTerms of UseAbout the BBC     Advertise With UsPrivacyBBC Help     Ad ChoicesCookiesAccessibility Help     Parental GuidanceContact Us       BBC © 2013 The BBC is not responsible for the content of external sites. Read more. This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+

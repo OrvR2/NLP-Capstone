@@ -1,0 +1,723 @@
+BBC News - Fantastic futures? Technology and business in 2012
+
+
+       
+
+                Accessibility links  Skip to content Skip to local navigation Accessibility Help      bbc.co.uk navigation   News   Sport   Weather   Travel   Future   Autos   TV   Radio   More…         Search term:             
+
+
+
+
+Business
+
+
+
+
+
+
+
+Home
+US & Canada
+Latin America
+UK
+Africa
+Asia
+Europe
+Mid-East
+Business
+Health
+Sci/Environment
+Tech
+Entertainment
+Video
+
+
+Asia Business
+Market Data
+Economy
+Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26 December 2011
+Last updated at 19:08 ET
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+Fantastic futures? Technology and business in 2012
+
+By Fiona Graham
+Technology of business reporter, BBC News
+
+
+
+Look into the ball: What does 2012 hold for business technology?
+
+Although those of us following the Mayan long calendar may be heading into 2012 with some trepidation, for those taking a longer-term view here is our annual peek into what next year holds.
+
+Continue reading the main story 
+
+
+
+
+
+
+Special Report: The Technology of Business
+Voice technology comes of age
+Making government data pay
+Golden opportunity for old mines
+Smart energy learns from consumer devices
+Build your own social network
+
+ Just as there are 12 days of Christmas, 12 people from across the technology spectrum give their insights to what the next year will hold. 
+We have the first six here, with part two following on Friday.
+It's been a turbulent year for technology, and enterprise is no exception. 
+The consumerisation of IT continues apace with more and more of us bringing our own devices to work. Cloud computing seems to be almost ubiquitous and virtualisation no longer sounds like something to do with the transporter in Star Trek. 
+These topics and more all made it into last year's predictions. So what do the experts think is hovering on the horizon in 2012?
+Tom Standage - Digital Editor, The Economist
+Number one would be social networking in business.
+I think this is going to be very significant, because there are a number of reasons why companies might want to do this.
+I think they've been slow to because of the perception that using social networks is wasting time, what you might call social not-working.
+
+
+Tom Standage sees 2012 as the year NFC will finally take off
+
+And in fact the opposite is true. I think the chances are that the future of enterprise software looks like Facebook. 
+We're seeing some companies adopting this already through systems like Chatter, Salesforce, Yammer and Jive - there's a whole bunch of them.
+The other thing of course is that people entering the workforce at this point are used to using social media, so if you give them enterprise software that looks like Facebook, they'll feel right at home. 
+Another thing to watch for is that Google may lose control of Android.
+It's because the tablet market is going to be divided between Amazon and Apple from the looks of things. It's very hard to see how anyone else can get in in the middle. 
+
+
+The future of enterprise software looks like Facebook
+
+Amazon can subsidise the cost of its tablets using subsidies from the sale of content and other things. They are essentially portable shops, a very clever idea. 
+I think it's entirely possible that they dominate at the bottom end, and Apple dominates at the top end because it has scale, it can buy screen and processing power like no-one else can and it has the pricing power of its incredibly strong brand. 
+This is a problem for Google because if this does happen that means that the dominant kind of Android tablet is the kind where Android itself is sort of hidden and is controlled by Amazon.
+The third thing is what happens to Research in Motion (RIM). Someone will buy them I think. The question is will they buy the whole of RIM in its current form.
+
+
+Blackberries for sale - and will manufacturer Research in Motion be bought as well?
+
+RIM itself could split in two into its hardware and services division and start offering Blackberry services as an app.
+I would be very surprised if RIM is still a company in its current form this time next year.
+One of my predictions from last year I would like to reiterate, and that is wireless payments. 
+I was expecting the iPhone that came out this year to have an NFC (near field communication) chip in it and to shake up wireless payments. 
+It didn't happen. I'm still convinced it's going to happen, I think it's going to happen next year, and the iPhone 5 will have an NFC chip in it. 
+This I predict will be the latest example of where Apple blesses a technology that is out there but not really being done properly, and Apple comes along and goes: "This is how you do it."
+Elissa Fink - Tableau Software
+Firstly big data is just getting bigger and starting to really impact not just the IT organisations and the people that know how to deal with data, but also the everyday knowledge worker, the everyday manager, and the everyday business leader, who have a lot of data they need to get through to make good decisions.
+
+
+Even more adoption of mobile technologies will take place in businesses
+
+Number two is that the pace is quickening towards making enterprise software more like consumer software. Making it easier to use, faster, with far less training than ever before.
+And then number three would be mobile. Mobile adoption is going mainstream [in business].
+Organisations are adopting tablets and particularly the iPad at very fast rates, and people want to be able to access their information wherever they are, even if it's just in a meeting next door. I would say [these are] the top three trends we're seeing, in no particular order.
+William Dudley - Group director, operator services, Sybase 365
+I think we're going to see significant press not from Apple but about Apple.
+My prediction is that one of the things the iPhone 5 will do that will be significant will be to support NFC.
+NFC is just a trigger to start the process of paying for goods. But NFC doesn't do any good unless merchants have a point of sale capability to accept that. 
+
+
+The next incarnation of the iPhone will be a major moment in 2012, says William Dudley
+
+And given that Apple has a tremendous database around their app store and iTunes, I would suspect that Apple would want to play a part in creating a point of sale ecosystem. 
+I don't have a lot of details but I kind of suspect that this could be a place where they could play and have a big impact. Apple really has been a catalyst for multiple parts of the industry.
+Not to say that Google won't continue to accelerate their payment purchasing mobile service.
+Number two is probably around devices. 
+I think we're going to see Windows Phone not die a slow death but sort of hold its own. 
+I think RIM isn't done yet. Blackberry devices are popular worldwide and in some markets, in the Middle East and the UK, they're very popular. And they're certainly very well engrained in enterprises. 
+RIM has got some capabilities and features that the Apple, Android, even Windows Phones do not. So I would not count them out yet.
+Ben Holmes - Partner, Index Ventures
+There's been enormous coverage of 3D printing. When we invested last year [in a 3D printing company] it was still science fiction, but it is rapidly moving from science fiction to science fact.
+I think it's an incredibly powerful concept, the idea of consumers being able to choose and make devices and products themselves.
+I think it's just at that point where the costs are falling very rapidly that it's now becoming more affordable. Two years ago it was used by high-end architectural practices and by Formula One teams to design and prototype their engines.
+
+
+3D has evolved from science fiction to science fact (picture courtesy of Shapeways)
+
+I think increasingly the smartphone is becoming a sort of remote control for the world around you. 
+Already you can order your food through this device, you can use it to hail a cab, to find concerts, and control the heating in your house.
+Then there's mobile gaming. A lot of VCs (venture capitalists) are probably attacking this theme. Facebook gaming is massive - but mobile gaming is still pretty small despite the success of some big names like Angry Birds.
+I think a lot of the games which are doing well in iOS and Android, they are fairly crude rip-offs of what happens on Facebook. I think very few companies have really thought deeply about the types of games that fully leverage this device.
+I think there will be a Zynga-sized company or bigger built off the back of mobile. 
+Zynga has probably 50-60% of the social gaming market. The biggest company in mobile gaming has a 1.5% share.
+Neil Campbell - Global head of security, Dimension Data
+I think 2011 was the year of awareness when it comes to advanced persistent threats [an organised group or government that commits cyber attacks], and sadly 2012 will be the year that advanced persistent threats continue at an incredible pace to plague the internet. 
+And I say that because they're relatively simple in their execution, they're taking advantage of relatively simple vulnerabilities, and they produce a lot of output in the form of all the information that becomes available to the perpetrators - which can be used for a number of reasons from espionage to fraud to blackmail.
+
+
+Neil Campbell predicts a tough year for cyber security
+
+Until that becomes very difficult to carry out, then we'll see the popularity of advanced persistent threats continue to increase. The thing that would stop the vulnerabilities being there is really basic security. 
+We've been talking about this for years. When you think about the effort it takes to secure a network, it tends to be getting it perfect that takes the effort, it should be relatively easy to secure the basics.
+What conversation could be carried out today without cloud sneaking in there? 
+The security needs of the cloud are down to the capabilities of the cloud provider, in the rush towards the cloud I'm sure there will be many situations where the two don't match.
+Bring your own device (BYOD) - which is the trend for people to buy their own [work] devices - can only increase as each generation becomes more computer literate.
+
+
+The cloud could bring security conflicts between businesses and service providers
+
+That's left organisations with the choice of embracing that trend and proactively developing a stance and policies on BYOD. 
+If you ignore it people find ways to bring their favourite device to work and make it work. That can include things like setting up their own wireless access points or driving a hole through your firewall to access their email. 
+People can be very creative when it comes to using technology they love in the way that they want to use it.
+Steven Prentice - VP and analyst, Gartner
+The control that the IT department has traditionally had over IT is perhaps more illusory than they thought. 
+It is slipping away. The increasing use of mobile devices, and consumerisation, people using their own systems, social computing and social networking, collaboration tools, the rise in software as a service - business units are buying services as opposed to going to the IT department for systems.
+It is a challenging time and IT leaders need to be proactive in their approach and changing their attitudes. 
+The thing that's going to hit most organisations I think is the whole big data explosion. 
+
+Continue reading the main story Gartner's top 10 strategic technologies for 2012
+
+
+
+ Media tablets and beyond
+ Mobile-centric applications and interfaces
+ Contextual and social user experience
+ Internet of things
+ Next-generation analytics
+ Big data
+ In-memory computing
+ Extreme low-energy servers
+ Cloud computing
+ Source: Gartner
+
+ It is driven by the wider internet of things, the proliferation of connected devices producing a mountain of data. 
+Organisations are always saying: give us better data to help us make better decisions. I think IT is on the verge of being able to deliver some of those things. It's not going to be easy, there are all sorts of technology variables to be weighed, but the data can be collected, the data can be analysed.
+I think the internet of things is going to be one of those potential game changers.
+Mobile has become or is becoming the dominant form of access to the internet. 
+I think that the whole social thing, the investment bubble on this is going to burst. We've seen some outrageous valuations during the dot.com boom.
+While I don't think that anyone is suggesting that social is going to go away, they're perhaps going to be a bit more realistic.
+Part two of our look ahead will be published on Friday, 30 December.
+
+
+
+
+More on This Story
+
+
+
+Technology of Business
+
+
+
+
+
+
+
+ Watch
+
+								India begins digital switchover
+            					
+
+
+
+
+
+
+
+ Watch
+
+								Filling the technology skills gap
+            					
+
+
+
+
+
+
+
+ Watch
+
+								Africa's healthcare tech revolution
+            					
+
+
+
+
+
+
+
+ Watch
+
+								Farmers reaping social media rewards
+            					
+
+
+
+
+
+
+
+ Watch
+
+								RFID tech ousts fake bird's nests
+            					
+
+
+
+
+
+
+
+
+
+
+Related Internet links
+
+
+Tom Standage
+
+
+Tableau Software
+
+
+Sybase Blogs - William Dudley
+
+
+Sybase Inc
+
+
+Index Ventures
+
+
+Dimension Data
+
+
+Gartner Inc.
+
+
+Gartner predictions
+
+
+
+The BBC is not responsible for the content of external Internet sites
+
+
+
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Business stories
+RSS
+
+
+
+
+Google boss labels China 'IT menace'
+
+Google Chairman Eric Schmidt uses a new book to call China an Internet menace that backs cyber-crime for economic and political gain, reports say.
+
+
+
+Iraqi mobile firm raises $1.3bn
+
+
+
+
+Barclays finance chief to step down
+
+
+
+
+
+
+
+
+
+
+
+
+Top stories
+
+
+
+Assad: Israel destabilising Syria
+
+
+French jets bomb northern Mali 
+
+
+Malala recovering after surgery
+
+
+Deadliest US sniper is shot dead
+
+
+Memorials for Brazil fire victims
+
+
+
+
+
+
+
+
+
+Features & Analysis
+
+
+
+
+Staying alive Watch
+
+The legendary Phantom's comic strip appeal 	
+				  
+
+
+
+
+Mashed potato rows
+
+Kathy Etchingham remembers life as Jimi Hendrix's 'Foxy Lady' 	
+				  
+
+
+
+
+Miles from home
+
+Has Hillary’s journey ended, or is more to come? 	
+				  
+
+
+
+
+Set for the Super Bowl
+
+Photographer Stephen McLaren's explores New Orleans 	
+				  
+
+
+
+
+
+
+Most Popular
+Shared
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Etch A Sketch inventor dies at 86
+
+
+
+3: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+4: Car park dug up around parked car
+
+
+
+5: Malala recovering after operation
+
+
+
+Read
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: French jets bomb northern Mali 
+
+
+
+3: Assad: Israel destabilising Syria
+
+
+
+4: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+5: Car park dug up around parked car
+
+
+
+6: Mars rover hammers down into rock
+
+
+
+7: Dolphins 'saved' by distress call
+
+
+
+8: Taser used near Buckingham Palace
+
+
+
+9: Google boss labels China 'IT menace'
+
+
+
+10: New Orleans and the 'Super Gras'
+
+
+
+Video/Audio
+
+
+
+
+1: Iran unveils 'stealth fighter' plane Watch
+
+
+
+2: Syria airs 'Israeli strike' footage Watch
+
+
+
+3: Stallone joins gun control debate Watch
+
+
+
+4: Pencil drawings amaze art critics Watch
+
+
+
+5: Knives man Tasered outside palace Watch
+
+
+
+6: What is inside a zombie's mind? Watch
+
+
+
+7: Brothers head-to-head at Superbowl Watch
+
+
+
+8: Bolshoi director: 'I know attacker'  Watch
+
+
+
+9: Footage shows quake shake Japan Watch
+
+
+
+10: 'Maybe no one can save Gascoigne' Watch
+
+
+
+
+
+
+
+
+
+
+
+
+Elsewhere on the BBC
+
+
+
+Coast stories
+
+BBC Travel discovers why the island of Mauritius is much more than just a fly-and-flop destination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programmes
+
+
+
+The Culture Show Watch
+
+Look death in the face with objects that chart how we try to make peace with the end of life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+ Mobile
+ Connected TV
+ News feeds
+ Alerts
+ E-mail news
+
+
+
+About BBC News
+
+Editors' blog
+BBC College of Journalism
+News sources
+Media Action
+
+
+
+
+    BBC links    Mobile siteTerms of UseAbout the BBC     Advertise With UsPrivacyBBC Help     Ad ChoicesCookiesAccessibility Help     Parental GuidanceContact Us       BBC © 2013 The BBC is not responsible for the content of external sites. Read more. This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+

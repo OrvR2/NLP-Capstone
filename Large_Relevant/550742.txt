@@ -1,0 +1,706 @@
+BBC News - Pretty pictures: Can images stop data overload?
+
+
+       
+
+                Accessibility links  Skip to content Skip to local navigation Accessibility Help      bbc.co.uk navigation   News   Sport   Weather   Travel   Future   Autos   TV   Radio   More…         Search term:             
+
+
+
+
+Business
+
+
+
+
+
+
+
+Home
+US & Canada
+Latin America
+UK
+Africa
+Asia
+Europe
+Mid-East
+Business
+Health
+Sci/Environment
+Tech
+Entertainment
+Video
+
+
+Asia Business
+Market Data
+Economy
+Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16 April 2012
+Last updated at 19:01 ET
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+Pretty pictures: Can images stop data overload?
+ 
+
+By Fiona Graham
+Technology of business reporter, BBC News
+
+
+
+Brain scan: Research suggests that one way to avoid being overloaded by data is by presenting it visually rather than text or numbers
+
+Sitting at your desk in the middle of the day, yet another email notification pops up in the corner of the screen, covering the figures you're trying to digest in the complicated spreadsheet in front of you.
+
+Continue reading the main story 
+
+
+
+
+
+
+Special Report: The Technology of Business
+21st Century eureka moment 
+Keep the social media cowboys at bay
+The ubiquitous hard drive
+Who should run your IT?
+Small firms and cyber crime
+Small businesses and technology
+
+ Your laptop is open on the desk next to you with another set of figures you need - meanwhile you're frantically tabbing through different documents on the main screen.
+You have a meeting in 20 minutes and you suddenly feel as if you're swimming in a sea of impenetrable data, and you're starting to sink.
+Welcome to the 21st Century workplace, and "data overload".
+Under siege
+You're not alone.
+Dr Lynda Shaw is a neuroscience and psychology lecturer at Brunel University in the west of London. 
+"I've been interviewing a lot of senior businesspeople lately, and they're actually hiding... because they're frightened they're going to be asked questions they can't answer, so they're delaying making really quite important decisions," she says.
+"When we're inundated with emails, Twitter, Facebook, social media, search engines like Google, it's as if we're expected to know more than we actually do, and we can't retain that level of information, that bombardment. 
+"When we feel overwhelmed we start to delay making decisions."
+
+
+Dr Lynda Shaw: The visual brain is this incredibly flexible and adaptable design to help us see and remember and make sense of everything around us
+
+Dr Shaw says this is a symptom of the computer age.
+"We've really seen this incredible amount of information flooding us constantly. The problem with information overload is really new to the human brain."
+She says this ultimately has huge implications for us both personally, and in terms of business - with obvious implications for productivity.
+"When we're in a stressful situation, cortisol, the stress hormone rises. One of the jobs of cortisol is to work with the neurotransmitters. So when it is up we experience memory loss, depression, high blood pressure "
+And the rate at which we are bombarded with data on a daily basis is increasing exponentially. 
+According to Cisco's Visual Networking Index, average global IP traffic in 2015 will reach 245 terabytes per second, equivalent to 200m people streaming an HD movie at the same time every day. 
+Within the next three years, there will be nearly 15bn network connections via devices and nearly 3bn internet users - more than 40% of the world's population.
+So short of switching off the PC and going out and doing something more interesting instead, what can we do about it?
+Pretty as a picture
+One answer may lie with the way data is presented to us.
+
+Continue reading the main story Data visualisation v text
+
+
+
+ Individuals working with visual mapping techniques used on average 19% less cognitive resources
+ They were 17% more productive and 4.5% better able to recall details than when using the equivalent traditional software
+ Groups working together on a project used on average 10% less cognitive resources
+ They were 8% more productive and recalled 6.5% more data when using visual mapping compared with traditional techniques
+
+
+
+Source: Mindlab International
+
+ In a lab in Sussex a group of people have had their brainwaves scanned while completing a series of tasks, individually and in groups, to see if data visualisation - presenting information visually, in this case a series of mind maps - can help.
+The results showed that when tasks were presented visually rather than using traditional text-based software applications, individuals used around 20% less cognitive resources. In other words, their brains were working a lot less hard. 
+As a result, they performed more efficiently, and could remember more of the information when asked later. Working in groups, they used 10% less mental resources.
+The research was carried out by Mindlab International, an independent research company that specialises in neurometrics - the science of measuring patterns of brain activity through EEG, eye tracking and skin conductivity, which tracks emotions.
+"The key reason we do the work that we do is that most of our decision making, yours and mine, goes on in the subconscious, or auto pilot or whatever we call it. Our cognitive brain can't actually deal with the bombardment of messages that are streamed to our bodies constantly all the time," says Duncan Smith, Mindlab International's managing director.
+
+
+Individuals and groups had their brainwaves monitored as they completed tasks using visual mapping software compared with traditional applications
+
+The research was commissioned by work management software specialists Mindjet, and used their MindManager software. All participants were familiar with both this and traditional text based word-processing software, email etc.
+"We did expect that visual mapping would perform better purely and simply because this is the way the brain is wired up. We don't work as a filling cabinet, we don't work in a linear fashion," says Mr Smith.
+"If you present data visually it has much more impact and the brain finds it much easier to process."
+
+
+A simple mind map created with MindManager
+
+San Francisco-based Mindjet specialises in mind maps - diagrams that present ideas, words and any other form of data grouped round a central key theme. The company says 83% of Fortune 100 companies are using its products.
+Mindjet's Chris Harman says the research was commissioned following a survey the company did at the end of 2011 which found two-thirds of people felt they were "drowning" in data.
+"We thought we know the problem, what difference can we actually make?"
+Visually stimulating
+Data visualisation is not limited to mind maps - the current vogue for infographics is another way to present information in a non-linear visual fashion. 
+Data visualisation expert David McCandless's Information is Beautiful website showcases good examples of data design. 
+Visual.ly gives designers a platform to upload and showcase work as well as providing tools to create your own. Google Fusion and d3.js create simple visual representations of data, Quantum GIS and OpenHeatMap use maps and data together. And there are many more.
+
+
+Tableau Software lets users create data visualisations accessible from a central dashboard - like this graphic tracking oil wells
+
+Phillipa Cardinal is post-production manager at Discovery Europe.
+A large part of her job involves consolidating and analysing data. To do this she uses Tableau Software, which lets her create data visualisations accessible from a central dashboard.
+"To me it's quite obvious when I'm exploring the data, things just pop out at you that you might not see if it was in a text-based environment," she says.
+"Being able to consolidate all these different bits of data onto a dashboard that we use for reporting upwards to our senior management team, you're able to really tell a story with it.
+"You want to make sure that the time they spend looking at the data is used effectively."
+
+Continue reading the main story “Start Quote
+If we can stop feeling overwhelmed ... we can actually start enjoying this information”
+End Quote
+Dr Lynda Smith
+ Francois Ajenstat is director of product management at Tableau Software. He says the benefits of data visualisation are obvious.
+"The first is it can help you make sense of data - I think that's actually quite fundamental especially as the amount of data that is collected every single day is growing exponentially. I think we're collecting more data in the last year than has ever been created in history.
+"How do you make sense of that? It's more than just getting a report, it's about being able to see it, and seeing it with your eyes and the visual element of your brain is actually very, very powerful. 
+"Seeing a number bars and a line you can infer very quickly what is going on versus if you just look at numbers."
+Brain function specialist Dr Lynda Shaw says by using these tools and others to minimise the overload, the growth in data can be a positive thing for all of us.
+"The visual brain is this incredibly flexible and adaptable design to help us see and remember and make sense of everything around us."
+"If we can stop feeling overwhelmed ... we can actually start enjoying this information, and by enjoying it we might be able to increase our brain capacity because we're using it better. "
+
+ 
+
+
+
+More on This Story
+
+
+More from Technology of Business
+	      
+
+
+
+Key stories
+
+
+
+Monkey business
+
+Should you be recording your phone calls?
+
+
+
+Edible edifice
+
+
+
+
+Predictive text
+
+
+
+
+Getting it right
+
+
+
+
+Let's sail away
+
+
+
+
+
+
+
+Viewpoint
+
+
+
+Start-up and up! 
+
+
+
+
+Push your buttons
+
+
+
+
+Come together
+
+
+
+
+Make it work
+
+
+
+
+May I help you?
+
+
+
+
+Champagne fast lane
+
+
+
+
+
+
+
+
+
+Related Internet links
+
+
+Mindjet Data Digest
+
+
+Mindlab International
+
+
+Dr Lynda Shaw
+
+
+Tableau Software
+
+
+Visual.ly
+
+
+Google Fusion Tables
+
+
+Information Is Beautiful
+
+
+Quantum GIS Project
+
+
+d3.js
+
+
+OpenHeatMap
+
+
+Discovery Channel International
+
+
+
+The BBC is not responsible for the content of external Internet sites
+
+
+
+
+       Comments   This entry is now closed for comments  Jump to comments pagination    Editors' Picks All Comments 131       Order by: Latest First Highest Rated Lowest Rated                rate this     -1      rate this     -1   Comment number 31.  strontiumdump  17th April 2012 - 8:03   "We thought we know the problem, what difference can we actually make?"strange article littered with strange sentences. how does fiona justify her wages producing this tripe?    Report this comment (Comment number 31) Link to this (Comment number 31)                 rate this     +2      rate this     +2   Comment number 30.  Name Number 6  17th April 2012 - 8:03   More like BS over;oad.    Report this comment (Comment number 30) Link to this (Comment number 30)                 rate this     +1      rate this     +1   Comment number 29.  empiredown  17th April 2012 - 8:02   The issue isn't how this sort of technology failed yesterday when it wasn't mainstream.  But the natural inclination for most people to delude themselves with pretty charts.  And you know they will because of the deficit.    Report this comment (Comment number 29) Link to this (Comment number 29)                 rate this     +11      rate this     +11   Comment number 28.  penguin337  Comment number 28 is an Editors' Pick 17th April 2012 - 7:54   I can still remember articles about how machines and computers were going to do all the work and make life SO much easier while we lounged about on the beach or went golfing...looks like that one got lost in the post...lolThe people who survive in modern computer environments are people who don't really care and can walk awayIf you are conscientious.. the modern office can destroy your life    Report this comment (Comment number 28) Link to this (Comment number 28)                 rate this     -1      rate this     -1   Comment number 27.  jg  17th April 2012 - 7:48   21 barryp, would you like to go and talk to Gove in the government.  At the moment he wants to impose his ideas on education, before the next election throws him out.    Report this comment (Comment number 27) Link to this (Comment number 27)                 rate this     +4      rate this     +4   Comment number 26.  thorper  17th April 2012 - 7:48   I am really a wasted talent. I knew about this technique 35 years ago, I used data visualisation to help me remember processes in geomorphology, my school were very surprised when I got an A grade in A Level Geography. I left teaching in a primary school two years ago because management were so obsessed with paperwork and assessment with no interest in any of my ideas for effective teaching.    Report this comment (Comment number 26) Link to this (Comment number 26)                 rate this     +11      rate this     +11   Comment number 25.  Lets make politics illegal  17th April 2012 - 7:47   Overload creates stress & breakdown. Costs individual, family, employer, health services, country. Why do we insist on pressurising the few individuals lucky enough to have full time jobs whilst denying work to millions of others?    Report this comment (Comment number 25) Link to this (Comment number 25)                 rate this     +4      rate this     +4   Comment number 24.  empiredown  17th April 2012 - 7:47   Computer based visualisation addicts are everywhere in the city mile and they've managed to use computers to direct the global economy into a irretrievable mess.  I question someones intelligence if they need a artificial system like the above.  Did Einstein have a laptop?    Report this comment (Comment number 24) Link to this (Comment number 24)                 rate this     0      rate this     0   Comment number 23.  Ilovecans  17th April 2012 - 7:43   This is exactly what hooponopono says.   There is no need to think conciously.    Report this comment (Comment number 23) Link to this (Comment number 23)                 rate this     +10      rate this     +10   Comment number 22.  Polly8122  Comment number 22 is an Editors' Pick 17th April 2012 - 7:40   It comes as no surprise that people are overwhelmed by too much dropping onto their desks or into their virtual intrays.It comes as no surprise that instead of healthy prevention we are offered a supposed 'cure'.This will not limit workload it will be an excuse to increase it by other means. Then, when you burn out, you're thrown out. Healthy lifestyle?    Report this comment (Comment number 22) Link to this (Comment number 22)                 rate this     +4      rate this     +4   Comment number 21.  barryp  17th April 2012 - 7:40   I wonder if the education Industry will take any notice in the way in which they teach? Or will schools continue to favour the dull pupil who has neat writing over those who can see the answer in a flash, and is bored by traditional teaching?    Report this comment (Comment number 21) Link to this (Comment number 21)                 rate this     +16      rate this     +16   Comment number 20.  Gazoopi  17th April 2012 - 7:34   @ McGaryWhat cobblers! I would say that reading utilises the brain much more eficiently because the mind has to produce it's own visualisation at the same time as you are reading. As my old Dad says at 87. "When I read an exciting book I am there, young again, alongside the hero or in the romance etc. When I watch TV I am simply an onlooker"    Report this comment (Comment number 20) Link to this (Comment number 20)                 rate this     +12      rate this     +12   Comment number 19.  penguin337  17th April 2012 - 7:34   So short of switching off the PC and going out and doing something more interesting instead, what can we do about it?Spot onLike with the TV...switch it offIf you can't switch it off...get a new jobWe have to change the way we live or large numbers of people will be flooding the NHS with stress related illnessesI had angina at 40 in an office, cortisol overload lolChange your lifestyle    Report this comment (Comment number 19) Link to this (Comment number 19)     Comment number 18.  empiredown  17th April 2012 - 7:31    This comment was removed because the moderators found it broke the house rules. Explain.      Report this comment (Comment number 18) Link to this (Comment number 18)                 rate this     +1      rate this     +1   Comment number 17.  Gazoopi  17th April 2012 - 7:24   I think that we are on the wrong track generally. Why do we even wish to cram all this "knowledge"into our little brains. As we move towards singularity we need to accept that the knowledge and information will be handled for us and even much of the decision making. We need to keep our brains "free" for the really big decisions, which require less information overload.    Report this comment (Comment number 17) Link to this (Comment number 17)                 rate this     +3      rate this     +3   Comment number 16.  Rodger Senseless  17th April 2012 - 7:20   Hold the front page! - graphical representation of data has just been invented. Doh!, why didn't I think of that.    Report this comment (Comment number 16) Link to this (Comment number 16)                 rate this     +2      rate this     +2   Comment number 15.  Bootgates  17th April 2012 - 7:20   Goes a long way to explain why in my job in the past year where the electronic information has not only increased but they're putting the pressure on people to increase output & putting pressure  on people generally that I've started experiencing epileptic seizures.I won't be the last as there are over 70 per cent people walking around who are epileptic but haven't been diagnosed yet.    Report this comment (Comment number 15) Link to this (Comment number 15)                 rate this     +1      rate this     +1   Comment number 14.  Tony Gillam  17th April 2012 - 7:07   Now what was that phrase? Oh Yes. "A picture is worth a thousand words". Surprise, surprise.    Report this comment (Comment number 14) Link to this (Comment number 14)                 rate this     +1      rate this     +1   Comment number 13.  JR  17th April 2012 - 7:06   There is so much bad science in here it's hard to know where to start with a criticism of the piece - however, that's not unusual for the BBC these days. Yawn...of course all of this 'sponsored' research could have just been drawn in a pretty picture and I would have understood it just as easily.    Report this comment (Comment number 13) Link to this (Comment number 13)                 rate this     +1      rate this     +1   Comment number 12.  Austin  17th April 2012 - 6:58   Fantastic more justification to produce reams of charts for the cerebrally challenged. The only good thing about this is its far easier to fool someone with a chart or diagram they don't understand than a concise explanation. I don't think its possible in some businesses to get from A to B without a flow chart    Report this comment (Comment number 12) Link to this (Comment number 12)         Page 6 of 7    Newer 1 ... 3 4 5 6 7 Older       Add your comment    Sign in with your BBC iD, or Register to comment and rate comments     All posts are reactively-moderated  and must obey the house rules.      
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Business stories
+RSS
+
+
+
+
+Google boss labels China 'IT menace'
+
+Google Chairman Eric Schmidt uses a new book to call China an Internet menace that backs cyber-crime for economic and political gain, reports say.
+
+
+
+Iraqi mobile firm raises $1.3bn
+
+
+
+
+Barclays finance chief to step down
+
+
+
+
+
+
+
+
+
+
+
+
+Top stories
+
+
+
+Assad: Israel destabilising Syria
+
+
+French jets bomb northern Mali 
+
+
+Malala recovering after surgery
+
+
+Deadliest US sniper is shot dead
+
+
+Memorials for Brazil fire victims
+
+
+
+
+
+
+
+
+
+Features & Analysis
+
+
+
+
+Staying alive Watch
+
+The legendary Phantom's comic strip appeal 	
+				  
+
+
+
+
+Mashed potato rows
+
+Kathy Etchingham remembers life as Jimi Hendrix's 'Foxy Lady' 	
+				  
+
+
+
+
+Miles from home
+
+Has Hillary’s journey ended, or is more to come? 	
+				  
+
+
+
+
+Set for the Super Bowl
+
+Photographer Stephen McLaren's explores New Orleans 	
+				  
+
+
+
+
+
+
+Most Popular
+Shared
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Etch A Sketch inventor dies at 86
+
+
+
+3: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+4: Car park dug up around parked car
+
+
+
+5: Malala recovering after operation
+
+
+
+Read
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: French jets bomb northern Mali 
+
+
+
+3: Assad: Israel destabilising Syria
+
+
+
+4: Car park dug up around parked car
+
+
+
+5: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+6: Mars rover hammers down into rock
+
+
+
+7: Dolphins 'saved' by distress call
+
+
+
+8: Taser used near Buckingham Palace
+
+
+
+9: Bolshoi director 'knows' attacker
+
+
+
+10: Malala recovering after operation
+
+
+
+Video/Audio
+
+
+
+
+1: Iran unveils 'stealth fighter' plane Watch
+
+
+
+2: US child still hostage in bunker Watch
+
+
+
+3: Pencil drawings amaze art critics Watch
+
+
+
+4: Apology over police beating footage Watch
+
+
+
+5: Stallone joins gun control debate Watch
+
+
+
+6: Syria airs 'Israeli strike' footage Watch
+
+
+
+7: The art looking death in the face Watch
+
+
+
+8: Knives man Tasered outside palace Watch
+
+
+
+9: Digital artists inspired by the gif's resurgence Watch
+
+
+
+10: One-minute World News Watch
+
+
+
+
+
+
+
+
+
+
+
+
+Elsewhere on the BBC
+
+
+
+Coast stories
+
+BBC Travel discovers why the island of Mauritius is much more than just a fly-and-flop destination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programmes
+
+
+
+The Culture Show Watch
+
+Look death in the face with objects that chart how we try to make peace with the end of life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+ Mobile
+ Connected TV
+ News feeds
+ Alerts
+ E-mail news
+
+
+
+About BBC News
+
+Editors' blog
+BBC College of Journalism
+News sources
+Media Action
+
+
+
+
+    BBC links    Mobile siteTerms of UseAbout the BBC     Advertise With UsPrivacyBBC Help     Ad ChoicesCookiesAccessibility Help     Parental GuidanceContact Us       BBC © 2013 The BBC is not responsible for the content of external sites. Read more. This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+

@@ -1,0 +1,495 @@
+Dreamliner probe widens after excess battery voltage ruled out - Yahoo! News
+
+
+
+
+ Skip to search.     New User? Register  Sign InHelp  Get new Yahoo! Mail apps        Notifications Help      Mail    My Y!    Yahoo!                 Yahoo! News              Search   Search Web        Breaking News Visit Yahoo! News for the latest.  ×Close this window      
+HomeVideoPhotosGMAYear in ReviewOddComicsTravelOpinionTrending NowWho Knew?WeatherTech It UpU.S.U.S. VideoGMAEducationReligionCrimes and TrialsThe LookoutLocalContributor NetworkYear In ReviewWorldWorld VideoMiddle EastEuropeLatin AmericaAfricaAsiaCanadaAustralia/AntarcticaBusinessVideoExclusivesToday's MarketsStocksPersonal FinancePress ReleasesMarketplaceEntertainmentVideoClinton ConcertCelebrityTVMoviesMusicFashionBooksArtsTheaterDear AbbyComicsOdd NewsSportsVideoNFLMLBNBANCAAFNCAABSoccerCyclingNHLTennisGolfBoxingMotor SportsMMAOlympicsTechTech It UpBest in TechGadgetsWirelessAppleSocial MediaSecurityOpen SourceGamingAppsThis Could Be BigUpgrade Your LifePoliticsThe TicketThe SignalRemake AmericaThe IssuesWomen and PoliticsPress ReleasesVideoScienceScience VideoWeather NewsSpace / AstronomyPetsDinosaurs / FossilsBiotechEnergyGreenHealthVideoWeight LossCancerSexual HealthMedications/DrugsParenting/KidsSeniors/AgingDiseases/ConditionsBlogsThe LookoutThe SideshowExpress TicketAround the WorldKatie's TakePower PlayersThis Could Be BigNewsmakersTrending NowLocalPopular
+
+
+
+SearchKeywordNews Search
+
+
+Featured»VideosPhotosKatie's TakeTrending NowThis Could Be BigWeatherWho Knew?NewsmakersEnterprise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Yahoo! With Your Friends Loginclose 
+
+
+
+YOUR FRIENDS' ACTIVITY
+
+
+
+prev
+
+
+next
+
+
+
+
+
+
+
+
+
+
+
+Dreamliner probe widens after excess battery voltage ruled outBy Andrea Shalal-Esa and Peter Henderson | Reuters – Sun, Jan 20, 2013
+
+
+Email
+0
+
+
+Share
+Tweet0
+
+Share0
+Print
+View PhotoReuters/Reuters - Fire trucks surround a Japan Airlines Boeing 787 Dreamliner that caught fire at Logan International Airport in Boston, Massachusetts January 7, 2013. REUTERS/Brian Snyder
+
+
+
+ Article: Investigators probe Boeing 787 battery makerMon, Jan 21, 2013 Article: ANA cancels 177 more flights with 787 jet groundedMon, Jan 21, 2013 Article: 787 probe puts spotlight on Arizona battery firmSun, Jan 20, 2013 Article: Investigators to travel to Pratt facility in Phoenix: NTSBSun, Jan 20, 2013
+
+
+
+WASHINGTON (Reuters) - U.S. safety investigators on Sunday ruled out excess voltage as the cause of a battery fire last month on a Boeing Co 787 Dreamliner jet operated by Japan Airlines Co (JAL) and said they were expanding the probe to look at the battery's charger and the jet's auxiliary power unit.
+              Last week, governments across the world grounded the Dreamliner while Boeing halted deliveries after a problem with a lithium-ion battery on a second 787 plane, flown by All Nippon Airways Co (ANA), forced the aircraft to make an emergency landing in western Japan.
+              A growing number of investigators and Boeing executives are working around the clock to determine what caused the two incidents which the U.S. Federal Aviation Administration says released flammable chemicals and could have sparked a fire in the plane's electrical compartment.
+              There are still no clear answers about the root cause of the battery failures, but the U.S. National Transportation Safety Board's statement eliminated one possible answer that had been raised by Japanese investigators.
+              It also underscored the complexity of investigating a battery system that includes manufacturers across the world, and may point to a design problem with the battery that could take longer to fix than swapping out a faulty batch of batteries.
+              "Examination of the flight recorder data from the JAL B-787 airplane indicates that the APU (auxiliary power unit) battery did not exceed its designed voltage of 32 volts," the NTSB said in a statement issued early Sunday.
+              On Friday, a Japanese safety official had told reporters that excessive electricity may have overheated the battery in the ANA-owned Dreamliner that was forced to make the emergency landing at Japan's Takamatsu airport last week.
+              "The NTSB wanted to set the record straight," said one source familiar with the investigation who was not authorized to speak publicly.
+              U.S. investigators have already examined the lithium-ion battery that powered the APU, where the battery fire started in the JAL plane, as well as several other components removed from the airplane, including wire bundles and battery management circuit boards, the NTSB statement said.
+              On Tuesday, investigators will convene in Tucson, Arizona to test and examine the charger for the battery, and download non-volatile memory from the APU controller, with similar tests planned at the Phoenix facility where the APUs are built. Other components have been sent for download or examination to Boeing's Seattle facility and manufacturer facilities in Japan.
+              Securaplane Technologies Inc, a unit of Britain's Meggitt Plc that makes the charger, said it will fully support the U.S. investigation.
+              Officials with United Technologies Corp, which builds the plane's auxiliary power unit and is the main supplier of electrical systems on the 787, said they would also cooperate with the investigation.
+              The NTSB's decision to travel to Securaplane's facility sparked fresh questions about the safety of the lithium-ion batteries that remain at the heart of the investigation.
+              While the 787 is the most aggressive user of lithium-ion battery technology in commercial aviation, the industry at large is testing it, and the FAA has approved its use in several different planes, each governed by "special conditions."
+              "Lithium-ion batteries are significantly more susceptible to internal failures that can result in self-sustaining increases in temperature and pressure," the FAA said in 2006, when it allowed Airbus to use lithium batteries for the emerging lighting system on its A380.
+              Securaplane, which first began working on the charger in 2004, suffered millions of dollars of damages in November 2006 after a lithium-ion battery used in testing exploded and sparked a fire that burned an administrative building to the ground.
+              Boeing spokesman Marc Birtel said an investigation into the 2006 fire was later determined to have been caused by an improper test set-up, not the battery design. He declined comment on the current 787 investigations.
+              After the fire, a former Securaplane employee named Michael Leon sued the company, alleging that he was fired for raising security concerns about charger and discrepancies between their assembly documents and the finished chargers.
+              Leon's suit was later dismissed.
+              The U.S. Federal Aviation Administration (FAA) on Sunday said it had investigated Leon's safety complaints in 2008 and 2009 but concluded his allegations focused on prototypes that were not ultimately used in the new lightweight airliner.
+              FAA spokeswoman Laura Brown said the reviews also found that Securaplane's production of a particular printed circuit board complied with FAA requirements.
+              Japan's GS Yuasa Corp makes lithium-ion batteries for the Dreamliner, while France's Thales produces the control systems for the battery. Thales has declined comment.
+              In its statement, the NTSB said French authorities were also participating in the investigation. No comment was immediately available from the French safety agency.
+              JAPANESE INVESTIGATION GEARING UP
+              Japan Transport Safety Board said it was aware of the NTSB report and would consider the U.S. statement in its probe.
+              The NTSB said the Japanese agency was participating in its investigation of the Boston incident, while NTSB officials were helping the agency with its investigation of the emergency landing in Japan. Both investigations were ongoing.
+              "There's nothing more I can add at this point as we still haven't started our investigation into the battery here," JTSB inspector Hideyo Kosugi told Reuters. "The NTSB's investigation started earlier. We still haven't taken X-rays or CT-scans of the battery."
+              Kosugi said both the battery and the surrounding systems were being stored in Tokyo's Haneda Airport until authorities decided where to conduct the Japanese investigation.
+              Boeing said on Friday it would continue building the carbon-composite 787, but put deliveries on hold until the U.S. Federal Aviation Administration approves and implements a plan to ensure the safety of potentially flammable lithium-ion batteries.
+              In Washington, U.S. Transportation Secretary Ray LaHood said the 787, which has a list price of $207 million, would not fly until regulators were "1,000 percent sure" it was safe.
+              Japan is the biggest market so far for the 787, with ANA and JAL operating 24 of the 290-seat wide-bodied planes. Boeing has orders for almost 850 of the planes, which have the most complex electrical systems of any planes on the market.
+              It remains unclear if the investigations will cause other airlines -- and military aircraft builder -- to rethink their plans to use lithium-ion batteries, which are lighter and more powerful than conventional batteries.
+              Airbus plans to use similar batteries on its rival to the 787, the A350, which is due to make its maiden test flight in the middle of this year.
+              European executives said last week they would study the findings of the U.S. investigation but said their decision to move more slowly than Boeing towards electric systems, and spread the load over twice as many batteries, would reduce the risk.
+              Aviation Week quoted Airbus programs chief Tom Williams as saying "failure management" was key and that any escaping gases from the A350 batteries would be protected by titanium as they are expelled from the aircraft. The company has not said if it would attempt to suppress a lithium fire or focus on containing a lithium blaze, as Boeing has done.
+              Williams told Aviation Week that switching from lithium back to nickel cadmium would require significant engineering work with both space and weight penalties. Airbus was not immediately available to comment on the article.
+              Brazilian planemaker Embraer SA declined comment when asked if it planned to rethink its use of lithium-ion batteries on its military transport plane and new business jets.
+              The Embraer programs use a battery made in the United States, unlike the Japanese one on the 787.
+              Lockheed Martin Corp, maker of the F-35 Joint Strike Fighter, has said it does not see a problem since the lithium-ion batteries on the military plane are made by France's Saft Groupe, not Yuasa.
+              (Additional reporting by Antoni Slodkowski, James Topham, Kentaro Sugiyama, Yoshiyuki Osada and Yuka Obayashi in Japan; Peter Henderson in Los Angeles, Tim Hepher in London and Alwyn Scott in Seattle; Editing by Daniel Magnowski, Maureen Bavdek and Marguerita Choy)
+
+
+
+
+
+
+
+
+Explore Related Content1 - 4 of 20prevnext Boeing Dreamliners Grounded After Emergency Landing hulu videos This Thursday, Jan. 17, 2013 photo provided by the Japan Transport Safety Board shows the distorted main lithium-ion battery, left, and an undamaged auxiliary battery of the All Nippon Airways' Boeing 787 which made an emergency landing on Wednesday, Jan. 16, 2013 at Takamatsu airport in Takamatsu, western Japan. Japanese and U.S. investigators are conducting a probe of the maker of the lithium ion batteries used in Boeing’s 787 “Dreamliner.”  Tsutomu Nishijima, a spokesman for GS Yuasa, said Monday, Jan. 21 that the investigators visited the company’s headquarters in Kyoto, Japan, and that Yuasa was cooperating with the probe. (AP Photo/Japan Transport Safety Board) EDITORIAL USE ONLY, NO SALES AP787 probe puts spotlight on Arizona battery firm Reuters WASHINGTON (Reuters) - Tucson, Arizona-based Securaplane Technologies Inc, which makes a charger …  Dreamliners grounded as battery blamed for incident Reuters Videos Handout of burnt auxiliary power unit battery removed from Japan Airlines Boeing 787 Dreamliner jet provided by NTSB ReutersMaker of 787 battery charger says will support U.S. investigation Reuters WASHINGTON (Reuters) - Securaplane Technologies Inc, a unit of Britain's Meggitt Plc, on Sunday confirmed …  FAA officials inspect Dreamliner Reuters Videos FILE - In this Thursday, Jan. 17, 2013 photo provided by the Japan Transport Safety Board shows the distorted main lithium-ion battery, left, and an undamaged auxiliary battery of the All Nippon Airways' Boeing 787 which made an emergency landing on Wednesday, Jan. 16, 2013 at Takamatsu airport in Takamatsu, western Japan. Japan’s All Nippon Airways said Wednesday, Jan. 30, 2013 it replaced lithium-ion batteries on its 787 Dreamliners 10 times before a battery overheating incident led to the worldwide grounding of the jets. Boeing was informed, but the airline was not required to report the battery swapping cases to Japan’s Transport Ministry because they did not raise safety concerns and did not interfere with flights. (AP Photo/Japan Transport Safety Board, File) EDITORIAL USE ONLY, NO SALES APOvercharged batteries eyed in Boeing 787 fires AP All Boeing 787s in Japan Grounded Associated Press Videos The burnt auxiliary power unit battery is seen in an All Nippon Airways' (ANA) Boeing Co 787 Dreamliner plane which made an emergency landing ReutersBoeing probe focuses on battery, 787 deliveries halted Reuters Dreamliner makes emergency landing Reuters Videos Japan probe finds 787 battery not overcharged APBoeing 787 investigation making progress: NTSB Reuters NTSB: Boeing 787 Battery Shows Short-circuiting Associated Press Videos The burnt auxiliary power unit battery, removed from an ANA Boeing Co 787 Dreamliner plane which made an emergency landing, is seen next to an undamaged one ReutersInsight: Boeing 787 battery woes put FAA approval under scrutiny Reuters Japanese airlines ground Dreamliners Reuters Videos Handout photo of an auxiliary power unit battery removed from a Japan Airlines Boeing 787 Dreamliner passenger jet Reuters
+
+
+
+
+
+
+More Business News"Great Rotation"- A Wall Street fairy tale? Reuters - Fri, Feb 1, 2013Analysis: Higher U.S. bond yields could impede economic recovery Reuters - 3 hrs agoBarclays finance director Lucas, top counsel to retire Reuters - 1 hr 41 mins agoPension funds sue Blackrock, allege "looting" at iShares Reuters - 1 hr 33 mins agoMF Global customers to get most of their money back: Freeh Reuters - 4 hrs agoWatch what central bankers say, not what they do Reuters - 1 hr 51 mins agoEU budget agreement "not there yet:" Hollande Reuters - 6 mins ago 
+
+
+
+
+
+
+
+
+All Comments
+ 
+
+
+
+                        400 comments
+                        
+
+Popular Now
+Newest
+
+Oldest
+
+Most Replied
+
+
+
+
+
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358735149019-e9d9d3c4-8e91-47cb-8163-a4a6ced5bbb7
+
+
+
+
+
+
+
+Cliff
+ • 
+13 days ago
+
+It's hilarious to see some of the comments from armchair aviation/aircraft "experts."
+
+
+
+
+
+
+
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358735149019-e9d9d3c4-8e91-47cb-8163-a4a6ced5bbb7/reply/0000db000000000000000000000000-e0baae54-8c30-4a70-bf06-a9aca1d51aa3
+
+
+
+
+
+
+
+justme
+13 days ago
+
+I believe the problem is due to excessive heat. Usually when something catches on fire is gets hot.
+
+
+
+
+
+
+
+
+
+
+   More
+                                
+
+
+
+                            Reply
+                            
+
+
+
+
+
+
+ 
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358749689233-7ad7353f-510d-4d17-b725-006b9f96154f
+
+
+
+
+
+
+
+Bow
+ • 
+13 days ago
+
+Britain's Securaplane Technologies Inc makes the battery chargers
+France's Thales Group produces the battery charger control systems
+Japan's GS Yuasa Corp makes the Dreamliner's lithium-ion batteries
+
+
+
+
+ 
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358708825895-8690c9be-b1ea-4dba-b430-5cf6abc3b437
+
+
+
+
+
+
+
+ReviewTheWeb
+ • 
+14 days ago
+
+Boeing's problems started when they began outsourcing everything.
+
+
+
+
+ 
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358750506069-f5a98319-e8c3-44ed-b025-542086a3b1d3
+
+
+
+
+
+
+
+Bow
+ • 
+13 days ago
+
+Bernard, all they are saying is that the battery didn't receive more than the 32volts DC which is the maximum the battery is rated for, being discharged or recharged at too fast a rate can also cause a battery to overheat.    They had at least one of the batteries blow up in testing a few years ago but they determined it wasn't the batteries fault, that it was a problem with a charger.
+
+
+
+
+ 
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358739884259-c6076b16-a7e4-4fe5-af59-38c8c94bfb95
+
+
+
+
+
+
+
+ColdWarrior
+ • 
+13 days ago
+
+Energy Bunny arrested. Charged with battery.
+
+
+
+
+ 
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358742935971-5f9e25a1-640f-4c9c-9498-e8cf3de30e6c
+
+
+
+
+
+
+
+Dave
+ • 
+13 days ago
+
+Maybe somebody smoked a cigarette in the bathroom again???
+
+
+
+
+ 
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358844701510-9f24cf89-7143-42ac-aa8c-8a20c3c05696
+
+
+
+
+
+
+
+We The Sheeple
+ • 
+12 days ago
+
+it's not the voltage that you need to worry about, it's the watts, you fool.
+
+
+
+
+ 
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358744419054-41477572-a490-4678-8377-130222f32cc1
+
+
+
+
+
+
+
+mr_creosote
+ • 
+13 days ago
+
+"...Boeing executives are working around the clock ..."
+
+Clearly an oxymoron.
+
+
+
+
+ 
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358731047599-eda6117f-b55f-4c92-a406-20708512c849
+
+
+
+
+
+
+
+frankii
+ • 
+13 days ago
+
+Do other electrical components in this 32Vdc system vary in design from those in a conventional 24Vdc system? Is the 787 the first commercial aircraft to use 32V?
+
+
+
+
+ 
+
+v1/comments/context/1ca496b1-b1f2-3b6e-8217-53cd5bc8b99c/comment/1358814837882-201a40b6-a5f1-43ba-9144-68a082926fc8
+
+
+
+
+
+
+
+Semellyecoli2
+ • 
+12 days ago
+
+Some how I could never develop a taste for American lemons !!
+
+
+
+
+
+
+
+
+   More
+                        
+
+
+
+ Post a comment
+                           
+
+
+
+
+
+You on Yahoo! News   Your Activity |Social: OFFON Turn Social ONRemind me when I share|Options What is this?Not you? Log out of FacebookHow to remove this experience
+
+
+
+Today on Yahoo!1 - 8 of 48prevnextThe secret to NRA's high membershipPlayer's adorable daughter with cute nameCould LeBron head back to Cleveland?Kimbo Slice forgets which sport he's inWhen should you start Social Security?The first supercar from the Middle EastWhat causes mortgage rates to fluctuateAlabama standoff suspect's troubled past
+
+
+Most PopularObama Clings to Shotgun in WH PhotoAhmadinejad unveils Iran's newest fighter jetMan charged in fatal shooting of ex-SEAL/authorSheriff thanks suspect for taking care of boyMarine survey lists concerns on women in combatSylvester Stallone supports assault weapon ban
+
+Follow Yahoo! NewsTop Stories on FacebookAre you on Facebook? Join our page for top stories! More »www.facebook.comFollow @ Yahoo! News on TwitterThe official account of Yahoo! News. 100% feed-free tweets by news fans for news fans! More »twitter.com
+
+
+
+
+
+
+
+
+Brought to you byYahoo! Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yahoo! NewsHomeU.S.WorldBusinessEntertainmentSportsTechPoliticsScienceHealthBlogsLocalPopularAll Yahoo! News »
+
+
+
+
+Also On Yahoo!AutosFinanceGamesGroupsHealthMapsMoviesMusicomg!ShineShoppingSportsTravelTVY! News RSSY! News Alert All Yahoo! »
+
+
+Trending NowChris Kyle killedOprah hit with lawsuitAmanda Bynes evictionTebow trade rumorsMan with $70M checkSarai Sierra found deadBlind Side familyJudge rips IversonKing Richard III found?Bieber, Gomez together again?
+
+
+
+
+
+
+
+
+
+
+(c) Copyright Thomson Reuters 2013. Check for restrictions at: http://about.reuters.com/fulllegal.asp
+
+
+
+
+
+
+                Copyright © 2013 Yahoo! Inc. All rights reserved.
+            
+
+                 | Yahoo! - ABC News Network | 
+            
+
+Help / Suggestions
+Privacy Policy
+About Our Ads
+Terms of Service
+Copyright/IP Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

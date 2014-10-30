@@ -1,0 +1,477 @@
+Overcharging of batteries likely culprit in Boeing 787 fires, aviation and battery experts say - Yahoo! News
+
+
+
+
+ Skip to search.     New User? Register  Sign InHelp  Make Y! My Homepage        Notifications Help      Mail    My Y!    Yahoo!                 Yahoo! News              Search   Search Web        Breaking News Visit Yahoo! News for the latest.  ×Close this window      
+HomeVideoPhotosGMAYear in ReviewOddComicsTravelOpinionTrending NowWho Knew?WeatherTech It UpU.S.U.S. VideoGMAEducationReligionCrimes and TrialsThe LookoutLocalContributor NetworkYear In ReviewWorldWorld VideoMiddle EastEuropeLatin AmericaAfricaAsiaCanadaAustralia/AntarcticaBusinessVideoExclusivesToday's MarketsStocksPersonal FinancePress ReleasesMarketplaceEntertainmentVideoClinton ConcertCelebrityTVMoviesMusicFashionBooksArtsTheaterDear AbbyComicsOdd NewsSportsVideoNFLMLBNBANCAAFNCAABSoccerCyclingNHLTennisGolfBoxingMotor SportsMMAOlympicsTechTech It UpBest in TechGadgetsWirelessAppleSocial MediaSecurityOpen SourceGamingAppsThis Could Be BigUpgrade Your LifePoliticsThe TicketThe SignalRemake AmericaThe IssuesWomen and PoliticsPress ReleasesVideoScienceScience VideoWeather NewsSpace / AstronomyPetsDinosaurs / FossilsBiotechEnergyGreenHealthVideoWeight LossCancerSexual HealthMedications/DrugsParenting/KidsSeniors/AgingDiseases/ConditionsBlogsThe LookoutThe SideshowExpress TicketAround the WorldKatie's TakePower PlayersThis Could Be BigNewsmakersTrending NowLocalPopular
+
+
+
+SearchKeywordNews Search
+
+
+Featured»VideosPhotosKatie's TakeTrending NowThis Could Be BigWeatherWho Knew?NewsmakersEnterprise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Yahoo! With Your Friends Loginclose 
+
+
+
+YOUR FRIENDS' ACTIVITY
+
+
+
+prev
+
+
+next
+
+
+
+
+
+
+
+
+
+
+
+Overcharging of batteries likely culprit in Boeing 787 fires, aviation and battery experts sayBy Joan Lowy, The Associated Press | Associated Press – Fri, Jan 18, 2013
+
+
+Email
+0
+
+
+Share
+Tweet0
+
+Share0
+Print
+
+
+
+
+
+
+WASHINGTON - It's likely that fires on two Boeing 787 Dreamliners were caused by overcharging lithium ion batteries, aviation safety and battery experts said Friday, pointing to developments in the investigation of the Boeing incidents as well as a battery fire in a business jet more than a year ago.
+An investigator in Japan, where a 787 made an emergency landing earlier this week, said the charred insides of the plane's lithium ion battery show the battery received voltage in excess of its design limits.
+The similarity of the burned battery from the All Nippon Airways flight to the burned battery in a Japan Airlines 787 that caught fire Jan. 7 while the jet was parked at Boston's Logan International Airport suggests a common cause, Japan transport ministry investigator Hideyo Kosugi said.
+"If we compare data from the latest case here and that in the U.S., we can pretty much figure out what happened," Kosugi said.
+In the case of the 787 in Boston, the battery in the plane's auxiliary power unit had recently received a large demand on its power and was in the process of charging when the fire ignited, a source familiar with the investigation of the 787 fire in Boston told The Associated Press. The plane had landed a short time earlier and was empty of passengers, although a cleaning crew was working in the plane.
+The source spoke on condition of anonymity because he wasn't authorized to speak publicly.
+The Federal Aviation Administration issued an emergency order Wednesday temporarily grounding the six 787s belonging to United Airlines, the lone U.S. carrier operating Boeing's newest and most technologically advanced airliner. The Japanese carriers already had grounded their 787s, and airlines and civil aviation authorities in other countries followed suit, shutting down all 50 Dreamliners that Boeing has delivered so far.
+A battery fire in a Cessna Citation CJ4, a business jet, prompted the Federal Aviation Administration in October 2011 to issue an emergency order requiring the lithium ion batteries in all 42 of the jets in operation at that time to be replaced with a conventional nickel-cadmium or lead-acid battery. The fire occurred while the plane was hooked up to a ground power station at Cessna's aircraft completion centre in Wichita, Kan. Normally, that would cause an aircraft battery to automatically start charging, experts said.
+A letter from Cessna to CJ4 owners after the incident cautioned: "Do not connect a ground power unit to the airplane if you have reason to believe the battery may be in a depleted state ... Do not leave the aircraft unattended with a ground power unit connected."
+The Citation was Cessna's first business jet with a lithium ion battery as its main battery, and the 787 is the first airliner to make extensive use of lithium ion batteries. But the two are vastly different in size and in other respects, including their electrical systems, making comparisons difficult. Their batteries also came from different makers. The reasons they overcharged are likely to be different, experts said.
+However, the three incidents — the two 787 fires and the Citation fire — underscore the vulnerability of lithium ion batteries to igniting if they receive too much voltage too fast, experts said. Other types of batteries may overheat in those circumstances, but they are far less susceptible to starting a fire, they said.
+"Other batteries don't go this wrong when you treat them this badly," said Jay Whitacre, an associate professor of materials science and engineering at Carnegie Mellon University. "The overall story here is these batteries are full of flammable electrolyte and they will burn if they are mistreated and something goes wrong."
+There was one lithium ion battery fire during testing of the batteries while Boeing was working with FAA on certification of the 787, said Marc Birtel, a spokesman for the aircraftmaker.
+However, that fire was due to problems with the test rather than the batteries themselves, he said.
+"There are multiple backups to ensure the system is safe," Birtel said. "These include protections against over-charging and over-discharging."
+But John Goglia, an aviation safety expert and former National Transportation Safety board member, said, "it certainly sounds like based on what has been released so far that we have an issue of the battery charger or some other source providing too much energy to the battery."
+He said too-rapid charging might cause the electrolyte fluid in the batteries to overheat, leak and catch fire.
+If the fires are due to overcharging batteries, that might be good news for Boeing, Goglia said. A flaw in the aircraft's electronics that permits overcharging would likely be much easier to fix than having to replace the aircraft's lithium batteries with another kind of battery, he said.
+The only other airliner using lithium batteries is the Airbus A380, which makes only limited use of the batteries for emergency lighting. However, Airbus is working on another airliner, the A350, expected to debut in 2014, that will make more extensive use of lithium batteries.
+Boeing's headaches with the 787's lithium batteries are likely to cause European safety officials and other regulators around the world to take a harder look at the new Airbus plane's batteries, safety experts said.
+"I think they're going to have a learning experience here that probably is going to result in future modifications for anybody who wants to design an aircraft and use this type of battery technology," said Robert Fiegl, chairman of aeronautical science at Embry-Riddle Aeronautical University in Prescott, Ariz.
+The FAA, like aviation regulators in other countries, relies on the aircraft manufacturers to test their planes to make sure they are safe. FAA's certification engineers validate that testing and ensure that the level of safety meets FAA regulations. Boeing developed the safeguards for the 787s lithium batteries, but they had to win FAA's approval first.
+The safety certification for the design, manufacturer and assembly of the 787 — a process that requires FAA approval each step of the way — was different in some respects from other aircraft because the Dreamliner employs so many cutting-edge technologies, safety experts said.
+Besides its use of lithium batteries, the 787 is the first airliner whose structure is mostly made from composite materials rather than aluminum. The aircraft also relies to a greater extent than previous airliners on electronics to operate, rather than hydraulic or mechanical systems.
+"You can go down the list of hardware on that plane where it's the first time it has been used on an airplane," said Paul Czysz, professor emeritus of aeronautical engineering at St. Louis University in St. Louis. "With anything that's brand new and has never been used on an airplane before, you run the risk of being the first one to find out if it really works."
+The 787 was tested extensively both before and after its first test flight in 2009. The FAA said its technical experts logged 200,000 hours testing and reviewing the plane's design before it was certified in August 2011.
+Six test planes ran up some 4,645 flight hours. About a quarter of those hours were flown by FAA flight test crews, the agency said in 2011.
+___
+Associated Press writer Malcolm Foster contributed to this report.
+___
+Follow Joan Lowy at http://www.twitter.com/AP_Joan_Lowy
+
+
+
+
+
+
+
+
+
+Explore Related Content1 - 4 of 20prevnext US Wants Full History of Boeing 787 Batteries Associated Press Videos US Wants Full History of Boeing 787 Batteries Associated Press VideosOvercharging batteries eyed in Boeing 787 fires AP FAA grounds Boeing 787 Dreamliners pending safety check KABC – Los Angeles Boeing focuses on 787 fix; 4Q profit tops estimate APOvercharged batteries eyed in Boeing 787 fires AP FAA Grounds Boeing 787 Dreamliners hulu videos FILE - In this Friday, Jan. 18, 2013 file photo, an All Nippon Airways' Boeing 787 "the Dreamliner" parks on the tarmac as a Japan Airlines' Boeing 767 airplane takes off at Haneda Airport in Tokyo. ANA and JAL said they replaced lithium-ion batteries in their Boeing 787 Dreamliners on multiple occasions before a battery overheating incident led to the worldwide grounding of the jets. ANA said Wednesday, Jan. 30, it replaced batteries on its 787 aircraft some 10 times because they failed to charge properly or showed other problems, and informed Boeing about the swaps. JAL said it had also replaced lithium-ion batteries on its 787 jets but couldn't immediately give details. (AP Photo/Koji Sasahara, File) APDreamliner probe widens after excess battery voltage ruled out Reuters Dreamliners grounded as battery blamed for incident Reuters Videos FAA grounds Boeing 787 Dreamliners pending safety check KABC – Los AngelesJapan investigator points to excessive voltage as cause of battery problem in ANA's Boeing 787 AP TOKYO - The burned insides of a battery in the Boeing 787 at the centre of a worldwide grounding …  FAA grounds Boeing's 787 Dreamliner fleet FOX News Videos Handout of burnt auxiliary power unit battery removed from Japan Airlines Boeing 787 Dreamliner jet provided by NTSB ReutersJapan probe suspects excess voltage in 787 battery AP Boeing 787 Grounding Is Setback For Mineta International CBS-Sanfrancisco Lithium batteries central to Boeing's 787 woes APFactbox: Batteries blamed in Boeing 787 grounding are widely used Reuters WASHINGTON (Reuters) - Lithium-ion batteries similar to those that prompted the Federal Aviation …  Investigators ponder Boeing 787 battery problems Reuters Videos Handout photo of an auxiliary power unit battery removed from a Japan Airlines Boeing 787 Dreamliner passenger jet Reuters
+
+
+
+
+
+
+
+
+All Comments
+ 
+
+
+
+                        28 comments
+                        
+
+Popular Now
+Newest
+
+Oldest
+
+Most Replied
+
+
+
+
+
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358596255000-882854f0-047e-494d-acdb-13898ff070f0
+
+
+
+
+
+
+
+rider of the storm
+ • 
+15 days ago
+
+Which engineer screwed this simple charge equation up ????
+
+
+
+
+
+
+
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358596255000-882854f0-047e-494d-acdb-13898ff070f0/reply/00004b000000000000000000000000-5918641d-1c2f-4011-adbe-033a5f47b64c
+
+
+
+
+
+
+
+CharlesG
+14 days ago
+
+I am sure they did.. I am also equally sure.. the charging system here ran the battery right to the limit on many occasions (as the airplane is flown long haul by the airlines). Its a new plan things like this can only be found in real world applications, testing in test conditions no matter how good can only do most the job, not all of it.
+
+
+
+
+
+
+
+
+
+
+   More
+                                
+
+
+
+                            Reply
+                            
+
+
+
+
+
+
+ 
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358689592779-936c3c71-2359-4f92-a6c7-cdcb4796b5b3
+
+
+
+
+
+
+
+Kirk H
+ • 
+14 days ago
+
+Ummm, If Brammo and a host of other electric motorcycle racing outfits can design cooling systems for lithium battery packs for motorcycles that race at high and sustained speeds then maybe Boing needs to have some conversations with the racing industry to see how they overcome overheating issues in the charge/decharge process.
+
+
+
+
+ 
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358569023053-9eb63341-ffae-4bcb-88b1-3e1fb7ac78bb
+
+
+
+
+
+
+
+GXY
+ • 
+15 days ago
+
+Batteries (even lithium-ion) are relatively forgiving.
+
+Wonder what those high voltages are doing to the electronics in the rest of the system....
+
+
+
+
+ 
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358557318622-067711b2-ecd5-4311-aa03-390cfea5788d
+
+
+
+
+
+
+
+mfrmorrobay
+ • 
+15 days ago
+
+An unexpected GREAT article, nearly fell off my chair.
+
+
+
+
+ 
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358710012380-2264b6f3-e3ec-40ec-b4f4-f7202e5b8c3d
+
+
+
+
+
+
+
+StephenW
+ • 
+13 days ago
+
+It's always a learning experience with new airplanes, and especially a state of the art plane like this one.
+
+
+
+
+ 
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358607840384-dd780246-3da9-47c2-9b10-4a4f3ae1b2cc
+
+
+
+
+
+
+
+joseph
+ • 
+15 days ago
+
+Who made the battery chargers and voltage regulators?
+
+
+
+
+ 
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358596405182-6d8afc2a-acce-4d59-afbc-97c1c9a8d27a
+
+
+
+
+
+
+
+rider of the storm
+ • 
+15 days ago
+
+Someone screwed the pooch !!!!!!
+
+
+
+
+ 
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358593552644-65b0bed1-01a8-453b-97b3-47f6884213d2
+
+
+
+
+
+
+
+matt
+ • 
+15 days ago
+
+this is a well know problem with lipos, lots of house fires are because lipos get over charged and explode.
+
+
+
+
+ 
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358682938828-3e216f92-4bd8-4e4b-a10f-12612612ae24
+
+
+
+
+
+
+
+Northcoastguy
+ • 
+14 days ago
+
+Li batteries can be just plain dangerous--I think we will see them removed in the future.
+
+
+
+
+ 
+
+v1/comments/context/9b949420-d6ff-3f04-aa01-8f490a87bcb0/comment/1358721926897-5480210a-62d8-4467-9421-79c741819162
+
+
+
+
+
+
+
+John d
+ • 
+13 days ago
+
+Hmmm... How about they dial back the launch until the aircraft is actually ready to launch?
+
+
+
+
+
+
+
+
+   More
+                        
+
+
+
+ Post a comment
+                           
+
+
+
+
+
+
+More World NewsSyrian opposition chief under fire for talks with Assad allies 2 hrs 8 mins agoAttackers kill 33 at police HQ in disputed Iraqi city 5 hrs agoAnalysis: Deadly Pemex blast tests Mexico's new president 1 hr 22 mins agoPakistani girl shot by Taliban has successful skull surgery 18 mins agoFrench planes pound Islamist camps in northern Mali desert 3 hrs agoSpain's opposition Socialists tell Rajoy to resign 2 hrs 24 mins agoBerlusconi offers big tax cuts in "last great battle" 2 hrs 10 mins ago 
+
+
+
+Copyright 2013 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+
+
+You on Yahoo! News   Your Activity |Social: OFFON Turn Social ONRemind me when I share|Options What is this?Not you? Log out of FacebookHow to remove this experience
+
+
+
+Today on Yahoo!1 - 8 of 48prevnextJim Carrey, whose hand are you holding?Top golfer flips out in sand trapEastwood's son doesn't just look like dadWho will win the big game tonight?MLB prospect's awesome baseball nameU.S. military ramps up war on drugsAge-old alphabet dispute divides a nationDoggone it, these pups are cute
+
+
+Most PopularObama Clings to Shotgun in WH PhotoAhmadinejad unveils Iran's newest fighter jetSheriff thanks suspect for taking care of boyMarine survey lists concerns on women in combatSylvester Stallone supports assault weapon banObama a skeet shooter? See new White House photo
+
+Follow Yahoo! NewsTop Stories on FacebookAre you on Facebook? Join our page for top stories! More »www.facebook.comFollow @ Yahoo! News on TwitterThe official account of Yahoo! News. 100% feed-free tweets by news fans for news fans! More »twitter.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yahoo! NewsHomeU.S.WorldBusinessEntertainmentSportsTechPoliticsScienceHealthBlogsLocalPopularAll Yahoo! News »
+
+
+
+
+Also On Yahoo!AutosFinanceGamesGroupsHealthMapsMoviesMusicomg!ShineShoppingSportsTravelTVY! News RSSY! News Alert All Yahoo! »
+
+
+Trending NowOprah hit with lawsuitAmanda Bynes evictionChris Kyle shotMan with $70M checkSarai Sierra found deadLil Wayne Nicki MinajBlind Side familyDave Wannstedt hiredPlane goes off runwayInmates save three boys
+
+
+
+
+
+
+
+
+
+
+Copyright: For copyright information, please check with the distributor of this item, Canadian Press.
+
+
+
+
+
+
+                Copyright © 2013 Yahoo! Inc. All rights reserved.
+            
+
+                 | Yahoo! - ABC News Network | 
+            
+
+Help / Suggestions
+Privacy Policy
+About Our Ads
+Terms of Service
+Copyright/IP Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

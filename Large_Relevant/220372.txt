@@ -1,0 +1,740 @@
+BBC News - Mind-reading, tablets and TV are tech picks for 2012
+
+
+       
+
+                Accessibility links  Skip to content Skip to local navigation Accessibility Help      bbc.co.uk navigation   News   Sport   Weather   Travel   Future   Autos   TV   Radio   More…         Search term:             
+
+
+
+
+Business
+
+
+
+
+
+
+
+Home
+US & Canada
+Latin America
+UK
+Africa
+Asia
+Europe
+Mid-East
+Business
+Health
+Sci/Environment
+Tech
+Entertainment
+Video
+
+
+Asia Business
+Market Data
+Economy
+Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29 December 2011
+Last updated at 19:12 ET
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+Mind-reading, tablets and TV are tech picks for 2012
+
+By Fiona Graham
+Technology of business reporter, BBC News
+
+
+
+New technology horizons... what will they bring?
+
+The drinks are on ice, the nibbles ready for the oven, the painkillers for the morning after are sitting in the medicine cabinet.
+
+Continue reading the main story 
+
+
+
+
+
+
+Special Report: The Technology of Business
+Voice technology comes of age
+Making government data pay
+Golden opportunity for old mines
+Smart energy learns from consumer devices
+Build your own social network
+
+ New Year is a time for reflection on the year that has gone before, and to look to the future. Here at Technology of Business we're no different.
+As the old year draws to a close, so too does our annual look ahead to the technologies that will change the way we live and work in 2012 and beyond.
+You can read part one of our experts' predictions here.
+So when the Hogmanay hangover subsides, who are the technology first foots we can expect knocking at the door?
+In part two of our lookahead to 2012, our experts give their insights into the technologies sitting on the horizon.
+Robert Scoble - blogger and chief scientist, Rackspace
+On the train here I was with an executive from General Electric, and he said a year ago they were very anti-iPad. But in January at their global meeting they're going to hand out iPads.
+It is crazy to think about a company that size moving that quickly... the enterprise world is going iPad very quickly.
+
+
+Robert Scoble wonders if Microsoft can stop Apple 'taking over the world'
+
+Next year it's going to be interesting - can Microsoft keep its global position in terms of operating system and stop Apple from taking over the world? And Amazon, because Amazon has the £200 tablet. For consumers it's going to be a tough choice - do we buy a Windows 8 tablet, or an iPad, or an Amazon tablet?
+We're seeing socialisation in the enterprise take off, Yammer is having a really good year, and Jive is going public.
+I'm just watching Facebook and thinking, I'm not sure about Facebook in terms of enterprise. 
+Certainly in terms of the businesses I follow - start-ups - they're all building into Facebook's Open Graph technology.
+I visited Yahoo recently and they said they're seeing 600% more visits from Facebook because of it. 
+I think business is going to have to have a Facebook Open Graph strategy next year. Even if we're ignoring it because it's too freaky on the privacy side, they're going to have to at least consider it.
+[Another trend is] application ecosystems built  on top of the cloud.
+If you're a new developer building something about location, you probably want to use Foursquare's database and API. Path does that - when you start saying where you are it's actually using Foursquare inside the Path application.
+
+
+Businesses will have a 'Facebook Open Graph' strategy next year, Mr Scoble says
+
+The trend there is the continuing API-sation of the world  - almost lego-isation. Look at Instagram. It hooks into Foursquare, Facebook, Tumblr and others. 
+There's something happening on my screens that is different. I have three screens. I have Twitter, Facebook, Google+, Quora and Gmail streaming down. The content keeps moving. There's this real-time engine almost. 
+
+
+People on the 'real-time' web want answers from the powerful more quickly than ever
+
+Salesforce's CEO Mark Benioff talks about this, you have to have people who deal with this realtimeness of the world. [Consumers] want to tweet at you and get an answer now. They don't want to do it in a day. They'll start making a stink if it takes a day.
+I think that's the new normal. It's the real time business. It's this 24-hour-a-day real-time streaming thing.
+TV is a big one. A lot of things are happening with TV. We're using iPads or laptops while watching TV, so during the Olympics, for instance, what's that experience going to be like compared to the last one? A lot more people are using Twitter and Facebook than four years ago.
+So the social thing is going to be a big one. There's like five start-ups that are trying to be the social TV thing.
+Nathaniel Borenstein, author and chief scientist, Mimecast
+The user is becoming the king of the cloud. The first wave of cloud computing was really all about efficiency and doing things cheaper.
+The next stage is that cloud companies have to compete on some basis other than simple efficiencies. 
+You lure the customers initially by saying you're more efficient, but if everyone is in the cloud they all have roughly that kind of efficiency. This is where what seems like a very back-end service starts to become much more user-focused.
+This is somewhere between a prediction and a hope. 
+
+
+Social networking and email are going to become more closely linked, Mr Borenstein predicts
+
+I think it's a prediction but I don't know how fast it's going to happen. It's that social media and email are going to grow more closely integrated.
+We've seen all these death of email predictions and rebuttals. I think that eventually something more constructive has to happen. People have to acknowledge from both ends of the debate that there are some things that email is better for, and some things that social media is better at. 
+A unified interface, if well done, has a lot of appeal. 
+The third prediction is about the evolution of IT staff. 
+
+Continue reading the main story “Start Quote
+I'd say you might want to spend some time investigating some cloud companies”
+End Quote
+Nathaniel Borenstein
+ When the cloud model first started to get hot, one of the worries or the hopes, depending on who you were, was that this was going to destroy IT jobs.
+I think that was simplistic. I think there was some truth to it. If you put all your storage to the cloud then you don't need anyone to worry about backups.
+I think what's really happening is that the work is bifurcating, and that there's two kinds of IT jobs that are replacing the one old kind. One is the traditional backend stuff, and those people are going to in large part migrate towards cloud companies.
+So if that's the business you're in, I'd say you might want to spend some time investigating some cloud companies.
+Those that like dealing with the business side of things - these are the people who help the business make intelligent use of the information they've got. They're information architects almost, creating reports that would help us make our business better.
+Rashik Parmar, president of the IBM Academy of Technology
+Every year, IBM publishes five predictions for the next five years.
+
+
+You'll never need a password again says Mr Parmar
+
+Anything that moves has the ability to make its own energy. So the first is around energy. We say you'll start to find and use your own ways of making energy. We can see the growth in a range of areas, especially in the growth markets, adoption of new technologies that moves us away from traditional fossil fuels.
+The next big area is security - the strapline is you'll never need a password again. 
+The reason people haven't adopted these biometric standards in the past is they've never been accurate enough. By having multi factor capabilities you make it much more viable. There's a tremendous amount of work going on with face, voice and gesture. 
+One example that we're actually considering - it's not actually there yet - could you walk up to the ATM and say 'please give me £100'? It would know who you were and which account you were talking about and it would then give you the money accordingly. 
+I think you will start to see more and more biometrics used, especially in the mobile space. There's been fingerprint reader  technology brought into various mobile technologies. There are more and more forward facing webcams. In the next two years, you'll probably start to see some kind of facial recognition becoming standard on some handsets.
+
+Continue reading the main story IBM's five in five - predictions for 2016
+
+
+
+ People power will come to life
+ You will never need a password again
+ Mind reading is no longer science fiction
+ The digital divide will cease to exist
+ Junk mail will become priority mail
+
+
+
+Source: IBM
+
+ Mind reading refers to headsets with advanced sensors to read electrical brain activity. We can see that as technology continues to evolve, you're able to use that more effectively to drive the interface between you and the computer. Initially in the gaming space I think it'll become very much the norm.
+Also in areas where you're controlling things like robots or machinery, so the idea is somebody who's lost the use of their legs will be able to control their wheelchair. 
+The digital divide - what we've seen is a phenomenal investment in broadband and mobile networks that allow large bandwidth, which means that the price point of that will come down to the point where people will have ready access, probably on the handset but certainly in the home.
+As a business opportunity the biggest thing is reach. Being able to touch consumers you would otherwise not be able to touch.
+Tim Barker - Vice president, Europe, Middle East and Africa marketing, Salesforce.com
+The big one is the social enterprise revolution. 
+It's the idea that you can see the power shifting from companies to consumers. There are more than 1.7 billion people on social networks now; Facebook is the size the entire internet was in 2004. 
+It's really defining the way that consumers and customers interact with companies and what they expect from them.
+
+
+Some Netflix customers revolted against price changes. Could it happen elsewhere?
+
+That's the thing we're seeing that's causing opportunities and anxieties for customers. 
+In the same way we saw Arab springs we're seeing corporate springs with companies that aren't engaging with their customers. 
+One recent thing you probably saw was Netflix. They announced they were changing their pricing structure, their customer base revolted. With more than 82,000 negative comments on their blogs and posts, it's become a huge disaster for them.
+Five years ago, there would have been no way that customers can really aggregate and work together to give a clear voice to a company. 
+Graham Hann, partner, intellectual property, Taylor Wessing 
+
+
+Graham Hann predicts location-based marketing will be a big theme in 2012
+
+Next year sees the bidding open for generic top level domains - gTLDs. This means the likes of Sony could bid for .music or .sony. 
+I think that's going to be amazing to watch. There's a window of three months to apply, the barrier to entry is quite high and then you have to run a registry. It's big money and it's just for the big players. It's going to be interesting to see who grabs the big brands.
+People are going to be able to grab .poker and potentially make a huge amount of money.
+A persistent trend for 2012 will be the continued growth of smart mobile devices.
+Smart devices are being used for much more than communication, and are increasingly being used as a proxy for our identity. 
+
+Continue reading the main story “Start Quote
+Smart devices are being used for much more than communication, and are increasingly being used as a proxy for our identity”
+End Quote
+Graham Hann
+ For example, applications are available to allow smart devices to operate as transaction authentication devices, where a retailer handling a credit or debit card payment by a consumer can use that consumer's smart device location to verify their identity, or security access devices, for example to enter and move around an office environment in place of a swipe card.
+I also wonder if location-based marketing will become more prevalent, and you become used to walking into a store and getting special offers.
+I wonder if it will become part of the fabric of targeting customers. I think that advertisers will use their location and customers will be less bothered. Legally, It will always have to be consent-based, and I can't see that changing in the next decade, let alone the next year.
+Brett Shockley, senior vice president, corporate development and strategy, Avaya
+What we're seeing continuing is the consumerisation of IT in the enterprise.
+
+
+Companies must get ready for more consumer devices on corporate networks, Mr Shockley says
+
+The bring your own device trend (BYOD) [raises questions] about the technology that corporations have to support and how they're going to operate in a BYOD world.
+I've run into lots of customers where the IT department started by saying they weren't going to support that, but at some point when the chief executive says, 'I want to use my Android smartphone', pretty soon IT gets forced to figure out how to deal with that.
+All you have to do is take a look at what's popular down at the local High Street store and you're going to see all kinds of new devices and applications that are driving their way into the enterprise.
+We took a look at what people were doing with things like World of Warcraft and other gaming environments. You're seeing lots of people having robust conversations and interactions in the consumer world in those apps. We actually saw some enterprises, albeit small start-ups, conducting their meetings in those environments. We've got an application we've created that is a virtual environment based on a gaming engine. 
+
+
+Businesses are learning from how people are interacting and coming together in gaming environments
+
+So that's one whole area that you'll see continuing to evolve. 
+The world has historically been one where technology started in the enterprises and moved into the consumer world. 
+Now it's the other way around, where you've got billions of consumers pushing accelerated development of technology.
+
+
+
+
+More on This Story
+
+
+More from Technology of Business
+	      
+
+
+
+Key stories
+
+
+
+Monkey business
+
+Should you be recording your phone calls?
+
+
+
+Edible edifice
+
+
+
+
+Predictive text
+
+
+
+
+Getting it right
+
+
+
+
+Let's sail away
+
+
+
+
+
+
+
+Viewpoint
+
+
+
+Start-up and up! 
+
+
+
+
+Push your buttons
+
+
+
+
+Come together
+
+
+
+
+Make it work
+
+
+
+
+May I help you?
+
+
+
+
+Champagne fast lane
+
+
+
+
+
+
+
+
+
+Related Internet links
+
+
+Avaya
+
+
+IBM
+
+
+Mimecast
+
+
+Rackspace
+
+
+Scobleizer
+
+
+Taylor Wessing
+
+
+
+The BBC is not responsible for the content of external Internet sites
+
+
+
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Business stories
+RSS
+
+
+
+
+Google boss labels China 'IT menace'
+
+Google Chairman Eric Schmidt uses a new book to call China an Internet menace that backs cyber-crime for economic and political gain, reports say.
+
+
+
+Iraqi mobile firm raises $1.3bn
+
+
+
+
+Barclays finance chief to step down
+
+
+
+
+
+
+
+
+
+
+
+
+Top stories
+
+
+
+Assad: Israel destabilising Syria
+
+
+French jets bomb northern Mali 
+
+
+Malala recovering after surgery
+
+
+Deadliest US sniper is shot dead
+
+
+Memorials for Brazil fire victims
+
+
+
+
+
+
+
+
+
+Features & Analysis
+
+
+
+
+Staying alive Watch
+
+The legendary Phantom's comic strip appeal 	
+				  
+
+
+
+
+Mashed potato rows
+
+Kathy Etchingham remembers life as Jimi Hendrix's 'Foxy Lady' 	
+				  
+
+
+
+
+Miles from home
+
+Has Hillary’s journey ended, or is more to come? 	
+				  
+
+
+
+
+Set for the Super Bowl
+
+Photographer Stephen McLaren's explores New Orleans 	
+				  
+
+
+
+
+
+
+Most Popular
+Shared
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Etch A Sketch inventor dies at 86
+
+
+
+3: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+4: Car park dug up around parked car
+
+
+
+5: Malala recovering after operation
+
+
+
+Read
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: French jets bomb northern Mali 
+
+
+
+3: Assad: Israel destabilising Syria
+
+
+
+4: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+5: Car park dug up around parked car
+
+
+
+6: Mars rover hammers down into rock
+
+
+
+7: Dolphins 'saved' by distress call
+
+
+
+8: Taser used near Buckingham Palace
+
+
+
+9: Google boss labels China 'IT menace'
+
+
+
+10: New Orleans and the 'Super Gras'
+
+
+
+Video/Audio
+
+
+
+
+1: Iran unveils 'stealth fighter' plane Watch
+
+
+
+2: Syria airs 'Israeli strike' footage Watch
+
+
+
+3: Stallone joins gun control debate Watch
+
+
+
+4: Pencil drawings amaze art critics Watch
+
+
+
+5: Knives man Tasered outside palace Watch
+
+
+
+6: What is inside a zombie's mind? Watch
+
+
+
+7: Brothers head-to-head at Superbowl Watch
+
+
+
+8: Bolshoi director: 'I know attacker'  Watch
+
+
+
+9: Footage shows quake shake Japan Watch
+
+
+
+10: 'Maybe no one can save Gascoigne' Watch
+
+
+
+
+
+
+
+
+
+
+
+
+Elsewhere on the BBC
+
+
+
+Coast stories
+
+BBC Travel discovers why the island of Mauritius is much more than just a fly-and-flop destination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programmes
+
+
+
+The Culture Show Watch
+
+Look death in the face with objects that chart how we try to make peace with the end of life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+ Mobile
+ Connected TV
+ News feeds
+ Alerts
+ E-mail news
+
+
+
+About BBC News
+
+Editors' blog
+BBC College of Journalism
+News sources
+Media Action
+
+
+
+
+    BBC links    Mobile siteTerms of UseAbout the BBC     Advertise With UsPrivacyBBC Help     Ad ChoicesCookiesAccessibility Help     Parental GuidanceContact Us       BBC © 2013 The BBC is not responsible for the content of external sites. Read more. This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+

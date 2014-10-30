@@ -1,0 +1,694 @@
+BBC News - Future perfect? What 2011 holds for business technology
+
+
+       
+
+                Accessibility links  Skip to content Skip to local navigation Accessibility Help      bbc.co.uk navigation   News   Sport   Weather   Travel   Future   Autos   TV   Radio   More…         Search term:             
+
+
+
+
+Business
+
+
+
+
+
+
+
+Home
+US & Canada
+Latin America
+UK
+Africa
+Asia
+Europe
+Mid-East
+Business
+Health
+Sci/Environment
+Tech
+Entertainment
+Video
+
+
+Asia Business
+Market Data
+Economy
+Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30 December 2010
+Last updated at 19:11 ET
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+Future perfect? What 2011 holds for business technology
+
+By Fiona Graham
+Technology of business reporter, BBC News
+
+
+
+Brainbox: Ferranti's electronic brain was the peak of business technology in 1955. What will 2011 bring?
+
+As 2010 leaves by the back door, what lies ahead for technology of business for 2011?
+This year saw tablet computers taking the market by storm. Virtualisation and unified communications seemed to be on the lips of every chief technology officer. 
+
+Continue reading the main story 
+
+
+
+
+
+
+Special Report: The Technology of Business
+Mobile technology brings healthcare home
+Letters for Santa
+Le Web: Tech world's hottest trends
+Why IT needs to be real-time
+No borders: Small companies go global
+
+ Security issues came to the fore as companies faced renewed threats from hackers - the Wikileaks fallout showed us that big companies like Mastercard and Amazon were not immune to distributed denial-of-service (DDoS) attacks from groups like Anonymous.
+To give us a flavour of things to come, we have the opinions of some of the leading thinkers in the field. 
+Some familiar faces make the cut this year. Cloud computing tops Gartner's top ten strategic technologies for 2011, and is popular with our respondents. Gartner also flags up tablets and social communications, as well as newcomers including video and next generation analytics.
+Sometimes prediction can be short and sweet. Chris Anderson of Wired magazine summed up his 2011 predictions in one line -"Tablets! DIY! Android! Robotics!"
+Tom Standage
+Tom Standage is the digital editor of the Economist, and curator of the Economist Innovation Awards and summit.
+I think next year we're going to see a decisive shift with the take-off of near field communication (NFC) based chips on phones. 
+
+
+Feeling touchy: Hong Kong's Octopus travel card uses NFC technology 
+
+At the moment there are a few pockets of this technology around; it's what's used in the Oyster [travel] card in London and the Octopus card in Hong Kong.
+The big thing that's going to happen next year is that Apple will 'bless' this technology, I predict. The iPhone 5 will have an NFC chip in it, and that will be the signal that this is serious.
+It will mean that your phone can pretend to be your travel card, it will pretend to be your credit card. Nokia has also said all their smartphones launched next year will have this technology.
+In publishing, the big thing that's happened in 2010 has been the iPad, and the launch of lots of publications on there. The flip side of that is that in 2011 more publications will put up a paywall. The big news will be the New York Times doing this in January or February. People I've spoken to in the industry expect about a dozen papers in the US to follow. 
+
+
+The Times paywall protects all content
+
+This year we've had the Times paywall, it's a brutal paywall, you can't see anything unless you pay. 
+That's the wrong model. The one that everyone will adopt is the metered paywall model that the FT has pioneered and the Economist uses, and it's what the New York Times will be using. 
+Essentially you have a somewhat porous paywall, which allows people to share your stories on social networks, gives you all the advantages of the openness, but if you look at too many stories in a given time frame, then a paywall pops up.
+John Winsor
+John Winsor is the CEO of Victors & Spoils, an advertising agency built on crowdsourcing principles. He is the author of several books including Spark: Be more Innovative through Co-creation.
+
+
+John Winsor: We'll see big shake-ups in the agency world in 2011
+
+While 2010 might be remembered as the year of the tipping point for media and marketing, the revolution will be in full swing in 2011.
+Making fans and followers matter. Brands have been focusing on aggregating fans and followers in social media. While numbers are great, the focus in 2011 will be on engaging them in new and productive ways.   
+More analytics. Data is king and, in 2011, different silos of data will be able to be connected and change things on a geometric scale. This means more business will go digital. For instance, it will be commonplace for customers to shop at bricks and mortar retailers with digital tools that allow them to compare prices with the retailer's digital competitors, even buying things from one place while shopping at another.   
+Moving away from "traditional" and "digital" and  towards "interactive" and "social." We'll see big shake-ups in the agency world in 2011. Big traditional agencies will either be totally reinvented as smaller shops focused on curating creativity from everywhere, or will simply just go away. This will only accelerate as fees will continue to drop. 
+Julie Meyer
+Julie Meyer is a US-born entrepreneur, and founder and chief executive of Ariadne Capital. She is a regular columnist for The Daily Telegraph.
+
+
+Julie Meyer: Technology is going to be a friend to some, and not understood by others
+
+Technology is going to be a friend to some, and not understood by others. The winners are going to be the companies that embrace cloud strategies and digital revenues regardless of their industry. 
+We've seen for some time 'digital enablers' - enabling technologies that help create new revenue streams as the cost of technology and infrastructure continues to decrease. The forward-thinking companies are embracing that trend rather than seeing it as optional.
+I think as we have an increase in new devices, there's an increase in access points to the web, and the perimeter of the safe environment. So if you're trying to protect a company's assets and data, there's so many potential weak points - looking at security in a new fashion is going to be critical.
+Neil Campbell 
+Neil Campbell is global head of security for Dimension Data. He also spent six years with the Australian Federal Police Computer Crime Team.
+
+
+Attacks on companies after the arrest of Wikileaks's Julian Assange has put security centre stage
+
+In the business IT security space, we will see some of the repercussions of the Wikileaks events, which underline the importance of data security, rather than just network security.
+We will see a significant increase in the uptake of data leakage prevention (DLP) technologies outside North America, where the bulk of sales have been made to date. 
+Organisations now have a salutary reminder of the impact of poor data security, and that will make business cases for DLP all the more compelling. 
+DDoS attacks are particularly difficult to prevent.  The Wikileaks-related DDoS attacks show no organisation is immune and that any organisation can be a target.  While the attacks weren't the largest or most sophisticated we've seen, they received a lot of media attention.  
+We will see a marked increase in organisations looking to make themselves more resilient in the face of DDoS attacks in 2011.
+Charles Nasser
+Charles Nasser is founder and chief executive officer of Claranet, Europe's largest independent managed services provider with revenues of approximately 100m euros.
+In hosting, it's no surprise it's all about virtualisation, or what people call cloud computing, which is a very generic term. For us the real game changer is the fact that businesses are really starting to understand what virtualisation technology can do for them. It lets them do things they couldn't do before, more cost-effectively. 
+The vast majority of servers use a fraction of their potential, as little as 5-10% on average. That means that virtualisation, which allows companies to use resources a lot more effectively, usually saves you money. Most companies are starting to get to grips with that. 
+Mark Taylor
+Mark Taylor is the senior director, Developer and Platform Evangelism, at Microsoft.
+It's almost become a cliché in this last 12 months, this concept of cloud computing, all the vendors use it. It's been around for a long time from the technology viewpoint, and people perhaps just didn't use the term cloud. 
+
+Continue reading the main story “Start Quote
+It's almost become a cliché in this last 12 months, this concept of cloud computing”
+End Quote
+Mark Taylor
+Microsoft
+ I do think that 2011 is going to be the year when businesses start demanding not just the technology, but the economics of cloud computing. 
+I think if you asked a business leader what they thought of cloud, it wouldn't be, "Well, it's a data centre or a bunch of servers." It would be, "It's about paying for what I use, and wanting this system to grow and shrink based on my business needs." And this expectation in the minds of business decision-makers is the thing that's going to drive the adoption of cloud.
+Coming from the consumer side is a much more visual and vibrant environment in business, the ability to illustrate business concepts using more video and animation, making it less stuffy and less old-fashioned. I think TV with their infographic approach, which most news channels use now, increases the expectation of business intelligence.
+Kerrie  Holley
+Kerrie Holley is an IBM Fellow and chief technology officer for IBM Global Business Services. He is a co-inventor of Service-Oriented Modeling and Architecture (SOMA) and the Service Integration Maturity Model (SIMM).
+
+
+Travel tips: Personalised commuting in places like Singapore could save time
+
+We've been looking five years ahead. One of the things we're pretty excited about is personalised commuting.
+Using mathematical models, and predictive analytics, we'll actually have systems where we'll be able to create travel scenarios where we can deliver real-time alternative options as we travel. 
+We actually put out a system called the IBM traffic prediction tool, a statistical model for traffic conditions. We can do this today to address the rise in gas prices, to address traffic congestion. When we first did this project, a lot of folks thought road conditions were too chaotic to predict. But the data showed a different story.
+Another is around batteries. In the next five years we see advances in transistors and technology that's going to increase battery life at least 10 times. 
+One of the things we're working on are battery-free devices that can be charged using a technique known as energy scavenging. You see it today in wristwatches - you wind it up and it gets charged by the movement of your arm. The same could be applied to your mobile phone, a sort of shake and dial.
+Ruvi Kitov
+Ruvi Kitov is CEO and Co-Founder of Israel-based Tufin Technologies, a global provider of firewall operations management solutions. Tufin was recently ranked as Europe's 10th fastest-growing tech firm by Deloitte.
+One thing that I see changing, and it's actually been taking place for several years now, is outsourcing, so more and more IT security managers outsourcing out to managed security service providers (MSSPs) - network providers that manage hundreds of thousands of firewalls.
+There's also a large trend that has to do with cloud-computing and virtualisation. A lot of them have their services in the cloud and their firewalls are in the cloud, and their firewalls are often virtualised. 
+In general, those two trends have to do with this standardisation of security, a field of IT management that has been maybe a forgotten child in some cases and is now coming of age and becoming a much more standard process.
+
+
+
+
+More on This Story
+
+
+More from Technology of Business
+	      
+
+
+
+Key stories
+
+
+
+Monkey business
+
+Should you be recording your phone calls?
+
+
+
+Edible edifice
+
+
+
+
+Predictive text
+
+
+
+
+Getting it right
+
+
+
+
+Let's sail away
+
+
+
+
+
+
+
+Viewpoint
+
+
+
+Start-up and up! 
+
+
+
+
+Push your buttons
+
+
+
+
+Come together
+
+
+
+
+Make it work
+
+
+
+
+May I help you?
+
+
+
+
+Champagne fast lane
+
+
+
+
+
+
+
+
+
+Related Internet links
+
+
+Gartner - Top 10 Strategic Technologies for 2011
+
+
+Tom Standage
+
+
+John Winsor
+
+
+Claranet Group
+
+
+Microsoft Corporation
+
+
+IBM - United Kingdom
+
+
+Tufin Technologies - Security Lifecycle Management
+
+
+
+The BBC is not responsible for the content of external Internet sites
+
+
+
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Business stories
+RSS
+
+
+
+
+Google boss labels China 'IT menace'
+
+Google Chairman Eric Schmidt uses a new book to call China an Internet menace that backs cyber-crime for economic and political gain, reports say.
+
+
+
+Iraqi mobile firm raises $1.3bn
+
+
+
+
+Barclays finance chief to step down
+
+
+
+
+
+
+
+
+
+
+
+
+Top stories
+
+
+
+Assad: Israel destabilising Syria
+
+
+French jets bomb northern Mali 
+
+
+Malala recovering after surgery
+
+
+Deadliest US sniper is shot dead
+
+
+Memorials for Brazil fire victims
+
+
+
+
+
+
+
+
+
+Features & Analysis
+
+
+
+
+Staying alive Watch
+
+The legendary Phantom's comic strip appeal 	
+				  
+
+
+
+
+Mashed potato rows
+
+Kathy Etchingham remembers life as Jimi Hendrix's 'Foxy Lady' 	
+				  
+
+
+
+
+Miles from home
+
+Has Hillary’s journey ended, or is more to come? 	
+				  
+
+
+
+
+Set for the Super Bowl
+
+Photographer Stephen McLaren's explores New Orleans 	
+				  
+
+
+
+
+
+
+Most Popular
+Shared
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Etch A Sketch inventor dies at 86
+
+
+
+3: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+4: Car park dug up around parked car
+
+
+
+5: Stallone joins gun control debate
+
+
+
+Read
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+3: Assad: Israel destabilising Syria
+
+
+
+4: Mars rover hammers down into rock
+
+
+
+5: French jets bomb northern Mali 
+
+
+
+6: Taser used near Buckingham Palace
+
+
+
+7: Car park dug up around parked car
+
+
+
+8: Iran seeks 'authentic' US talks
+
+
+
+9: Malala recovering after operation
+
+
+
+10: Hillary Clinton's long journey
+
+
+
+Video/Audio
+
+
+
+
+1: Iran unveils 'stealth fighter' plane Watch
+
+
+
+2: Syria airs 'Israeli strike' footage Watch
+
+
+
+3: Stallone joins gun control debate Watch
+
+
+
+4: One-minute World News Watch
+
+
+
+5: Footage shows quake shake Japan Watch
+
+
+
+6: Pencil drawings amaze art critics Watch
+
+
+
+7: Acid attack victim recalls ordeal Watch
+
+
+
+8: Time-lapse shows Sandy strike NYC Watch
+
+
+
+9: US child still hostage in bunker Watch
+
+
+
+10: Blair warns of 'huge' EU problem Watch
+
+
+
+
+
+
+
+
+
+
+
+
+Elsewhere on the BBC
+
+
+
+Coast stories
+
+BBC Travel discovers why the island of Mauritius is much more than just a fly-and-flop destination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programmes
+
+
+
+The Culture Show Watch
+
+Look death in the face with objects that chart how we try to make peace with the end of life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+ Mobile
+ Connected TV
+ News feeds
+ Alerts
+ E-mail news
+
+
+
+About BBC News
+
+Editors' blog
+BBC College of Journalism
+News sources
+Media Action
+
+
+
+
+    BBC links    Mobile siteTerms of UseAbout the BBC     Advertise With UsPrivacyBBC Help     Ad ChoicesCookiesAccessibility Help     Parental GuidanceContact Us       BBC © 2013 The BBC is not responsible for the content of external sites. Read more. This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+

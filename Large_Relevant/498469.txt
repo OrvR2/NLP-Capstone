@@ -1,0 +1,827 @@
+BBC News - Why companies watch your every Facebook, YouTube, Twitter move
+
+
+       
+
+                Accessibility links  Skip to content Skip to local navigation Accessibility Help      bbc.co.uk navigation   News   Sport   Weather   Travel   Future   Autos   TV   Radio   More…         Search term:             
+
+
+
+
+Business
+
+
+
+
+
+
+
+Home
+US & Canada
+Latin America
+UK
+Africa
+Asia
+Europe
+Mid-East
+Business
+Health
+Sci/Environment
+Tech
+Entertainment
+Video
+
+
+Asia Business
+Market Data
+Economy
+Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 October 2010
+Last updated at 13:13 ET
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+Why companies watch your every Facebook, YouTube, Twitter move
+
+
+By Tim Weber
+Business editor, BBC News website
+
+
+
+Dave Carroll's United Breaks Guitars video has been watched 9.23 million times
+
+
+Continue reading the main story
+
+
+More from Technology of Business
+
+
+Monkey business
+
+
+Edible edifice
+
+
+Predictive text
+
+
+Getting it right
+
+
+
+ Once upon a time companies could afford to be rude. Unhappy customers would grumble to a few friends, withdraw their custom, but there was little else they could do. 
+Today, they still tell their friends, but they do it online, using social media websites like YouTube, Facebook and Twitter. 
+
+Continue reading the main story “Start Quote
+Social media is a toddler, but nobody yet knows what promise that toddler holds”
+End Quote
+Jorn Lyseggen
+chief executive, Meltwater Group
+ Take the Canadian folk singer, Dave Carroll. After nine months of complaining he had had enough. 
+United Airlines baggage handlers had damaged his $3,500 guitar, but the airline refused to pay compensation and its customer service agents were less than courteous. 
+So he made a music video about the experience and on 6 July 2009 posted it on YouTube. Within three days it had been watched half a million times; by mid-August it had reached five million. 
+United had a massive public relations crisis at its hands, not least as thousands of other unhappy customers now came forward to vent their frustration.
+These days one witty Tweet, one clever blog post, one devastating video - forwarded to hundreds of friends at the click of a mouse - can snowball and kill a product or damage a company's share price.
+It's a dramatic shift in consumer power. But what if companies could harness this power and turn it to their advantage? 
+They are watching you
+
+Continue reading the main story 
+
+
+
+
+
+
+Special Report: The Technology of Business
+Crowding out the competition
+Real-time goes beyond Wall Street
+BBC Webwise: What are social networking sites?
+
+ Not everybody gets it. Not long ago the communications team of a multinational retailer was taken by surprise when journalists called to ask about huge technical problems in half their UK stores. 
+The team did not monitor Twitter and hadn't heard about the crisis; the journalists did and had.
+The boundaries between news and social media are getting more and more fuzzy," says Jorn Lyseggen, chief executive of Meltwater Group, an online media monitoring company.
+"Social media is like a toddler, but nobody yet knows what promise that toddler holds," he says. 
+But a rapidly growing number of companies - from young firms like Meltwater, Attensity, Radian6 and Alterian - to business software giants like the SAS Institute - is offering help.
+
+
+What's the social media story?
+
+At Alterian, for example, the social media database currently holds about nine billion postings, with 50 million more added every day.
+At the most basic, these tools measure the volume of social media chatter. Researchers at Hewlett Packard showed that they can accurately predict a Hollywood movie's box office takings by counting how often it is mentioned on Twitter before it opens. 
+It gets trickier when companies try to measure "sentiment", whether the deluge of social media comment is positive or negative. 
+When bad is good
+
+
+
+
+
+
+
+Please turn on JavaScript. Media requires JavaScript to play.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rory Cellan-Jones: Why Starbucks wants to have millions of Facebook 'friends'.
+
+
+
+ It's a crude science, with accuracy levels as low as 60%, as analysis falls victim to slang and subculture. "This movie kills" can mean something different in Bradford to Boston. 
+Some social media tools don't allow users to customise their "sentiment dictionaries"; other firms like SAS throw plenty of business analytics and teams of linguists at the problem, which in turn makes their tool more of a fit for companies with deep pockets.
+But even the best software would probably judge the tweet "This board is really bad" as a negative comment, although it might be the ultimate praise among skateboarders.  
+One European clothing company, popular with inner city youth in the United States, admits privately that its social media team is baffled by its customers' ever changing slang, and even the online Urban Dictionary provides little help.
+Mind readers
+
+Continue reading the main story “Start Quote
+Once companies have worked out that they should do something with social media, they usually don't know how to do it”
+End Quote
+David Eldridge
+chief executive, Alterian
+ Social media is quickly becoming a customer relationship management system, as companies have "for the first time access to people's minds in real-time," says Jorn Lyseggen. The tools on offer provide companies with dashboards that show trends, hot topics, the reach of brands, customer mood and how competitors are doing.
+Most companies are still cagey about showing off their dashboards. After all, this is their reputation laid bare ... although what they see is hardly a secret: anybody (with enough money) can subscribe to a social media analytics service and do the very same research.
+High impact
+Social media may be all the buzz, but in reality "only a few firms get it [and use it], it's of peripheral interest for most", says Tom Austin at technology consultancy Gartner. Few realise that using social media has become much more than customer service and reputation management.
+
+
+
+
+
+
+
+Please turn on JavaScript. Media requires JavaScript to play.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Steven Georgiadis from SAS explains how social media monitoring works
+
+
+
+ For the comms team at German company Hotel.info, marketing without Twitter or Facebook is already unthinkable. 
+The hotel reservation company, with websites in 17 languages, started dabbling with social media a year ago, to see whether its customers were happy - and to monitor how it compared to rival reservation services.
+Throughout the day a team of five checks the Meltwater dashboard. "I can't imagine us not using social media anymore," says marketing manager Deniz Guen. 
+Not only does it help to keep customers happy, social media campaigns, she says, have a much "higher and immediate" impact than traditional marketing. 
+When hotel.info advertised a picture competition through both its email newsletter and Twitter, both generated about the same number of submissions. 
+Probably unremarkable, except the newsletter goes to 2.2 million subscribers, while its various Twitter accounts have just 12,000 followers. 
+When Ford introduced the compact Fiesta car in the US market, it offered 100 people the chance to drive the car, on condition that they review the cars using social media. 
+On YouTube, the Fiesta videos were viewed more than 6.5 million times, and - more importantly - towards the end of the campaign more than 50,000 people had expressed an interest in buying one.
+Early warning system 
+
+
+Spot the difference: the fake BPGlobalPR account has 188,366 followers...
+
+With few exceptions, for example computer maker Dell, social media do not work as a direct selling tool. But, carefully used, it allows companies to build passion for their products and services.
+Most importantly, it can act as an early warning system when something goes wrong.
+But many social media tools are poorly integrated into the corporate workflow, says Steven Georgiadis, head of customer intelligence at SAS. 
+If your system tells you that your customers are unhappy about a product or service, it can be mission critical that the tool immediately alerts the team in charge of it.
+It also makes business sense. Good use of social media can reduce complaints and costly calls to a service centre, says Ian Campbell, chief executive of Nucleus Research.
+
+
+... while the official BP account has a mere 18,481 followers.
+
+But there are dangers. Financial Times columnist Lucy Kellaway warns that the obsession with social networking can make management lose focus. 
+If a company needed a random tweet to alert them to a problem, surely something was wrong in the first place. 
+And if a company asks the social media database the wrong questions, then it will get the wrong view, and draw the wrong conclusions, warns Malcolm Lightbody, programme manager at SAS. 
+Clumsy companies
+To survive the world of social media, companies have to throw away their old marketing playbook.
+If they don't get it right, at best they look as awkward as Dads joining their daughters on the school disco dancefloor. 
+At worst they will experience a meltdown like oil giant BP during the Gulf of Mexico oil spill, when the firm first ignored social media, and then saw its official Twitter account @BP_America mercilessly lampooned by the fake @BPGlobalPR.
+
+
+What's the buzz? Social media tools show whether a company is in the firing line
+
+Even in normal times social media marketing has its quirks. Offering big prizes in competitions may work for newspapers but flops on Twitter, report social media marketers; but when the prize is Twitter-sized, the impact can be huge.
+One important rule, says Tom Austin, a social media expert at consulting firm Gartner, is try to sound genuine, "don't push... and don't pretend you are hip".
+Just as readers can quickly tell whether a chief executive's blog is really written by the boss or the PR team, Twitter and Facebook don't lend themselves to hammering home the corporate message. 
+"Once companies have worked out that they should do something with social media, they usually don't know how to do it," says David Eldridge, chief executive of Alterian.
+Gartner's Tom Austin warns: "If you want to influence the people who influence your customers, that's a very powerful game, but it's also very dangerous if you get it wrong." 
+Meltwater's Jorn Lyseggen calls it "super-scary" and says he "would caution companies who want to enter social media before they are ready".
+It works best, believes Mr Austin, when companies "add value" to the Twitter conversation, for example by giving fans sneak previews, or providing advice and feedback.
+However just 6% of companies feel ready to engage in such one-on-one conversations with their customers, according to a survey by Alterian.
+The holy grail of social media metrics
+As companies are getting to grips with social media, the very business model of customer relationships looks set to change.
+What if the shopping website you visit presents you with special deals on cameras because it knows that you talk a lot about them online. 
+Creepy, some will say. Better service, reply the corporate social media visionaries.
+But first they have to find the holy grail of social media monitoring: identifying who is truly influential amidst the cacophony of voices. 
+Don't be fooled by numbers; it's not about how many friends or followers somebody has, but whether they make an impact. 
+Reputational economics
+Web ventures like Klout and Peerindex, with tools that are more rough than ready, are already turning this into a business.
+They claim to be able to measure the influence Twitter users have on specific subjects. 
+Soon social media software could alert a hotel receptionist that the scruffy guy checking in deserves extra courtesy because he is likely to mention it to 10,000 "friends". 
+When Virgin America recently launched new routes from California to Toronto, it used Klout to identify a small group of social media "influencers" and gave them free flights. This generated thousands of tweets, triggered press coverage and delivered more immediate impact than traditional advertising.
+Josh Klein, a technology consultant and author of Hacking Work, calls it "reputational economics", where both customers and companies spend their social capital to get the best deal.
+"Consumers are spending their attention on social media," he says, but firms don't know how to repay them properly. "There's no manual for that yet."
+There probably never will be. 
+Social media are dynamic, and today's Twitter may be tomorrow's forgotten website. "Don't assume that what works today will work tomorrow," says Tom Austin at Gartner. "Your model has to be continually adapted."
+
+
+
+
+More on This Story
+
+
+More from Technology of Business
+	      
+
+
+
+Key stories
+
+
+
+Monkey business
+
+Should you be recording your phone calls?
+
+
+
+Edible edifice
+
+
+
+
+Predictive text
+
+
+
+
+Getting it right
+
+
+
+
+Let's sail away
+
+
+
+
+
+
+
+Viewpoint
+
+
+
+Start-up and up! 
+
+
+
+
+Push your buttons
+
+
+
+
+Come together
+
+
+
+
+Make it work
+
+
+
+
+May I help you?
+
+
+
+
+Champagne fast lane
+
+
+
+
+
+
+
+
+Related Stories
+
+
+Twitter predicts box office hits
+09 APRIL 2010, 
+                        TECHNOLOGY
+
+
+Singer's airline tune YouTube hit
+10 JULY 2009, 
+                        AMERICAS
+
+
+
+
+
+
+Related Internet links
+
+
+Meltwater
+
+
+Attensity
+
+
+Radian6
+
+
+Alterian
+
+
+SAS Institute
+
+
+Hotel.info
+
+
+Josh Klein
+
+
+Gartner
+
+
+
+The BBC is not responsible for the content of external Internet sites
+
+
+
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Business stories
+RSS
+
+
+
+
+Google boss labels China 'IT menace'
+
+Google Chairman Eric Schmidt uses a new book to call China an Internet menace that backs cyber-crime for economic and political gain, reports say.
+
+
+
+Iraqi mobile firm raises $1.3bn
+
+
+
+
+Barclays finance chief to step down
+
+
+
+
+
+
+
+
+
+
+
+
+Top stories
+
+
+
+Assad: Israel destabilising Syria
+
+
+French jets bomb northern Mali 
+
+
+Malala recovering after surgery
+
+
+Deadliest US sniper is shot dead
+
+
+Memorials for Brazil fire victims
+
+
+
+
+
+
+
+
+
+Features & Analysis
+
+
+
+
+Staying alive Watch
+
+The legendary Phantom's comic strip appeal 	
+				  
+
+
+
+
+Mashed potato rows
+
+Kathy Etchingham remembers life as Jimi Hendrix's 'Foxy Lady' 	
+				  
+
+
+
+
+Miles from home
+
+Has Hillary’s journey ended, or is more to come? 	
+				  
+
+
+
+
+Set for the Super Bowl
+
+Photographer Stephen McLaren's explores New Orleans 	
+				  
+
+
+
+
+
+
+Most Popular
+Shared
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Etch A Sketch inventor dies at 86
+
+
+
+3: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+4: Car park dug up around parked car
+
+
+
+5: Stallone joins gun control debate
+
+
+
+Read
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+3: Assad: Israel destabilising Syria
+
+
+
+4: French jets bomb northern Mali 
+
+
+
+5: Mars rover hammers down into rock
+
+
+
+6: Car park dug up around parked car
+
+
+
+7: Taser used near Buckingham Palace
+
+
+
+8: Google boss labels China 'IT menace'
+
+
+
+9: Iran seeks 'authentic' US talks
+
+
+
+10: Hillary Clinton's long journey
+
+
+
+Video/Audio
+
+
+
+
+1: Iran unveils 'stealth fighter' plane Watch
+
+
+
+2: Syria airs 'Israeli strike' footage Watch
+
+
+
+3: Stallone joins gun control debate Watch
+
+
+
+4: One-minute World News Watch
+
+
+
+5: Footage shows quake shake Japan Watch
+
+
+
+6: Pencil drawings amaze art critics Watch
+
+
+
+7: Acid attack victim recalls ordeal Watch
+
+
+
+8: Time-lapse shows Sandy strike NYC Watch
+
+
+
+9: US child still hostage in bunker Watch
+
+
+
+10: Blair warns of 'huge' EU problem Watch
+
+
+
+
+
+
+
+
+
+
+
+
+Elsewhere on the BBC
+
+
+
+Coast stories
+
+BBC Travel discovers why the island of Mauritius is much more than just a fly-and-flop destination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programmes
+
+
+
+The Culture Show Watch
+
+Look death in the face with objects that chart how we try to make peace with the end of life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+ Mobile
+ Connected TV
+ News feeds
+ Alerts
+ E-mail news
+
+
+
+About BBC News
+
+Editors' blog
+BBC College of Journalism
+News sources
+Media Action
+
+
+
+
+    BBC links    Mobile siteTerms of UseAbout the BBC     Advertise With UsPrivacyBBC Help     Ad ChoicesCookiesAccessibility Help     Parental GuidanceContact Us       BBC © 2013 The BBC is not responsible for the content of external sites. Read more. This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+

@@ -1,0 +1,893 @@
+Airsoft - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+Airsoft
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+
+
+					Jump to:					navigation, 					search
+
+
+
+For the guns used in the activity, see Airsoft gun.
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2010) 
+
+
+
+
+
+
+Four airsoft players fire at an objective.
+
+
+Airsoft is a recreational activity in which participants eliminate opponents by hitting each other with spherical non-metallic pellets launched via replica firearms.
+Gameplay varies in style and composition but often range from short-term skirmishes, organized scenarios, C.Q.B., field, military simulations, or historical reenactments. Combat situations on the battlefield often involve the use of common military tactics to achieve objectives set in each game. Participants typically emulate the tactical equipment and accessories used by modern military and police organizations.
+
+
+
+
+Contents
+
+
+1 History
+2 Ballistics and velocity
+3 Safety
+
+3.1 Eye and face protection
+3.2 Community safety precautions
+
+
+4 Legal restrictions
+
+4.1 Orange-tipped airsoft gun muzzles
+4.2 Lasers
+
+
+5 Airsoft guns
+
+5.1 Hop-Up
+5.2 Airsoft projectiles
+
+
+6 See also
+7 References
+8 External links
+
+
+
+
+[edit] History
+Airsoft originated in Japan,[1] then spread to Hong Kong and China in the late 1970s. Airsoft guns spread to the UK in the 1980s with a company called LS. They were in kit form and had to be built before you were able to fire pellets. Airsoft equipment was designed to closely emulate real guns. Since the mid-1980s, airsoft guns have been adapted with a purely recreational application in mind, and the hobby is enjoyed by all ages. One of the UK's first Airsoft Games sites was Firefight Airsoft Games [2] which was set up in 1996 at Mapledurham Estate Reading. Some Airsoft guns are produced in China, Hong Kong and Taiwan, while some are also produced in Japan, South Korea, the United States, and Canada.
+[edit] Ballistics and velocity
+For more details on Airsoft pellet ballistics, see Airsoft pellets#Pellet ballistics.
+
+
+
+
+Airsoft player shooting from behind cover wearing goggles that fully seal the area around the eyes and a Balaclava to protect the face.
+
+
+On impact, the pain an airsoft pellet causes is directly related with the kinetic energy it has. This energy is directly proportional to both its mass and the square of its velocity. It is important to note that doubling the velocity of a pellet will quadruple its kinetic energy. As a reference value, a 0.20 gram pellet traveling at 100 metres per second (330 ft/s) has one joule of kinetic energy.
+A typical set of velocity limits for sanctioned fields in the United States on guns may be 350 feet per second (110 m/s) for Close Quarters Battle (CQB), 400 feet per second (120 m/s) for outdoor play with fully automatic AEG's, 450 feet per second (140 m/s) for semi-auto "DMR" style AEG's, and 550 feet per second (170 m/s) for bolt action sniper rifles, for a 0.20 g pellet.[citation needed]
+The maximum effective range of field-legal airsoft weapons is around 100 yd (91 m) with a highly upgraded sniper rifle replica.[citation needed] Most airsoft guns used for field play will have an effective range of around 140–220 feet, depending on the intended role of the weapon.[citation needed] Most Airsoft guns are capable of shooting from 50 m/s (160 ft/s) to 125 m/s (410 ft/s), although it is also possible to purchase upgraded internals for some Airsoft guns that will enable the gun to shoot in excess of 165 m/s (540 ft/s).[citation needed] In California a common limit for CQB is 350 ft/s (110 m/s)[citation needed]. Airsoft guns that have high muzzle velocities tend to have a longer range and better accuracy. On the other hand, a lower muzzle velocity means that the pellet will glide more, which is a good thing for indoor skirmishes. Outside however, the wind may change its trajectory.[citation needed]
+In Ireland, Italy, and Japan the energy limit for Airsoft guns is one joule regardless of the type of game play.[citation needed] Some UK sites allow semi-automatic-only weapons up to 400 ft/s (120 m/s) and bolt action rifles up to 500 ft/s (150 m/s).[citation needed] Northern Ireland has a maximum velocity of 328 ft (100 m) with 0.20 g pellets, without regard to the type of weapon.[citation needed]
+The ballistics of spring or electric powered airsoft guns differ from real firearms in that a longer barrel will not always result in better accuracy. In spring/electric airsoft weapons, barrel length does not have a significant effect on accuracy.[citation needed] The "sweet spot" for barrel length in a spring/electric powered airsoft gun is around 400-500 mm.[citation needed] Past that length, added barrel length will not improve accuracy.[citation needed] In any case, barrel quality, velocity consistency, and hopup quality/design are more important factors with regard to accuracy.[citation needed] Added barrel length will result in slightly increased velocity if the cylinder size and compression are appropriate for the barrel length. For example, a gun with a large cylinder and a long barrel will shoot slightly harder than a gun with a small cylinder and a short barrel (ceteris paribus).[citation needed] This rule will apply even for barrels longer than 500 mm, if there is enough cylinder volume and air compression to propel the pellet through the barrel.[citation needed] However, the resulting velocity increase will be hardly noticeable. The only considerable advantage of using a longer inner barrel in an AEG or spring powered gun is that it generally will make the gun quieter.
+Gas powered replicas function more like real firearms. In gas powered guns, added barrel length (to an appropriate degree) will result in significantly increased velocity, and increased accuracy to a degree. Tighter bore barrels will increase velocity because there will be less space between the pellet and the barrel for the air to escape through. Most stock airsoft guns have 6.05-6.08 mm bore barrels, but best performance is usually seen with "tightbore" barrels. However, the tighter the bore, the more likely the chance of a pellet jam, and subsequently, tightbores need to be cleaned regularly. It is generally agreed upon that a good quality 6.01-6.02 mm barrel will provide the highest muzzle velocity, while a good quality 6.03 mm barrel will provide the best compromise between power, accuracy, and ease of maintenance. The actual accuracy difference between a 6.01 mm barrel and a 6.03 mm barrel is debatable.
+[edit] Safety
+[edit] Eye and face protection
+
+
+
+
+Players in the 'safe zone' between games.
+
+
+The minimum safe level of gear required to participate in most games includes a pair of ANSI Z87.1 (impact-rated) goggles to protect participants' eyes. If shot from at least ten feet away by a gun with typical muzzle velocity, there will be minimal damage to other body parts. Traditional prescription glasses and sunglasses, or goggles not designed specifically for use with airsoft or paintball guns, may break or shatter upon being struck causing damage to the eye. The largest review of airsoft eye injuries found no case of loss of vision from an airsoft eye injury.[3] The same review found that only one of the 59 cases was wearing anything over their eye, in which that one patient was just wearing sunglasses as eye protection.
+Full-face masks (similar to, and often including paintball masks) cover the rest of the face, protecting vulnerable parts such as teeth. Some airsoft masks are made with mesh screens, though theoretically, a pellet could shatter on impact, and its fragments could pass through the mesh and into the eye.[4] Masks with mesh screens are often preferred by players who wear prescription eyeglasses as they increase ventilation and reduce the amount of condensation on the lenses, while the lenses provide additional protection against possible fragments that might penetrate the mesh.
+While masks offer superior protection, they can interfere with the use of scopes, and in cheaper masks, condensation inside the goggles can reduce visibility. During very hot days the masks can also cause the player to overheat more quickly due to the lack of air circulation. Some players have mounted small battery-powered fans (designed for computer circuit boards) on the masks to improve ventilation and reduce or avoid condensation.[citation needed]
+[edit] Community safety precautions
+
+
+
+
+Airsoft replica of a H&K G36C. Note that this replica is not in use on a field, and therefore has the magazine removed, the chamber cleared, and has a barrel bag placed over the muzzle.
+
+
+Rules such as a maximum muzzle velocity and engagement distance guidelines are used by different groups. Some organizations have created common safety rules and guidelines.[5]
+When not actively playing, some fields require "barrel bags", also known as barrel "socks", to be placed over the muzzle of the gun. The magazine is usually removed as well, and the gun fired to clear the chamber. Most fields also require players to leave their guns set to the safety position when they are not shooting, a practice common when using real firearms. In certain countries, such as the Philippines, additional special rules have been adopted.[6]
+[edit] Legal restrictions
+Main article: Legal issues in airsoft
+
+
+
+
+Classic Army M16A4 Automatic Electric Gun.
+
+
+Owning airsoft guns and playing airsoft is legal in most parts of the world. Some countries have specific restrictions,[7] such as maximum muzzle velocity and "unrealistic" colouring to distinguish them from actual firearms. They are legal throughout the U.S, but restrictions do exist in certain cities such as Chicago, Illinois and Detroit, Michigan. The states of New Mexico, New Jersey, and Michigan, however, do not allow airsoft guns to be used or handled publicly because of the resemblance to real firearms. They may be used on private property with the consent of the owner. The Customs and Border Protection FAQ page states that Airsoft guns are considered look-alike firearms which require the special blaze orange marking.[8]
+In the United Kingdom, some Airsoft guns are classified as realistic imitation firearms or RIFs. The sale, manufacture, or importation of these is restricted to activities that are exempted or have been granted a defense by the Home Office under the Violent Criminal Reduction Act (VCRA). Airsoft skirmishing has been granted a specific defense against the requirements of the act, and a skirmisher as defined under British law is allowed to be sold (note: purchase is not illegal - sale is - the crime is committed by the vendor), manufacture (& modify an IF into a RIF), and import airsoft replicas. All are still however crimes under British law that can be defended successfully (in theory - this has never been tried to date) by fulfilling criteria suggested in the guidelines accompanying the VCRA. The most accepted method of proving entitlement to the defense is to be a member of a site that holds public liability insurance. An association set up by UK retailers, called the United Kingdom Airsoft Retailers Association (UKARA), in line with the Home Office documentation accompanying the VCRA, recommends that an airsoft site only give membership to a player who has played at least three games over a period of no less than two months. It is also possible for a member of an insured reenactment society or the film or television industry to purchase an Airsoft replica (this is a full exemption from, and not a defense against, the VCRA).[9] The right to buy a RIF (or IF) is still reserved for individuals age 18 and over.[10]
+Many retailers are part of the UKARA scheme and will only sell to players who are registered to a skirmish site that fulfills the desired requirements for the VCRA Defense. Retailers must renew their membership annually. The Association has a database of registered players from approved airsoft sites that is updated on a regular basis by the sites themselves. Retailers who are members of UKARA have access to the database and can check for proof of eligibility for purchasing access to the player's site membership number before selling any RIFs to private individuals.
+Other schemes have been attempted to allow Airsoft players to comply with the Violent Crime Reduction Act 2006, but none have been successfully implemented. The use or possession of any kind of replica weapon—loaded or otherwise—in a public place without valid reason is an offense under UK law and can carry heavy penalties.[11]
+As an alternative to RIFs, IFs (Imitation Firearms, including 'two tones') are available. These are RIFs which have been painted a bright colour (excluding white/silver/gold) over 51% of the item. No specific defense is required for purchase of IFs. They cannot be bought by those under the age of 18, and offer an entry to the sport for those unable to claim a defence under the VCRA.
+[edit] Orange-tipped airsoft gun muzzles
+Federal law in the United States requires that a 6 mm (0.24 in) orange tip to be present on all "toy guns" (including airsoft replicas) while being imported or transferred domestically into/within the United States. These brightly colored tips show the difference between real and replica firearms, which helps to ensure safety.[12] However, after purchase from the retailer, the orange tip is no longer needed. The federal regulations do not require the owner to keep the muzzle painted after acquiring their airsoft gun[citation needed]. Few players choose to keep the tip, whether for safety or various other reasons, and some switch their orange-painted flash hiders with more realistic ones shortly before playing while at the field's staging area.
+The Code of Federal Regulations Title 15, part 1150.2, states "no person shall manufacture, enter into commerce, ship, transport, or receive any toy, look-alike, or imitation firearm" without the requisite blaze orange marking. A waiver may be obtained (1150.5) by the theatrical, movie, or television industries.[13]
+[edit] Lasers
+In certain countries use of lasers of any kind is illegal, thus it is very important to note prior to buying any laser pointers or scopes with integrated lasers, one should always check the country/state laws and ensure that they are not breaking the law.[14] It should also be noted that for safety reasons green lasers should be avoided as they can cause serious eye damage.
+[edit] Airsoft guns
+Main article: Airsoft gun
+
+
+
+
+An example of a gas blowback airsoft pistol, in this case a replica of a SIG-Sauer P226
+
+
+The guns used in airsoft are typically imitation firearms. They have a mechanism for shooting projectiles 6 mm or 8 mm in diameter.
+Airsoft guns are classified according to their operating principle, which can be spring (generally called "springers"), electric (battery powered Automatic Electric Guns, or "AEG's"), or gas-powered (if these have a blowback feature they are known as "GBBs"). Some companies produce full replicas of counterpart grenade launchers which fire a projectile spray of 6mm pellets by use of a high-powered spring mechanism or a compressed gas propellant (i.e. green gas, propane, or CO2).
+Newer guns, especially those made in Taiwan and China, have metal internal and external parts. Japan has specific rules about producing airsoft guns with metal parts. A typical airsoft gun is noticeably lighter than its "real steel" counterpart due to the use of aluminum, alloy, and plastic, though some have weights in them for a more realistic feel. Smoke caps are available for certain airsoft guns to add realism.
+Gas handgun magazines usually contain 10 to 30 pellets in a standard capacity magazine; however, some are high capacity magazines (some of which utilize a winder) and can hold 50 rounds or more. In the case of AEG rifles, magazines come in either real-capacity (equivalent to the capacity of its real steel counterpart), low-capacity (20-50 rounds), mid-capacity (75-200 rounds), or high-capacity (220+ rounds). These magazines are spring-loaded. The high-cap magazines often have a ratchet wheel that can be wound up periodically to force pellets up from the holding chamber of the magazine to the feeding chute. Due to loose pellets in the reservoir, they often make a rattling noise when running or walking. Some airsoft guns have an electric-powered box or drum magazine that holds thousands of pellets.
+[edit] Hop-Up
+Main article: Hop-Up (Airsoft)
+The "Hop-Up" system, which is installed in most stock airsoft rifles and in some pistols, is used to add extra range by putting backspin on the pellets, causing them to rise upward as they are fired. Hop-Up is short for "High Operation Power Up". A small rubber nub protrudes into the top of the barrel through a small hole, and it catches the top of the pellet as it flies past. Adjusting the Hop-Up makes the nub protrude lower or higher into the barrel, so that backspin is increased or reduced. Ideally, the Hop-Up should be adjusted so that the pellets fly as far as possible in a straight line without curving upward too far, or dropping to the ground too quickly. Hop-Up does decrease the velocity of the projectile (a gun firing 340 ft/s (100 m/s) with the hop fully unwound can drop as low as 300 ft/s (91 m/s)). However, players looking for the highest level of power should keep hop-up at normal settings as with the hop up working, the BB spin helps to reduce latent surface area, which, in turn, reduces drag on the projectile. The Hop-Up adjustment is usually relatively easy to access so that players can adjust it during play. On the soft side of airsoft guns, it is located underneath the bolt cover, on an external knob on the gun, or inside the magazine well, or occasionally it is inside the gun itself, requiring disassembly for adjustment. Sometimes the Hop-Up is only adjustable using an Allen wrench. Few lower priced gun models have an adjustable hop up system.
+[edit] Airsoft projectiles
+Main article: Airsoft pellets
+
+
+
+
+6 mm plastic pellets (0.12 g). A sample of inexpensive pellets.
+
+
+Most airsoft guns fire round plastic pellets, usually white, but black "invisible" or phosphorestic are common as well. The pellets mostly range from 0.12 to 0.48 g. However, the most popular weights for AEGs (automatic electric guns) and GBB* (Gas Blow-Back guns) are 0.20 g and 0.25 g (*These weights are generally specified for pistols whose muzzle velocity ranges from approximately 250 ft/s (76 m/s) to 400 ft/s (120 m/s)). Heavier rounds (0.30–0.43 g) are typically used in long range and sniper applications since they are more stable in flight and less easily deflected by wind. They are usually bought in bags or bottles of 2,000 to 5,000, but other sizes are available, such as a 250,000 round (65 kg) package of tournament grade pellets. Pellets are typically 6 mm in diameter, though 8 mm pellets do exist. Pellets vary by diameter depending on the brand (e.g. Matrix pellets are 5.95 mm in diameter and let less air slip past it during travel through the barrel, whereas Crosman pellets are 5.93 mm in diameter and allow more air to slip past during travel through the barrel and allow for less velocity). The optimum pellet weight depends on the gun. For instance, a mid to high end ($100+) automatic rifle uses between 0.20–0.30 g pellets, while sniper rifles work best with 0.30 g or higher. Experienced airsoft players won't use 0.12 g pellets in their high end guns, as these tend to jam and break inside the barrel and Hop-Up. However, 0.12 g pellets do work well with the less expensive plastic pistols or spring guns. Pellets are used for the majority of play, although foam balls may be used to represent M203 styled grenade launcher shells.[15]
+[edit] See also
+
+Paintball
+Legal issues in airsoft
+Airsoft gun
+Airsoft pellets
+
+[edit] References
+
+
+^ "soft dik History and Its Background | Where did Air Soft Come From?". Airsoft-guns-gas-electric-spring.com. http://www.airsoft-guns-gas-electric-spring.com/airsoft-history-background-of-air-soft-guns.html. Retrieved 2012-08-03.
+^ "Firefight Airsoft Games". http://web.archive.org/web/19991128054201/http://www.firefight.co.uk/.
+^ Kratz A - Am J Ophthalmol - 01-JAN-2010; 149(1): 37-44
+^ "Durability Test - Mesh Masks.". Amplified Airsoft. Archived from the original on 19 November 2010. http://www.ampair.net/e107_plugins/content/content.php?content.102. Retrieved 4 November 2010.
+^ 09:45 AM. "Texas Airsoft Organization". Texasairsoft.org. http://www.texasairsoft.org. Retrieved 2011-09-13.
+^ Filipino Airsoft Players (FAP) Standard Rules and Regulations: http://www.filairsoft.com/forum/showthread.php?t=821
+^ Complete list of Airsoft legal requirements in the world
+^ "CBP FAQ". https://help.cbp.gov/app/answers/detail/a_id/809. Retrieved 1 August 2010.
+^ "Specific defences applying to the offence under s. 36". http://www.statutelaw.gov.uk/content.aspx?LegType=All+Legislation&searchEnacted=0&extentMatchOnly=0&confersPower=0&blanketAmendment=0&sortAlpha=0&PageNumber=0&NavFrom=0&parentActiveTextDocId=0&activetextdocid=2922622&versionNumber=1. Retrieved 20 January 2011.
+^ "UKARA Q&A". Archived from the original on 7 March 2008. http://www.ukara.org.uk/node/18. Retrieved 13 March 2008.
+^ BASC - Airguns and Replicas
+^ "Electronic Code Of Federal Regulations, Title 15: Commerce and Foreign Trade, PART 1150—MARKING OF TOY, LOOK-ALIKE AND IMITATION FIREARMS". Government Accountability Office via http://ecfr.gpoaccess.gov.+30 January 2008. http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=fe6593e6c18f07b9f6b29ffca8409aa9&rgn=div5&view=text&node=15:3.1.3.7.1&idno=15. Retrieved 1 February 2008.
+^ "Electronic Code of Federal Regulations, Title 15: Commerce and Foreign Trade, PART 1150—MARKING OF TOY, LOOK-ALIKE AND IMITATION FIREARMS". Government Accountability Office via http://ecfr.gpoaccess.gov.+5 May 1989. http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr;sid=ea539558e0cb5df2b535b939bea34e33;rgn=div5;view=text;node=15%3A3.1.3.7.1;idno=15;cc=ecfr. Retrieved 21 January 2012.
+^ "Tactical Airsoft Supplies - Illegal Items". http://airsoft-supplies.com/blog/illegal-airsoft-items.html.
+^ "New S-Thunder CO2 powered foam ball 40 mm grenade". Arniesairsoft.co.uk. 2010-06-03. http://arniesairsoft.co.uk/news2/14826. Retrieved 2012-08-03.
+
+
+[edit] External links
+
+
+
+Wikimedia Commons has media related to: Airsoft
+
+
+
+HD Video of Airsoft game (Title: "Days of War")
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Interdependent team sports
+
+
+
+
+
+
+
+
+
+Sport
+Governing bodies
+Sportspeople
+National sport
+
+
+
+
+
+
+
+
+Basket sports
+
+
+
+Basketball
+
+beach
+deaf
+3x3
+water
+wheelchair
+
+
+Cestoball
+Korfball
+Netball
+
+Fast5
+indoor
+wheelchair
+
+
+Slamball
+
+
+
+
+
+
+
+
+Football codes
+
+
+
+
+
+
+
+Association football
+
+beach
+futsal
+indoor
+Paralympic
+amputee
+Powerchair
+street
+
+
+Australian rules football
+
+lightning football
+metro footy
+nine-a-side
+rec footy
+
+
+Circle rules football
+Gaelic football
+
+ladies'
+
+
+
+
+
+
+
+
+
+
+
+Gridiron codes
+
+
+
+
+American football
+
+eight-man
+flag
+nine-man
+six-man
+sprint
+touch
+wheelchair
+
+
+Canadian football
+Indoor football
+
+arena
+
+
+
+
+
+
+
+
+
+
+
+Hybrid codes
+
+
+
+
+Austus
+International rules football
+Kronum
+Samoa rules
+Universal football
+Volata
+
+
+
+
+
+
+
+
+
+Medieval football codes
+
+
+
+
+Ba game
+Caid
+Calcio fiorentino
+Camping
+Cnapan
+Cornish hurling
+Cuju
+Harpastum
+Kemari
+Ki-o-rahi
+La soule
+Lelo burti
+Marn grook
+Mob football
+Royal Shrovetide
+Uppies and downies
+Yubi lakpi
+
+
+
+
+
+
+
+
+
+Rugby codes
+
+
+
+
+Beach
+Rugby league
+
+masters
+mini
+mod
+nines
+sevens
+tag
+touch
+wheelchair
+
+
+Rugby union
+
+American flag
+mini
+sevens
+snow
+tag
+touch
+tens
+
+
+
+
+
+
+
+
+
+
+
+
+
+Handball sports
+
+
+
+Czech
+Goalball
+Handball
+
+beach
+
+
+Field
+Frisian handball
+Torball
+
+
+
+
+
+
+
+
+Safe haven sports
+
+
+
+Baseball
+
+Extreme
+
+
+Brännboll
+British baseball
+Cricket
+
+One Day
+Test
+Twenty20
+
+
+Danish longball
+Kickball
+Lapta
+Matball
+Oină
+Over-the-line
+Pesäpallo
+Rounders
+Softball
+Stoolball
+Town ball
+Vigoro
+
+
+
+
+
+
+
+
+Stick and ball sports
+
+
+
+
+
+
+
+Cammag
+Composite rules shinty–hurling
+Hurling
+
+camogie
+
+
+Knotty
+Lacrosse
+
+box/indoor
+field
+intercrosse
+women's
+
+
+Polocrosse
+Shinty
+
+
+
+
+
+
+
+
+
+Hockey sports
+
+
+
+
+Ball hockey
+Bandy
+
+rink
+
+
+Broomball
+
+Moscow
+
+
+Field hockey
+
+indoor
+
+
+Floor hockey
+Floorball
+Ice hockey
+
+power
+
+
+Inline hockey
+Ringette
+Roller hockey
+Rossall hockey
+Skater hockey
+Sledge hockey
+Street hockey
+Underwater hockey
+Underwater ice hockey
+Unicycle hockey
+
+
+
+
+
+
+
+
+
+Polo sports
+
+
+
+
+Auto polo
+Canoe polo
+Cowboy polo
+Cycle polo
+Elephant polo
+Horseball
+Pato
+Polo
+Segway polo
+Yak polo
+
+
+
+
+
+
+
+
+
+
+
+Ball-over-net sports
+
+
+
+Biribol
+Bossaball
+Fistball
+Football tennis
+Footvolley
+Jianzi
+Footbag net
+Peteca
+Sepak takraw
+Throwball
+Volleyball
+
+beach
+paralympic
+
+
+Ball badminton
+Jokgu
+
+
+
+
+
+
+
+
+Other sports
+
+
+
+Airsoft
+Basque pelota
+
+frontenis
+jai alai
+xare
+
+
+Buzkashi
+Curling
+Cycle ball
+Dodgeball
+Gateball
+Kabaddi
+Kho kho
+Kin-Ball
+Lagori
+Paintball
+Pétanque
+Rollball
+Roller derby
+Tamburello
+Tchoukball
+Ulama
+Ultimate
+Underwater rugby
+Water polo
+
+inner tube
+
+
+Wheelchair rugby
+Underwater football
+Whirlyball
+Yukigassen
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Airsoft&oldid=536288792"				
+
+
+Categories: Leisure activitiesAirsoftHidden categories: Articles needing additional references from November 2010All articles needing additional referencesUse dmy dates from November 2010All articles with unsourced statementsArticles with unsourced statements from October 2012Articles with unsourced statements from October 2011Articles with unsourced statements from July 2012Commons category template with no category set 
+
+
+
+
+
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+Create accountLog in 
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+
+Search
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+
+
+
+
+
+
+
+
+Interaction
+
+
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+
+
+
+
+
+
+Toolbox
+
+
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page 
+
+
+
+
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+
+Languages
+
+
+Asturianu
+Български
+Català
+Česky
+Dansk
+Deutsch
+Eesti
+Español
+Français
+Galego
+한국어
+Hrvatski
+Bahasa Indonesia
+Íslenska
+Italiano
+עברית
+ქართული
+Lietuvių
+Magyar
+Nederlands
+日本語
+Polski
+Português
+Română
+Русский
+Simple English
+Slovenčina
+Slovenščina
+Suomi
+Svenska
+Türkçe
+Українська
+中文
+
+
+
+
+
+
+
+
+
+
+ This page was last modified on 3 February 2013 at 02:26.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Contact us
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

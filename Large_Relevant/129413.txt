@@ -1,0 +1,614 @@
+BBC News - How much privacy can smartphone owners expect?
+
+
+       
+
+                Accessibility links  Skip to content Skip to local navigation Accessibility Help      bbc.co.uk navigation   News   Sport   Weather   Travel   Future   Autos   TV   Radio   More…         Search term:             
+
+
+
+
+Magazine
+
+
+
+
+
+
+
+Home
+US & Canada
+Latin America
+UK
+Africa
+Asia
+Europe
+Mid-East
+Business
+Health
+Sci/Environment
+Tech
+Entertainment
+Video
+
+
+Magazine
+In Pictures
+Also in the News
+Editors' Blog
+Have Your Say
+World News TV
+World Service Radio
+Special Reports
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22 November 2011
+Last updated at 05:25 ET
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+How much privacy can smartphone owners expect?
+ 
+
+By Brian Wheeler
+BBC News, Washington
+
+
+
+
+
+
+
+
+Please turn on JavaScript. Media requires JavaScript to play.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Many consumers continue to allow mobile applications that can locate them
+
+
+
+ 
+Continue reading the main story Related Stories
+
+Clarity call for consumer privacy
+US 'web privacy moves' welcomed
+Apple acts on iPhone tracking bug
+
+
+The US Supreme Court could soon allow police to monitor the movements of US mobile phone users without a warrant. Now that most of us carry sophisticated tracking devices in our pockets, how much privacy do we have a right to expect?
+Millions of us happily invade our own privacy every day on Twitter and Facebook, sharing personal details with the world and broadcasting our location in a way previous generations would have found bizarre.
+Even those who shy away from social media and new technology in general are not immune. The most basic mobile phones are in constant contact with the nearest mast, sending information about the whereabouts of their users to phone companies, who can later hand that data over to the police, if requested.
+At the other end of the spectrum, in the world of smartphones, privacy is becoming an increasingly outdated concept, argues technology writer Sam Biddle. What might once have been considered "creepy" and invasive is becoming normal.
+"That line of creepiness is there, but it's eroding quickly because, frankly, we are just getting used to it," says Mr Biddle, a staff writer for Gizmodo.com.
+"Something like (smartphone app) Foursquare, something like Find My Friends, these things all would have sounded like something from 1984. Now they are fun and free.
+"So I think whatever line there once was is receding very quickly."
+He adds: "The excitement and the novelty of it blinds us to the fact that is a little weird and maybe, in terms of privacy rights, a little ominous."
+For the smartphone customer "it's a trade-off, in terms of privacy versus service," he says. For the mobile phone company "following you around is just part of the service".
+'Legitimate expectation'
+There are signs that governments and law enforcement agencies around the world are taking advantage of this increasingly relaxed attitude towards privacy to step up surveillance of citizens.
+The case currently before the Supreme Court, US vs Jones, hinges on whether police officers should be allowed to plant GPS tracking devices on suspects' cars without a warrant.
+
+Continue reading the main story “Start Quote
+
+GPS tracking can actually be quite revealing about who a person is and what they value”
+End Quote
+Catherine Crump
+American Civil Liberties Union
+ Nightclub owner and suspected drug smuggler Antoine Jones had such a device attached to his vehicle for 28 days so officers could follow his movements in order to build up a case against him.
+His legal team argued at a Supreme Court hearing earlier this month that his Fourth Amendment rights, which are meant to protect US citizens from invasive searches, were violated.
+Lawyers for the Obama administration argued that Jones did not have a "legitimate expectation of privacy" - the standard legal test in the US for the past 45 years - because his car was in a public place.
+Attaching a tracking device to it was no different to tailing him, which has always been legal, the government argued.
+If the Supreme Court agrees, it could open the door to mass unwarranted surveillance of suspects using GPS bugs, civil liberties campaigners have warned.
+Open to abuse?
+But law enforcement officers no longer have to physically plant a bug on a suspect's car or person. In the US, they are increasingly using mobile phone tracking software.
+"Police officers can sit in the comfort of their own stations and use this technology to watch not just one person, but many people, over long periods of time," says Catherine Crump, an attorney for American Civil Liberties Union.
+This is far more invasive than traditional surveillance, she argues.
+"GPS tracking can actually be quite revealing about who a person is and what they value. It can show where a person goes to church, whether they are in therapy, whether they are an outpatient at a medical clinic, whether they go to a gun range."
+Without police officers being forced to go before a court to obtain a "probable cause" warrant, the technology is wide open to abuse, the ACLU argues, and it is hoping that the Supreme Court will ban all warrantless surveillance when they deliver their verdict in the Jones case.
+"I don't think you have to be a card carrying member of the ACLU to be concerned about a world in which every citizen of the United States can be tracked on the whim of a curious police officer, for any reason, or no reason at all," says Ms Crump.
+But police and prosecutors tend to take a different view.  
+"If it is a legitimate law enforcement need and there is no time to get a warrant there should be occasions when you can use a tracking device," says Ed Marsico, district attorney for Dauphin County, in Pennsylvania.  
+Metropolitan police
+And the same goes for mobile phone tracking, he says, arguing that there is little practical difference between a mobile phone company knowing your location and the local police.
+"Most of us have cell phones now. Most of them have some kind of GPS tracking within them, so Verizon or AT&T already know where you are," Mr Marsico tells BBC News.
+If the Supreme Court rules against the government it could seriously damage the ability of police officers to carry out undercover surveillance of suspected major criminals, he argues.
+
+Continue reading the main story “Start Quote
+
+It wouldn't surprise me if in 10 years, I know where everyone I know is at all times, in real time, constantly”
+End Quote
+Sam Biddle
+Gizmodo.com
+ "Police are not out to put tracking devices on every single car. They are using it sparingly to further legitimate investigations.
+"Technology has changed. The criminals are using technology to stay one step ahead of us, so we would like to use some technology to get ahead of them."
+In the UK, the availability of cheap GPS devices, and a mistaken belief that it was permitted under the Regulation of Investigatory Powers Act, led to covert tracking being used by public authorities, including local councils "without properly considering the application of the legislation," according to watchdog the Surveillance Commissioners.
+The government issued new guidelines in April 2010, stressing the need to gain permission from senior officers, who must be convinced it is necessary and proportionate - and not likely to fall foul of Article 8 of the Human Rights Act.
+Personal permission from the home secretary is needed to intercept phone communications. Some 1,682 interception warrants were issued in 2010. 
+'Not the Gestapo'
+Public authorities can obtain other communications data without the home secretary's authority, such as the time, date and location of phone calls. In 2010, 552,550 such requests were made.
+The Metropolitan Police has stepped up its surveillance of social media in recent months, claiming it helped prevent this summer's riots spreading to high-profile targets such as the 2012 Olympics site.
+But the London force is also reportedly using software that masquerades as a mobile phone network, allowing it to intercept communications and gather data about users in a targeted area, such as a demonstration.
+Most civil liberties campaigners do not want the police banned from using new technology and accept that telecoms companies are "not the Gestapo", as Catherine Crump puts it.
+But, argues the ACLU lawyer: "People should not have to choose between using new technology, which is becoming increasingly commonplace and hard to live without, and giving up their privacy."
+Some believe the moment when that choice has to be made has arrived.
+'Watershed moment'
+Earlier this month, a US Federal Court in Virginia ordered Twitter to grant the Justice Department access to private data from the accounts of three suspected Wikileaks supporters, ruling that they had a "lessened expectation" of privacy after signing up to the micro blogging site.
+Al Girardi, a defence attorney who specialises in internet and telecoms privacy, sees this, along with the Jones case, as a "watershed" moment.
+"You have some very serious decisions happening which basically define you as having no expectation of privacy with your online provider and yet nobody seems to be concerned about it," he says.
+"I don't know if it's just the Facebook generation but it's a surprise to me that there isn't more resistance."
+Without a major public outcry, or some kind of "scandal" to focus the minds of politicians and telecoms executives, the erosion of privacy is likely continue unabated, argues Sam Biddle.  
+"Barring some kind of very radical, strong legislation, it wouldn't surprise me if in 10 years, I know where everyone I know is at all times, in real time, constantly.
+"I think it won't even be an issue then. It will just be the status quo."
+
+ 
+
+
+
+More on This Story
+
+Related Stories
+
+
+Clarity call for consumer privacy
+24 MAY 2011, 
+                        BUSINESS
+
+
+US 'web privacy moves' welcomed
+12 NOVEMBER 2010, 
+                        TECHNOLOGY
+
+
+Apple acts on iPhone tracking bug
+05 MAY 2011, 
+                        TECHNOLOGY
+
+
+
+
+
+
+Related Internet links
+
+
+ACLU
+
+
+Gizmodo
+
+
+
+The BBC is not responsible for the content of external Internet sites
+
+
+
+
+       Comments   This entry is now closed for comments  Jump to comments pagination    Editors' Picks All Comments 244       Order by: Latest First Highest Rated Lowest Rated                rate this     -1      rate this     -1   Comment number 24.  WILFRIEDVDA  22nd November 2011 - 12:10   One part of me says, if you're not committing a crime, then you have nothing to fear. Unless you have visited your friend at the mosk, live in a depressed area, by halal food (because it is the only butcher in your street) and happen to be passing by a anti government manifestation.  Because you cannot afford an expensive layer, you can end up for a year in prison.    Report this comment (Comment number 24) Link to this (Comment number 24)                 rate this     +2      rate this     +2   Comment number 23.  the_hot_chef  22nd November 2011 - 12:12   Ask yourself the simple question: Is this issue more important to me than my smart phone?  If yes, ditch the phone. (problem solved)    Report this comment (Comment number 23) Link to this (Comment number 23)                 rate this     0      rate this     0   Comment number 22.  dualla  22nd November 2011 - 12:11   re: IanI believe it is still a very serious criminal offence to interfere with in any way the postal service, does not appear to apply to anything electronic.    Report this comment (Comment number 22) Link to this (Comment number 22)                 rate this     +5      rate this     +5   Comment number 21.  markthinks  22nd November 2011 - 12:07   Allowing the police to track people with no requirement to have suspicions, or evidence against that person is going way too far. I use facebook, and twitter. My expectation of privacy is not deminished by these facts. I expect my privacy to remain in tact, as it were if i didn't use the service. We can not allow a 2 tier system of those who 'deserve' (or can afford) privacy and those who don't.    Report this comment (Comment number 21) Link to this (Comment number 21)                 rate this     +3      rate this     +3   Comment number 20.  Sproutaholic  22nd November 2011 - 12:06   One aspect not addressed is the same abuse by private investigators.A friend was tracked in a messy divorce with maps & times of his routes submitted to the court in an attempt to prove something. he believed his phone was the source of this at the time.Will non-law enforcement officers be heavily controlled or allowed to just get away with this ?    Report this comment (Comment number 20) Link to this (Comment number 20)                 rate this     +2      rate this     +2   Comment number 19.  Graphis  22nd November 2011 - 12:05   It's just a computer knowing where we are, not a real person actually watching us. As I don't visit brothels, buy/sell drugs, or rob banks, it would have to be a very bored state official who wanted to spy on me.Besides, if I really wanted to, I'd simply tape my phone to my dog's collar and let him loose in the woods for a couple of hours...    Report this comment (Comment number 19) Link to this (Comment number 19)                 rate this     +13      rate this     +13   Comment number 18.  Steveh11  22nd November 2011 - 12:02   I deliberately do NOT use 4square or similar sites, do NOT set my location on FB or Twitter, and do NOT give permission to anyone to track my location.  Unlike Mr. Biddle, I therefore feel I HAVE a right to expect my privacy to be respected.    Report this comment (Comment number 18) Link to this (Comment number 18)                 rate this     +27      rate this     +27   Comment number 17.  Macin Tosh  22nd November 2011 - 12:02   "Nothing to hide, nothing to fear" is culpably simplistic. I have my privacy to hide, and that does not make me a criminal or a suspect.    Report this comment (Comment number 17) Link to this (Comment number 17)                 rate this     +5      rate this     +5   Comment number 16.  Ian  22nd November 2011 - 12:00   i think the argument about privacy goes back to the advent of the postal service.  We put our letters in an envelope to give us privacy.  when we send a postcard,  we think carefully before we write on it because it can be read by anyone.  I think it is very interesting that legally you have a decreased expectation of privacy if you use twitter.  Can the same be said of us if we send postcards?    Report this comment (Comment number 16) Link to this (Comment number 16)                 rate this     +3      rate this     +3   Comment number 15.  Raymond Hopkins  22nd November 2011 - 11:59   As with so much else, this is a system which can be used for the common good. As with so much else, this is a system that is open to abuse. Where to draw the line, as always, is the question. Not that it bothers me personally, as I do not own a mobile phone, have no Facebook or similar account, and even the computer I am using is borrowed. This may be a little unusual, but I do retain some privacy    Report this comment (Comment number 15) Link to this (Comment number 15)                 rate this     +20      rate this     +20   Comment number 14.  Letsbe_avenue  22nd November 2011 - 11:56   Just because these days a section of society has been lured into broadcasting every detail of their lives on the internet, it doesn't make it OK. To argue that people do it voluntarily does not mean it's OK to amass data on innocent citizens. East Germany would have loved this spying on people using devices they pay for themselves. I suspect if the boot was on the other foot they'd start screaming    Report this comment (Comment number 14) Link to this (Comment number 14)                 rate this     +2      rate this     +2   Comment number 13.  Lin Chong  22nd November 2011 - 11:51   I think everybody should just have a sub-dermal GPS module. It will make life so much easier. A thief will know when you are not home, the Police will know where the thief is, the thief will know this too. If a child goes missing the parents will know where to find the corpse, if a plane crashes it'll be easy to ID the stiffs, the NHS will know when fat people go to BK. Come on, It'll be FUN!    Report this comment (Comment number 13) Link to this (Comment number 13)                 rate this     +15      rate this     +15   Comment number 12.  SlimMillipede  22nd November 2011 - 11:49   Surely using someone's mobile phone to track them is akin to bugging that phone and should be subject to the same level of approval.We have plenty of evidence that the police (and councils etc) will use every power given them, often for purposes other than intended.  How many protesters have been picked up under anti-terrorism laws?   and how many councils misused the RIPA laws?    Report this comment (Comment number 12) Link to this (Comment number 12)                 rate this     +1      rate this     +1   Comment number 11.  dualla  22nd November 2011 - 11:47   Turning your smartphone off does not inhibit tracking, you just cant make a call.    Report this comment (Comment number 11) Link to this (Comment number 11)                 rate this     +5      rate this     +5   Comment number 10.  grayhame  22nd November 2011 - 11:44   grayhame I regularly turn my mobile phone off to save the battery and only turn it on to check for messages or make a call .Will I soon be in breach of the peace for turning my phone off?.    Report this comment (Comment number 10) Link to this (Comment number 10)                 rate this     +13      rate this     +13   Comment number 9.  Jason Russell  22nd November 2011 - 11:43   Nothing to hide, nothing to fear - absolute baloney!!  The laws of this land (and others) are slowly being inverted from telling what we cannot do, to what we can...The Police state as found in some of the middle easten countries is already here, just more hidden - More and More evidence of Police brutality is being published day by day - welcome to today folks, you have nothing to fear...    Report this comment (Comment number 9) Link to this (Comment number 9)                 rate this     +3      rate this     +3   Comment number 8.  Sickem  22nd November 2011 - 11:37   Big Brother is here..George Orwell    Report this comment (Comment number 8) Link to this (Comment number 8)                 rate this     +13      rate this     +13   Comment number 7.  ncstrudwick  Comment number 7 is an Editors' Pick 22nd November 2011 - 11:32   I would say there is a huge difference between having a GPS device planted in your car and having your phone tracked. You have no idea the car is being tracked; at least with the phone, most of us know that at a minimum the phone company knows where your phone is, and we can always turn them off.The police tracking perfectly legal demonstrators is frightening. How about catching real criminals?    Report this comment (Comment number 7) Link to this (Comment number 7)                 rate this     +10      rate this     +10   Comment number 6.  dualla  22nd November 2011 - 11:19   How different is this topic to the hacking court cases now on trial, apart from not being published.    Report this comment (Comment number 6) Link to this (Comment number 6)                 rate this     +16      rate this     +16   Comment number 5.  Gary Szendzielarz  Comment number 5 is an Editors' Pick 22nd November 2011 - 11:07   One part of me says, if you're not committing a crime, then you have nothing to fear; having said that we have seen examples of abuse of police power in the US in recent days/weeks, so I think they really need to prove themselves before they are given these sort of powers on a whim.    Report this comment (Comment number 5) Link to this (Comment number 5)         Page 12 of 13    Newer 1 ... 9 10 11 12 13 Older       Add your comment    Sign in with your BBC iD, or Register to comment and rate comments     All posts are reactively-moderated  and must obey the house rules.      
+
+
+Share this page
+
+
+Delicious
+
+
+Digg
+
+
+Facebook
+
+
+reddit
+
+
+StumbleUpon
+
+
+Twitter
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top stories
+
+
+
+Assad: Israel destabilising Syria
+
+
+French jets bomb northern Mali 
+
+
+Malala recovering after surgery
+
+
+Deadliest US sniper is shot dead
+
+
+Memorials for Brazil fire victims
+
+
+
+
+
+
+
+
+
+Features & Analysis
+
+
+
+
+Staying alive Watch
+
+The legendary Phantom's comic strip appeal 	
+				  
+
+
+
+
+Mashed potato rows
+
+Kathy Etchingham remembers life as Jimi Hendrix's 'Foxy Lady' 	
+				  
+
+
+
+
+Miles from home
+
+Has Hillary’s journey ended, or is more to come? 	
+				  
+
+
+
+
+Set for the Super Bowl
+
+Photographer Stephen McLaren's explores New Orleans 	
+				  
+
+
+
+
+
+
+Most Popular
+Shared
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Etch A Sketch inventor dies at 86
+
+
+
+3: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+4: Car park dug up around parked car
+
+
+
+5: Stallone joins gun control debate
+
+
+
+Read
+
+
+
+
+1: US sniper book author shot dead
+
+
+
+2: Being Jimi Hendrix's 'Foxy Lady'
+
+
+
+3: Assad: Israel destabilising Syria
+
+
+
+4: French jets bomb northern Mali 
+
+
+
+5: Car park dug up around parked car
+
+
+
+6: Mars rover hammers down into rock
+
+
+
+7: Google boss labels China 'IT menace'
+
+
+
+8: Iran seeks 'authentic' US talks
+
+
+
+9: Taser used near Buckingham Palace
+
+
+
+10: Dolphins 'saved' by distress call
+
+
+
+Video/Audio
+
+
+
+
+1: Syria airs 'Israeli strike' footage Watch
+
+
+
+2: Stallone joins gun control debate Watch
+
+
+
+3: Iran unveils 'stealth fighter' plane Watch
+
+
+
+4: US child still hostage in bunker Watch
+
+
+
+5: Knives man Tasered outside palace Watch
+
+
+
+6: Apology over police beating footage Watch
+
+
+
+7: An early masked hero lives on in reissued comics Watch
+
+
+
+8: One-minute World News Watch
+
+
+
+9: Time-lapse shows Sandy strike NYC Watch
+
+
+
+10: A female view of the Civil War Watch
+
+
+
+
+
+
+
+
+
+
+
+
+Elsewhere on the BBC
+
+
+
+Coast stories
+
+BBC Travel discovers why the island of Mauritius is much more than just a fly-and-flop destination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programmes
+
+
+
+The Culture Show Watch
+
+Look death in the face with objects that chart how we try to make peace with the end of life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+ Mobile
+ Connected TV
+ News feeds
+ Alerts
+ E-mail news
+
+
+
+About BBC News
+
+Editors' blog
+BBC College of Journalism
+News sources
+Media Action
+
+
+
+
+    BBC links    Mobile siteTerms of UseAbout the BBC     Advertise With UsPrivacyBBC Help     Ad ChoicesCookiesAccessibility Help     Parental GuidanceContact Us       BBC © 2013 The BBC is not responsible for the content of external sites. Read more. This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+

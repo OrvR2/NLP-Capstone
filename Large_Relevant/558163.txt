@@ -1,0 +1,429 @@
+Overcharging batteries eyed in Boeing 787 fires - Yahoo! News
+
+
+
+
+ Skip to search.     New User? Register  Sign InHelp  Make Y! My Homepage        Notifications Help      Mail    My Y!    Yahoo!                 Yahoo! News              Search   Search Web        Breaking News Visit Yahoo! News for the latest.  ×Close this window      
+HomeVideoPhotosGMAYear in ReviewOddComicsTravelOpinionTrending NowWho Knew?WeatherTech It UpU.S.U.S. VideoGMAEducationReligionCrimes and TrialsThe LookoutLocalContributor NetworkYear In ReviewWorldWorld VideoMiddle EastEuropeLatin AmericaAfricaAsiaCanadaAustralia/AntarcticaBusinessVideoExclusivesToday's MarketsStocksPersonal FinancePress ReleasesMarketplaceEntertainmentVideoClinton ConcertCelebrityTVMoviesMusicFashionBooksArtsTheaterDear AbbyComicsOdd NewsSportsVideoNFLMLBNBANCAAFNCAABSoccerCyclingNHLTennisGolfBoxingMotor SportsMMAOlympicsTechTech It UpBest in TechGadgetsWirelessAppleSocial MediaSecurityOpen SourceGamingAppsThis Could Be BigUpgrade Your LifePoliticsThe TicketThe SignalRemake AmericaThe IssuesWomen and PoliticsPress ReleasesVideoScienceScience VideoWeather NewsSpace / AstronomyPetsDinosaurs / FossilsBiotechEnergyGreenHealthVideoWeight LossCancerSexual HealthMedications/DrugsParenting/KidsSeniors/AgingDiseases/ConditionsBlogsThe LookoutThe SideshowExpress TicketAround the WorldKatie's TakePower PlayersThis Could Be BigNewsmakersTrending NowLocalPopular
+
+
+
+SearchKeywordNews Search
+
+
+Featured»VideosPhotosKatie's TakeTrending NowThis Could Be BigWeatherWho Knew?NewsmakersEnterprise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discover Yahoo! With Your Friends Loginclose 
+
+
+
+YOUR FRIENDS' ACTIVITY
+
+
+
+prev
+
+
+next
+
+
+
+
+
+
+
+
+
+
+
+Overcharging batteries eyed in Boeing 787 firesOvercharging of batteries likely culprit in Boeing 787 fires, aviation and battery experts sayBy Joan Lowy, Associated Press | Associated Press – Fri, Jan 18, 2013
+
+
+Email
+0
+
+
+Share
+Tweet0
+
+Share0
+Print
+
+
+Related ContentView Photo       …
+
+
+
+
+
+
+WASHINGTON (AP) -- It's likely that fires on two Boeing 787 Dreamliners were caused by overcharging lithium ion batteries, aviation safety and battery experts said Friday, pointing to developments in the investigation of the Boeing incidents as well as a battery fire in a business jet more than a year ago.
+                  
+An investigator in Japan, where a 787 made an emergency landing earlier this week, said the charred insides of the plane's lithium ion battery show the battery received voltage in excess of its design limits.
+                  
+The similarity of the burned battery from the All Nippon Airways flight to the burned battery in a Japan Airlines 787 that caught fire Jan. 7 while the jet was parked at Boston's Logan International Airport suggests a common cause, Japan transport ministry investigator Hideyo Kosugi said.
+                  
+"If we compare data from the latest case here and that in the U.S., we can pretty much figure out what happened," Kosugi said.
+                  
+In the case of the 787 in Boston, the battery in the plane's auxiliary power unit had recently received a large demand on its power and was in the process of charging when the fire ignited, a source familiar with the investigation of the 787 fire in Boston told The Associated Press. The plane had landed a short time earlier and was empty of passengers, although a cleaning crew was working in the plane.
+                  
+The source spoke on condition of anonymity because he wasn't authorized to speak publicly.
+                  
+The Federal Aviation Administration issued an emergency order Wednesday temporarily grounding the six 787s belonging to United Airlines, the lone U.S. carrier operating Boeing's newest and most technologically advanced airliner. The Japanese carriers already had grounded their 787s, and airlines and civil aviation authorities in other countries followed suit, shutting down all 50 Dreamliners that Boeing has delivered so far.
+                  
+Boeing said Friday it will stop delivering new 787s to customers until the electrical system is fixed. However, production is not stopping. The plane is assembled in Everett, Wash., and North Charleston, S.C. The aircraft maker has booked orders for more than 800 of the planes from airlines around the world attracted by its increased fuel efficiency.
+                  
+A battery fire in a Cessna Citation CJ4, a business jet, prompted the Federal Aviation Administration in October 2011 to issue an emergency order requiring the lithium ion batteries in all 42 of the jets in operation at that time to be replaced with a conventional nickel-cadmium or lead-acid battery. The fire occurred while the plane was hooked up to a ground power station at Cessna's aircraft completion center in Wichita, Kan. Normally, that would cause an aircraft battery to automatically start charging, experts said.
+                  
+A letter from Cessna to CJ4 owners after the incident cautioned: "Do not connect a ground power unit to the airplane if you have reason to believe the battery may be in a depleted state ... Do not leave the aircraft unattended with a ground power unit connected."
+                  
+The Citation was Cessna's first business jet with a lithium ion battery as its main battery, and the 787 is the first airliner to make extensive use of lithium ion batteries. But the two are vastly different in size and in other respects, including their electrical systems, making comparisons difficult. Their batteries also came from different makers. The reasons they overcharged are likely to be different, experts said.
+                  
+However, the three incidents — the two 787 fires and the Citation fire — underscore the vulnerability of lithium ion batteries to igniting if they receive too much voltage too fast, experts said. Other types of batteries may overheat in those circumstances, but they are far less susceptible to starting a fire, they said.
+                  
+"Other batteries don't go this wrong when you treat them this badly," said Jay Whitacre, an associate professor of materials science and engineering at Carnegie Mellon University. "The overall story here is these batteries are full of flammable electrolyte and they will burn if they are mistreated and something goes wrong."
+                  
+There was one lithium ion battery fire during testing of the batteries while Boeing was working with FAA on certification of the 787, said Marc Birtel, a spokesman for the aircraftmaker.
+                  
+However, that fire was due to problems with the test rather than the batteries themselves, he said.
+                  
+"There are multiple backups to ensure the system is safe," Birtel said. "These include protections against over-charging and over-discharging."
+                  
+But John Goglia, an aviation safety expert and former National Transportation Safety board member, said, "it certainly sounds like based on what has been released so far that we have an issue of the battery charger or some other source providing too much energy to the battery."
+                  
+He said too-rapid charging might cause the electrolyte fluid in the batteries to overheat, leak and catch fire.
+                  
+If the fires are due to overcharging batteries, that might be good news for Boeing, Goglia said. A flaw in the aircraft's electronics that permits overcharging would likely be much easier to fix than having to replace the aircraft's lithium batteries with another kind of battery, he said.
+                  
+Another possibility is a manufacturing defect in the batteries themselves, Whitacre said. More than other types of batteries, lithium ion batteries rely on very thin sheets of material internally to separate the negative and positive poles. The slightest flaw can cause a short circuit, overheating the flammable electrolytes.
+                  
+"It's a delicate ecosystem that you are creating inside it and you have to manufacture it with perfect integrity," Whitacre said. "Then you have to keep it in the right voltage range and be very safe with its environmental conditions."
+                  
+The attraction of lithium batteries is that they are significantly lighter than other types of batteries. That saves fuel, which is airlines' leading expense. They also charge faster and contain more energy. And they can be molded to fit into odd space on airplanes, which most other batteries cannot.
+                  
+The only other airliner using lithium batteries is the Airbus A380, which makes only limited use of the batteries for emergency lighting. However, Airbus is working on another airliner, the A350, expected to debut in 2014, that will make more extensive use of lithium batteries.
+                  
+Boeing's headaches with the 787's lithium batteries are likely to cause European safety officials and other regulators around the world to take a harder look at the new Airbus plane's batteries, safety experts said.
+                  
+"I think they're going to have a learning experience here that probably is going to result in future modifications for anybody who wants to design an aircraft and use this type of battery technology," said Robert Fiegl, chairman of aeronautical science at Embry-Riddle Aeronautical University in Prescott, Ariz.
+                  
+The FAA, like aviation regulators in other countries, relies on the aircraft manufacturers to test their planes to make sure they are safe. FAA's certification engineers validate that testing and ensure that the level of safety meets FAA regulations. Boeing developed the safeguards for the 787s lithium batteries, but they had to win FAA's approval first.
+                  
+The safety certification for the design, manufacturer and assembly of the 787 — a process that requires FAA approval each step of the way — was different in some respects from other aircraft because the Dreamliner employs so many cutting-edge technologies, safety experts said.
+                  
+Besides its use of lithium batteries, the 787 is the first airliner whose structure is mostly made from composite materials rather than aluminum. The aircraft also relies to a greater extent than previous airliners on electronics to operate, rather than hydraulic or mechanical systems.
+                  
+"You can go down the list of hardware on that plane where it's the first time it has been used on an airplane," said Paul Czysz, professor emeritus of aeronautical engineering at St. Louis University in St. Louis. "With anything that's brand new and has never been used on an airplane before, you run the risk of being the first one to find out if it really works."
+                  
+The 787 was tested extensively both before and after its first test flight in 2009. The FAA said its technical experts logged 200,000 hours testing and reviewing the plane's design before it was certified in August 2011.
+                  
+Six test planes ran up some 4,645 flight hours. About a quarter of those hours were flown by FAA flight test crews, the agency said in 2011.
+                  
+___
+                  
+Associated Press writers Malcolm Foster in Tokyo and Joshua Freed in Minneapolis contributed to this report.
+                  
+___
+                  
+Follow Joan Lowy at http://www.twitter.com/AP_Joan_Lowy
+               
+
+
+
+
+
+Explore Related Content1 - 4 of 20prevnext US Wants Full History of Boeing 787 Batteries Associated Press Videos Boeing focuses on 787 fix; 4Q profit tops estimate APOvercharging of batteries likely culprit in Boeing 787 fires, aviation and battery experts say AP WASHINGTON - It's likely that fires on two Boeing 787 Dreamliners were caused by overcharging lithium …  Emergency landing grounds Boeing 787 jets in Japan KGO – San Francisco US Wants Full History of Boeing 787 Batteries Associated Press VideosJapan investigator points to excessive voltage as cause of battery problem in ANA's Boeing 787 AP TOKYO - The burned insides of a battery in the Boeing 787 at the centre of a worldwide grounding …  FAA grounds Boeing 787 Dreamliners pending safety check KABC – Los Angeles FILE - In this Friday, Jan. 18, 2013 file photo, an All Nippon Airways' Boeing 787 "the Dreamliner" parks on the tarmac as a Japan Airlines' Boeing 767 airplane takes off at Haneda Airport in Tokyo. ANA and JAL said they replaced lithium-ion batteries in their Boeing 787 Dreamliners on multiple occasions before a battery overheating incident led to the worldwide grounding of the jets. ANA said Wednesday, Jan. 30, it replaced batteries on its 787 aircraft some 10 times because they failed to charge properly or showed other problems, and informed Boeing about the swaps. JAL said it had also replaced lithium-ion batteries on its 787 jets but couldn't immediately give details. (AP Photo/Koji Sasahara, File) APJapan probe suspects excess voltage in 787 battery AP Boeing 787 Grounding Is Setback For Mineta International CBS-Sanfrancisco Handout of burnt auxiliary power unit battery removed from Japan Airlines Boeing 787 Dreamliner jet provided by NTSB ReutersNTSB: Plane battery that burned not overcharged AP WASHINGTON (AP) — The battery that caught fire in a Japan Airlines Boeing 787 in Boston earlier this …  Dreamliners grounded as battery blamed for incident Reuters Videos Lithium batteries central to Boeing's 787 woes APDreamliner probe widens after excess battery voltage ruled out Reuters FAA grounds Boeing's 787 Dreamliner fleet FOX News Videos FILE - In this Thursday, Jan. 17, 2013 photo provided by the Japan Transport Safety Board shows the distorted main lithium-ion battery, left, and an undamaged auxiliary battery of the All Nippon Airways' Boeing 787 which made an emergency landing on Wednesday, Jan. 16, 2013 at Takamatsu airport in Takamatsu, western Japan. Japan’s All Nippon Airways said Wednesday, Jan. 30, 2013 it replaced lithium-ion batteries on its 787 Dreamliners 10 times before a battery overheating incident led to the worldwide grounding of the jets. Boeing was informed, but the airline was not required to report the battery swapping cases to Japan’s Transport Ministry because they did not raise safety concerns and did not interfere with flights. (AP Photo/Japan Transport Safety Board, File) EDITORIAL USE ONLY, NO SALES APJapan's airlines replaced 787 batteries many times AP Boeing Dreamliners Grounded After Emergency Landing hulu videos Handout photo of an auxiliary power unit battery removed from a Japan Airlines Boeing 787 Dreamliner passenger jet Reuters
+More Top Stories »US military expands its drug war in Latin America2 hrs 0 mins agoMan charged in fatal gun range shooting of ex-SEAL/author13 mins agoNRA likens universal checks to gun registry1 hr 27 mins agoSyrian opposition chief under fire for talks with Assad allies2 hrs 8 mins agoBoehner steadies GOP team, reframes deficit debate3 hrs agoIran hedges on nuclear talks with six powers or U.S50 mins agoArmed man arrested outside Buckingham Palace1 hr 3 mins ago
+
+
+
+
+
+All Comments
+ 
+
+
+
+                        7 comments
+                        
+
+Popular Now
+Newest
+
+Oldest
+
+Most Replied
+
+
+
+
+
+
+v1/comments/context/ceacc556-5e32-3bb6-8148-e6610c6742e4/comment/1358655241376-6c309c41-4cac-4ff3-9f58-38da873c34f0
+
+
+
+
+
+
+
+NoNotMe
+ • 
+14 days ago
+
+@William. The controls may be electrically actuated but are not powered by the batteries. They are powered by engine driven generators. The batteries only supply power to initiate starting sequence or provide power in extreme circumstances where the engine driven generators are off line. This should be a matter of tweaking the voltage regulator system.
+
+
+
+
+ 
+
+v1/comments/context/ceacc556-5e32-3bb6-8148-e6610c6742e4/comment/1358631937451-7c541bcc-ba29-4df0-9e80-be5dbfe102e9
+
+
+
+
+
+
+
+CharlieK
+ • 
+14 days ago
+
+Considered they were not able to match battery & battery charger then you can wonder what else they did not get right.
+
+
+
+
+ 
+
+v1/comments/context/ceacc556-5e32-3bb6-8148-e6610c6742e4/comment/1358580372212-ab190efc-987e-43ad-a8ae-ddd6a8bad004
+
+
+
+
+
+
+
+John
+ • 
+15 days ago
+
+boeing only made the #$%$ end of this hunk-a-junk!They lost control on quality #$%$urance.Parts were made all over the world and are expected to fit..hahhahahahahahah!Fly Airbus...a much better lawn dart!
+
+
+
+
+ 
+
+v1/comments/context/ceacc556-5e32-3bb6-8148-e6610c6742e4/comment/1358705521092-f31dfa54-51b8-4fac-af9d-2363b7c39e3e
+
+
+
+
+
+
+
+Sal D
+ • 
+13 days ago
+
+The battery control system is made by Thales, the same French company that made the defective speed tubes that caused the Air France crash in the Atlantic. Doesn't necessarily mean it's the cause, but personally I don't trust French engineering and manufacturing.
+
+
+
+
+ 
+
+v1/comments/context/ceacc556-5e32-3bb6-8148-e6610c6742e4/comment/1358615198226-00e8df62-e37b-41f5-a78f-b104be3bfc01
+
+
+
+
+
+
+
+williamd
+ • 
+14 days ago
+
+Most of the controls are electrical on the 787 as opposed to other planes where they are hydraulic, mechanical using bleed air from the engines.  It seems that this is a big design issue for the 787 because the controls of the airplane including landing gear are entirely dependent on the subject electrical system.  If it is not reliable it is not just going to be as easy as switching out the lithium batteries for NiCad batteries. Also, fire hazard is more problematic with the carbon fiber plastic material used to make most of the plane.
+
+
+
+
+
+
+
+
+v1/comments/context/ceacc556-5e32-3bb6-8148-e6610c6742e4/comment/1358615198226-00e8df62-e37b-41f5-a78f-b104be3bfc01/reply/00002I000000000000000000000000-4eeba88f-8ef7-4f21-aad7-bdabf8b7a238
+
+
+
+
+
+
+
+CharlieK
+14 days ago
+
+Hmm... did Boeing have the good sense to make these aircrafts out of fire resistant carbon-fiber  plastics?
+
+
+
+
+
+
+
+
+
+ 
+
+v1/comments/context/ceacc556-5e32-3bb6-8148-e6610c6742e4/comment/1358613291651-01cc81c2-90f8-4e2b-aa72-8face38bcc62
+
+
+
+
+
+
+
+us
+ • 
+15 days ago
+
+this thing has had enough problems for me not to want to ride it ever.
+
+
+
+
+ 
+
+v1/comments/context/ceacc556-5e32-3bb6-8148-e6610c6742e4/comment/1358560018308-9051f333-b7cc-4427-85b7-c614504ce874
+
+
+
+
+
+
+
+Greg
+ • 
+15 days ago
+
+This plane was really made by Mattel.
+
+
+
+
+
+
+
+
+ Post a comment
+                           
+
+
+
+Copyright 2013 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+
+
+
+You on Yahoo! News   Your Activity |Social: OFFON Turn Social ONRemind me when I share|Options What is this?Not you? Log out of FacebookHow to remove this experience
+
+
+
+Today on Yahoo!1 - 8 of 48prevnextRemember this timeless toy?Erase five years with one productWhere you don't want to die in 2013Who will win the big game tonight?Jim Carrey, whose hand are you holding?Inexpensive way to colonize the moonWhatever happened to this '80s icon?How to lower your stroke risk
+
+
+Most PopularObama Clings to Shotgun in WH PhotoAhmadinejad unveils Iran's newest fighter jetSheriff thanks suspect for taking care of boyMarine survey lists concerns on women in combatSylvester Stallone supports assault weapon banObama a skeet shooter? See new White House photo
+Follow Yahoo! NewsTop Stories on FacebookAre you on Facebook? Join our page for top stories! More »www.facebook.comFollow @ Yahoo! News on TwitterThe official account of Yahoo! News. 100% feed-free tweets by news fans for news fans! More »twitter.com
+Loading... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yahoo! NewsHomeU.S.WorldBusinessEntertainmentSportsTechPoliticsScienceHealthBlogsLocalPopularAll Yahoo! News »
+
+
+
+
+Also On Yahoo!AutosFinanceGamesGroupsHealthMapsMoviesMusicomg!ShineShoppingSportsTravelTVY! News RSSY! News Alert All Yahoo! »
+
+
+Trending NowOprah hit with lawsuitAmanda Bynes evictionChris Kyle shotMan with $70M checkSarai Sierra found deadLil Wayne Nicki MinajBlind Side familyDave Wannstedt hiredPlane goes off runwayInmates save three boys
+
+
+
+
+
+
+
+
+
+
+Copyright © 2013 The Associated Press. All rights reserved. The information contained in the AP News report may not be published, broadcast, rewritten, or redistributed without the prior written authority of The Associated Press.
+
+
+
+
+
+
+                Copyright © 2013 Yahoo! Inc. All rights reserved.
+            
+
+                 | Yahoo! - ABC News Network | 
+            
+
+Help / Suggestions
+Privacy Policy
+About Our Ads
+Terms of Service
+Copyright/IP Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1153 @@
+Call of Duty: Black Ops II - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+Call of Duty: Black Ops II
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+Call of Duty: Black Ops II
+
+
+
+
+
+Developer(s)
+Treyarch
+
+
+Publisher(s)
+Activision
+
+
+Writer(s)
+David S. Goyer
+
+
+Composer(s)
+Jack Wall[1]
+Trent Reznor (theme music)[2]
+
+
+Series
+Call of Duty
+
+
+Engine
+Black Ops II engine
+
+
+Platform(s)
+PlayStation 3
+Xbox 360
+Microsoft Windows
+Wii U[3]
+
+
+Release date(s)
+PlayStation 3, Xbox 360 & Microsoft Windows
+November 12, 2012 (Steam)
+November 13, 2012 (Retail)[4][5][6]
+Wii U
+NA 20121118November 18, 2012
+EU 20121130November 30, 2012
+AU November 30, 2012[7]
+
+
+
+Genre(s)
+First-person shooter
+
+
+Mode(s)
+Single-player, multiplayer, Co-op
+
+
+Call of Duty: Black Ops II is a first-person shooter video game, developed by Treyarch and published by Activision (Square Enix for Japan). It was released on November 13, 2012 for PlayStation 3, Xbox 360, and Microsoft Windows and on November 18, 2012 in North America, November 30, 2012 in Europe and Australia for the Wii U.[4][5][6] Square-Enix released the game for the Japanese market on November 22, 2012 as a subbed version. A Japanese voice-dubbed version was released separately on December 20, 2012. The Japanese release of the Wii U port is only the dubbed version since the console was not available in Japan in November.[8] Black Ops II is the ninth game in the Call of Duty franchise of video games and a sequel to the 2010 game Call of Duty: Black Ops. The game was launched at 16,000 stores worldwide at midnight on November 13, 2012.[9]
+Black Ops II is the first game in the Call of Duty franchise to feature future warfare technology and the first to present branching storylines driven by player choice. It also offers a 3D display option.[10] A corresponding game, Call of Duty: Black Ops: Declassified, was released simultaneously on the PlayStation Vita. Within 24 hours of going on sale, the game grossed over $500 million, beating 2011's Modern Warfare 3 to become the biggest entertainment launch of all time.[11] It went on to sell 7.5 million copies in November 2012, making it the highest grossing game of the month.[12]
+The game is the first in the series to feature significant elements of nonlinear gameplay, most notably multiple endings.[13]
+
+
+
+
+Contents
+
+
+1 Synopsis
+
+1.1 Characters and setting
+1.2 Plot
+
+1.2.1 1980s
+1.2.2 2025
+
+
+1.3 Endings
+
+
+2 Gameplay
+
+2.1 Strike Force missions
+2.2 Zombies
+
+
+3 Development
+
+3.1 Internal leaks
+3.2 Reveal
+3.3 Gameplay revisions
+3.4 Audio
+
+
+4 Reception
+5 References
+6 External links
+
+
+
+
+ Synopsis
+
+
+
+Call of Duty
+fictional chronology
+
+
+
+
+World War II story arc
+1942–1945 – Call of Duty
+                   – United Offensive
+                   – Finest Hour
+                   – Call of Duty 2
+                   – Big Red One
+                   – Call of Duty 3
+                   – Roads to Victory
+
+Modern Warfare story arc
+2011 – Modern Warfare (DS)
+2015 – Defiance
+2016–2017 – Modern Warfare 2
+                   – Mobilized
+                   – Modern Warfare 3
+
+Black Ops story arc
+1942–1945 – World at War (DS)
+                   – Final Fronts
+1961–1968 – Black Ops 1986–2025 – Black Ops II (Declassified)
+
+Zombies story arc
+1945 – Nazi Zombies (Call of Duty: Zombies)
+1962–2011 – Zombies (Black Ops: Zombies)
+
+
+
+
+ Characters and setting
+The single-player campaign features two connected storylines, with the first set from 1986 to 1989 during the final years of the first Cold War, and the other set in 2025 during a second Cold War. The protagonist of Black Ops, Alex Mason returns as the protagonist in the first Cold War section, and chronicles the rise to infamy of the game's primary antagonist, Raul Menendez,[14] a Nicaraguan narco-terrorist and the leader of "Cordis Die", a populist movement celebrated as the champion of victims of economic inequality.[citation needed]
+The 2025 section of the game features Alex Mason's son David as the protagonist during a new Cold War between China and the United States.[15] In this era, wars are defined by robotics, cyberwarfare, unmanned vehicles, and other futuristic technology.[14][16]
+ Plot
+In the year 2025, US Special Forces operatives led by David Mason and his partner, Harper, arrive at "the Vault", a top-security location home to an aging Frank Woods, whom they suspect possess vital information on the whereabouts of Raul Menendez. Woods concedes that Menendez has recently visited him, and shows them a locket that the latter had left behind. Frank then narrates several covert missions undertaken during his military career which span their previous encounters.
+ 1980s
+In 1986 Alex Mason had effectively retired from active duty to pursue an obscure existence in Alaska with his son, the seven-year-old David. Their shaky relationship is strained further when Mason is solicited by Jason Hudson, seeking to recruit him for an assignment in Cuando Cubango during the height of the Angolan civil and South African Border Wars. Woods had disappeared with his men while aiding Jonas Savimbi's UNITA rebels against Angola's Marxist government; their actions have already been disavowed by the CIA and Hudson hopes to rescue any survivors. With UNITA assistance, Mason and Hudson recover Woods from the Kavango River, subsequently locating Menendez among a contingent of Cuban military advisers. However, a firefight breaks out, and their quarry escapes as the Americans are rescued by Savimbi in a Hind D. It is revealed that Menendez is responsible for holding Woods captive after murdering his team.
+In light of this information, Mason, Woods, and Hudson begin tracking Menendez, who has established himself as a primary arms dealer for bush conflicts in Southern Africa and Latin America. Later in the year, the CIA authorizes a strike against the unscrupulous Nicaraguan, now making a healthy profit running arms across Soviet-occupied Afghanistan. In Afghanistan, Mason, Woods, and Hudson assist the Mujahideen in their battle against the Russians, along with Chinese operative Tian Zhao. Woods and Mason find Lev Kravchenko, who turns out to have survive the grenade incident with Woods in Vietnam, causing Mason to see the numbers and hearing Reznov's voice again. Kravchenko is interrogated by the group and the player is given the option of executing Kravchenko by Reznov's orders inside Mason's head or resisting and finishing the interrogation, in which case, Woods then executes Kravchenko after admitting that he associated with Menendez and that he has men inside the CIA. Regardless of how Kravchenko is killed, the Mujahideen are revealed to be allied with Menendez, and double-cross Mason, Woods, Hudson, and Zhao. The four are beaten, tied, and left for dead in the middle of the desert, unconscious until rescued by civilians, one of whom Mason believed to be Reznov.
+At this point, Menendez's motive for his seemingly senseless vendetta against the West become clear: his beloved sister was grievously injured in an act of arson committed by American businessmen for insurance money. The Menendez clan, which dominates a powerful drug cartel, was again rocked by loss when the CIA sanctions the assassination of Raul's father. An embittered Menendez now considers the conflict to be personal, but his one-man struggle against the West is interrupted when Mason, Woods, Hudson, and the Panama Defense Force raid his headquarters in Nicaragua; an enraged Woods inadvertently kills Raul's sister with a grenade.
+Faking his demise with the assistance of Panamanian dictator Manuel Noriega, Menendez lives to retaliate against those he holds personally responsible for his sister's death. During the 1989 invasion of Panama, he utilizes moles in the CIA to kidnap Hudson and David, using them as bait for a trap. He then uses Hudson to mislead Woods, manipulating him into shooting Mason instead of himself. If the player disobeys Hudson's instructions to shoot Alex Mason in the head and instead shoots him anywhere else, he will survive and reappear in the game's ending. In the ensuing chaos, Menendez kills Hudson and cripples Woods. Unsatisfied with his revenge, Menendez allows Woods and David to live, promising to return to complete his revenge when the time is right.
+ 2025
+Three decades after the Invasion of Panama, Menendez re-emerges as the leader of Cordis Die, a massive populist movement with over a billion followers. He stages a cyberattack that cripples the Chinese Stock Exchange; in response, the Chinese ban the export of rare earth elements, fermenting the start of a new Cold War between the United States and NATO, against the Chinese-led SDC (Strategic Defense Coalation). Taking advantage of this stand-off, Menendez attempts to bring the two powers to a full-blown war by inciting conflicts between the two, secretly aiding SDC leader Chairman Tian Zhao. Using the intelligence provided by Woods, David, now a Navy SEAL code-named Section, leads JSOC forces in the renewed search for Menendez.
+Shortly after gathering intelligence from Woods, Section and JSOC infiltrates Myanmar investigating a spike in activity in the region. There, Section's team encounters a computer engineer under Menendez's employment, warning them of a cyberattack with a Celerium device, a quantum computer capable of hacking any computer system. Section's team is later deployed in Pakistan, attempting to gather intelligence on Menendez's plots. During the infiltration, Menendez discloses the name of a target, "Karma" in the Cayman Islands. Section and SEAL operatives Harper and Salazar later infiltrate the Cayman Islands, finding out that "Karma" is a woman named Chloe Lynch, a former employee of Menendez's shell corporation, Tacitus. Lynch was the main developer of the Celerium device, and as a means of wrapping up loose ends, Menendez had deployed mercenaries for her abduction.
+JSOC later has a lead on Menendez in Yemen, where JSOC asset Farid infiltrates Menendez's cell to help Section facilitate the leader's capture. The player, as Farid has a choice during the mission. Menendez, suspecting Farid's disloyalty, orders him to shoot the captured Harper. If the player chooses not to shoot Harper, and instead attempts to shoot Menendez, he fails, but Harper survives and is rescued. If the player chooses to shoot Harper, Farid survives, and Harper is not present in any conversations or missions thereafter. Menendez is successfully captured, but this was a ruse for Menendez to hack into the U.S. military's computer infrastructure on the aircraft carrier the U.S.S. Obama, seizing control of the United States' entire drone fleet. Salazar is revealed to be Menendez's mole within JSOC, and facilitates Menendez's attack—Menendez escapes with Salazar's aid, and when Menendez breaks in to the bridge of the Obama, Salazar shoots the soldiers guarding Admiral Briggs, with Lynch's survival dependent on Farid's survival in the previous mission. The player, playing as Menendez, has the choice of either killing or wounding Admiral Briggs. If the player only wounds Briggs, and the player has completed all of the Strike Force missions, JSOC and SDC enter an alliance, then the player is later informed that the SDC sent hundreds of drones to defend the Obama, and consequently Briggs was able to save the ship and its crew. Menendez uses the drones to stage an attack on Los Angeles during a meeting of G20 leaders, hoping to kill them and cause catastrophic damage to the global economy. Mason escorts the President of the United States to safety amidst the drone attacks.
+JSOC eventually finds the source of the transmissions responsible for the hacking to Haiti, where Section leads JSOC forces into recapturing the facility in the final mission, and apprehending or killing Menendez. There are different endings depending on the actions the player takes throughout the campaign, such as whether or not the United States and China are able to enter an alliance with each other, as well as determining the fates of certain individuals in the game.
+During the main campaign, the player may choose to participate in optional Strike Missions. The Strike Missions involve JSOC attempting to curb the SDC's global influence by preventing them from forcing neighboring countries into the alliance. Section himself does not participate in these missions directly, though he can command the forces remotely from a command center. If the missions are completed successfully, the SDC is weakened enough to ally with JSOC, and assists the player later in the campaign, for example, in sending its own drones to rescue the U.S.S. Obama and sending its forces to assist JSOC in Haiti.
+ Endings
+The storyline of Call of Duty: Black Ops II has several endings, depending on which conditions the player fulfills over the course of the game.
+If the player spares Menendez's life, completes all four Strike Force Missions, and both Chloe Lynch and Alex Mason survive the events of the game, the "best" ending will result. The player will have secured an alliance between China and the United States, ending the Second Cold War, Lynch's survival prevents Menendez's cyberattack from succeeding, and Mason's survival allows him to visit Frank Woods in retirement, reuniting with Section. The final scene shows Menendez in prison, watching a talk show with Jimmy Kimmel interviewing Lynch, getting enraged when Lynch insults him during the interview.[17]
+If Menendez is spared and Lynch survives, but Mason is killed in action, the Second Cold War will end and Menendez's cyberattack will fail, but Section will visit his father's grave with Woods and decides to retire from soldiering; Woods comments that his father would approve of the decision.[17]
+If Menendez is spared, and Lynch is killed, Section will apprehend Menendez and take him into custody. The cyberattack will succeed, allowing Menendez to escape. He kills Woods in the retirement home before visiting his sister's grave, dousing himself in gasoline, and readying a lit match.[17]
+If Menendez is killed regardless of Lynch and Mason's fate, a YouTube video that Menendez recorded earlier will air, citing the civilian population to riot. [17]
+ Gameplay
+ Strike Force missions
+Black Ops II is the first Call of Duty video game to feature branching storylines, in which the player's choice affects both the current mission and in turn, the overall course of the story. Known as "Strike Force missions", these branching storylines appear during the 2025 storyline and feature permanent death. The success or failure of these missions can have ramifications for the wider campaign storyline. Choosing one of the missions locks out the others unless the player begins a fresh campaign.[16]
+Strike Force missions allow the player to control a number of different war assets, such as unmanned aerial vehicles, jet fighters and robots. If the player dies in a Strike Force mission, the campaign continues recording that loss, as opposed to letting the player load a previously saved checkpoint. The player's progress in the Strike Force missions may go on to change even the plans of the story's antagonist, Raul Menendez.[16] By the end of the game, the player may have changed the results of the new Cold War, and the player is shown what could have gone differently.[citation needed]
+ Zombies
+Treyarch has confirmed that the Zombies mode will return for Black Ops II with its own campaign. Its predecessors were Call of Duty: World at War and Call of Duty: Black Ops. This is the third time for the Zombies mode to appear in a Call of Duty game, and the first time to have its own campaign along with the main story. Treyarch has also confirmed that Zombies will implement the multiplayer engine, allowing for a deeper community experience along with new game modes. It has also been confirmed that the Zombies mode will support 8 player co-op, unlike Call of Duty: World at War and Call of Duty: Black Ops, which only supported 4 player online co-op. Treyarch announced in August 2012 that Nuketown would be remade as a zombie map for those buying Hardened or Care Package Edition of Black Ops 2. On September 26, 2012, the Zombies reveal trailer was released as well as three new game modes confirmed: Tranzit is a game mode that is a combination of multiple maps in one game and the way to travel around it is to ride on a bus, Survival is the original mode from Call of Duty: World at War and Call of Duty: Black Ops where you survive as long as possible, and finally the mode Grief which is 4 players vs 4 players vs zombies. The title of the new map is Green Run and has 5 sections in the map to play Tranzit. Bus Depot, Diner, Farm, Power Station, Town (Town, Bus Depot and Farm are the only maps with the Survival and Grief modes). The new zombies map coming on January 29 will be titled "Die Rise" and takes place in far east china.
+ Development
+
+
+Minimum System Requirements
+
+
+
+
+
+
+Requirements
+
+
+Microsoft Windows[18]
+
+
+Operating system
+Windows Vista (Service Pack 2) or Windows 7; (Windows XP not supported)
+
+
+CPU
+Intel Core2 Duo E8200 2.66 GHz or AMD Phenom X3 8750 2.4 GHz
+
+
+Memory
+2GB for 32-bit OS or 4GB for 64-bit OS
+
+
+Hard drive space
+16GB
+
+
+Graphics hardware
+Nvidia GeForce 8800GT 512 MB or ATI Radeon HD 3870 512 MB
+
+
+
+
+
+Activision Blizzard CEO Robert Kotick stated on November 8, 2011 that a new Call of Duty game was in development for a 2012 release and will be the newest installment in the franchise.[19] The game was officially confirmed by Activision during its fourth-quarter earnings call on February 9, 2012, and promised that it will feature "meaningful innovation" for the series.[20][21] Oliver North, who was involved in the Iran–Contra affair was a consultant and helped promote the game.[22][23]
+ Internal leaks
+Reports of Black Ops 2 surfaced following a product page for Call of Duty: Black Ops 2 appeared on Amazon France before quickly being taken down in February 2012. No information had yet been released by Activision, but Gameblog claimed that Activision demanded it remove its original report too.[24] When it refused to do so, the publisher cut off Gameblog from ad support, review game mailings and future Activision events for refusing to comply.[25] Later Activision denied Gameblog’s claims that it has been cut off.[26] Around the same time, computer game artist Hugo Beyer also listed "Black Ops 2" as his current project in his Linkedin CV, before his LinkedIn page was taken down.[27] Beyer is an artist working for Nerve Software, "a Dallas-based independent developer" which has "helped" with previous Activision games including, Black Ops in 2010.[28] A "Black Ops 2" trademark by Activision was spotted January 2012.[29] Further Black Ops 2 was listed by the France international entertainment retail chain Fnac in March 2012, which touted a predictable November release date.[30]
+On April 9, 2012, an image was leaked from a URL on the official Call of Duty website, which leaked the Call of Duty: Black Ops 2 logo, as well as a reveal date of April 28, 2012. The URL was later removed.[31] On April 18, 2012, Kotaku received an image from "a retail source", which showed a teaser poster that lacked a game title but had clear nods to Black Ops and a May 2 date that seemingly points to a reveal.[32] On April 27, 2012, an image containing two Target pre-order cards sent by IGN reader Richard confirmed the game's title and release date. The cards clearly display the Call of Duty: Black Ops II logo, and the release date November 13, 2012.[33][34]
+ Reveal
+
+
+
+
+Call of Duty: Black Ops II advertisements are shown at Gamescom 2012 in Cologne, Germany
+
+
+On April 23, 2012, Activision redesigned CallofDuty.com to announce that the game will be revealed on May 1, 2012 during the NBA playoffs on TNT.[35] The art featured on the site matched up perfectly with the supposed retailer leak received by Kotaku.[36] However, parts of the official website went live hours prior to the announcement, which revealed the title, confirmed the release date for PC, PlayStation 3 and Xbox 360, and the "21st Century Cold War" setting.[37] Activision had hinted that the game may eventually become available for Nintendo's own consoles, although had no official announcements for the time being.[38] As promised by Activision, the preview for the game was revealed in the form of a YouTube trailer that detailed the futuristic setting, the characters carried over from the previous games, and the conflict.[39] After the game was revealed, the preorder rates on the game set records three times higher than for the preorders of the first Black Ops.[40] Critics have noted the trailer's similarities to that of Metal Gear Solid 4: Guns of the Patriots.[41][42][43] On July 19, 2012 a second trailer was released by Treyarch, offering insight into the game's narrative. The storyline has been described by writer David S. Goyer as "better than a Hollywood movie".[44]
+ Gameplay revisions
+In developing Black Ops II, Treyarch introduced several revisions to the gameplay mechanics for online multiplayer that have been a hallmark of the Call of Duty franchise. These include the introduction of "multi-team" games that allow matches to host three or more teams of players, in counternance to the traditional two factions,[45] and revisions to the "Create-A-Class" function that allows users to create customised characters for use in multiplayer matches.[46] The "Kill Streak" function, which gives players in-game rewards for killing other players, has likewise been revised and will now be known as "Score Streaks". Whereas players still receive in-game rewards, these are unlocked by performing certain actions - such as killing other players, successfully capturing territory, and so on - rather than simply killing other players.[47][48] Furthermore, the "wager matches" feature included in Call of Duty: Black Ops has been removed.[46] These changes were introduced to shift the emphasis towards objective-based gameplay, reward players who work in teams and to make the game more accessible to new players.[47]
+In addition to this, Treyarch announced plans to integrate Black Ops II into the world of "eSports" or competitive gaming.[49] To this end, Treyarch unveiled a matchmaking system designed to pair players up based on their skills within the game to ensure that online games are relatively equal in terms of player skill. They also announced what they termed "CODcasting", a form of live streaming that allows users to stream their games directly onto YouTube from their gaming consoles.[49]
+ Audio
+
+
+Call of Duty: Black Ops II (Original Soundtrack)
+
+
+
+
+
+Soundtrack album by Jack Wall[1] and
+Trent Reznor (theme music)[2]
+
+
+Released
+November 13, 2012
+
+
+Genre
+Video game soundtrack
+
+
+Length
+2:28:49
+
+
+Black Ops II features the voices of Sam Worthington as Alex Mason, Michael Keaton replacing Ed Harris as Jason Hudson, James C. Burns voices and provides motion capture for Frank Woods, Gary Oldman reprises his role as Viktor Reznov from World at War and Black Ops in a brief cameo, Andrew Divoff returns as the voice of Lev Kravchenko, Michael Rooker voicing and providing motion-capture for David Mason's squadmate, Harper, Erin Cahill voicing Chloe "Karma" Lynch, Tony Todd voicing and providing motion-capture for Admiral Briggs, and Robert Picardo voices Erik Breighner. The game's soundtrack was composed by Jack Wall,[1] with the main theme composed by Trent Reznor.[2] The soundtrack was released as a part of the Hardened Edition and Care Package releases, as well as on iTunes and Amazon, with two supplemental tracks by Brian Tuey, as well as Symphony No. 40 in G minor, K550 (Allegro Molto) by Wolfgang Amadeus Mozart.
+
+
+Call of Duty: Black Ops II (Original Soundtrack)
+
+
+
+No.
+Title
+Writer(s)
+Length
+
+
+
+1.
+"Theme from Call of Duty: Black Ops II"  
+Trent Reznor
+5:38
+
+
+2.
+"Alex and David"  
+Jack Wall
+1:35
+
+
+3.
+"Savimbi's Pride"  
+Jack Wall
+4:07
+
+
+4.
+"You Can't Kill Me"  
+Jack Wall
+1:43
+
+
+5.
+"Hidden"  
+Jack Wall
+2:46
+
+
+6.
+"Catch Me If You Can"  
+Jack Wall
+2:42
+
+
+7.
+"Flying Squirrels"  
+Jack Wall
+2:08
+
+
+8.
+"Future Wars"  
+Jack Wall
+5:05
+
+
+9.
+"Rare Earth Elements"  
+Jack Wall
+3:38
+
+
+10.
+"Desert Ride"  
+Jack Wall
+3:10
+
+
+11.
+"Sand and Camels"  
+Jack Wall
+3:30
+
+
+12.
+"Suicide Ride/Kravchenko Interrogation/Anvil Again"  
+Jack Wall
+5:22
+
+
+13.
+"Afghanistan 2025"  
+Jack Wall
+3:21
+
+
+14.
+"The Search For Josefina"  
+Jack Wall
+4:01
+
+
+15.
+"Niño Precioso (Feat. Kamar de los Reyes)"  
+Jack Wall
+2:16
+
+
+16.
+"Rivers and Rain"  
+Jack Wall
+2:02
+
+
+17.
+"Searchlights"  
+Jack Wall
+3:06
+
+
+18.
+"Anthem"  
+Jack Wall
+4:00
+
+
+19.
+"Anthem (Tuey Remix)"  
+Jack Wall
+3:34
+
+
+20.
+"Escape from Anthem"  
+Jack Wall
+1:45
+
+
+21.
+"Pakistan Run"  
+Brian Tuey
+2:45
+
+
+22.
+"Shadows (Outer Club Solar)"  
+Brian Tuey
+3:40
+
+
+23.
+"Spider Bot"  
+Jack Wall
+1:24
+
+
+24.
+"Colossus"  
+Jack Wall
+1:00
+
+
+25.
+"DeFalco's Theme"  
+Jack Wall
+2:34
+
+
+26.
+"Symphony No. 40 in G minor, K550 (Allegro Molto)"  
+Wolfgang Amadeus Mozart
+8:37
+
+
+27.
+"Dockside"  
+Jack Wall
+2:48
+
+
+28.
+"Go Home Gringos"  
+Jack Wall
+1:59
+
+
+29.
+"The Invasion of Panama"  
+Jack Wall
+1:47
+
+
+30.
+"Nexus Target"  
+Jack Wall
+1:41
+
+
+31.
+"Panic Attack/P.T.S.D."  
+Jack Wall
+1:43
+
+
+32.
+"Cordis Die"  
+Jack Wall
+2:29
+
+
+33.
+"Farid"  
+Jack Wall
+6:10
+
+
+34.
+"Mason Enters/Yemenite Fight"  
+Jack Wall
+2:48
+
+
+35.
+"War Machine"  
+Jack Wall
+3:15
+
+
+36.
+"Guerra Precioso"  
+Jack Wall
+2:57
+
+
+37.
+"Chasing A Ghost"  
+Jack Wall
+3:30
+
+
+38.
+"On Deck"  
+Jack Wall
+2:41
+
+
+39.
+"Prom Night"  
+Jack Wall
+1:31
+
+
+40.
+"Dark Skies"  
+Jack Wall
+1:52
+
+
+41.
+"Sniper on the 110"  
+Jack Wall
+1:33
+
+
+42.
+"Streetcar Named Fire"  
+Jack Wall
+3:14
+
+
+43.
+"Escort"  
+Jack Wall
+1:40
+
+
+44.
+"Dogfight"  
+Jack Wall
+3:23
+
+
+45.
+"Adrenaline"  
+Jack Wall
+3:26
+
+
+46.
+"Judgement Day"  
+Jack Wall
+1:15
+
+
+47.
+"Heroes Theme"  
+Jack Wall
+2:31
+
+
+48.
+"Raul Menendez Theme ("Niño Precioso" - Orchestral)"  
+Jack Wall
+3:52
+
+
+49.
+"Theme from Call of Duty: Black Ops II (Orchestral Mix)"  
+Trent Reznor
+5:47
+
+
+
+ Reception
+
+
+ Reception
+
+
+Aggregate scores
+
+
+Aggregator
+Score
+
+
+GameRankings
+(X360) 85.93%[50]
+(WIIU) 85.88%[51]
+(PS3) 82.57%[52]
+(PC) 79.17%[53]
+
+
+Metacritic
+(X360) 83/100[54]
+(PS3) 83/100[55]
+(WIIU) 81/100[56]
+(PC) 74/100[57]
+
+
+Review scores
+
+
+Publication
+Score
+
+
+G4
+4.5/5[58]
+
+
+Game Informer
+8.5/10[59]
+
+
+GameSpot
+8.0/10[60]
+
+
+GameTrailers
+9.4/10[61]
+
+
+IGN
+(X360) 9.3/10[62]
+(WIIU) 9.3/10[63]
+
+
+Official PlayStation Magazine (UK)
+8/10[64]
+
+
+Official Xbox Magazine
+8.5/10[65]
+
+
+Official Xbox Magazine (UK)
+8/10[66]
+
+
+Call of Duty: Black Ops II has received generally positive reviews from critics. IGN editor Anthony Gallegos describes the game as "a good example of how to evolve an annualized franchise."[62] Gallegos praised the game for telling a story that he felt was genuinely interesting and creating a villain that he empathised with to the point where he started questioning his own actions over the course of the story. Gallegos directed criticisms at the artificial intelligence of allies in Strike Force mode, pointing out that he often had to direct them to one corner of the battlefield and then do everything himself in order to pass the missions; and at the ending of the campaign mode, which he felt was disappointing, even when he was aware that the outcome was directly influenced by the choices he made.
+Dan Ryckert of Game Informer was equally critical as Gallegos of the artificial intelligence of Strike Force mode, and was unimpressed by the "Pick Ten" system introduced to multiplayer modes, noting that it was "interesting, but ultimately less exciting" than the system used in previous Call of Duty titles.[59] Like Gallegos before him, Ryckert praised the narrative and structure of the single-player campaign, introducing changes that he felt were overdue and noting that the branching storylines "had me talking to others about their experiences in a way I had never done before with this [Call of Duty] series".
+Video game talk show Good Game's two presenters both gave the game an 8.5 out of 10, praising the gameplay multiplayer and zombies mode, but were critical of the campaigns confusing narrative and Strike Force missions.[67] In particular to the narrative Good Game, was critical of the opening battle where the player guns down fleeing Africans rebels, feeling that it was added purely for shock value; "The landscape of shooters is changing somewhat. The fact is that everyone loves playing military shooters, but we're also realising that we don't want to glorify aimless killings. A lot of games are trying to make you feel that conflict and even make you feel bad about what you're doing. But I don't think it's been handled very well here".[67]
+Frederick Charles Fripp of IT News Africa gave it a final score of 9.2/10 and wrote "...BO2 is a non-stop action-packed shooter that will keep gamers on their toes and on the edge of their seats. It has everything a player could want in a game: great graphics, a good story, easy controls and superb acting."[68]
+
+ References
+
+
+^ a b c Gilbert, Ben (2012-07-10). "Black Ops 2 soundtrack bolstered by Trent Reznor, Mass Effect composer Jack Wall". Joystiq. http://www.joystiq.com/2012/07/10/black-ops-2-soundtrack-bolstered-by-trent-reznor-mass-effect-co/. Retrieved 2012-08-04.
+^ a b c "Whoa, Nine Inch Nails’ Trent Reznor Is Doing the Theme Music for Black Ops 2". Kotaku.com. 2012-07-10. http://kotaku.com/5924730/whoa-nine-inch-nails-trent-reznor-is-doing-the-theme-music-for-black-ops-2. Retrieved 2012-08-04.
+^ "Wii U can be the preferred platform for core games, says Nintendo". Wiiudaily.com. http://wiiudaily.com/2012/06/wii-u-can-preferred-platform-core-games-says-nintendo/. Retrieved 2012-08-04.
+^ a b Kelly, Neon (2012-05-01). "Black Ops 2 officially confirmed by Activision". Videogamer.com. http://www.videogamer.com/xbox360/call_of_duty_black_ops_2/news/black_ops_2_officially_confirmed_by_activision.html. Retrieved 1 May 2012.
+^ a b Ivan, Tom (2012-05-01). "Black Ops 2 site goes live, confirms release date, '21st Century Cold War' setting". Computerandvideogames.com. http://www.computerandvideogames.com/345943/black-ops-2-site-goes-live-confirms-release-date-21st-century-cold-war-setting/. Retrieved 1 May 2012.
+^ a b Crecente, Brian (2012-05-01). "Call of Duty: Black Ops 2 releases on Nov. 13, will include future LA battle". The Verge. http://www.theverge.com/gaming/2012/5/1/2990939/call-of-duty-black-ops-2-confirmed-by-activision. Retrieved 1 May 2012.
+^ "Select - Our pick of all the latest Nintendo News". Official Nintendo Magazine (Nintendo) (48): 6–7. 2012. ISSN 1836-4276.
+^ "コール オブ デューティ ブラックオプスII[吹き替え版発売日決定！Wii U版も同日発売！"] (in Japanese). Square-Enix Co., Ltd.. 2012-10-03. http://www.sqex-ee.jp/2012/10/-iiwii-u.html. Retrieved 2012-11-09.
+^ http://www.geekshut.com/black-ops-2-brings-in-500-million-in-first-day/6784
+^ "Call of Duty: Black Ops II will be coming at you in 3D this November". Warp Zoned. http://www.warpzoned.com/2012/10/call-of-duty-black-ops-ii-will-be-coming-at-you-in-3d-this-november/. Retrieved 2012-10-14.
+^ http://www.telegraph.co.uk/technology/news/9683341/Call-of-duty-Black-Ops-II-sales-hit-500-million-in-first-24-hours.html
+^ http://www.vg247.com/2012/12/07/black-ops-moved-7-5-million-copies-in-11-days-according-to-november-npd-data/
+^ "Call of Duty: Black Ops II Reviews". Giant Bomb. 13 Nov 2012. http://www.giantbomb.com/call-of-duty-black-ops-ii/61-38039/reviews/. Retrieved 26 Nov 2012.
+^ a b "Call of Duty: Black Ops 2 preview". Shacknews. May 1, 2012. http://www.shacknews.com/article/73609/call-of-duty-black-ops-2-preview. Retrieved May 1, 2012.
+^ "Black Ops 2 spans decades, offers branching missions and choice". Joystiq. May 1, 2012. http://www.joystiq.com/2012/05/02/black-ops-2-spans-decades-offers-branching-missions-and-choice/. Retrieved May 1, 2012.
+^ a b c "48 Things That You Should Know About Call of Duty: Black Ops II". Kotaku. May 1, 2012. http://kotaku.com/5906808/48-things-that-you-should-know-about-call-of-duty-black-ops-ii. Retrieved May 1, 2012.
+^ a b c d "Call of Duty: Black Ops 2 : All Ending Possibilities (Perfect Ending, Kill Menendez, Spare Menendez,". IGN. 13 Nov 2012. http://www.youtube.com/watch?v=eU7SJfPO900. Retrieved 26 Nov 2012.
+^ "PC Specifications & Technology Enhancements Intel". 2012-09-02. http://community.callofduty.com/community/call_of_duty/english/black_ops_2/blog/2012/09/02/pc-specifications-technology-enhancements-intel. Retrieved 2012-09-05.
+^ Scalzo, John (2011-11-09). "Activision announces Call of Duty: 9, multiple Blizzard titles for 2012". Warp Zoned. http://www.warpzoned.com/?p=15517. Retrieved 2011-11-09.
+^ Goldfarb, Andrew (2012-02-09). "Activision Confirms New Call of Duty Game in 2012". IGN. http://uk.games.ign.com/articles/121/1218375p1.html. Retrieved 2012-02-10.
+^ Votta, Marlon (2012-02-10). "Official confirmation on COD:BO2, title a mystery". inentertainment.co.uk. http://www.inentertainment.co.uk/20120210/official-confirmation-on-cod-9-title-a-mystery/. Retrieved February 11, 2012.
+^ http://kotaku.com/5913092/call-of-duty-makers-say-controversial-oliver-north-helped-make-their-game-more-authentic
+^ http://www.forbes.com/sites/davidthier/2012/05/02/oliver-north-is-selling-call-of-duty-black-ops-2/
+^ Dutton, Fred (2012-02-17). "Call of Duty: Black Ops 2 listed on Amazon France - report • News •". Eurogamer.net. http://www.eurogamer.net/articles/2012-02-17-call-of-duty-black-ops-2-listed-on-amazon-france-report. Retrieved 2012-02-27.
+^ Jackson, Mike (2012-02-17). "News: 'Black Ops 2' listed on Amazon". ComputerAndVideoGames.com. http://www.computerandvideogames.com/336428/black-ops-2-listed-on-amazon/. Retrieved 2012-02-27.
+^ Conditt, Jessica (2012-02-19). "'Activision doesn't blacklist journalists,' working on resolution with Gameblog". Joystiq. http://www.joystiq.com/2012/02/19/activision-doesnt-blacklist-journalists-working-on-resolutio/. Retrieved 2012-02-27.
+^ Gilbert, Ben (2012-02-17). "Treyarch contract art studio employee lists 'Black Ops 2' among current projects [update: pulled!". Joystiq. http://www.joystiq.com/2012/02/17/treyarch-contract-art-studio-employee-lists-black-ops-2-among/. Retrieved 2012-02-27.
+^ Jackson, Mike (2012-02-17). "News: Black Ops 2 appears on developer CV". ComputerAndVideoGames.com. http://www.computerandvideogames.com/336440/black-ops-2-appears-on-developer-cv/. Retrieved 2012-02-27.
+^ Sliwinski, Alexander (2012-01-09). "Report: Activision scoops up blackops2.com". Joystiq. http://www.joystiq.com/2012/01/09/report-activision-scoops-up-blackops2-com/2. Retrieved 2012-02-27.
+^ Purchese, Robert (2010-11-09). "Major Spanish/Portuguese shop lists Call of Duty: Black Ops 2". Eurogamer.net. http://www.eurogamer.net/articles/2012-03-01-major-spanish-portuguese-shop-lists-call-of-duty-black-ops-2. Retrieved 2012-03-04.
+^ Winfrey, Lorenzo (2012-04-09). "Call Of Duty: Black Ops 2 Logo Leaked, Reveal Trailer Release Date Outed | ZoKnowsGaming". ZoKnowsGaming.com. http://zoknowsgaming.com/2012/04/09/call-of-duty-black-ops-2-logo-leaked-debut-trailer-release-date-outed/. Retrieved 10 April 2012.
+^ Narcisse, Evan (2012-04-18). "Is This an Official Poster for Call of Duty: Black Ops 2?". Kotaku. http://kotaku.com/5903137/is-this-an-official-poster-for-call-of-duty-black-ops-2. Retrieved 2012-04-27.
+^ Goldfarb, Andrew (2012-04-27). "Black Ops 2 Title, Release Date Confirmed". IGN. http://uk.ps3.ign.com/articles/122/1223929p1.html. Retrieved 2012-04-27.
+^ Gunther, Cory (2012-04-27). "Call of Duty: Black Ops 2 confirmed by Target, coming November 13". Slashgear.com. http://www.slashgear.com/call-of-duty-black-ops-2-confirmed-by-target-coming-november-13-27225117/. Retrieved 2012-04-27.
+^ Staff (2012-04-24). "May 1 Call of Duty premiere points to Black Ops 2". videogaming247. http://www.vg247.com/2012/04/23/next-call-of-duty-to-premiere-may-1/. Retrieved 2012-04-27.
+^ Robinson, Andy (2012-04-23). "Official: New Call of Duty to premiere May 1". ComputerAndVideoGames.com. http://www.computerandvideogames.com/344718/black-ops-2-details-arrive-may-1-official/. Retrieved 2012-04-27.
+^ Ivan, Tom (2012-05-01). "News: Black Ops 2 site goes live, confirms release date, '21st Century Cold War' setting". ComputerAndVideoGames.com. http://www.computerandvideogames.com/345943/black-ops-2-site-goes-live-confirms-release-date-21st-century-cold-war-setting/. Retrieved 2012-08-04.
+^ Fossum, Erik (2012-05-02). "Vi lytter til fansen" (in Norwegian). pressfire.no. http://www.pressfire.no/spesialer/Intervjuer/5038/-Vi-lytter-til-fansen. Retrieved 2012-05-04.
+^ "Callofduty". YouTube. http://www.youtube.com/user/CALLOFDUTY/featured?v=x3tedlWs1XY. Retrieved 2012-08-04.
+^ Wilson, Jeffrey L. (2012-05-04). "Call of Duty: Black Ops 2 Blows Away Amazon Pre-Order Records | News & Opinion". PCMag.com. http://www.pcmag.com/article2/0,2817,2403978,00.asp. Retrieved 2012-08-04.
+^ Cook, Dave (May 2, 2012). "Black Ops 2 Trailer Secrets – 29 Things You Missed". NowGamer. http://www.nowgamer.com/features/1350676/black_ops_2_trailer_secrets_29_things_you_missed.html. Retrieved 7 May 2012.
+^ Plant, Michael (3 May 2012). "Call of Duty: Black Ops 2 announcement trailer released". The Independent. http://www.independent.co.uk/life-style/gadgets-and-tech/gaming/call-of-duty-black-ops-2-announcement-trailer-released-7711012.html. Retrieved 7 May 2012.
+^ Otero, Jose (05/01/2012). "Is Black Ops 2 America's Metal Gear Solid?". 1UP.com. http://www.1up.com/previews/black-ops-2-americas-metal-gear. Retrieved 7 May 2012.
+^ Ana Douglas (2012-07-19). "The Story Line Of 'Call Of Duty: Black Ops 2' Better Than A Hollywood Movie". Business Insider. http://www.businessinsider.com/the-story-line-of-call-of-duty-black-ops-2-better-than-a-hollywood-movie-2012-7. Retrieved 2012-08-04. ""I would argue that with Black Ops, the story is better than most movies being made.""
+^ Miller, Ben (16 August 2012). "Black Ops 2 Multi-Team game modes and Create-a-Class detailed". Examiner.com.
+^ a b Cowen, Nick (14 August 2012). "Call of Duty: Black Ops 2 – multiplayer hands-on preview". The Guardian (Guardian News and Media). http://www.guardian.co.uk/technology/gamesblog/2012/aug/14/call-of-duty-black-ops-2-multiplayer-preview?newsfeed=true. Retrieved 20 August 2012.
+^ a b Yin-Poole, Wesley (21 August 2012). "Treyarch hopes Black Ops 2 multiplayer changes will make Call of Duty a team game again". EuroGamer. http://www.eurogamer.net/articles/2012-08-21-treyarch-hopes-black-ops-2-multiplayer-changes-will-make-call-of-duty-a-team-game-again. Retrieved 22 August 2012.
+^ Ottone, Robert (21 August 2012). "Treyarch Looking To Enhance 'Call Of Duty: Black Ops 2' Multiplayer Experience". International Business Times. http://www.ibtimes.com/articles/375820/20120821/treyarch-call-duty-black-ops-2-multiplayer.htm. Retrieved 22 August 2012.
+^ a b Miller, Ben (16 August 2012). "Black Ops 2: CODcasting, live streaming, matchmaking and Game Informer cover". Examiner.com.
+^ "Call of Duty: Black Ops II (X360)". GameRankings. http://www.gamerankings.com/xbox360/669289-call-of-duty-black-ops-ii/index.html. Retrieved 2012-11-28.
+^ "Call of Duty: Black Ops II (WIIU)". GameRankings. http://www.gamerankings.com/wii-u/683297-call-of-duty-black-ops-ii/index.html. Retrieved 2012-11-28.
+^ "Call of Duty: Black Ops II (PS3)". GameRankings. http://www.gamerankings.com/ps3/669288-call-of-duty-black-ops-ii/index.html. Retrieved 2012-11-28.
+^ "Call of Duty: Black Ops II (PC)". GameRankings. http://www.gamerankings.com/pc/669290-call-of-duty-black-ops-ii/index.html. Retrieved 2012-11-28.
+^ "Call of Duty: Black Ops II for Xbox 360 - Reviews, Ratings, Credits, and More". Metacritic. http://www.metacritic.com/game/xbox-360/call-of-duty-black-ops-ii. Retrieved 2012-11-28.
+^ "Call of Duty: Black Ops II for PlayStation 3 - Reviews, Ratings, Credits, and More". Metacritic. http://www.metacritic.com/game/playstation-3/call-of-duty-black-ops-ii. Retrieved 2012-11-28.
+^ "Call of Duty: Black Ops II for Wii U - Reviews, Ratings, Credits, and More". Metacritic. http://www.metacritic.com/game/wii-u/call-of-duty-black-ops-ii. Retrieved 2012-11-28.
+^ "Call of Duty: Black Ops II for PC - Reviews, Ratings, Credits, and More". Metacritic. http://www.metacritic.com/game/pc/call-of-duty-black-ops-ii. Retrieved 2012-11-28.
+^ Kelly, Kevin. "Call of Duty: Black Ops 2 Review - Xbox 360". G4tv. http://www.g4tv.com/games/xbox-360/65987/call-of-duty-black-ops-2/review. Retrieved November 13, 2012.
+^ a b Dan Ryckert (November 13, 2012). "Call of Duty: Black Ops II review from GameInformer". Game Informer. http://www.gameinformer.com/games/call_of_duty_black_ops_ii/b/ps3/archive/2012/11/13/black-ops-ii-review.aspx.
+^ Watters, Chris (November 13, 2012). "Call of Duty: Black Ops II Review". GameStop. http://www.gamespot.com/call-of-duty-black-ops-ii/reviews/call-of-duty-black-ops-ii-review-6399924.
+^ "REVIEW - Call of Duty: Black Ops II". http://www.gametrailers.com/reviews/rg4wek/call-of-duty--black-ops-ii-review. Retrieved November 13, 2012.
+^ a b Gallegos, Anthony (November 13, 2012). "This is not the Shooter you expected". IGN. http://www.ign.com/articles/2012/11/13/call-of-duty-black-ops-2-review. Retrieved November 13, 2012.
+^ http://www.ign.com/articles/2012/11/21/call-of-duty-black-ops-2-wii-u-review
+^ "Black Ops 2 PS3 review – Ditching modern warfare for future shooter thrills". Official UK PlayStation Magazine. http://www.officialplaystationmagazine.co.uk/review/black-ops-2-ps3-review/. Retrieved November 13, 2012.
+^ "Call of Duty: Black Ops II review". Official Xbox Magazine. November 13, 2012. http://www.oxmonline.com/call-duty-black-ops-ii-review.
+^ "Call of Duty: Black Ops 2 Review". Official Xbox Magazine UK. November 13, 2012. http://www.oxm.co.uk/47451/reviews/call-of-duty-black-ops-2-review/.
+^ a b Bendixsen, O'Donnell (20 November 2012). "Call of Duty: Black Ops 2". Season 5. Episode 42. ABC Television.
+^ http://www.itnewsafrica.com/?p=42678 Review: Call of Duty Black Ops 2
+
+
+ External links
+
+Official website
+Call of Duty,  an external wiki
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Call of Duty
+
+
+
+
+
+
+Games
+
+
+
+
+
+World War II story arc
+
+
+
+
+Call of Duty
+
+United Offensive
+Finest Hour
+
+
+Call of Duty 2
+
+Big Red One
+
+
+Call of Duty 3
+
+Roads to Victory
+
+
+
+
+
+
+
+
+
+
+
+Modern Warfare story arc
+
+
+
+
+Modern Warfare
+
+DS
+
+
+Modern Warfare 2
+
+Mobilized
+
+
+Modern Warfare 3
+
+DLC
+Defiance
+
+
+Online
+
+
+
+
+
+
+
+
+
+Black Ops story arc
+
+
+
+
+World at War
+
+Final Fronts
+DS
+Zombies
+
+
+Black Ops
+
+Zombies
+
+
+Black Ops II
+
+Declassified
+
+
+
+
+
+
+
+
+
+
+
+
+
+Characters
+
+
+
+Captain Price
+
+
+
+
+
+
+
+
+Media
+
+
+
+Modern Warfare 2: Ghost
+Find Makarov: Operation Kingfish
+Not Ready to Die
+
+
+
+
+
+
+
+
+Misc
+
+
+
+Controversies surrounding Modern Warfare 2
+Call of Duty: Elite
+Call of Duty: Experience 2011
+
+
+
+
+
+
+
+
+Studios
+
+
+
+Infinity Ward
+Treyarch
+Sledgehammer Games
+Raven Software
+n-Space
+Gray Matter Interactive
+Ideaworks Game Studio
+Pi Studios
+Rebellion Developments
+Spark Unlimited
+
+
+
+
+
+
+
+
+
+
+
+ Book:Call of Duty series
+ Category:Call of Duty series
+ Portal:Video games
+ Portal:Call of duty
+ Call of Duty Task Force
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Call_of_Duty:_Black_Ops_II&oldid=535829327"				
+
+
+Categories: 2012 video games2025 in fictionActivision gamesCall of Duty seriesFirst-person shootersNintendo Network gamesScience fiction video gamesSquare Enix gamesVideo games set in the 1980sVideo games set in the 2020sVideo games set in AfghanistanVideo games set in AngolaVideo games set in ChinaVideo games set in CubaVideo games set in FranceVideo games set in Hong KongVideo games set in KyrgyzstanVideo games set in Los Angeles, CaliforniaVideo games set in MyanmarVideo games set in NicaraguaVideo games set in PakistanVideo games set in PanamaVideo games set in SingaporeVideo games set in the United StatesVideo games set in YemenPlayStation 3 gamesWii U gamesWindows gamesWar in North-West Pakistan fictionXbox 360 gamesZombie video gamesCold War video gamesHidden categories: Wikipedia semi-protected pagesAll articles with unsourced statementsArticles with unsourced statements from August 2012Articles with unsourced statements from November 2012Articles with hAudio microformats 
+
+
+
+
+
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+Create accountLog in 
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+View source
+View history
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+
+Search
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+
+
+
+
+
+
+
+
+Interaction
+
+
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+
+
+
+
+
+
+Toolbox
+
+
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page 
+
+
+
+
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+
+Languages
+
+
+العربية
+Aragonés
+Català
+Česky
+Dansk
+Deutsch
+Español
+فارسی
+Français
+Bahasa Indonesia
+Italiano
+עברית
+Қазақша
+Lietuvių
+Nederlands
+日本語
+Norsk (bokmål)‎
+Occitan
+Oʻzbekcha
+Polski
+Português
+Русский
+Саха тыла
+Simple English
+Српски / srpski
+Srpskohrvatski / српскохрватски
+Suomi
+Svenska
+Türkçe
+Українська
+Tiếng Việt
+中文
+
+
+
+
+
+
+
+
+
+
+ This page was last modified on 31 January 2013 at 08:14.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Contact us
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1217 @@
+Space Shuttle Columbia disaster - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+Space Shuttle Columbia disaster
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+
+
+					Jump to:					navigation, 					search
+
+
+
+For further information about Columbia's mission and crew, see STS-107.
+
+Space Shuttle Columbia disaster
+
+
+
+
+
+
+STS-107 flight insignia
+
+
+Date
+1 February 2003 (2003-02-01)
+
+
+Time
+08:59 EST (13:59 UTC)
+
+
+Location
+Over Texas and Louisiana
+
+
+Outcome
+Grounding of the Space Shuttle fleet for over two years during which various safety measures, improvement in crew restraint, effective ways to deal with catastrophic cabin depressurization and an automated parachute system were initiated.
+
+
+Casualties
+
+
+Rick D. Husband
+William C. McCool
+Michael P. Anderson
+Kalpana Chawla
+David M. Brown
+Laurel Clark
+Ilan Ramon
+
+
+Inquiries
+Columbia Accident Investigation Board
+
+
+The Space Shuttle Columbia disaster occurred on February 1, 2003, when shortly before it was scheduled to conclude its 28th mission, STS-107, the Space Shuttle Columbia disintegrated over Texas and Louisiana during re-entry into the Earth's atmosphere, resulting in the death of all seven crew members. Debris from Columbia fell to Earth in Texas along a path stretching from Fort Worth suburb Trophy Club to Tyler, as well as into parts of Louisiana.
+The loss of Columbia was a result of damage sustained during launch when a piece of foam insulation the size of a small briefcase broke off from the Space Shuttle external tank (the 'ET' main propellant tank) under the aerodynamic forces of launch. The debris struck the leading edge of the left wing, damaging the Shuttle's thermal protection system (TPS), which shields the vehicle from the intense heat generated from atmospheric compression during re-entry. While Columbia was still in orbit, some engineers suspected damage, but NASA managers limited the investigation, on the grounds that little could be done even if problems were found.[1]
+NASA's original shuttle design specifications stated that the external tank was not to shed foam or other debris; as such, strikes upon the vehicle were safety issues that needed to be resolved before a launch was cleared. Launches were often given the go-ahead as engineers came to see the foam shedding and debris strikes as inevitable and unresolvable, with the rationale that they were either not a threat to safety, or an acceptable risk. The majority of shuttle launches recorded such foam strikes and thermal tile scarring.[2] On STS-112, two launches before, a chunk of foam broke away from the ET bipod ramp and hit the SRB-ET Attach Ring near the bottom of the left solid rocket booster (SRB) causing a dent four inches wide and three inches deep in it.[3] After that mission, the situation was analyzed and NASA decided to press ahead under the justification that "The ET is safe to fly with no new concerns (and no added risk)"[4] of further foam strikes, justification that was revisited while Columbia was still in orbit and Chair of the Mission Management Team (MMT) Linda Ham re-assessed, stating that the “Rationale was lousy then and still is”. Ham as well as Shuttle Program Manager Ron Dittemore had both been present at the October 31, 2002, meeting where this decision to continue with launches was made.[5]
+During re-entry of STS-107, the damaged area allowed hot gases to penetrate and destroy the internal wing structure,[6] rapidly causing the in-flight breakup of the vehicle. An extensive ground search in parts of Texas, Louisiana, and Arkansas recovered crew remains and many vehicle fragments.
+Mission STS-107 was the 113th Space Shuttle launch. The mission was delayed 18 times[7] over the two years from the planned launch date of January 11, 2001, to the actual launch date of January 16, 2003. (It was preceded by STS-113.) A launch delay due to cracks in the shuttle's propellant distribution system occurred one month before a July 19, 2002, launch date. The Columbia Accident Investigation Board (CAIB) determined that this delay had nothing to do with the catastrophic failure six months later.[7]
+The Columbia Accident Investigation Board's recommendations addressed both technical and organizational issues. Space Shuttle flight operations were delayed for over two years, similar to the delay following the Challenger accident. Construction of the International Space Station was put on hold, and for 29 months the station relied entirely on the Russian Federal Space Agency for resupply until Shuttle flights resumed with STS-114 and 41 months for crew rotation until STS-121. Major changes to shuttle operations, after missions resumed, included a thorough on-orbit inspection to determine how well the shuttle's thermal protection system had endured the ascent, and keeping a designated rescue mission at the ready in case irreparable damage was found. Also it had been decided that all missions would be flown only to the ISS so that the crew could use that spacecraft as a "safe haven" if need be. Later NASA decided it would be an acceptable risk to make one exception to that policy for one final mission to repair the Hubble Space Telescope in its high-altitude low-inclination orbit.
+
+
+
+
+Contents
+
+
+1 Crew
+2 Debris strike during launch
+3 Flight risk management
+4 Destruction during re-entry
+5 Presidential response
+6 Recovery of debris
+
+6.1 Onboard video
+
+
+7 Investigation
+
+7.1 Initial investigation
+7.2 Independent Investigation Board
+7.3 Conclusions
+7.4 Possible emergency procedures
+
+
+8 Memorials
+9 Effect on space programs
+10 Sociocultural aftermath
+
+10.1 Fears of terrorism
+10.2 Purple streak image
+10.3 Film hoax
+10.4 Music
+
+
+11 See also
+12 References
+13 External links
+
+
+
+
+[edit] Crew
+
+
+
+
+The crew of STS-107. L to R: Brown, Husband, Clark, Chawla, Anderson, McCool, Ramon
+
+
+
+Commander: Rick D. Husband, a U.S. Air Force colonel and mechanical engineer, who piloted a previous shuttle during the first docking with the International Space Station (STS-96).
+Pilot: William C. McCool, a U.S. Navy commander
+Payload Commander: Michael P. Anderson, a U.S. Air Force lieutenant colonel and physicist who was in charge of the science mission.
+Payload Specialist: Ilan Ramon, a colonel in the Israeli Air Force and the first Israeli astronaut.
+Mission Specialist: Kalpana Chawla, an Indian-born aerospace engineer who was on her second space mission.
+Mission Specialist: David M. Brown, a U.S. Navy captain trained as an aviator and flight surgeon. Brown worked on a number of scientific experiments.
+Mission Specialist: Laurel Blair Salton Clark, a U.S. Navy captain and flight surgeon. Clark worked on a number of biological experiments.
+
+[edit] Debris strike during launch
+
+
+
+
+Columbia lifting off on her final mission. The light-colored triangle visible at the base of the strut near the nose of the orbiter is the Left Bipod Foam Ramp. Video
+
+
+
+
+
+
+Space Shuttle external tank foam block.
+
+
+
+
+
+
+Close-up of the Left Bipod Foam Ramp that broke off and damaged the Shuttle wing.
+
+
+Approximately 82 seconds after launch from Kennedy Space Center's LC-39-A, a suitcase-size piece of thermal insulation foam broke off from the External Tank (ET), striking Columbia's left wing reinforced carbon-carbon (RCC) panels. As demonstrated by ground experiments conducted by the Columbia Accident Investigation Board, this likely created a 6-to-10-inch (15 to 25 cm) diameter hole, allowing hot gases to enter the wing when Columbia later reentered the atmosphere. At the time of the foam strike, the orbiter was at an altitude of about 66,000 feet (20 km; 13 mi), traveling at Mach 2.46 (1,870 miles per hour or 840 meters per second).
+The Left Bipod Foam Ramp is an approximately three-foot (one-meter) aerodynamic component made entirely of foam. The foam, not normally considered to be a structural material, is required to bear some aerodynamic loads. Because of these special requirements, the casting-in-place and curing of the ramps may be performed only by a senior technician.[8] The shuttle's main fuel tank is covered in foam as an insulator, to avoid ice forming on it when full of liquid hydrogen and oxygen, which itself could damage the shuttle when shed during lift-off. The bipod ramp (having left and right sides) was originally designed to reduce aerodynamic stresses around the bipod attachment points at the external tank, but it was proven unnecessary in the wake of the accident and was removed from the external tank design for tanks flown after STS-107 (another foam ramp along the liquid oxygen line was also later removed from the tank design to eliminate it as a foam debris source, after complex analysis and tests proved this change safe).
+Bipod Ramp insulation had been observed falling off, in whole or in part, on four previous flights: STS-7 (1983), STS-32 (1990), STS-50 (1992) and most recently STS-112 (just two launches prior to STS-107). Ironically, STS-112 had been the first flight with the "ET Cam", a video feed mounted on the ET for the purpose of giving greater insight to the foam shedding problem. Post-107 analysis revealed that two previous shuttle launches (STS-52 and -62) also had bipod ramp foam loss that went undetected. In addition, Protuberance Air Load (PAL) ramp foam had also shed pieces, and there were also spot losses from large-area foams. Previous strikes had caused no serious damage, and all affected shuttle missions completed successfully. NASA management came to refer to this phenomenon as "foam shedding." As with the O-ring erosion problems that ultimately doomed the Space Shuttle Challenger, NASA management became accustomed to these phenomena when no serious consequences resulted from these earlier episodes. This phenomenon was termed "normalization of deviance" by sociologist Diane Vaughan in her book on the Challenger launch decision process.[9]
+Video taken during lift-off of STS-107 was routinely reviewed two hours later and revealed nothing unusual. The following day, higher-resolution film that had been processed overnight revealed the foam debris striking the left wing, potentially damaging the thermal protection on the Space Shuttle.[10] At the time, the exact location where the foam struck the wing could not be determined due to the low resolution of the tracking camera footage.
+[edit] Flight risk management
+In a risk-management scenario similar to the Challenger disaster, NASA management failed to recognize the relevance of engineering concerns for safety for imaging to inspect possible damage, and failed to respond to engineer requests about the status of astronaut inspection of the left wing. Engineers made three separate requests for Department of Defense (DOD) imaging of the shuttle in orbit to more precisely determine damage. While the images were not guaranteed to show the damage, the capability existed for imaging of sufficient resolution to provide meaningful examination. NASA management did not honor the requests and in some cases intervened to stop the DOD from assisting.[11] The CAIB recommended subsequent shuttle flights be imaged while in orbit using ground-based or space-based DOD assets.[12] Details of the DOD's unfulfilled participation with Columbia remain secret; retired NASA official Wayne Hale stated in 2012 that "Activity regarding other national assets and agencies remains classified and I cannot comment on that aspect of the Columbia tragedy."[13]
+Throughout the risk assessment process, senior NASA managers were influenced by their belief that nothing could be done even if damage was detected. This affected their stance on investigation urgency, thoroughness and possible contingency actions. They decided to conduct a parametric "what-if" scenario study more suited to determine risk probabilities of future events, instead of inspecting and assessing the actual damage. The investigation report in particular singled out NASA manager Ham for exhibiting this attitude.[14] In 2013, Hale recalled that Director of Mission Operations John Harpold told him before Columbia's destruction:
+
+You know, there is nothing we can do about damage to the TPS. If it has been damaged it’s probably better not to know. I think the crew would rather not know. Don’t you think it would be better for them to have a happy successful flight and die unexpectedly during entry than to stay on orbit, knowing that there was nothing to be done, until the air ran out?[15]
+
+Hale added, "I was hard pressed to disagree [at the time]. That mindset was widespread. Astronauts agreed."[15]
+Much of the risk assessment hinged on damage predictions to the thermal protection system. These fall into two categories: damage to the silica tile on the wing lower surface, and damage to the reinforced carbon-carbon (RCC) leading-edge panels. (The TPS includes a third category of components: thermal insulating blankets; but damage predictions are not typically performed on them. Damage assessments on the thermal blankets can be performed after an anomaly has been observed, and this has been done at least once after the return to flight following Columbia's loss.)
+Damage-prediction software was used to evaluate possible tile and RCC damage. The tool for predicting tile damage was known as "Crater", described by several NASA representatives in press briefings as not actually a software program but rather a statistical spreadsheet of observed past flight events and effects. The "Crater" tool predicted severe penetration of multiple tiles by the impact if it struck the TPS tile area, but NASA engineers downplayed this. The engineers believed that results showing that the model overstated damage from small projectiles meant that the same would be true of larger Spray-On Foam Insulation (SOFI) impacts. The program used to predict RCC damage was based on small ice impacts the size of cigarette butts, not larger SOFI impacts, as the ice impacts were the only recognized threats to RCC panels up to that point. Under 1 of 15 predicted SOFI impact paths, the software predicted an ice impact would completely penetrate the RCC panel. Engineers downplayed this, too, believing that impacts of the less dense SOFI material would result in less damage than ice impacts. In an e-mail exchange, NASA managers questioned whether the density of the SOFI could be used as justification for reducing predicted damage. Despite engineering concerns about the energy imparted by the SOFI material, NASA managers ultimately accepted the rationale to reduce predicted damage of the RCC panels from possible complete penetration to slight damage to the panel's thin coating.[16]
+Ultimately the NASA Mission Management Team felt there was insufficient evidence to indicate that the strike was an unsafe situation, so they declared the debris strike a "turnaround" issue (not of highest importance) and denied the requests for the Department of Defense images.
+[edit] Destruction during re-entry
+The following is a timeline of Columbia's re-entry. The shuttle was scheduled to land at 9:16 a.m. EST.
+
+2:30 a.m. EST, February 1, 2003 – The Entry Flight Control Team began duty in the Mission Control Center.
+
+
+The Flight Control Team had not been working on any issues or problems related to the planned de-orbit and re-entry of Columbia. In particular, the team had indicated no concerns about the debris impact to the left wing during ascent, and treated the re-entry like any other. The team worked through the de-orbit preparation checklist and re-entry checklist procedures. Weather forecasters, with the help of pilots in the Shuttle Training Aircraft, evaluated landing-site weather conditions at the Kennedy Space Center.
+
+
+8:00 – Mission Control Center Entry Flight Director LeRoy Cain polled the Mission Control room for a GO/NO-GO decision for the de-orbit burn.
+
+
+All weather observations and forecasts were within guidelines set by the flight rules, and all systems were normal.
+
+
+8:10 – The Capsule Communicator (CAPCOM) notified the crew that they were GO for de-orbit burn.
+8:15:30 (EI-1719) – Husband and McCool executed the de-orbit burn using Columbia’s two Orbital Maneuvering System engines.
+
+
+The Orbiter was upside down and tail-first over the Indian Ocean at an altitude of 175 miles (282 km) when the burn was executed. The de-orbit maneuver was performed on the 255th orbit, and the 2-minute, 38-second burn slowed the Orbiter from 17,500 miles per hour (7.8 km/s) to begin her re-entry into the atmosphere. During the de-orbit burn, the crew felt about 10% of the effects of gravity. There were no problems during the burn, after which Husband maneuvered Columbia into a right-side-up, forward-facing position, with the Orbiter's nose pitched up.
+
+
+8:44:09 (EI+000) – Entry Interface (EI), arbitrarily defined as the point at which the Orbiter enters the discernible atmosphere at 400,000 feet (120 km; 76 mi), occurred over the Pacific Ocean.
+
+
+As Columbia descended from outer space into the atmosphere, the heat produced by air molecules colliding with the Orbiter typically caused wing leading-edge temperatures to rise steadily, reaching an estimated 2,500 °F (1,370 °C) during the next six minutes. (As former Space Shuttle Program Manager Wayne Hale stated in a press briefing, about 90% of this heating is the result of compression of the atmospheric gas caused by the orbiter's supersonic flight, rather than the result of friction.)
+
+
+
+
+
+Columbia at approximately 8:57. Debris is visible coming from the left wing (bottom).
+
+
+
+8:48:39 (EI+270) – A sensor on the left wing leading edge spar showed strains higher than those seen on previous Columbia re-entries.
+
+
+This was recorded only on the Modular Auxiliary Data System, which is similar in concept to a flight data recorder, and was not telemetered to ground controllers or displayed to the crew.
+
+
+8:49:32 (EI+323) – Columbia executed a planned roll to the right. Speed: Mach 24.5.
+
+
+Columbia began a banking turn to manage lift and therefore limit the Orbiter's rate of descent and heating.
+
+
+8:50:53 (EI+404) – Columbia entered a 10-minute period of peak heating, during which the thermal stresses were at their maximum. Speed: Mach 24.1; altitude: 243,000 feet (74 km; 46 mi).
+8:52:00 (EI+471) – Columbia was approximately 300 miles (480 km) west of the California coastline.
+
+
+The wing leading-edge temperatures usually reached 2,650 °F (1,450 °C) at this point.
+
+
+8:53:26 (EI+557) – Columbia crossed the California coast west of Sacramento. Speed: Mach 23; altitude: 231,600 feet (70.6 km; 43.9 mi).
+
+
+
+
+
+Columbia debris (in red, orange, and yellow) detected by National Weather Service radar over Texas and Louisiana.
+
+
+
+The Orbiter's wing leading edge typically reached more than 2,800 °F (1,540 °C) at this point.
+
+
+8:53:46 (EI+577) – Signs of debris being shed were sighted by people out to watch the re-entry. Speed: Mach 22.8; altitude: 230,200 feet (70.2 km; 43.6 mi).
+
+
+The superheated air surrounding the Orbiter suddenly brightened, causing a streak in the Orbiter's luminescent trail that was quite noticeable in the pre-dawn skies over the West Coast. Observers witnessed another four similar events during the following 23 seconds. Dialogue on some of the amateur footage indicates the observers were aware of the abnormality of what they were filming.
+
+
+8:54:24 (EI+615) – The Maintenance, Mechanical, and Crew Systems (MMACS) officer informed the Flight Director that four hydraulic sensors in the left wing were indicating "off-scale low." In Mission Control, re-entry had been proceeding normally up to this point.
+
+
+"Off-scale low" is a reading that falls below the minimum capability of the sensor, and it usually indicates that the sensor has failed (stopped functioning, due to internal or external factors), rather than that the quantity it measures is actually below the sensor's minimum response value.
+The Entry Team continued to discuss the failed indicators.
+
+
+8:54:25 (EI+616) – Columbia crossed from California into Nevada airspace. Speed: Mach 22.5; altitude: 227,400 feet (69.3 km; 43.1 mi).
+
+
+Witnesses observed a bright flash at this point and 18 similar events in the next four minutes.
+
+
+8:55:00 (EI+651) – Nearly 11 minutes after Columbia re-entered the atmosphere, wing leading-edge temperatures normally reached nearly 3,000 °F (1,650 °C).
+8:55:32 (EI+683) – Columbia crossed from Nevada into Utah. Speed: Mach 21.8; altitude: 223,400 feet (68.1 km; 42.3 mi).
+8:55:52 (EI+703) – Columbia crossed from Utah into Arizona.
+8:56:30 (EI+741) – Columbia initiated a roll reversal, turning from right to left over Arizona.
+8:56:45 (EI+756) – Columbia crossed from Arizona to New Mexico. Speed: Mach 20.9; altitude: 219,000 feet (67 km; 41 mi).
+8:57:24 (EI+795) – Columbia passed just north of Albuquerque.
+8:58:00 (EI+831) – At this point, wing leading-edge temperatures typically decreased to 2,880 °F (1,580 °C).
+8:58:20 (EI+851) – Columbia crossed from New Mexico into Texas. Speed: Mach 19.5; altitude: 209,800 feet (63.9 km; 39.7 mi).
+
+
+At about this time, the Orbiter shed a Thermal Protection System tile, the most westerly piece of debris that has been recovered. Searchers found the tile in a field in Littlefield, Texas, just northwest of Lubbock.
+
+
+8:59:15 (EI+906) – MMACS informed the Flight Director that pressure readings had been lost on both left main landing-gear tires. The Flight Director then told the Capsule Communicator (CAPCOM) to let the crew know that Mission Control saw the messages and was evaluating the indications, and added that the Flight Control Team did not understand the crew's last transmission.
+8:59:32 (EI+923) – A broken response from the mission commander was recorded: "Roger, uh, bu – [cut off in mid-word] ..." It was the last communication from the crew and the last telemetry signal received in Mission Control.
+8:59:37 (EI+928) – Hydraulic pressure, which is required to move the flight control surfaces, was lost at approximately 8:59:37. At that time, the Master Alarm would have sounded for the loss of hydraulics, and the shuttle began to lose control, beginning to roll and yaw uncontrollably, and the crew would have become aware of the serious problem.[17]
+9:00:18 (EI+969) – Videos and eyewitness reports by observers on the ground in and near Dallas revealed that the Orbiter had disintegrated overhead, continuing to break up into more and smaller pieces, and leaving multiple contrails, as it continued eastward. In Mission Control, while the loss of signal was a cause for concern, there was no sign of any serious problem. Prior to orbiter breakup at 9:00:18, the Columbia cabin pressure was nominal and the crew was capable of conscious actions.[17] The crew module remained mostly intact through the breakup, though it had lost enough structural integrity that it lost pressure, and was completely depressurized no later than 9:00:53.
+9:00:57 (EI+1008) - The still intact crew module was seen breaking into small subcomponents. It disappeared from view at 9:01:10. The crew, if not already dead, were dead no later than this point.
+9:05 – Residents of north central Texas, particularly near Tyler, reported a loud boom, a small concussion wave, smoke trails and debris in the clear skies above the counties east of Dallas.
+9:12:39 (EI+1710) – After hearing of reports of the shuttle being seen to break apart, the NASA flight director declared a contingency (events leading to loss of the vehicle) and alerted search and rescue teams in the debris area. He made a call to the Ground Controller: "GC; flight, GC; flight. Lock the doors." Two minutes later Mission Control put contingency procedures into effect. Nobody was permitted to enter or leave the room, and flight controllers had to preserve all the mission data for later investigation.[18]
+
+[edit] Presidential response
+
+
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+
+
+President George W. Bush's address on the Columbia's destruction, February 1, 2003.
+
+
+At 14:04 EST (19:04 UTC), President George W. Bush addressed the United States: "This day has brought terrible news and great sadness to our country ... The Columbia is lost; there are no survivors." Despite the disaster, Bush assured Americans that the space program would continue: "The cause in which they died will continue. [...] Our journey into space will go on."[19]
+[edit] Recovery of debris
+
+
+
+
+Grid on the floor of the RLV Hangar
+
+
+More than 2,000 debris fields, including human remains, were found in sparsely populated areas southeast of Dallas from Nacogdoches in East Texas, where a large amount of debris fell, to western Louisiana and the southwestern counties of Arkansas. The Telegraph reported that searchers stumbled upon human body parts, including arms, feet, a torso, and human heart.[20] Within the months following the tragedy the largest ever organized ground search took place.[21] NASA issued warnings to the public that any debris could contain hazardous chemicals, that it should be left untouched, its location reported to local emergency services or government authorities, and that anyone in unauthorized possession of debris would be prosecuted. Because of the widespread area, volunteer amateur radio operators accompanied the search teams to provide communications support.[22]
+A group of small (1 mm) adult Caenorhabditis elegans worms, living in petri dishes enclosed in aluminum canisters, survived re-entry and impact with the ground and were recovered weeks after the disaster.[23][24] The culture was verified as still alive on April 28, 2003.[25] They were part of a Biological Research in canisters experiment designed to study the effect of weightlessness on physiology; the experiment was conducted by Cassie Conley, NASA's current Planetary protection officer.[citation needed]
+Debris Search Pilot Jules F. Mier Jr. and Debris Search Aviation Specialist Charles Krenek died in a helicopter crash that injured three others while they were contributing to the ground search effort.[26]
+Some Texas residents recovered some of the debris, ignoring the warnings, and attempted to sell it on the online auction site eBay, starting at $10,000. The auction was quickly removed, but auctions for Columbia merchandise such as programs, photographs and patches, went up dramatically in value immediately following the disaster, creating a surge of Columbia-related listings.[27] A three-day amnesty offered for "looted" shuttle debris brought in hundreds of illegally recovered pieces.[28] There were approximately 40,000 recovered pieces of debris that were never identified. The largest pieces recovered include the front landing gear,[29] and a window frame.[30]
+On May 9, 2008, it was reported that data from a disk drive on board Columbia survived the shuttle accident.[31] The drive was used to store data from an experiment on the properties of shear thinning.[32] Although part of the 340MB drive was damaged, the area that contained the data was unharmed and could be recovered.[citation needed]
+On July 29, 2011, Nacogdoches authorities notified NASA about the discovery of a 4-foot (1.2 m) diameter piece of debris that was found in a lake. NASA identified the piece as a "PRSD: power reactant storage and distribution".[33]
+All recovered non-crew Columbia debris is located at the Vehicle Assembly Building, stored in unused office space. The remains of the crew compartment are kept separate from the rest of the debris.[34]
+[edit] Onboard video
+
+
+
+
+The glow of reentry as seen out the front windows.
+
+
+One item recovered from the debris field was a videotape recording made by the astronauts during the start of re-entry. The video recording lasts for 13 minutes and shows the flight crew astronauts conducting routine re-entry procedures and joking with each other, none of them giving any indication of a problem. The video shows the flight-deck crew putting on their gloves and passing the video camera around in order to take footage of plasma and flames visible outside the windows of the orbiter (a completely normal occurrence), and ends approximately four minutes prior to the start of the shuttle's disintegration. On normal flights, the recording would have continued through landing. According to the online introduction given by Scott Altman, the remainder of the tape was destroyed in the accident.[35]
+[edit] Investigation
+Main article: Columbia Accident Investigation Board
+[edit] Initial investigation
+
+
+
+
+Grid on the floor of the Reusable Launch Vehicle Hangar where workers in the field bring in pieces of Columbia's debris. The Columbia Reconstruction Project Team attempted to reconstruct the bottom of the orbiter as part of the investigation into the accident.
+
+
+
+
+
+
+A mock-up of a space shuttle leading edge made with an RCC-panel taken from Discovery. Simulation of known and possible conditions of the foam impact on Columbia's final launch showed Brittle fracture of RCC.
+
+
+NASA Space Shuttle Program Manager Ron Dittemore reported that "The first indication was loss of temperature sensors and hydraulic systems on the left wing. They were followed seconds and minutes later by several other problems, including loss of tire pressure indications on the left main gear and then indications of excessive structural heating".[36] Analysis of 31 seconds of telemetry data which had initially been filtered out because of data corruption within it showed the shuttle fighting to maintain her orientation, eventually using maximum thrust from her Reaction Control System jets.
+The investigation focused on the foam strike from the very beginning. Incidents of debris strikes from ice and foam causing damage during take-off were already well known, and had damaged orbiters, most noticeably during STS-45, STS-27 and STS-87.[37] After the loss of Columbia, NASA concluded that mistakes during installation was the likely cause of foam loss, and retrained employees at Michoud Assembly Facility in Louisiana to apply foam without defects.[13] Tile damage had also been traced to ablating insulating material from the cryogenic fuel tank in the past. The composition of the foam insulation had been changed in 1997 to exclude the use of freon, a chemical that is suspected to cause ozone depletion; while NASA was exempted from legislation phasing out CFCs, the agency chose to change the foam nonetheless. STS-107 used an older "lightweight tank" (a design that was succeeded by the "superlightweight tank", both being upgrades from the original space shuttle external tank) where the foam was sprayed on to the larger cylindrical surfaces using the newer freon-free foam. However, the bipod ramps were manufactured from BX-250 foam which was excluded from the EPA regulations and did use the original freon formula. The composition change did not contribute to the accident.[38] In any case, the original formulation had shown frequent foam losses, as discussed earlier in this article.
+[edit] Independent Investigation Board
+Following protocols established after the loss of Challenger, an independent investigating board was created immediately following the accident. The Columbia Accident Investigation Board, or CAIB, was chaired by retired US Navy Admiral Harold W. Gehman, Jr.,[39] and consisted of expert military and civilian analysts who investigated the accident in great detail.[citation needed]
+
+
+
+
+Columbia's flight data recorder
+
+
+Columbia's flight data recorder was found near Hemphill, Texas, on March 19, 2003.[40] Unlike commercial jet aircraft, the space shuttles do not have flight data recorders intended for after-crash analysis. Rather the vehicle data are transmitted in real time to the ground via telemetry. However, since Columbia was the first shuttle, it had a special flight data OEX (Orbiter EXperiments) recorder, designed to help engineers better understand vehicle performance during the first test flights. After the initial Shuttle test-flights were completed, the recorder was never removed from Columbia and was still functioning on the crashed flight. It records many hundreds of different parameters and contained very extensive logs of structural and other data which allowed the CAIB to reconstruct many of the events during the process leading to breakup.[41] Investigators could often use the loss of signals from sensors on the wing to track how the damage progressed.[42] This was correlated with forensic debris analysis conducted at Lehigh University and other tests to obtain a final conclusion about the probable course of events.[43]
+On July 7, 2003, foam impact tests were performed by Southwest Research Institute, which used a compressed air gun to fire a foam block of similar size and mass to that which struck Columbia and at same estimated speed. To represent the leading edge of Columbia's left wing, RCC panels from NASA stock, along with the actual leading-edge panels from Enterprise, which were fiberglass, were mounted to a simulating structural metal frame. Over many days, tens of these blocks of foam were shot at the wing leading edge model at various angles, aimed at different specific RCC panels, most of which produced only cracks or surface damage to the RCC. In the final round of testing, a block fired at the side of an RCC panel created a hole 41 by 42.5 centimeters (16 by 16.7 in) in the protective RCC panel.[44] The tests clearly demonstrated that a foam impact of the type Columbia sustained could seriously breach the thermal protection system on the wing leading edge.[45]
+[edit] Conclusions
+On August 26, the CAIB issued its report on the accident. The report confirmed the immediate cause of the accident was a breach in the leading edge of the left wing, caused by insulating foam shed during launch. The report also delved deeply into the underlying organizational and cultural issues that led to the accident. The report was highly critical of NASA's decision-making and risk-assessment processes. It concluded the organizational structure and processes were sufficiently flawed and that a compromise of safety was expected no matter who was in the key decision-making positions. An example was the position of Shuttle Program Manager, where one individual was responsible for achieving safe, timely launches and acceptable costs, which are often conflicting goals. The CAIB report found that NASA had accepted deviations from design criteria as normal when they happened on several flights and did not lead to mission-compromising consequences. One of those was the conflict between a design specification stating the thermal protection system was not designed to withstand significant impacts and the common occurrence of impact damage to it during flight. The board made recommendations for significant changes in processes and organizational culture.
+On December 30, 2008, NASA released a further report, entitled Columbia Crew Survival Investigation Report, produced by a second commission, the Spacecraft Crew Survival Integrated Investigation Team (SCSIIT). NASA had commissioned this group, "to perform a comprehensive analysis of the accident, focusing on factors and events affecting crew survival, and to develop recommendations for improving crew survival for all future human space flight vehicles."[46] The report concluded that: "The Columbia depressurization event occurred so rapidly that the crew members were incapacitated within seconds, before they could configure the suit for full protection from loss of cabin pressure. Although circulatory systems functioned for a brief time, the effects of the depressurization were severe enough that the crew could not have regained consciousness. This event was lethal to the crew."
+The report also concluded:
+
+The crew did not have time to prepare themselves. Some crew members were not wearing their safety gloves, and one crew member was not wearing a helmet. New policies now give the crew more time to prepare for descent.
+The crew's safety harnesses malfunctioned during the violent descent. The harnesses on the three remaining shuttles were upgraded after the accident.
+
+The key recommendations of the report included that future spacecraft crew survival systems should not rely on manual activation to protect the crew.[47]
+[edit] Possible emergency procedures
+The CAIB determined that a rescue mission, though risky, might have been possible provided NASA management had taken action soon enough.[48][49] They stated that had NASA management acted in time, two possible contingency procedures were available: a rescue mission by shuttle Atlantis, and an emergency spacewalk to attempt repairs to the left wing thermal protection.
+Normally a rescue mission is not possible, due to the time required to prepare a shuttle for launch, and the limited consumables (power, water, air) of an orbiting shuttle. However, Atlantis was well along in processing for a planned March 1 launch on STS-114, and Columbia carried an unusually large quantity of consumables due to an Extended Duration Orbiter package. The CAIB determined that this would have allowed Columbia to stay in orbit until flight day 30 (February 15). NASA investigators determined that Atlantis processing could have been expedited with no skipped safety checks for a February 10 launch. Hence if nothing went wrong there was a five-day overlap for a possible rescue. As mission control could deorbit an empty shuttle but could not control the orbiter's reentry and landing, it would likely have sent Columbia into the Pacific Ocean;[48] NASA later developed the Remote Control Orbiter system to permit mission control to land a shuttle. Docking at the International Space Station for use as a safe haven while awaiting rescue (or to use the Soyuz to systematically ferry the crew to safety) would have been impossible due to the different orbital inclination of both vehicles.
+NASA investigators determined on-orbit repair by the shuttle astronauts was possible but risky, primarily due to the uncertain resiliency of the repair using available materials.[48][49] Columbia did not carry the Canadarm, or Remote Manipulator System, which would normally be used for camera inspection or transporting a spacewalking astronaut to the wing. Therefore an unusual emergency extra-vehicular activity (EVA) would have been required. While there was no astronaut EVA training for maneuvering to the wing, astronauts are always prepared for a similarly difficult emergency EVA to close the external tank umbilical doors located on the orbiter underside, which is necessary for reentry. Similar methods could have reached the shuttle left wing for inspection or repair.[48]
+For the repair, the CAIB determined the astronauts would have to use tools and small pieces of titanium, or other metal, scavenged from the crew cabin. These metals would help protect the wing structure and would be held in place during re-entry by a water-filled bag that had turned into ice in the cold of space. The ice and metal would help restore wing leading edge geometry, preventing a turbulent airflow over the wing and therefore keeping heating and burn-through levels low enough for the crew to survive re-entry and bail out before landing. Since the NASA team could not verify that the repairs would survive even a modified re-entry, the rescue option had a considerably higher chance of bringing Columbia's crew back alive.[48]
+[edit] Memorials
+On February 4, 2003, President George W. Bush and his wife Laura led a memorial service for the astronauts' families at the Lyndon B. Johnson Space Center. Two days later, Vice President Dick Cheney and his wife Lynne led official Washington and the rest of the nation in paying tribute at a similar service at Washington National Cathedral. During that service, singer Patti LaBelle sang "Way Up There".[50]
+
+
+
+
+A makeshift memorial at the main entrance to the Lyndon B. Johnson Space Center in Houston, Texas
+
+
+
+
+
+
+Columbia Memorial in Arlington National Cemetery
+
+
+
+
+
+
+Columbia memorial on Mars Exploration Rover "Spirit"
+
+
+
+
+
+
+Space Shuttle Columbia memorial - Shelby County, Texas
+
+
+On March 26 the United States House of Representatives' Science Committee approved funds for the construction of a memorial at Arlington National Cemetery for the STS-107 crew. A similar memorial was built at the cemetery for the last crew of Challenger. On October 28, 2003, the names of the astronauts were added to the Space Mirror Memorial at the Kennedy Space Center Visitor Complex.
+The Houston Astros, who reside in the same city as Johnson Space Center and whose team name honors the U.S. space program, honored the crew on April 1, 2003, the Opening Day of the season, by having seven simultaneous first pitches thrown by family and friends of the Columbia crew. For the National Anthem, 107 NASA personnel, including flight controllers and others involved in Columbia's final mission, carried a U.S. flag onto the field. In addition, the Astros wore the mission patch on their sleeves and replaced all dugout advertising with the mission patch logo for the entire season.[51]
+In 2004, Bush conferred posthumous Congressional Space Medals of Honor to all 14 astronauts lost in the Challenger and Columbia accidents.[52]
+NASA named several places in honor of Columbia and her crew. Seven asteroids discovered in July 2001 at the Mount Palomar observatory were officially given the names of the seven astronauts: 51823 Rickhusband, 51824 Mikeanderson, 51825 Davidbrown, 51826 Kalpanachawla, 51827 Laurelclark, 51828 Ilanramon, 51829 Williemccool.[53] On Mars, the landing site of the rover Spirit was named Columbia Memorial Station, and included a memorial plaque to the Columbia crew mounted on the back of the high gain antenna. A complex of seven hills east of the Spirit landing site was dubbed the Columbia Hills; each of the seven hills was individually named for a member of the crew, and Husband Hill in particular was ascended and explored by the rover. Back on Earth, NASA's National Scientific Balloon Facility was renamed the Columbia Scientific Balloon Facility.
+Other tributes included the decision by Amarillo, Texas, to rename its airport Rick Husband Amarillo International Airport, after its native son and commander of STS-107. State Route 904 was renamed Lt. Michael P. Anderson Memorial Highway, as it runs through Cheney, Washington – the town where he graduated from high school. A mountain peak near Kit Carson Peak and Challenger Point in the Sangre de Cristo Range was renamed Columbia Point, and a dedication plaque was placed on the point in August 2003. Seven dormitories were named in honor of Columbia crew members at the Florida Institute of Technology, Creighton University, The University of Texas at Arlington, and the Columbia Elementary school in the Brevard County School District. The Huntsville City Schools in Huntsville, Alabama, a city strongly associated with NASA, named their most recent high school Columbia High School as a memorial to the crew. A Department of Defense school in Guam was renamed Commander William C. McCool Elementary School.[54] The City of Palmdale, California, the birthplace of the entire shuttle fleet, renamed a major thoroughfare Avenue M to Columbia Way after the disaster in honor of the lost shuttle and her crew.
+ In October 2004, both houses of Congress passed a resolution authored by US Representative Lucille Roybal-Allard and co-sponsored by the entire contingent of California representatives to Congress, naming Downey California’s Space Science Learning Center the Columbia Memorial Space Science Learning Center (CMSSLC is located at the former manufacturing site of the space shuttles, including the Columbia and the Challenger).
+The US Air Force's Squadron Officer School at Maxwell Air Force Base, Alabama renamed their auditorium in Husband's honor. He was a distinguished graduate from the program. The US Test Pilot School, Edwards AFB, CA named the pilot lounge in Husband's honor.
+A newly constructed elementary school located on Fairchild Air Force Base, near Spokane, Washington was named Michael Anderson Elementary School; Anderson had attended Blair Elementary (the base's previous elementary school) during his 5th grade year while his father was stationed at Fairchild. Anderson later graduated from nearby Cheney High School in 1977.
+NASA named a supercomputer "Columbia" in the crew's honor in 2004. It is located at the NASA Advanced Supercomputing Division at Ames Research Center on Moffett Federal Airfield near Mountain View, California. The first part of the system built in 2003, known as "Kalpana" was dedicated to Kalpana Chawla, who worked at Ames prior to joining the Space Shuttle program.[55]
+A U.S. Navy compound at a major coalition military base in Afghanistan is named Camp McCool in honor of Pilot William C. McCool. In addition, the athletic field at Coronado High School in Lubbock, Texas, was renamed the "Willie McCool Track and Field" in his honor; McCool was a Coronado graduate.
+A proposed reservoir in Cherokee County in Eastern Texas is to be named Lake Columbia.[56]
+On February 5, 2003, the space agency of India, ISRO, renamed one of its meteorological satellites METSAT as Kalpana-1. It was renamed by the then Indian Prime Minister Atal Bihari Vajpayee in memory of Kalpana Chawla.
+Ilan Ramon High School was established in 2006 in Hod HaSharon, Israel, in tribute to the first Israeli astronaut.[57] The school's symbol shows the planet Earth with an aircraft orbiting around it.[58]
+The National Naval Medical Center honored one of Navy Medicine's own in a ceremony July 11, 2003, officially dedicating NNMC's Laurel Clark Memorial Auditorium.[59]
+Gamma Phi Beta Sorority, of which Clark was a member, created the Laurel Clark Foundation in her honor.[60]
+[edit] Effect on space programs
+Following the loss of Columbia, the space shuttle program was suspended.[42] The further construction of the International Space Station was also delayed, as the space shuttles were the only available delivery vehicle for station modules. The station was supplied using Russian unmanned Progress ships, and crews were exchanged using Russian-manned Soyuz spacecraft, and forced to operate on a skeleton crew of two.[61][62]
+Less than a year after the accident, President Bush announced the Vision for Space Exploration, calling for the space shuttle fleet to complete the International Space Station (ISS), with retirement by the year 2010 following the completion of the ISS, to be replaced by a newly developed Crew Exploration Vehicle for travel to lunar orbit and landing and to Mars.[63] NASA planned to return the space shuttle to service around September 2004; that date was pushed back to July 2005.
+On July 26, 2005, at 10:39 am EST, Space Shuttle Discovery cleared the tower on the "Return to Flight" mission STS-114, marking the shuttle's return to space. Overall the STS-114 flight was highly successful, but a similar piece of foam from a different portion of the tank was shed, although the debris did not strike the Orbiter. Due to this, NASA once again grounded the shuttles until the remaining problem was understood and a solution implemented.[42] After delaying their re-entry by two days due to adverse weather conditions, Commander Eileen Collins and Pilot James M. Kelly returned Discovery safely to Earth on August 9, 2005. Later that same month, the external tank construction site at Michoud was damaged by Hurricane Katrina.[64] At the time, there was concern that this would set back further shuttle flights by at least two months and possibly more.
+The actual cause of the foam loss on both Columbia and Discovery was not determined until December 2005, when x-ray photographs of another tank showed that thermal expansion and contraction during filling, not human error, caused cracks that led to foam loss. NASA's Hale formally apologized to the Michoud workers who had been blamed for the loss of Columbia for almost three years.[13]
+The second "Return to Flight" mission, STS-121, launched on July 4, 2006, at 2:37:55 pm (EDT), after two previous launches were scrubbed because of lingering thunderstorms and high winds around the launch pad. The launch took place despite objections from its chief engineer and safety head. This mission increased the ISS crew to three. A 5-inch (130 mm) crack in the foam insulation of the external tank gave cause for concern; however, the Mission Management Team gave the go for launch.[65] Space Shuttle Discovery touched down successfully on July 17, 2006 at 9:14:43 am (EDT) on Runway 15 at the Kennedy Space Center.
+On August 13, 2006, NASA announced STS-121 had shed more foam than they expected. While this did not delay the launch for the next mission, STS-115, originally set to lift off on August 27,[66] the weather and other technical glitches did, with a lightning strike, Hurricane Ernesto and a faulty fuel tank sensor combining to delay the launch until September 9. On September 19, landing was delayed an extra day to examine Atlantis after objects were found floating near the shuttle in the same orbit. When no damage was detected, Atlantis landed successfully on September 21.
+The Columbia Crew Survival Investigation Report released by NASA on December 30, 2008, made further recommendations to improve a crew's survival chances on future space vehicles, such as the (subsequently canceled) Orion moon program. These include improvements in crew restraints, finding ways to deal more effectively with catastrophic cabin depressurization, more "graceful degradation" of vehicles during a disaster so crews will have a better chance at survival, and automated parachute systems.[46]
+[edit] Sociocultural aftermath
+[edit] Fears of terrorism
+Despite some initial fears[67] after announcement in the news that Columbia suffered an explosion over Palestine, Texas, and that the addition of the first Israeli astronaut to the crew had made the Columbia a more likely target for terrorists, there is no evidence to support any theory that terrorism was involved. Security surrounding the launch and landing of the space shuttle had been increased to ward off any potential terrorist attack[68] and the Merritt Island launch facility, like all sensitive government areas, had increased security measures put in place in the wake of the September 11 attacks. Gordon Johndroe, spokesman for the United States Department of Homeland Security, stated: "There is no information at this time that this was a terrorist incident."[69]
+[edit] Purple streak image
+The San Francisco Chronicle reported that an amateur astronomer had taken a five-second exposure that appeared to show "a purplish line near the shuttle" during re-entry.[70] The CAIB report concluded that image was the result of "camera vibrations during a long-exposure".[71]
+[edit] Film hoax
+In a hoax inspired by the destruction of Columbia, some images that were purported to be satellite photographs of the shuttle's explosion turned out to be screen captures from the opening scene of the 1998 film Armageddon, where the shuttle Atlantis is destroyed by asteroid fragments. In reality, Columbia disintegrated rather than exploded. In response to the disaster, FX pulled Armageddon from that night's schedule, replacing it with Aliens.[72]
+[edit] Music
+The 2003 album Bananas by Deep Purple includes "Contact Lost", an instrumental piece written by guitarist Steve Morse in remembrance of the loss. Morse is donating his songwriting royalties to the families of the astronauts.[73]
+The 2008 album Columbia: We Dare to Dream by Anne Cabrera was written as a tribute to space shuttle Columbia STS-107, her crew, support teams, recovery teams, and the crew's families.[74] A copy of the album on compact disc was flown aboard space shuttle Discovery mission STS-131 to the International Space Station by astronaut Clayton Anderson in April 2010.[75]
+[edit] See also
+
+
+
+
+United States  portal
+
+
+
+Spaceflight  portal
+
+
+
+Texas  portal
+
+
+
+
+Apollo 1
+Space Shuttle Challenger disaster
+Expedition 6
+Criticism of the Space Shuttle program
+
+[edit] References
+
+
+^ Marcia Dunn (February 1, 2003). "Columbia's Problems Began on Left Wing". Associated Press via The Baltimore Sun. http://www.baltimoresun.com/news/bal-wing0201,0,4910059.story.
+^ Columbia Accident Investigation Board (August 2003). "6.1 A History of Foam Anomalies (page 121)" (PDF). http://caib.nasa.gov/news/report/pdf/vol1/chapters/chapter6.pdf. Retrieved August 3, 2007.
+^ Armando Oliu, KSC Debris Team (10 October 2002). "STS-112 SRB POST FLIGHT/RETRIEVAL ASSESSMENT". http://aboutfacts.net/ColumbiaDocs/Debris/STS112/STS-112.6.pdf. Retrieved August 6, 2011.
+^ Jerry Smelser (October 31, 2002). "STS-112/ET-115 Bipod Ramp Foam Loss, Page 4" (PDF). http://www.jsc.nasa.gov/news/columbia/frr/sts-113/08_et.pdf. Retrieved August 5, 2011.
+^ Gehman, et al (2003). "Columbia Accident Investigation Board, Chapter 6, "A History of Foam Anomalies", pages 125 & 148". http://anon.nasa-global.speedera.net/anon.nasa-global/CAIB/CAIB_lowres_chapter6.pdf. Retrieved 2011-08-05.
+^ "Molten Aluminum found on Columbia's thermal tiles". USA Today. Associated Press. March 4, 2003. http://www.usatoday.com/news/nation/2003-03-04-shuttle-investigation_x.htm. Retrieved August 13, 2007.
+^ a b Columbia Accident Investigation Board (August 2003). "2.1 Mission Objectives and Their Rationales (page 28)" (PDF). http://caib.nasa.gov/news/report/pdf/vol1/full/caib_report_volume1.pdf. Retrieved January 28, 2011.
+^ Century of Flight. "The Columbia space shuttle accident". http://www.century-of-flight.net/Aviation%20history/space/Columbia%20accident.htm. Retrieved August 13, 2007.
+^ Columbia Accident Investigation Board (August 2003). "6.1 A History of Foam Anomalies (PDF)" (PDF). http://caib.nasa.gov/news/report/pdf/vol1/chapters/chapter6.pdf. Retrieved August 3, 2007.
+^ Cabbage, Michael & Harwood, William (2004). Comm Check. Free Press. p. 94. ISBN 0-7432-6091-0.
+^ Columbia Accident Investigation Board (2003). "CAIB page 153 (PDF)" (PDF). http://caib.nasa.gov/news/report/pdf/vol1/chapters/chapter6.pdf. Retrieved December 17, 2010.
+^ Columbia Accident Investigation Board (2003). "CAIB Recommendation R6.3-2 (PDF)" (PDF). http://caib.nasa.gov/news/report/pdf/vol1/chapters/chapter5.pdf. Retrieved January 30, 2006.
+^ a b c Hale, Wayne (2012-04-18). "How We Nearly Lost Discovery". waynehale.wordpress.com. http://waynehale.wordpress.com/2012/04/18/how-we-nearly-lost-discovery/. Retrieved April 18, 2012.
+^ Columbia Accident Investigation Board, (2003) Volume 1, Chapter 6, p. 138.Chapter 6(pdf). Retrieved June 8, 2006.
+^ a b Hale, Wayne (2013-01-13). "After Ten Years: Working on the Wrong Problem". Wayne Hale's Blog. http://waynehale.wordpress.com/2013/01/13/after-ten-years-working-on-the-wrong-problem/. Retrieved January 14, 2013.
+^ "nasa-global.speedera.net" (PDF). http://anon.nasa-global.speedera.net/anon.nasa-global/CAIB/CAIB_lowres_full.pdf. Retrieved July 27, 2007.
+^ a b Columbia Accident Investigation Board (2008). "Columbia Crew Survival Investigation Report". http://www.nasa.gov/pdf/298870main_SP-2008-565.pdf.
+^ Columbia Accident Investigation Board (2003). "Report of Columbia Accident Investigation Board, Volume I". http://www.nasa.gov/columbia/home/CAIB_Vol1.html. Retrieved January 4, 2006.
+^ Bush, George W. (2003). "President Addresses Nation on Space Shuttle Columbia Tragedy". The White House. http://georgewbush-whitehouse.archives.gov/news/releases/2003/02/20030201-2.html. Retrieved January 4, 2006.
+^ Harnden, Toby (February 3, 2003). "Searchers stumble on human remains". The Daily Telegraph (London). http://www.telegraph.co.uk/news/worldnews/northamerica/usa/1420965/Searchers-stumble-on-human-remains.html.
+^ "In Search Of...". http://researchernews.larc.nasa.gov/archives/2003/050903/Search.html. Retrieved February 9, 2009.
+^ awextra@arrl.org (2003). "Hams Aid Columbia Debris Search in Western States". American Radio Relay League, Inc.. Archived from the original on November 4, 2005. http://web.archive.org/web/20051104131736/http://www.arrl.org/news/stories/2003/02/26/2/?nc=1. Retrieved February 1, 2007.
+^ Szewczyk, Nathaniel, et al. (2005). "Caenorhabditis elegans Survives Atmospheric Breakup of STS-107, Space Shuttle Columbia". Mary Ann Liebert, Astrobiology. http://www.liebertpub.com/prdetails.aspx?pr_id=428. Retrieved November 2, 2006.
+^ "Worms survived Columbia disaster". BBC News. May 1, 2003. http://news.bbc.co.uk/2/hi/science/nature/2992123.stm. Retrieved December 16, 2005.
+^ Worms Survive Shuttle Disaster Fall 2003
+^ "The 'Columbia' Debris Recovery Helo Crash". Check-Six.com. http://www.check-six.com/Crash_Sites/STS107-N175PA.htm. Retrieved September 1, 2009.
+^ "Shuttle debris offered online". BBC News. February 3, 2003. http://news.bbc.co.uk/2/hi/technology/2720225.stm. Retrieved May 27, 2007.
+^ "Debris Amnesty Ends, 9 May Face Looting Charges". Associated Press. February 8, 2003. http://news.google.com/newspapers?nid=1454&dat=20030209&id=-2o0AAAAIBAJ&sjid=jR8EAAAAIBAJ&pg=5501,2583517.
+^ "Divers Find Shuttle's Front Landing Gear". Fox News. February 19, 2003. http://www.foxnews.com/story/0,2933,78993,00.html. Retrieved April 25, 2010.
+^ "NASA begins packing up shuttle debris for storage". USA Today. September 10, 2003. http://www.usatoday.com/news/nation/2003-09-10-space-shuttle-storage_x.htm. Retrieved June 22, 2009.
+^ Fonseca, Brian (May 7, 2008). "Shuttle Columbia's hard drive data recovered from crash site". Computerworld.com. http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9083718. Retrieved September 1, 2009.
+^ "The Physics of Whipped Cream". Science.nasa.gov. http://science.nasa.gov/headlines/y2008/25apr_cvx2.htm. Retrieved September 1, 2009.
+^ "Space shuttle Columbia part found in East Texas". CNN. August 2, 2011. http://www.cnn.com/2011/US/08/02/texas.shuttle.debris/index.html. Retrieved August 2, 2011.
+^ "Shuttle Columbia's Debris on View at NASA Facility". Los Angeles Times. January 31, 2004. http://articles.latimes.com/2004/jan/31/nation/na-remains31.
+^ "Onboard video"
+^ Dittemore, Ron (2003). "CNN Breaking News — NASA Briefing, Part I". CNN. http://transcripts.cnn.com/TRANSCRIPTS/0302/01/bn.05.html. Retrieved January 4, 2006.
+^ Woods, David (2004). "Creating Foresight: Lessons for Enhancing Resilience from Columbia" (PDF). http://csel.eng.ohio-state.edu/woods/space/Create%20foresight%20Col-draft.pdf. Retrieved February 1, 2005.
+^ Sparks, Scotty (2003). "Water Absorption by Foam" (PDF). NASA. http://www.nasa.gov/columbia/caib/PDFS/VOL4/F01.PDF. Retrieved August 9, 2006.
+^ Columbia Accident Investigation Board (2003). "Board Members". http://caib.nasa.gov/board_members/default.html. Retrieved May 28, 2012.
+^ NASA. "Review of Columbia's data recorder will begin this weekend". http://space.about.com/cs/spaceshuttles/a/caib032703a.htm. Retrieved 1 February 2013.
+^ Harwood, William (19 March 2003). "Data recorder recovered; could hold key insights". Spaceflight Now. http://spaceflightnow.com/shuttle/sts107/030319recorder/. Retrieved 1 February 2013.
+^ a b c Howell, Elizabeth. "Columbia Disaster: What Happened, What NASA Learned". Space. http://www.space.com/19436-columbia-disaster.html. Retrieved 1 February 2013.
+^ "Materials science students prepare to analyze debris recovered from the shuttle Columbia". Lehigh University. http://www3.lehigh.edu/News/RCEASnews_story.asp?iNewsID=1465. Retrieved 1 February 2013.
+^ Justin Kerr (2003). "Impact Testing of the Orbiter Thermal Protection System (PDF)" (PDF). http://research.jsc.nasa.gov/PDF/Eng-20.pdf. Retrieved January 30, 2006.
+^ Columbia Accident Investigation Board (2003). "Report of Columbia Accident Investigation Board, Volume I, chapter 3, page 78 (PDF)" (PDF). http://www.globalsecurity.org/space/library/report/2003/caib-report_vol1_chapter3.pdf. Retrieved January 4, 2006.
+^ a b "Layout 1" (PDF). http://www.nasa.gov/pdf/298870main_SP-2008-565.pdf. Retrieved September 1, 2009.
+^ Columbia Crew Survival Investigation Report.
+^ a b c d e Columbia Accident Investigation Board (2003). "In-Flight Options Assessment, Volume II, appendix D.12 (PDF)". http://www.nasa.gov/columbia/caib/PDFS/VOL2/D13.PDF. Retrieved January 30, 2006.
+^ a b Columbia Accident Investigation Board (2003). "Report of Columbia Accident Investigation Board, Volume I, chapter 6, page 173 (PDF)" (PDF). http://anon.nasa-global.speedera.net/anon.nasa-global/CAIB/CAIB_lowres_chapter6.pdf. Retrieved January 4, 2006.
+^ Woodruff, Judy (February 6, 2003). "CNN LIVE EVENT/SPECIAL: Remembering the Columbia 7: Washington National Cathedral Memorial for Astronauts". CNN.com (CNN). http://transcripts.cnn.com/TRANSCRIPTS/0302/06/se.03.html. Retrieved September 15, 2011.
+^ "Astros Honor Astronauts At Season Opener". NASA. http://www.nasa.gov/vision/space/features/HP_ELT_Feature_astros.html. Retrieved September 19, 2006.
+^ "Congressional Space Medal of Honor". NASA History Program Office. http://history.nasa.gov/spacemedal.htm. Retrieved January 28, 2011.
+^ "Asteroids Dedicated To Space Shuttle Columbia Crew" (Press release). NASA. August 6, 2003. http://www.nasa.gov/home/hqnews/2003/aug/HQ_03259_astroids_dedicated.html.
+"Tribute to the Crew of Columbia". Archived from the original on February 8, 2008. http://web.archive.org/web/20080208162807/http://www.jpl.nasa.gov/releases/2003/columbia-tribute.cfm. Retrieved November 6, 2006.
+^ "Commander William C. McCool Elementary/Middle School". Archived from the original on October 26, 2006. http://web.archive.org/web/20061026170811/http://www.guam.pac.dodea.edu/Guam+Schools/GEMSweb/index.html. Retrieved February 1, 2007.
+^ "NASA to Name Supercomputer After Columbia Astronaut". http://www.nas.nasa.gov/publications/news/2004/05-10-04.html.
+^ "The Lake Eastex Water Supply Project". Archived from the original on May 12, 2008. http://web.archive.org/web/20080512232529/http://www.lakeeastex.org/index.asp. Retrieved January 2, 2009.
+^ "Ramon High School-Overview". http://c3.ort.org.il/Apps/WW/Page.aspx?ws=3971922f-5911-4607-b3c4-1316667ed79f&page=47f54905-442f-4107-b241-3939657662bc&fol=71e5d817-5b2d-4c8e-94e0-5061efb9450e. Retrieved August 31, 2010.
+^ "יום הבריאות 4.02.09". http://c3.ort.org.il/Apps/WW/Page.aspx?ws=3971922f-5911-4607-b3c4-1316667ed79f&page=b482dc26-31c6-4a98-95b6-fd5713ee1f25&fol=80a631e5-5ea3-4572-bbd4-0d240620c4b3&box=7a0f94a9-be23-4b95-8a86-6b35488f46ff&_fol=80a631e5-5ea3-4572-bbd4-0d240620c4b3&_pstate=item&_item=c3e5ceea-d373-4f96-9703-b8d2d681bc76. Retrieved August 31, 2010.
+^ "Laurel B Clark Auditorium". http://www.bethesda.med.navy.mil/visitor/pride_of_place/POP_Committee/clark/index.htm. Retrieved June 22, 2011.
+^ "MSU Gammas - Laurel Clark Foundation". http://www.gammasmsu.com/page.php?page_id=16210. Retrieved March 11, 2012.
+^ "Russian Soyuz TMA Spacecraft". NASA. http://www.nasa.gov/mission_pages/station/structure/elements/soyuz/index.html. Retrieved 1 February 2013.
+^ Reichhardt, Tony (November 2003). "Backgrounder: State of the Station". Air & Space Magazine. http://www.airspacemag.com/space-exploration/cit-reichhardt.html. Retrieved 1 February 2013.
+^ "President Bush offers new vision for NASA". NASA. 14 January 2004. http://www.nasa.gov/missions/solarsystem/bush_vision.html. Retrieved 1 February 2013.
+^ David, Leonard (30 August 2005). "Katrina batters NASA facility". Space.com. http://articles.cnn.com/2005-08-30/tech/katrina.tank.facility_1_external-tanks-nasa-s-michoud-assembly-facility-nasa-michoud-assembly-facility?_s=PM:TECH. Retrieved 1 February 2013.
+^ Chien, Philip (June 27, 2006) "NASA wants shuttle to fly despite safety misgivings." The Washington Times
+^ "Foam still a key concern for shuttle launch". New Scientist SPACE. http://space.newscientist.com/article/dn9733-foam-still-a-key-concern-for-shuttle-launch.html. Retrieved August 13, 2006.
+^ Barnett, Brooke; Reynolds, Amy (2008). Terrorism and the Press: An Uneasy Relationship. Lang, Peter Publishing, Incorporated. p. 39. ISBN 0-8204-9516-6. http://books.google.com/books?id=jFGf5quO1EUC&pg=PA39.
+^ "Israel mourns first astronaut's death". CNN. February 1, 2003. http://www.cnn.com/2003/WORLD/meast/02/01/shuttle.israel.reax/. Retrieved February 24, 2004.
+^ "In Their Own Words". CBC News. http://www.cbc.ca/news/features/shuttle_columbia/in_their_own_words.html. Retrieved January 28, 2011.[dead link]
+^ Russell, Sabin (May 2, 2003). "Mysterious purple streak is shown hitting Columbia 7 minutes before it disintegrated". San Francisco Chronicle. http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2003/02/05/MN192153.DTL. Retrieved May 26, 2009.
+^ Columbia Accident Investigation Board (2003). "Report of Columbia Accident Investigation Board, Volume III, Part 2, page 88 (PDF)" (PDF). http://caib.nasa.gov/news/report/pdf/vol3/part02.pdf. Retrieved August 18, 2006.
+^ Sue Chan (February 3, 2003). "TV Pulls Shuttle Sensitive Material". CBS News. http://www.cbsnews.com/stories/2003/02/03/entertainment/main539194.shtml. Retrieved September 1, 2009.
+^ "Deep Purple's Shuttle Connection". guitarsite.com. Archived from the original on 2007-02-15. http://www.webcitation.org/5MfMKfRYt. Retrieved 2007-02-15.
+^ Cabrera, Anne. "Columbia: We Dare to Dream". Chubby Crow Records Inc.. http://chubbycrowrecords.com/projpage.html. Retrieved 6 May 2012.
+^ Anderson, Clayton. "Clay Anderson with Columbia CD aboard ISS". Anderson. http://twitpic.com/1jglah. Retrieved 6 May 2012.
+
+
+ This article incorporates public domain material from websites or documents of the National Aeronautics and Space Administration.
+[edit] External links
+
+
+
+Wikimedia Commons has media related to: Space Shuttle Columbia disaster
+
+
+
+
+
+Wikisource has original text related to this article:
+Columbia Settlement
+
+
+
+
+NASA's Space Shuttle Columbia & Her Crew
+NASA STS-107 Crew Memorial web page
+Columbia Accident Investigation Board (CAIB)
+CAIB hearing transcripts
+Columbia Crew Survival Investigation Report PDF
+President Bush's remarks at memorial service – February 4, 2003
+Columbia Loss FAQ – a discussion of the Columbia disaster
+The CBS News Space Reporter's Handbook STS-51L/107 Supplement
+How poor presentation skills by engineers may have contributed to the disaster, according to Edward Tufte
+Video reconstruction of final reentry, raw video, 20 minute video tribute
+photos of recovered debris stored on the 16th floor of the Vehicle Assembly Building at KSC
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+STS-107
+
+
+
+
+
+
+
+
+
+Main articles
+
+
+
+Space Shuttle Columbia
+Space Shuttle Columbia disaster
+Space Shuttle external tank
+Space Shuttle thermal protection system
+
+
+
+
+
+
+
+
+
+
+
+Crew
+
+
+
+Husband (Cmdr)
+McCool
+Brown
+Chawla
+Anderson
+Clark
+Ramon
+
+
+
+
+
+
+
+
+See also
+
+
+
+Columbia Accident Investigation Board
+SpaceHab
+FREESTAR
+Hitchhiker
+Extended Duration Orbiter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Space Shuttle Columbia (OV-102)
+
+
+
+
+
+
+Flights
+
+
+
+STS-1
+STS-2
+STS-3
+STS-4
+STS-5
+STS-9
+STS-61-C
+STS-28
+STS-32
+STS-35
+STS-40
+STS-50
+STS-52
+STS-55
+STS-58
+STS-62
+STS-65
+STS-73
+STS-75
+STS-78
+STS-80
+STS-83
+STS-94
+STS-87
+STS-90
+STS-93
+STS-109
+STS-107
+
+
+
+
+
+
+
+
+Status
+
+
+
+Out of service: destroyed 1 February 2003 (STS-107)
+
+
+
+
+
+
+
+
+See also
+
+
+
+Columbia Accident Investigation Board
+STS-144
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+U.S. Space Shuttle missions
+
+
+
+
+
+
+Completed
+
+
+
+ALT
+STS-1
+STS-2
+STS-3
+STS-4
+STS-5
+STS-6
+STS-7
+STS-8
+STS-9
+STS-41-B
+STS-41-C
+STS-41-D
+STS-41-G
+STS-51-A
+STS-51-C
+STS-51-D
+STS-51-B
+STS-51-G
+STS-51-F
+STS-51-I
+STS-51-J
+STS-61-A
+STS-61-B
+STS-61-C
+STS-51-L
+STS-26
+STS-27
+STS-29
+STS-30
+STS-28
+STS-34
+STS-33
+STS-32
+STS-36
+STS-31
+STS-41
+STS-38
+STS-35
+STS-37
+STS-39
+STS-40
+STS-43
+STS-48
+STS-44
+STS-42
+STS-45
+STS-49
+STS-50
+STS-46
+STS-47
+STS-52
+STS-53
+STS-54
+STS-56
+STS-55
+STS-57
+STS-51
+STS-58
+STS-61
+STS-60
+STS-62
+STS-59
+STS-65
+STS-64
+STS-68
+STS-66
+STS-63
+STS-67
+STS-71
+STS-70
+STS-69
+STS-73
+STS-74
+STS-72
+STS-75
+STS-76
+STS-77
+STS-78
+STS-79
+STS-80
+STS-81
+STS-82
+STS-83
+STS-84
+STS-94
+STS-85
+STS-86
+STS-87
+STS-89
+STS-90
+STS-91
+STS-95
+STS-88
+STS-96
+STS-93
+STS-103
+STS-99
+STS-101
+STS-106
+STS-92
+STS-97
+STS-98
+STS-102
+STS-100
+STS-104
+STS-105
+STS-108
+STS-109
+STS-110
+STS-111
+STS-112
+STS-113
+STS-107
+STS-114
+STS-121
+STS-115
+STS-116
+STS-117
+STS-118
+STS-120
+STS-122
+STS-123
+STS-124
+STS-126
+STS-119
+STS-125
+STS-127
+STS-128
+STS-129
+STS-130
+STS-131
+STS-132
+STS-133
+STS-134
+STS-135
+
+
+
+
+
+
+
+
+Cancelled
+
+
+
+STS-41-F
+STS-62-A
+STS-61-M
+STS-61-H
+STS-144
+STS-3xx
+STS-400
+Others
+
+
+
+
+
+
+
+
+Orbiters
+
+
+
+Enterprise
+Columbia
+Challenger
+Discovery
+Atlantis
+Endeavour
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+← 2002
+Aviation accidents and incidents in 2003 (2003)
+2004 →
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+Jan 08  Turkish Airlines Flight 634
+Jan 08  Air Midwest Flight 5481
+Jan 09  TANS Perú Flight 222
+Feb 01  Space Shuttle Columbia disaster
+Feb 19  Iran Ilyushin Il-76 crash
+
+
+
+
+
+
+Mar 06  Air Algérie Flight 6289
+May 25  Boeing 727-223 (N844AA) theft
+May 29  Qantas Flight 1737
+Jul 08  Sudan Airways Flight 139
+Aug 26  Colgan Air Flight 9446
+
+
+
+
+
+
+Nov 22  Baghdad DHL attempted shootdown
+Dec 04  Polish Air Force Mi-8 crash
+Dec 18  FedEx Express Flight 647
+Dec 25  UTAGE Flight 141
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Incidents resulting in at least 50 deaths shown in italics  
+  Deadliest incident shown in bold smallcaps
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Space_Shuttle_Columbia_disaster&oldid=536427992"				
+
+
+Categories: 2003 in TexasAviation accidents and incidents in the United States in 2003Space accidents and incidentsHuman spaceflightsSpace program fatalitiesSpace Shuttle missionsSpace Shuttle programAviation accidents and incidents in TexasDisasters in TexasHistory of the United States (1991–present)2003 in spaceflightDisasters in Louisiana2003 in LouisianaAviation accidents and incidents in LouisianaFilmed accidental deathsHidden categories: All articles with dead external linksArticles with dead external links from January 2012Use mdy dates from June 2011All articles with unsourced statementsArticles with unsourced statements from February 2013Wikipedia articles incorporating text from NASA 
+
+
+
+
+
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+Create accountLog in 
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+
+Search
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+
+
+
+
+
+
+
+
+Interaction
+
+
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+
+
+
+
+
+
+Toolbox
+
+
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page 
+
+
+
+
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+
+Languages
+
+
+Català
+Česky
+Español
+Français
+한국어
+Italiano
+עברית
+Magyar
+日本語
+Polski
+Português
+Română
+Русский
+සිංහල
+Simple English
+Slovenčina
+Slovenščina
+ไทย
+Türkçe
+Tiếng Việt
+中文
+
+
+
+
+
+
+
+
+
+
+ This page was last modified on 3 February 2013 at 22:58.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Contact us
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
