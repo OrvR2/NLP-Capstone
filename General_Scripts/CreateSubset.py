@@ -1,5 +1,6 @@
 import shutil, os
 
+listOfFiles = '../large_subset/
 source_folder = "./Brazil_NightClub_Fire/large"
 
 dest_folder = "./large_subset"

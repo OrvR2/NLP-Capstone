@@ -1,10 +1,10 @@
 import shutil, os
 
-source_folder = "./Brazil_NightClub_Fire/"
+source_folder = "../Brazil_NightClub_Fire/large"
 
-dest_folder = "./Large_Slim"
+dest_folder = "../Large_Slim"
 
-list = './top30000-large.txt'
+list = '../Logs_Lists/top30000-large.txt'
 
 with open(list, 'r') as file:
     for line in file:

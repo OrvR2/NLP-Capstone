@@ -2,16 +2,10 @@
 
 import shutil, os, random
 
-source_folder = '../Texas_Wild_Fire_Slim'
-dest_folder = '../random_small_subsets'
+source_folder = '../Large_Slim'
+dest_folder = '../large_subsets/work'
 
-hPath = '../random_small_subsets/hayden_work'
-jPath = '../random_small_subsets/jordan_work'
-mPath = '../random_small_subsets/mike_work'
-
-haydensWork = open('../random_small_subsets/hayden_laundry_list.txt', 'w')
-jordansWork = open('../random_small_subsets/jordan_laundry_list.txt', 'w')
-mikesWork = open('../random_small_subsets/mike_laundry_list.txt', 'w')
+work = open('../large_subsets/LaundryList.txt', 'w')
 
 count = 0
 
@@ -19,28 +13,13 @@ file_list = os.listdir(source_folder)
 random.shuffle(file_list)
 
 for fileName in file_list:
-	if count >= 300:
+    if count >= 300:
 		break
-
-	if count % 3 == 0:
-		haydensWork.write(fileName)
-		haydensWork.write('\n')
-		haydenFile = os.path.join(source_folder, fileName)
-		haydenFileDest = os.path.join(hPath, fileName)
-		shutil.copyfile(haydenFile, haydenFileDest)
-
-	if count % 3 == 1:
-		jordansWork.write(fileName)
-		jordansWork.write('\n')
-		jordanFile = os.path.join(source_folder, fileName)
-		jordanFileDest = os.path.join(jPath, fileName)
-		shutil.copyfile(jordanFile, jordanFileDest)
-
-	if count % 3 == 2:
-		mikesWork.write(fileName)
-		mikesWork.write('\n')
-		mikeFile = os.path.join(source_folder, fileName)
-		mikeFileDest = os.path.join(mPath, fileName)
-		shutil.copyfile(mikeFile, mikeFileDest)
+ 
+    work.write(fileName)
+    work.write('\n')
+    file = os.path.join(source_folder, fileName)
+    fileDest = os.path.join(dest_folder, fileName)
+    shutil.copyfile(file, fileDest)
 	
-	count += 1
+    count += 1
