@@ -1,0 +1,162 @@
+VL-0{n=3 c=[home:1.030, counties:1.492, dangerous:1.492, have:1.384, worked:1.492, than:1.126, largest:1.322, past:1.396, several:1.322, which:1.261, 40:1.492, acres:1.261, houston:1.396, miles:1.210, one:1.210, some:1.091, 000:3.371, allowed:1.322, other:1.396, 1:1.261, authorities:1.210, days:2.419, destroyed:1.030, gain:1.492, people:1.165, scorched:1.492, crews:1.210, destroying:1.396, blazes:1.492, residents:1.030, were:1.059, winds:1.261, from:0.956, two:1.165, about:2.422, central:1.396, control:1.396, 700:1.322, area:1.165, burned:1.126, forcing:1.396, straddling:1.492, texas:0.934, 22:1.492, blaze:1.210, evacuate:1.261, has:1.003, return:1.210, rural:1.492, saturday:1.059, 60:1.492, evacuated:1.396, homes:2.174, northwest:1.492, areas:1.396, out:1.059, three:2.419, acre:2.792, more:1.003, p:1.648] r=[home:1.457, counties:2.110, dangerous:2.110, have:1.957, worked:2.110, than:1.592, largest:1.869, past:1.974, several:1.869, which:1.783, 40:2.110, acres:1.783, houston:1.974, miles:1.711, one:1.711, some:1.542, 000:2.486, allowed:1.869, other:1.974, 1:1.783, authorities:1.711, days:1.711, destroyed:1.457, gain:2.110, people:1.648, scorched:2.110, crews:1.711, destroying:1.974, blazes:2.110, residents:1.457, were:1.498, winds:1.783, from:1.351, two:1.648, about:1.787, central:1.974, control:1.974, 700:1.869, area:1.648, burned:1.592, forcing:1.974, straddling:2.110, texas:1.321, 22:2.110, blaze:1.711, evacuate:1.783, has:1.419, return:1.711, rural:2.110, saturday:1.498, 60:2.110, evacuated:1.974, northwest:2.110, areas:1.974, out:1.498, three:1.711, acre:1.974, more:1.419, p:2.330]}
+	Top Terms: 
+		000                                     =>   3.370577335357666
+		acre                                    =>  2.7922776540120444
+		about                                   =>   2.422068993250529
+		three                                   =>   2.419200579325358
+		days                                    =>   2.419200579325358
+		homes                                   =>   2.173513650894165
+		p                                       =>  1.6476858456929524
+		blazes                                  =>  1.4920328458150227
+		counties                                =>  1.4920328458150227
+		straddling                              =>  1.4920328458150227
+	Weight : [props - optional]:  Point:
+	1.0: [home:3.090, dangerous:4.476, worked:4.476, one:3.629, allowed:3.965, other:4.188, crews:3.629, residents:3.090, were:3.177, from:2.867, two:3.495, about:3.010, 700:3.965, area:3.495, return:3.629, saturday:3.177, evacuated:4.188, homes:2.174, areas:4.188, out:3.177, acre:4.188]
+	1.0: [have:4.152, than:3.377, largest:3.965, past:4.188, which:3.783, acres:3.783, 000:5.923, 1:3.783, authorities:3.629, days:3.629, destroyed:3.090, gain:4.476, scorched:4.476, blazes:4.476, winds:3.783, central:4.188, control:4.188, texas:2.802, homes:2.174, three:3.629, more:3.010]
+	1.0: [counties:4.476, several:3.965, 40:4.476, houston:4.188, miles:3.629, some:3.272, 000:4.188, days:3.629, people:3.495, destroying:4.188, about:4.256, burned:3.377, forcing:4.188, straddling:4.476, 22:4.476, blaze:3.629, evacuate:3.783, has:3.010, rural:4.476, 60:4.476, homes:2.174, northwest:4.476, three:3.629, acre:4.188, p:4.943]
+VL-1{n=5 c=[state:1.452, containment:1.675, counties:0.895, bastrop:2.104, burning:1.586, erupted:1.790, than:1.351, wildfires:1.452, after:1.586, largest:1.586, several:0.793, half:1.790, percent:1.586, thousands:1.452, 40:0.895, houston:0.838, miles:0.726, some:0.654, lines:1.790, 000:0.838, almost:1.790, four:1.513, 1:1.513, days:0.726, people:1.688, strong:1.790, temperatures:1.790, towns:1.790, destroying:2.022, spawned:1.790, cities:1.790, contained:1.586, said:1.761, were:1.271, winds:1.513, behind:1.790, mix:1.790, 50:1.790, about:2.906, 700:1.586, area:2.097, drought:1.790, nearly:1.675, perilous:1.790, burned:0.675, fire:1.867, forcing:2.022, straddling:0.895, historic:1.790, 22:0.895, blaze:0.726, evacuate:1.827, has:1.806, rural:0.895, says:1.513, saturday:1.271, 60:0.895, homes:1.484, killing:1.790, northwest:0.895, threatened:1.790, hot:1.513, most:0.757, service:3.172, three:0.726, week:2.903, acre:0.838, forest:3.495, more:1.204, 190:1.790, officials:1.452, p:0.989] r=[state:1.778, containment:2.052, counties:1.790, bastrop:1.052, burning:1.943, erupted:2.193, than:1.655, wildfires:1.778, after:1.943, largest:1.943, several:1.586, half:2.193, percent:1.943, thousands:1.778, 40:1.790, houston:1.675, miles:1.452, some:1.309, lines:2.193, 000:1.675, almost:2.193, four:1.853, 1:1.853, days:1.452, people:2.117, strong:2.193, temperatures:2.193, towns:2.193, destroying:2.537, spawned:2.193, cities:2.193, contained:1.943, said:1.490, were:1.556, winds:1.853, behind:2.193, mix:2.193, 50:2.193, about:1.557, 700:1.943, area:1.712, drought:2.193, nearly:2.052, perilous:2.193, burned:1.351, fire:0.286, forcing:2.537, straddling:1.790, historic:2.193, 22:1.790, blaze:1.452, evacuate:2.291, has:1.474, rural:1.790, says:1.853, saturday:1.556, 60:1.790, homes:1.256, killing:2.193, northwest:1.790, threatened:2.193, hot:1.853, most:1.513, service:1.586, three:1.452, week:1.452, acre:1.675, more:1.474, 190:2.193, officials:1.778, p:1.977]}
+	Top Terms: 
+		forest                                  =>   3.495269536972046
+		service                                 =>  3.1722185134887697
+		about                                   =>   2.906482791900635
+		week                                    =>  2.9030406951904295
+		bastrop                                 =>   2.104217529296875
+		area                                    =>  2.0971617221832277
+		forcing                                 =>  2.0223464012145995
+		destroying                              =>  2.0223464012145995
+		fire                                    =>  1.8674308776855468
+		evacuate                                =>  1.8265705585479737
+	Weight : [props - optional]:  Point:
+	1.0: [state:3.629, counties:4.476, bastrop:2.630, erupted:4.476, than:3.377, wildfires:3.629, largest:3.965, several:3.965, thousands:3.629, 40:4.476, houston:4.188, miles:3.629, some:3.272, 000:4.188, four:3.783, 1:3.783, days:3.629, people:4.943, strong:4.476, temperatures:4.476, destroying:5.923, spawned:4.476, winds:3.783, mix:4.476, about:4.256, 700:3.965, area:3.495, drought:4.476, nearly:4.188, perilous:4.476, burned:3.377, fire:1.725, forcing:5.923, straddling:4.476, historic:4.476, 22:4.476, blaze:3.629, evacuate:5.350, has:3.010, rural:4.476, says:3.783, 60:4.476, homes:3.074, killing:4.476, northwest:4.476, hot:3.783, service:3.965, three:3.629, week:3.629, acre:4.188, forest:3.495, more:3.010, 190:4.476]
+	1.0: [containment:4.188, half:4.476, lines:4.476, towns:4.476, cities:4.476, said:2.579, were:3.177, behind:4.476, about:3.010, fire:1.725, has:3.010, threatened:4.476, service:3.965, forest:3.495]
+	1.0: [bastrop:2.630, burning:3.965, after:3.965, percent:3.965, almost:4.476, contained:3.965, said:2.579, 50:4.476, about:3.010, area:3.495, fire:1.725, saturday:3.177, homes:2.174, most:3.783, week:3.629, forest:3.495, officials:3.629]
+	1.0: [state:3.629, bastrop:2.630, erupted:4.476, than:3.377, wildfires:3.629, largest:3.965, thousands:3.629, four:3.783, 1:3.783, people:3.495, strong:4.476, temperatures:4.476, destroying:4.188, spawned:4.476, winds:3.783, mix:4.476, 700:3.965, area:3.495, drought:4.476, nearly:4.188, perilous:4.476, fire:1.725, forcing:4.188, historic:4.476, evacuate:3.783, says:3.783, homes:2.174, killing:4.476, hot:3.783, service:3.965, week:3.629, forest:3.495, more:3.010, 190:4.476]
+	1.0: [containment:4.188, bastrop:2.630, burning:3.965, after:3.965, half:4.476, percent:3.965, lines:4.476, almost:4.476, towns:4.476, cities:4.476, contained:3.965, said:3.647, were:3.177, behind:4.476, 50:4.476, about:4.256, fire:2.439, has:3.010, saturday:3.177, threatened:4.476, service:3.965, week:3.629, forest:3.495, officials:3.629, p:4.943]
+VL-2{n=1 c=[back:3.377, bastrop:3.720, tensions:4.476, t:3.629, when:4.476, know:6.904, soon:4.476, would:4.476, conference:4.476, miles:3.629, some:3.272, them:3.783, what:3.783, remains:4.476, other:4.188, could:3.965, didn:4.476, x2014:6.330, residents:4.370, said:2.579, austin:3.629, about:3.010, long:4.476, x2019:4.476, area:3.495, he:3.377, located:4.476, return:3.629, possible:4.188, saturday:3.177, county:5.350, homes:2.174, news:3.629, get:3.495, mcdonald:3.965, 30:4.188, officials:5.132, p:6.991] r=[]}
+	Top Terms: 
+		p                                       =>   6.990539073944092
+		know                                    =>   6.903573513031006
+		x2014                                   =>  6.3301591873168945
+		county                                  =>    5.34990119934082
+		officials                               =>   5.131899356842041
+		long                                    =>   4.476098537445068
+		remains                                 =>   4.476098537445068
+		would                                   =>   4.476098537445068
+		didn                                    =>   4.476098537445068
+		tensions                                =>   4.476098537445068
+	Weight : [props - optional]:  Point:
+	1.0: [back:3.377, bastrop:3.720, tensions:4.476, t:3.629, when:4.476, know:6.904, soon:4.476, would:4.476, conference:4.476, miles:3.629, some:3.272, them:3.783, what:3.783, remains:4.476, other:4.188, could:3.965, didn:4.476, x2014:6.330, residents:4.370, said:2.579, austin:3.629, about:3.010, long:4.476, x2019:4.476, area:3.495, he:3.377, located:4.476, return:3.629, possible:4.188, saturday:3.177, county:5.350, homes:2.174, news:3.629, get:3.495, mcdonald:3.965, 30:4.188, officials:5.132, p:6.991]
+VL-3{n=87 c=[ago:0.051, also:0.144, available:0.103, back:0.272, cars:0.164, damage:0.281, home:0.334, look:0.144, many:0.182, midst:0.103, spots:0.103, state:0.167, assistance:0.103, containment:0.048, dangerous:0.051, found:0.103, have:0.433, here:0.103, his:0.288, imagery:0.103, insured:0.103, outbreaks:0.103, wildfire:0.496, worked:0.051, world:0.079, bastrop:0.400, burning:0.091, charred:0.103, evacuees:0.182, had:0.226, hit:0.144, once:0.079, response:0.103, s:0.395, stood:0.079, tensions:0.051, than:0.194, visit:0.103, wife:0.051, wildfires:0.125, 71:0.103, able:0.103, after:0.046, department:0.144, down:0.137, firewhat:0.281, largest:0.046, learn:0.103, past:0.096, reading:0.079, several:0.091, t:0.184, too:0.103, weather:0.144, when:0.051, fires:0.174, highway:0.103, neighborhoods:0.144, percent:0.091, soon:0.051, strangers:0.103, though:0.103, thousands:0.167, through:0.250, whether:0.051, which:0.174, would:0.051, acres:0.174, conference:0.051, family:0.144, firefighters:0.327, free:0.103, houston:0.048, just:0.103, miles:0.125, now:0.103, one:0.209, rv:0.103, so:0.217, some:0.226, spectators:0.103, them:0.174, what:0.130, who:0.137, around:0.103, confirmed:0.103, did:0.103, made:0.103, remains:0.051, tat:0.097, time:0.182, where:0.124, allowed:0.137, can:0.226, close:0.103, facebook:0.103, first:0.144, four:0.148, its:0.103, list:0.164, neighborhood:0.096, other:0.048, still:0.174, 1:0.087, across:0.137, all:0.103, authorities:0.209, before:0.217, begin:0.103, com:0.311, could:0.137, days:0.125, destroyed:0.320, didn:0.051, gain:0.051, people:0.161, scorched:0.051, smithville:0.144, belongings:0.103, certain:0.103, crews:0.209, destructive:0.124, near:0.103, road:0.103, since:0.051, tahitian:0.103, wind:0.103, another:0.103, blazes:0.051, calming:0.124, contained:0.091, entire:0.103, find:0.103, gaydos:0.096, pre:0.103, residents:0.334, said:0.457, were:0.271, winds:0.105, 400:0.182, afternoon:0.103, austin:0.209, despite:0.164, even:0.144, families:0.103, from:0.442, incident:0.103, perry:0.217, pickering:0.144, replace:0.103, saving:0.103, tally:0.103, two:0.201, about:0.173, cannot:0.144, central:0.048, control:0.116, kvue:0.103, re:0.103, seven:0.103, 6:0.103, colovista:0.103, live:0.103, long:0.051, lost:0.144, office:0.103, only:0.103, over:0.144, 700:0.046, anxious:0.144, area:0.097, being:0.103, he:0.288, pictures:0.103, safe:0.103, you:0.103, burned:0.194, complex:0.144, ever:0.103, fire:0.846, gathers:0.103, house:0.051, terry:0.103, why:0.103, yet:0.124, 21:0.103, donations:0.103, major:0.144, texas:0.459, wanted:0.103, blaze:0.125, evacuate:0.087, firefighting:0.103, generous:0.103, go:0.103, has:0.242, located:0.051, post:0.103, return:0.125, says:0.130, smoldering:0.103, sunday:0.103, coming:0.103, help:0.144, living:0.137, number:0.103, possible:0.096, responders:0.103, saturday:0.183, see:0.137, spicewood:0.124, victims:0.281, website:0.103, worst:0.103, county:0.174, day:0.217, evacuated:0.096, got:0.051, him:0.103, history:0.144, homes:0.550, hotel:0.073, information:0.253, word:0.103, breaking:0.103, chief:0.182, hot:0.130, houses:0.103, kleinschmidt:0.103, makes:0.103, martin:0.103, most:0.174, news:0.184, part:0.144, those:0.103, up:0.182, affected:0.144, areas:0.096, because:0.217, been:0.304, get:0.274, haven:0.079, life:0.103, mcdonald:0.137, my:0.103, out:0.329, three:0.125, wednesday:0.144, week:0.042, 30:0.096, forest:0.080, hooten:0.144, killed:0.103, more:0.311, property:0.182, representative:0.103, saved:0.103, sheriff:0.103, team:0.144, vouchers:0.079, few:0.103, need:0.217, night:0.144, officials:0.125, p:0.170, very:0.103, we:0.281] r=[ago:0.477, also:0.764, available:0.671, back:0.919, cars:0.883, damage:1.064, home:0.993, look:0.764, many:0.830, midst:0.671, spots:0.671, state:0.760, assistance:0.671, containment:0.446, dangerous:0.477, found:0.671, have:1.095, here:0.671, his:0.983, imagery:0.671, insured:0.671, outbreaks:0.671, wildfire:1.094, worked:0.477, world:0.736, bastrop:1.016, burning:0.594, charred:0.671, evacuees:0.830, had:0.926, hit:0.764, once:0.736, response:0.671, s:1.112, stood:0.736, tensions:0.477, than:0.786, visit:0.671, wife:0.477, wildfires:0.662, 71:0.671, able:0.671, after:0.423, department:0.764, down:0.724, firewhat:0.951, largest:0.423, learn:0.671, past:0.628, reading:0.736, several:0.594, t:0.850, too:0.671, weather:0.764, when:0.477, fires:0.792, highway:0.671, neighborhoods:0.764, percent:0.594, soon:0.477, strangers:0.671, though:0.671, thousands:0.760, through:0.920, whether:0.477, which:0.792, would:0.477, acres:0.792, conference:0.477, family:0.764, firefighters:1.036, free:0.671, houston:0.446, just:0.671, miles:0.662, now:0.671, one:0.845, rv:0.671, so:0.880, some:0.829, spectators:0.671, them:0.792, what:0.690, who:0.724, around:0.671, confirmed:0.671, did:0.671, made:0.671, remains:0.477, tat:0.901, time:0.830, where:0.822, allowed:0.724, can:0.926, close:0.671, facebook:0.671, first:0.764, four:0.797, its:0.671, list:0.883, neighborhood:0.628, other:0.446, still:0.792, 1:0.567, across:0.724, all:0.671, authorities:0.845, before:0.880, begin:0.671, com:0.976, could:0.724, days:0.662, destroyed:0.941, didn:0.477, gain:0.477, people:0.732, scorched:0.477, smithville:0.764, belongings:0.671, certain:0.671, crews:0.845, destructive:0.822, near:0.671, road:0.671, since:0.477, tahitian:0.671, wind:0.671, another:0.671, blazes:0.477, calming:0.822, contained:0.594, entire:0.671, find:0.671, gaydos:0.628, pre:0.671, residents:0.993, said:1.007, were:0.925, winds:0.695, 400:0.830, afternoon:0.671, austin:0.845, despite:0.883, even:0.764, families:0.671, from:1.062, incident:0.671, perry:0.880, pickering:0.764, replace:0.671, saving:0.671, tally:0.671, two:0.813, about:0.700, cannot:0.764, central:0.446, control:0.769, kvue:0.671, re:0.671, seven:0.671, 6:0.671, colovista:0.671, live:0.671, long:0.477, lost:0.764, office:0.671, only:0.671, over:0.764, 700:0.423, anxious:0.764, area:0.642, being:0.671, he:0.983, pictures:0.671, safe:0.671, you:0.671, burned:0.786, complex:0.764, ever:0.671, fire:0.907, gathers:0.671, house:0.477, terry:0.671, why:0.671, yet:0.822, 21:0.671, donations:0.671, major:0.764, texas:1.111, wanted:0.671, blaze:0.662, evacuate:0.567, firefighting:0.671, generous:0.671, go:0.671, has:0.819, located:0.477, post:0.671, return:0.662, says:0.690, smoldering:0.671, sunday:0.671, coming:0.671, help:0.764, living:0.724, number:0.671, possible:0.628, responders:0.671, saturday:0.739, see:0.724, spicewood:0.822, victims:0.951, website:0.671, worst:0.671, county:0.792, day:0.880, evacuated:0.628, got:0.477, him:0.671, history:0.764, homes:0.945, hotel:0.675, information:1.043, word:0.671, breaking:0.671, chief:0.830, hot:0.690, houses:0.671, kleinschmidt:0.671, makes:0.671, martin:0.671, most:0.792, news:0.850, part:0.764, those:0.671, up:0.830, affected:0.764, areas:0.628, because:0.880, been:1.043, get:1.024, haven:0.736, life:0.671, mcdonald:0.724, my:0.671, out:0.967, three:0.662, wednesday:0.764, week:0.387, 30:0.628, forest:0.524, hooten:0.764, killed:0.671, more:0.917, property:0.830, representative:0.671, saved:0.671, sheriff:0.671, team:0.764, vouchers:0.736, few:0.671, need:0.880, night:0.764, officials:0.662, p:0.902, very:0.671, we:0.951]}
+	Top Terms: 
+		fire                                    =>  0.8455683691748257
+		homes                                   =>  0.5496241416054211
+		wildfire                                =>  0.4964656583194075
+		texas                                   =>  0.4587312813462882
+		said                                    =>  0.4569302262931034
+		from                                    => 0.44200000543703977
+		have                                    =>  0.4328714896892679
+		bastrop                                 => 0.40036489223611765
+		s                                       =>  0.3954013517533226
+		home                                    => 0.33434572987172795
+	Weight : [props - optional]:  Point:
+	1.0: [wildfire:2.802, from:2.867, 21:4.476, texas:2.802, day:3.783, news:3.629]
+	1.0: [have:4.152, wildfire:3.963, world:6.904, firefighters:4.776, com:3.377, destructive:6.330, calming:6.330, winds:5.350, despite:5.923, control:5.923, yet:6.330, texas:3.963, news:5.132, get:4.943]
+	1.0: [have:2.936, bastrop:2.630, charred:4.476, wildfires:3.629, down:3.965, now:4.476, one:3.629, across:3.965, gain:4.476, crews:3.629, destructive:4.476, calming:4.476, winds:3.783, control:4.188, yet:4.476, texas:3.963, blaze:3.629, firefighting:4.476, history:4.188, homes:2.174, most:3.783, part:4.188]
+	1.0: [containment:4.188, bastrop:2.630, than:3.377, miles:3.629, around:4.476, days:3.629, destroyed:3.090, near:4.476, wind:4.476, austin:3.629, about:3.010, fire:1.725, has:3.010, homes:2.174, more:3.010]
+	1.0: [thousands:3.629, which:3.783, begin:4.476, people:3.495, two:3.495, fire:1.725, evacuate:3.783, has:3.010, possible:4.188, victims:3.495, wednesday:4.188, killed:4.476, more:3.010, team:4.188]
+	1.0: [home:3.090, wildfire:2.802, evacuees:3.965, houston:4.188, anxious:4.188, texas:2.802, return:3.629]
+	1.0: [had:3.629, hit:4.188, s:3.177, t:5.132, said:2.579, afternoon:4.476, even:4.188, tally:4.476, area:4.943, go:4.476, saturday:3.177, houses:4.476, those:4.476, because:3.783, get:3.495, haven:6.904, mcdonald:3.965, we:3.495]
+	1.0: [home:4.370, his:4.776, had:3.629, department:4.188, past:4.188, t:3.629, so:3.783, before:3.783, destroyed:3.090, gaydos:4.188, about:3.010, he:3.377, fire:1.725, saturday:3.177, website:4.476, been:3.377, out:3.177, week:3.629]
+	1.0: [state:3.629, assistance:4.476, have:2.936, his:3.377, had:3.629, s:3.177, wife:4.476, too:4.476, who:3.965, destroyed:3.090, said:3.647, were:3.177, families:4.476, from:4.054, perry:3.783, two:3.495, seven:4.476, office:4.476, day:3.783, him:4.476, homes:2.174, hotel:6.330, been:3.377, vouchers:6.904]
+	1.0: [midst:4.476, state:3.629, outbreaks:4.476, wildfire:2.802, tensions:4.476, one:3.629, its:4.476, said:2.579, seven:4.476, texas:2.802, worst:4.476, day:3.783, history:4.188, mcdonald:3.965]
+	1.0: [home:3.090, had:5.132, able:4.476, destroyed:3.090, said:2.579, only:4.476, he:3.377, fire:1.725, been:4.776, get:3.495, out:3.177]
+	1.0: [home:3.090, assistance:4.476, his:3.377, wildfire:2.802, bastrop:2.630, hit:4.188, visit:4.476, wildfires:3.629, conference:4.476, time:3.965, can:5.132, other:4.188, com:3.377, said:2.579, austin:3.629, perry:3.783, he:3.377, saturday:3.177, him:4.476, news:3.629, areas:4.188, because:3.783, property:3.965, officials:3.629]
+	1.0: [back:3.377, bastrop:2.630, neighborhoods:4.188, though:4.476, would:4.476, allowed:3.965, authorities:3.629, before:3.783, certain:4.476, residents:4.370, said:2.579, were:3.177, pickering:4.188, anxious:4.188, safe:4.476, terry:4.476, county:3.783, get:3.495, sheriff:4.476, need:3.783]
+	1.0: [also:4.188, back:3.377, home:3.090, spots:4.476, t:3.629, fires:3.783, soon:4.476, through:3.629, authorities:3.629, could:3.965, didn:4.476, crews:3.629, wind:4.476, said:2.579, from:2.867, pickering:4.188, you:4.476, fire:1.725, major:4.188, possible:4.188, saturday:3.177, hot:3.783, get:4.943, night:4.188, we:3.495]
+	1.0: [1:3.783, destroyed:3.090, said:2.579, 400:3.965, from:2.867, tally:4.476, he:3.377, fire:1.725, number:4.476, homes:2.174, mcdonald:3.965, more:3.010]
+	1.0: [available:4.476, response:4.476, firewhat:3.495, firefighters:3.377, free:4.476, time:3.965, first:4.188, com:3.377, pre:4.476, residents:3.090, incident:4.476, saving:4.476, ever:4.476, gathers:4.476, responders:4.476, information:5.350, makes:4.476, life:4.476]
+	1.0: [have:2.936, tahitian:4.476, residents:3.090, colovista:4.476, evacuated:4.188, been:3.377, forest:3.495]
+	1.0: [have:4.152, 71:4.476, two:3.495, 21:4.476, been:4.776]
+	1.0: [imagery:4.476, bastrop:3.720, visit:4.476, weather:4.188, complex:4.188, fire:2.439, see:3.965, county:3.783, information:3.783]
+	1.0: [bastrop:2.630, down:3.965, firewhat:3.495, several:3.965, which:3.783, just:4.476, them:3.783, facebook:4.476, before:3.783, were:3.177, lost:4.188, being:4.476, fire:1.725, texas:2.802, post:4.476, day:3.783, homes:2.174, night:4.188]
+	1.0: [firewhat:3.495, entire:4.476, fire:1.725, post:4.476, help:4.188, information:3.783, word:4.476, team:4.188]
+	1.0: [firewhat:3.495, through:3.629, facebook:4.476, area:3.495, fire:1.725, evacuate:3.783, need:3.783]
+	1.0: [firewhat:3.495, where:4.476, can:3.629, find:4.476, fire:1.725, website:4.476, information:3.783, breaking:4.476, most:3.783, news:3.629, up:3.965, team:4.188]
+	1.0: [imagery:4.476, firewhat:3.495, weather:4.188, all:4.476, com:3.377, live:4.476, fire:1.725, major:4.188, forest:3.495]
+	1.0: [available:4.476, response:4.476, firewhat:3.495, firefighters:3.377, free:4.476, time:3.965, first:4.188, com:3.377, pre:4.476, residents:3.090, incident:4.476, saving:4.476, ever:4.476, gathers:4.476, responders:4.476, information:5.350, makes:4.476, life:4.476]
+	1.0: [damage:3.629, bastrop:2.630, evacuees:3.965, s:3.177, learn:4.476, begin:4.476, com:3.377, austin:3.629, kvue:4.476, fire:1.725]
+	1.0: [found:4.476, list:4.188, destroyed:3.090, homes:2.174]
+	1.0: [through:3.629, acres:3.783, burned:3.377, fire:2.439, has:3.010, officials:3.629]
+	1.0: [firefighters:3.377, across:3.965, 400:3.965, from:2.867, about:3.010, blaze:3.629]
+	1.0: [wildfire:2.802, bastrop:3.720, learn:4.476, reading:6.904, family:4.188, list:5.923, about:3.010, re:4.476, fire:1.725, victims:3.495]
+	1.0: [some:3.272, despite:4.188, cannot:4.188, homes:2.174, saved:4.476]
+	1.0: [look:4.188, weather:4.188, because:3.783]
+	1.0: [have:2.936, wildfire:2.802, bastrop:3.720, percent:3.965, confirmed:4.476, remains:4.476, contained:3.965, from:2.867, complex:4.188, fire:1.725, texas:2.802, 30:4.188, officials:3.629]
+	1.0: [firefighters:3.377, confirmed:4.476, 1:3.783, destroyed:3.090, 6:4.476, homes:2.174, 30:4.188]
+	1.0: [damage:6.285, four:5.350, another:4.476, fire:1.725, major:4.188, homes:2.174, affected:4.188, three:3.629, more:3.010]
+	1.0: [firefighters:3.377, list:4.188, homes:2.174, affected:4.188, wednesday:4.188]
+	1.0: [damage:3.629, bastrop:2.630, burning:3.965, wildfires:3.629, tat:8.455, from:2.867, he:3.377, texas:2.802, homes:2.174, martin:4.476]
+	1.0: [fire:1.725, smoldering:4.476, few:4.476]
+	1.0: [home:3.090, bastrop:2.630, s:4.493, thousands:3.629, which:3.783, acres:3.783, close:4.476, near:4.476, austin:3.629, burned:3.377, complex:4.188, fire:1.725, has:3.010, county:3.783, hooten:4.188]
+	1.0: [many:3.965, state:3.629, burning:3.965, largest:3.965, blazes:4.476, fire:1.725]
+	1.0: [have:2.936, than:3.377, fires:3.783, four:3.783, authorities:3.629, destroyed:3.090, people:3.495, since:4.476, said:2.579, were:3.177, 700:3.965, sunday:4.476, homes:2.174, been:3.377, killed:4.476, more:3.010]
+	1.0: [texas:2.802, blaze:3.629, has:3.010, hot:3.783, out:3.177]
+	1.0: [through:3.629, neighborhood:4.188, authorities:3.629, afternoon:4.476, fire:1.725, sunday:4.476, coming:4.476, because:3.783, hooten:4.188]
+	1.0: [back:3.377, his:3.377, s:3.177, miles:3.629, rv:4.476, can:3.629, from:2.867, he:4.776, fire:1.725, go:4.476, living:3.965, word:4.476, property:3.965, few:4.476]
+	1.0: [damage:3.629, have:2.936, family:4.188, can:3.629, about:3.010]
+	1.0: [ago:4.476, many:3.965, his:3.377, family:4.188, fire:1.725, house:4.476]
+	1.0: [entire:4.476, fire:1.725, affected:4.188]
+	1.0: [home:3.090, his:3.377, s:3.177, whether:4.476, what:3.783, could:3.965, find:4.476, lost:4.188, fire:1.725, wanted:4.476, help:4.188, see:3.965, martin:4.476, out:3.177, hooten:4.188]
+	1.0: [damage:3.629, found:4.476, through:3.629, two:3.495, out:3.177, property:3.965]
+	1.0: [back:3.377, cars:4.188, who:3.965, around:4.476, allowed:3.965, still:3.783, before:3.783, residents:3.090, were:3.177, from:2.867, being:4.476, see:3.965, homes:2.174, out:3.177, wednesday:4.188, property:3.965]
+	1.0: [than:3.377, department:4.188, which:3.783, acres:3.783, now:4.476, still:3.783, said:2.579, 400:3.965, fire:2.439, more:3.010, we:3.495]
+	1.0: [so:3.783, some:3.272, crews:3.629, cannot:4.188, fire:1.725, get:3.495, we:3.495]
+	1.0: [highway:4.476, residents:3.090]
+	1.0: [have:2.936, so:3.783, fire:1.725, been:3.377]
+	1.0: [also:4.188, past:4.188, one:3.629, spectators:4.476, road:4.476, cannot:4.188, over:4.188, fire:1.725, texas:2.802, spicewood:6.330]
+	1.0: [spectators:4.476, crews:3.629, over:4.188, pictures:4.476, fire:1.725, has:3.010]
+	1.0: [than:3.377, 71:4.476, down:3.965, highway:4.476, percent:3.965, through:3.629, acres:3.783, days:3.629, contained:3.965, 400:3.965, 6:4.476, burned:3.377, fire:1.725, has:3.010, part:4.188, three:3.629, more:3.010, night:4.188]
+	1.0: [department:4.188, still:3.783, said:2.579, fire:2.439, spicewood:4.476, very:4.476]
+	1.0: [cars:5.923, s:3.177, than:3.377, t:3.629, fires:3.783, office:4.476, fire:1.725, out:3.177, more:3.010, need:3.783, we:3.495]
+	1.0: [also:4.188, look:4.188, fires:3.783, just:4.476, so:3.783, people:3.495, fire:1.725, coming:4.476, out:3.177]
+	1.0: [have:2.936, one:3.629, them:3.783, can:3.629, four:3.783, said:2.579, you:4.476, burned:3.377, houses:4.476, kleinschmidt:4.476, three:3.629, representative:4.476]
+	1.0: [though:4.476, what:3.783, did:4.476, destroyed:3.090, fire:1.725]
+	1.0: [had:3.629, some:3.272, homes:2.174, we:3.495]
+	1.0: [many:3.965, once:6.904, stood:6.904, where:6.330, were:4.493, only:4.476, burned:3.377, living:3.965, homes:2.174, out:3.177]
+	1.0: [homes:2.174, most:3.783]
+	1.0: [many:3.965, s:3.177, lost:4.188, fire:1.725, homes:2.174, breaking:4.476, chief:3.965, my:4.476]
+	1.0: [firefighters:3.377, all:4.476, despite:4.188, perry:3.783, says:3.783, chief:3.965]
+	1.0: [back:3.377, here:4.476, worked:4.476, some:3.272, them:3.783, made:4.476, another:4.476, said:2.579, perry:3.783, re:4.476, day:3.783, homes:2.174, chief:3.965, up:3.965, because:3.783, my:4.476, saved:4.476]
+	1.0: [dangerous:4.476, have:2.936, too:4.476, when:4.476, firefighters:3.377, even:4.188, fire:1.725, wanted:4.476, says:3.783, chief:3.965]
+	1.0: [insured:4.476, homes:2.174, part:4.188]
+	1.0: [insured:4.476, s:4.493, so:3.783, were:3.177, families:4.476, replace:4.476, number:4.476, homes:2.174, very:4.476]
+	1.0: [damage:3.629, look:4.188, time:3.965, close:4.476, first:4.188, road:4.476, long:4.476, why:4.476, got:4.476, up:3.965, we:3.495]
+	1.0: [able:4.476, several:3.965, them:3.783, who:3.965, did:4.476, even:4.188, live:4.476, says:3.783, homes:2.174, kleinschmidt:4.476, those:4.476, representative:4.476]
+	1.0: [here:4.476, neighborhood:4.188, from:2.867, pictures:4.476, more:3.010]
+	1.0: [cars:4.188, charred:4.476, s:3.177, neighborhoods:4.188, rv:4.476, scorched:4.476, tahitian:4.476, colovista:4.476, fire:1.725, homes:2.174]
+	1.0: [wildfire:2.802, com:3.377, smithville:4.188, austin:3.629, kvue:4.476, donations:4.476, generous:4.476, victims:3.495]
+	1.0: [wildfire:2.802, thousands:3.629, across:3.965, smithville:4.188, central:4.188, donations:4.476, texas:3.963, generous:4.476, victims:3.495]
+	1.0: [wildfire:2.802, victims:3.495, most:3.783, need:3.783]
+	1.0: [his:3.377, evacuees:3.965, strangers:4.476, belongings:4.476, from:2.867, fire:1.725, living:3.965]
+	1.0: [back:3.377, strangers:4.476, what:3.783, replace:4.476, fire:1.725, why:4.476, help:4.188]
+	1.0: [wildfire:2.802, smithville:4.188, belongings:4.476, located:4.476, victims:3.495, up:3.965]
+	1.0: [wildfire:2.802, miles:3.629, some:3.272, people:3.495, victims:3.495]
+	1.0: [hit:4.188, after:3.965, some:3.272, could:3.965, days:3.629, residents:3.090, said:2.579, from:2.867, perry:3.783, two:3.495, he:3.377, firefighting:4.476, return:3.629, evacuated:4.188, areas:4.188]
+	1.0: [home:3.090, wildfire:2.802, evacuees:3.965, com:3.377, anxious:4.188, texas:2.802, return:3.629]
+	1.0: [home:3.090, spots:4.476, have:2.936, wildfire:2.802, thousands:3.629, made:4.476, still:3.783, crews:3.629, gaydos:4.188, residents:3.090, from:2.867, over:4.188, fire:1.725, smoldering:4.476, saturday:3.177, hot:3.783, p:4.943]
+	1.0: [midst:4.476, state:3.629, outbreaks:4.476, wildfire:2.802, one:3.629, its:4.476, texas:2.802, worst:4.476, history:4.188, p:4.943]
+	1.0: [back:3.377, bastrop:2.630, neighborhoods:4.188, allowed:3.965, authorities:3.629, before:3.783, certain:4.476, residents:3.090, said:2.579, pickering:4.188, safe:4.476, terry:4.476, county:3.783, sheriff:4.476, need:3.783, p:4.943]
+VL-4{n=1 c=[ago:4.476, home:4.370, his:7.552, bastrop:2.630, had:5.132, wife:4.476, wildfires:3.629, after:3.965, down:3.965, t:3.629, fires:3.783, whether:4.476, what:3.783, who:3.965, can:3.629, neighborhood:4.188, still:3.783, across:3.965, destroyed:3.090, x2014:6.330, since:4.476, gaydos:5.923, two:3.495, central:4.188, x2019:4.476, nearly:5.923, burned:3.377, house:4.476, texas:3.963, blaze:3.629, has:3.010, return:3.629, living:3.965, saturday:3.177, see:3.965, got:4.476, hotel:4.476, news:3.629, been:4.776, week:5.132, p:4.943] r=[]}
+	Top Terms: 
+		his                                     =>  7.5522894859313965
+		x2014                                   =>  6.3301591873168945
+		nearly                                  =>   5.923315525054932
+		gaydos                                  =>   5.923315525054932
+		had                                     =>   5.131899356842041
+		week                                    =>   5.131899356842041
+		p                                       =>   4.943057537078857
+		been                                    =>   4.776486873626709
+		x2019                                   =>   4.476098537445068
+		house                                   =>   4.476098537445068
+	Weight : [props - optional]:  Point:
+	1.0: [ago:4.476, home:4.370, his:7.552, bastrop:2.630, had:5.132, wife:4.476, wildfires:3.629, after:3.965, down:3.965, t:3.629, fires:3.783, whether:4.476, what:3.783, who:3.965, can:3.629, neighborhood:4.188, still:3.783, across:3.965, destroyed:3.090, x2014:6.330, since:4.476, gaydos:5.923, two:3.495, central:4.188, x2019:4.476, nearly:5.923, burned:3.377, house:4.476, texas:3.963, blaze:3.629, has:3.010, return:3.629, living:3.965, saturday:3.177, see:3.965, got:4.476, hotel:4.476, news:3.629, been:4.776, week:5.132, p:4.943]

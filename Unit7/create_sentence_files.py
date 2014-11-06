@@ -4,10 +4,13 @@ import pickle
 import os
 from time import gmtime, strftime
 
+def is_ascii(s):
+    return all(ord(c) < 128 for c in s)
+
 keywordsList = 'contained,devastating,stopped,destruction,blaze,smoldering,victims,flames,closed,deaths,residents,fire,damage,burn,heat,size,weather,smoke,houses,neighborhood,battling,acre,homes,shelter,square,wind,town,wildfire'.split(',')
 english = pickle.load(open('../nltk_data/tokenizers/punkt/english.pickle', 'r'))
 
-corpus_root = '../Texas_WildFire_Relevant'
+corpus_root = './Large_Articles'
 reader = PlaintextCorpusReader(corpus_root, '.*', sent_tokenizer=english)
 
 sents = reader.sents()
@@ -25,7 +28,11 @@ for fileid in reader.fileids():
         # Remove sentences under 3 words
         if any(keyword in sent for keyword in keywordsList) and len(sent) > 3:
             f = open(folder_name + '/' + fileid.replace('.txt','') + '-' + str(i) + '.txt', 'w')
-            f.write(' '.join(sent))
-            f.close()
+            for word in sent:
+            	if not is_ascii(word):
+            		break
+            else:
+            	f.write(' '.join(sent))
+	        f.close()
 
 print 'done'

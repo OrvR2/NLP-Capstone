@@ -1,0 +1,1 @@
+Those exits should be fixed so that they automatically UNLOCK when a smoke / fire alarm goes off .
