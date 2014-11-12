@@ -21,24 +21,34 @@ def main():
 	locationPatternString = "((in|at)\s([A-Z][a-zA-Z]{4,}|[A-Z][a-zA-Z]{2,}\s[A-Z][a-zA-Z]{3,}))|\s+[A-Z][a-zA-Z]{3,},\s[A-Z][a-zA-Z]{2,}\s[A-Z][a-zA-Z]{3,}"
 
 	'''
-	A pattern that matches phrases relating to the Islip flood's 'girth'. This matches occurrences of
-	one word followed by the word "flood", as well as "___ area" or "area of ____", which also may
-	describe a flood's girth.
-	'''	
-	girthPatternString = "([a-zA-Z]{5,}\sflood|[a-zA-Z]{4,}\sarea|area\sof\s[A-Za-z]{4,})"
-
-	'''
 	A pattern that matches possible causes (or 'source') of the event. Phrases matched are: 
-	"affected by ____", "result of ____", "caused by _____", "by ____", or "heavy ____" (which is more specific
-	to the Islip event)
+	"affected by ____", "result of ____", "caused by _____", "by ____"
 	'''
-	causePatternString = "(due\sto(\s[A-Za-z]{3,}){1,3}|result\sof(\s[A-Za-z]{3,}){1,3}|caused\sby(\s[A-Za-z]{3,}){1,3}|by\s([A-Za-z]{4,}){1,2})|heavy\s([A-Za-z]{3,})"
+	causePatternString = "(due\sto(\s[A-Za-z]{3,}){1,3}|result\sof(\s[A-Za-z]{3,}){1,3}|caused\sby(\s[A-Za-z]{3,}){1,3}|ignited\sby\s([A-Za-z]{4,}){1,2})|started\sby(\s[A-Za-z]{3,}){1,2}"
 
 	'''
-	A pattern that matches context describing possible 'waterways' affect by the event. Phrases matched include:
-	"affected ____", "water from _____", and "overflow of _____".
 	'''
-	waterwaysPatternString = "(affected(\s[A-Za-z]{3,}){1,3})|water\sfrom(\s[A-Za-z]{3,}){1,3}|overflow\sof(\s[A-Za-z]{3,}){1,3}"
+	fuelPatternString = "(fueled\sby\s(\s[A-Za-z]{3,}){1,3}))|(raging\sthrough\s(\s[A-Za-z]{3,}){1,3})"
+
+	'''
+	'''
+	damagePatternString = "(damaged(\s[A-Za-z]{3,}){1,3})|((\S?\skilled\s\S)|(\S\sin\sdamages)|destroyed(\s[A-Za-z0-9]{3,}){1,3}|[A-Za-z0-9]{3,}\s(dead|of\sdeaths)"
+
+	'''
+	'''
+	closuresPatternString = "((\S\s){1,2}(closed|(shut\sdown))"
+
+	'''
+	'''
+	areaOfImpactPatternString = "((\S\s){1,2}miles)|((\S\s){1,2}acres)|((\S\s){1,2}building(s)?"
+
+	'''
+	'''
+	firefightingMeasuresPatternString = ""
+
+	'''
+	'''
+	severityPatternString = "((\S\s){1,2}severe(\s\S){1,2})|((\S\s){1,2}devastating(\s\S){1,2})|((\S\s){1,2}tragic(\s\S){1,2})"
 
 	'''
 	A pattern for 4-digit years
