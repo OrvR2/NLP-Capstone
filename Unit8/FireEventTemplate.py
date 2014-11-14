@@ -27,26 +27,32 @@ def main():
 	causePatternString = "(due\sto(\s[A-Za-z]{3,}){1,3}|result\sof(\s[A-Za-z]{3,}){1,3}|caused\sby(\s[A-Za-z]{3,}){1,3}|ignited\sby\s([A-Za-z]{4,}){1,2})|started\sby(\s[A-Za-z]{3,}){1,2}"
 
 	'''
+	A pattern that matches possible fuel sources for the fire.
 	'''
 	fuelPatternString = "(fueled\sby\s(\s[A-Za-z]{3,}){1,3}))|(raging\sthrough\s(\s[A-Za-z]{3,}){1,3})"
 
 	'''
+	A pattern that matches possible damage caused by the fire.
 	'''
 	damagePatternString = "(damaged(\s[A-Za-z]{3,}){1,3})|((\S?\skilled\s\S)|(\S\sin\sdamages)|destroyed(\s[A-Za-z0-9]{3,}){1,3}|[A-Za-z0-9]{3,}\s(dead|of\sdeaths)"
 
 	'''
+	A pattern that matches closures as a result of the fire.
 	'''
 	closuresPatternString = "((\S\s){1,2}(closed|(shut\sdown))"
 
 	'''
+	A pattern that matches the area of impact of the fire
 	'''
 	areaOfImpactPatternString = "((\S\s){1,2}miles)|((\S\s){1,2}acres)|((\S\s){1,2}building(s)?"
 
 	'''
+	A pattern that matches firefighting measures employed in battling the fire.
 	'''
-	firefightingMeasuresPatternString = ""
+	firefightingMeasuresPatternString = "(\S\s){1,2}firefighter(s)?(\s\S){1,2}|(\S\s)extinguish(ed|ing)?(\s\S){1,2}"
 
 	'''
+	A pattenr that matches terms signifying the severity of the fire.
 	'''
 	severityPatternString = "((\S\s){1,2}severe(\s\S){1,2})|((\S\s){1,2}devastating(\s\S){1,2})|((\S\s){1,2}tragic(\s\S){1,2})"
 
