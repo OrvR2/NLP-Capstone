@@ -1,8 +1,3 @@
-# Partial solution to Unit 8 for ClassEvent
-# by Xuan Zhang and Tarek Kanan, Nov. 10, 2014
-# Teams are expected to learn from this, not to just use it.
-# A suitable solution for Unit 8 should be richer and tailored to YourSmall, YourBig.
-
 from nltk.tokenize import sent_tokenize, word_tokenize
 import re, os, operator, nltk
 from TextUtilsU3 import *
