@@ -1,14 +1,9 @@
-# Partial solution to Unit 8 for ClassEvent
-# by Xuan Zhang and Tarek Kanan, Nov. 10, 2014
-# Teams are expected to learn from this, not to just use it.
-# A suitable solution for Unit 8 should be richer and tailored to YourSmall, YourBig.
-
 from nltk.tokenize import sent_tokenize, word_tokenize
 import re, os, operator, nltk
 from TextUtilsU3 import *
 
 # The directory location for ClassEvent documents.
-classEventDir = 'D:\\Test\\Test'
+classEventDir = '../Small_Articles'
 # The set of stopwords.
 stopwords = nltk.corpus.stopwords.words('english')
 
@@ -18,37 +13,48 @@ def main():
 	A pattern that matches "in" OR "at" followed by a single word, two words, or one word + a comma one or two words.
 	This is intended to match common location occurrences, like: "in Islip, New York", or "at Islip" 
 	'''
-	locationPatternString = "((in|at)\s([A-Z][a-zA-Z]{4,}|[A-Z][a-zA-Z]{2,}\s[A-Z][a-zA-Z]{3,}))|\s+[A-Z][a-zA-Z]{3,},\s[A-Z][a-zA-Z]{2,}\s[A-Z][a-zA-Z]{3,}"
+	locationPatternString = "((in|at)\s([A-Z][a-zA-Z]{4,}|[A-Z][a-zA-Z]{2,}\s[A-Z][a-zA-Z]{3,}))|\s+[A-Z][a-zA-Z]{3,},\s[A-Z][a-zA-Z]{2,}\s[A-Z][a-zA-Z]{3,}|(around|near)(\sS+){1,2}|(\S+\s){1,3}forest|(\S+\s){1,2}(State|National)\sPark"
 
 	'''
 	A pattern that matches possible causes (or 'source') of the event. Phrases matched are: 
 	"affected by ____", "result of ____", "caused by _____", "by ____"
 	'''
-	causePatternString = "(due\sto(\s[A-Za-z]{3,}){1,3}|result\sof(\s[A-Za-z]{3,}){1,3}|caused\sby(\s[A-Za-z]{3,}){1,3}|ignited\sby\s([A-Za-z]{4,}){1,2})|started\sby(\s[A-Za-z]{3,}){1,2}"
+	causePatternString = "(\S+\s){1,2}(electric(al)?|pyrotechnic(s)?|firework(s)?|arson|gas|negligen(t|ce))(\s\S+){1,2}"
 
 	'''
+	A pattern that matches possible fuel sources for the fire.
 	'''
-	fuelPatternString = "(fueled\sby\s(\s[A-Za-z]{3,}){1,3}))|(raging\sthrough\s(\s[A-Za-z]{3,}){1,3})"
+	fuelPatternString = "(\S+\s){1,3}(floor|wood|ventilation|gas|structure)"
 
 	'''
+	A pattern that matches possible damage caused by the fire.
 	'''
-	damagePatternString = "(damaged(\s[A-Za-z]{3,}){1,3})|((\S?\skilled\s\S)|(\S\sin\sdamages)|destroyed(\s[A-Za-z0-9]{3,}){1,3}|[A-Za-z0-9]{3,}\s(dead|of\sdeaths)"
+	damagePatternString = "damaged(\s[\S]{3,}){1,3}|\S+\sin\sdamages|(\S+\s){2,3}destroyed(\s[A-Za-z0-9]{3,}){1,4}|(\S+\s){1,3}burned(\s\S+){1,3}"
 
 	'''
+	A pattern that matches possible loss of life.
 	'''
-	closuresPatternString = "((\S\s){1,2}(closed|(shut\sdown))"
+	lossOfLifePatternString = "(\S+\s){2,3}killed(\s\S+)?|(\S+\s){1,2}(dead|(of\s)?deaths)|(\S+\s){2,3}suffocated(\s\S+)?|(\S+\s){2,3}trample(d)?(\S+\s){1,2}(\s\S+)?"
 
 	'''
+	A pattern that matches closures as a result of the fire.
 	'''
-	areaOfImpactPatternString = "((\S\s){1,2}miles)|((\S\s){1,2}acres)|((\S\s){1,2}building(s)?"
+	closuresPatternString = "((\S+\s){1,2}(stairwell(s)?|elevator(s)?|window(s)?|exit(s)?|ladder(s)?)(\s\S+){1,2})|(\S+\s){4,7}evacuate(d)?"
 
 	'''
+	A pattern that matches the area of impact of the fire
 	'''
-	firefightingMeasuresPatternString = ""
+	areaOfImpactPatternString = "(\S+\s){1,2}(floor(s)?|building(s)?|room(s)?|block(s)?)"
 
 	'''
+	A pattern that matches firefighting measures employed in battling the fire.
 	'''
-	severityPatternString = "((\S\s){1,2}severe(\s\S){1,2})|((\S\s){1,2}devastating(\s\S){1,2})|((\S\s){1,2}tragic(\s\S){1,2})"
+	firefightingMeasuresPatternString = "(\.|\t|\n)(\S+\s)*firefighter(s)?(\s\S+)*(\.|\t|\n)|(\S+\s)extinguish(ed|ing)?(\s\S+){1,2}|(\.|\t|\n)(\S+\s)*(fire\sretardent|bucket(s)?)(\s\S+)*\."
+
+	'''
+	A pattenr that matches terms signifying the severity of the fire.
+	'''
+	severityPatternString = "(\S+\s)?(severe|tragic|devastating|raging|widespread)(\s\S+)."
 
 	'''
 	A pattern for 4-digit years
@@ -62,11 +68,16 @@ def main():
 	
 	# Compilation of regex patterns to improve repeated query efficiency.
 	locationPattern = re.compile(locationPatternString)
-	girthPattern = re.compile(girthPatternString)
 	causePattern = re.compile(causePatternString)
-	waterwaysPattern = re.compile(waterwaysPatternString)
+	fuelPattern = re.compile(fuelPatternString)
+	damagePattern = re.compile(damagePatternString)
+	closuresPattern = re.compile(closuresPatternString)
+	areaOfImpactPattern = re.compile(areaOfImpactPatternString)
+	firefightingMeasuresPattern = re.compile(firefightingMeasuresPatternString)
+	severityPattern = re.compile(severityPatternString)
 	yearPattern = re.compile(yearPatternString)
 	monthPattern = re.compile(monthPatternString)
+	lossOfLifePattern = re.compile(lossOfLifePatternString)
 
 	# A list of all files in the Class Event Directory
 	listOfFiles = os.listdir(classEventDir)
@@ -97,11 +108,16 @@ def main():
 				
 		# Calls the searchMatches function to 
 		searchMatches(D, locationPattern, fileSentences, fileName, "location")
-		searchMatches(D, girthPattern, fileSentences, fileName, "girth")
 		searchMatches(D, causePattern, fileSentences, fileName, "cause")
-		searchMatches(D, waterwaysPattern, fileSentences, fileName, "waterways")
 		searchMatches(D, yearPattern, fileSentences, fileName, "year")
 		searchMatches(D, monthPattern, fileSentences, fileName, "month")
+		searchMatches(D, fuelPattern, fileSentences, fileName, "fuel")
+		searchMatches(D, damagePattern, fileSentences, fileName, "damage")
+		searchMatches(D, closuresPattern, fileSentences, fileName, "closures")
+		searchMatches(D, areaOfImpactPattern, fileSentences, fileName, "area")
+		searchMatches(D, firefightingMeasuresPattern, fileSentences, fileName, "firefighting")
+		searchMatches(D, severityPattern, fileSentences, fileName, "severity")
+		searchMatches(D, lossOfLifePattern, fileSentences, fileName, "deaths")
 
 	print
 
@@ -187,6 +203,13 @@ def main():
 	girthFreqDict = dict()
 	yearFreqDict = dict()
 	monthFreqDict = dict()
+	fuelFreqDict = dict()
+	damageFreqDict = dict()
+	closuresFreqDict = dict()
+	areaFreqDict = dict()
+	firefightingFreqDict = dict()
+	severityFreqDict = dict()
+	lossOfLifeFreqDict = dict()
 
 	# Loops through the original frequency dictionary, and adds the correspond word and frequency
 	# to the dictionary for the appropriate attribute type.
@@ -199,23 +222,12 @@ def main():
 			except:
 				locationFreqDict[result] = freq
 
-		if (typeOfInfo == "waterways" and result not in stopwords):
-			try:	
-				waterwaysFreqDict[result] += freq
-			except:
-				waterwaysFreqDict[result] = freq
-
 		if (typeOfInfo == "cause" and result not in stopwords):	
 			try:
 				causeFreqDict[result] += freq
 			except:
 				causeFreqDict[result] = freq
 
-		if (typeOfInfo == "girth" and result not in stopwords):
-			try:
-				girthFreqDict[result] += freq
-			except:
-				girthFreqDict[result] = freq
 		if (typeOfInfo == "year" and result not in stopwords):	
 			try:
 				yearFreqDict[result] += freq
@@ -227,32 +239,86 @@ def main():
 			except:
 				monthFreqDict[result] = freq
 
+		if (typeOfInfo == "fuel" and result not in stopwords):
+			try:
+				fuelFreqDict[result] += freq
+			except:
+				fuelFreqDict[result] = freq
+
+		if (typeOfInfo == "damage" and result not in stopwords):
+			try:
+				damageFreqDict[result] += freq
+			except:
+				damageFreqDict[result] = freq
+
+		if (typeOfInfo == "closures" and result not in stopwords):
+			try:
+				closuresFreqDict[result] += freq
+			except:
+				closuresFreqDict[result] = freq
+
+		if (typeOfInfo == "area" and result not in stopwords):
+			try:
+				areaFreqDict[result] += freq
+			except:
+				areaFreqDict[result] = freq
+
+		if (typeOfInfo == "firefighting" and result not in stopwords):
+			try:
+				firefightingFreqDict[result] += freq
+			except:
+				firefightingFreqDict[result] = freq
+
+		if (typeOfInfo == "severity" and result not in stopwords):
+			try:
+				severityFreqDict[result] += freq
+			except:
+				severityFreqDict[result] = freq
+
+		if (typeOfInfo == "deaths" and result not in stopwords):
+			try:
+				lossOfLifeFreqDict[result] += freq
+			except:
+				lossOfLifeFreqDict[result] = freq
+
 	print 
 
 	# Sorts all of the frequency dictionaries by their frequency values in reverse order, so the greatest
 	# frequency is first.
 	locationFreqDict = sorted(locationFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
-	waterwaysFreqDict = sorted(waterwaysFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 	causeFreqDict = sorted(causeFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
-	girthFreqDict = sorted(girthFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 	yearFreqDict = sorted(yearFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 	monthFreqDict = sorted(monthFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	fuelFreqDict = sorted(fuelFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	damageFreqDict = sorted(damageFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	closuresFreqDict = sorted(closuresFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	areaFreqDict = sorted(areaFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	firefightingFreqDict = sorted(firefightingFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	severityFreqDict = sorted(severityFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	lossOfLifeFreqDict = sorted(lossOfLifeFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 
 	# Prints the top 10 words for each attribute.
 	print "Top 10 frequent values for each attribute:"
 	print "Location:", locationFreqDict [:10], "\n"
-	print "Waterways:", waterwaysFreqDict [:10], "\n"
 	print "Cause:", causeFreqDict [:10], "\n"
-	print "Girth:", girthFreqDict [:10], "\n"
 	print "Year:", yearFreqDict [:10], "\n"
 	print "Month:", monthFreqDict [:10], "\n"
+	print "Fuel:", fuelFreqDict [:10], "\n"
+	print "Damage:", damageFreqDict, "\n"
+	print "Closures:", closuresFreqDict [:10], '\n'
+	print "Area:", areaFreqDict [:10], "\n"
+	print "Firefighting:", firefightingFreqDict [:10], "\n"
+	print "Severity:", severityFreqDict [:10], "\n"
+	print "Loss Of Life:", lossOfLifeFreqDict [:10], "\n"
 
+	
 	# Prints the original template.
 	print "Template before filling-out:"
-	print "On {Time} a {Girth} caused by {Cause} {Waterways} in {Location}.\n"
+	print "In <start time>, there was a fire started by <cause> in <geographic location>. This fire, caused by <fuel>, grew to encompass <area of impact>, <damage (land/homes)>, and <loss of life>. <firefighting measures>. The fire was extinguished in <end time>. <closures> as a result of the fire. Compared to previous fires in the area this fire was <severity>."
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "On {0} {1} a {2} caused by {3} {4} in {5}.".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[1][0], locationFreqDict[0][0])
+	print "In {0}, there was a fire started by {1} in {2}. This fire, caused by {3}, grew to encompass {4}, {5}, and {6}. {7}. {8} as a result of the fire. Compared to previous fires in the area this fire was {9}.".format(monthFreqDict[0][0] + " " + yearFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[1][0], locationFreqDict[0][0])
+	
 
 	
 # Prints any matches in the files with their corresponding filename and location in the file.
@@ -269,13 +335,13 @@ def searchMatches(D, pattern, fileSentences, fileName, typeOfInfo):
 			result = match.group().split()
 			
 			# Filters any words of length 2 or less.
-			result = [w for w in result if len(w) > 2]
+			# result = [w for w in result if len(w) > 2]
 			
 			# Joins filtered set words with spaces
 			result = " ".join(w for w in result)
 
 			# Display the filename and location in the file at which a match was found. 
-			#print "{4}: {0}: {1}-{2}: {3}".format(fileName, match.start(), match.end(), result, typeOfInfo)
+			print "{4}: {0}: {1}-{2}: {3}".format(fileName, match.start(), match.end(), result, typeOfInfo)
 			
 			# Increment the frequency for this attribute and word pair
 			try:
