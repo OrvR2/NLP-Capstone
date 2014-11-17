@@ -29,7 +29,7 @@ def main():
 	'''
 	A pattern that matches possible damage caused by the fire.
 	'''
-	damagePatternString = "damaged(\s[\S]{3,}){1,3}|\S+\sin\sdamages|(\S+\s){2,3}destroyed(\s[A-Za-z0-9]{3,}){1,4}|(\S+\s){1,3}burned(\s\S+){1,3}"
+	damagePatternString = "damaged(\s[\S]{3,}){1,3}|\S+\sin\sdamages|(\S+\s){2,3}destroyed(\s[A-Za-z0-9]{3,}){1,4}|(\S+\s){1,4}burned(\s\S+){1,3}"
 
 	'''
 	A pattern that matches possible loss of life.
@@ -314,10 +314,10 @@ def main():
 	
 	# Prints the original template.
 	print "Template before filling-out:"
-	print "In <start time>, there was a fire started by <cause> in <geographic location>. This fire, caused by <fuel>, grew to encompass <area of impact>, <damage (land/homes)>, and <loss of life>. <firefighting measures>. The fire was extinguished in <end time>. <closures> as a result of the fire. Compared to previous fires in the area this fire was <severity>."
+	print "In <start time>, there was a fire started by <cause> in <geographic location>. This fire, caused by <fuel>, grew to encompass <area of impact>, <damage (land/homes)>, and <loss of life>. <firefighting measures. <closures> as a result of the fire. Compared to previous fires in the area this fire was <severity>."
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "In {0}, there was a fire started by {1} in {2}. This fire, caused by {3}, grew to encompass {4}, {5}, and {6}. {7}. {8} as a result of the fire. Compared to previous fires in the area this fire was {9}.".format(monthFreqDict[0][0] + " " + yearFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[1][0], locationFreqDict[0][0])
+	print "In {0} {1}, there was a fire started by {2} {11} in {3}. This fire, caused by {4}, grew to encompass {5}, {6}, and {7}. {8}. {9} as a result of the fire. Compared to previous fires in the area this fire was {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeFreqDict[0][0], firefightingFreqDict[0][0], closuresFreqDict[0][0], severityFreqDict[0][0], causeFreqDict[1][0])
 	
 
 	
