@@ -3,7 +3,7 @@ import re, os, operator, nltk
 from TextUtilsU3 import *
 
 # The directory location for ClassEvent documents.
-classEventDir = '../Small_Articles'
+classEventDir = '../Large_Articles'
 # The set of stopwords.
 stopwords = nltk.corpus.stopwords.words('english')
 
@@ -34,7 +34,7 @@ def main():
 	'''
 	A pattern that matches possible loss of life.
 	'''
-	lossOfLifePatternString = "(\S+\s){2,3}killed(\s\S+)?|(\S+\s){1,2}(dead|(of\s)?deaths)|(\S+\s){2,3}suffocated(\s\S+)?|(\S+\s){2,3}trample(d)?(\S+\s){1,2}(\s\S+)?"
+	lossOfLifePatternString = "(\S+\s){2,3}killed(\s\S+)?|(\S+\s){1,2}(dead|(of\s)?deaths)|(\S+\s){2,3}suffocated(\s\S+)?|(\S+\s){2,3}(trample(d)?|stampede(s)?)(\S+\s){1,2}(\s\S+)?"
 
 	'''
 	A pattern that matches closures as a result of the fire.
@@ -49,12 +49,12 @@ def main():
 	'''
 	A pattern that matches firefighting measures employed in battling the fire.
 	'''
-	firefightingMeasuresPatternString = "(\.|\t|\n)(\S+\s)*firefighter(s)?(\s\S+)*(\.|\t|\n)|(\S+\s)extinguish(ed|ing)?(\s\S+){1,2}|(\.|\t|\n)(\S+\s)*(fire\sretardent|bucket(s)?)(\s\S+)*\."
+	firefightingMeasuresPatternString = "(\.|\t|\n)(\S+\s)*firefighter(s)?(\s\S+)*(\.|\t|\n)|(\S+\s)extinguish(ed|ing)?(\s\S+){1,2}|(\S+\s){2,3}(fire\sretardent|bucket(s)?)"
 
 	'''
 	A pattenr that matches terms signifying the severity of the fire.
 	'''
-	severityPatternString = "(\S+\s)?(severe|tragic|devastating|raging|widespread)(\s\S+)."
+	severityPatternString = "(\S+\s)?(severe|tragic|devastating)(\s\S+)."
 
 	'''
 	A pattern for 4-digit years
