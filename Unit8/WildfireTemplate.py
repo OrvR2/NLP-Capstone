@@ -34,7 +34,7 @@ def main():
 	'''
 	A pattern that matches possible loss of life.
 	'''
-	lossOfLifePatternString = "(\S+\s){2,3}killed(\s\S+)?|(\S+\s){1,2}(dead|(of\s)?deaths)"
+	lossOfLifePatternString = "\s[0-9]{1,3}\s(\S+\s){0,2}killed|[0-9]+\s(\S+\s)(dead|(of\s)?deaths)"
 
 	'''
 	A pattern that matches closures as a result of the fire.
