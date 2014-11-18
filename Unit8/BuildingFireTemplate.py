@@ -3,7 +3,7 @@ import re, os, operator, nltk
 from TextUtilsU3 import *
 
 # The directory location for ClassEvent documents.
-classEventDir = '../Large_Articles'
+classEventDir = '../Unit7/Large_Articles'
 # The set of stopwords.
 stopwords = nltk.corpus.stopwords.words('english')
 
@@ -13,7 +13,7 @@ def main():
 	A pattern that matches "in" OR "at" followed by a single word, two words, or one word + a comma one or two words.
 	This is intended to match common location occurrences, like: "in Islip, New York", or "at Islip" 
 	'''
-	locationPatternString = "((in|at)\s([A-Z][a-zA-Z]{4,}|[A-Z][a-zA-Z]{2,}\s[A-Z][a-zA-Z]{3,}))|\s+[A-Z][a-zA-Z]{3,},\s[A-Z][a-zA-Z]{2,}\s[A-Z][a-zA-Z]{3,}|(around|near)(\sS+){1,2}|(\S+\s){1,3}forest|(\S+\s){1,2}(State|National)\sPark"
+	locationPatternString = "(in|at|around|near)(\s\S+){1,2}|[A-Z][a-zA-Z]{3,},\s[A-Z][a-zA-Z]{2,}(\s[A-Z][a-zA-Z]{3,})?|(\S+\s){1,3}forest|(\S+\s){1,2}(State|National)\sPark"
 
 	'''
 	A pattern that matches possible causes (or 'source') of the event. Phrases matched are: 
@@ -24,22 +24,23 @@ def main():
 	'''
 	A pattern that matches possible fuel sources for the fire.
 	'''
-	fuelPatternString = "(\S+\s){1,3}(floor|wood|ventilation|gas|structure)"
+	fuelPatternString = "(\S+\s){1,2}(foam|insulation|carpet|natural\sgas)|(\S+\s){1,2}(caught\son\sfire)"
 
 	'''
 	A pattern that matches possible damage caused by the fire.
+	OLD: damagePatternString = "damaged(\s[\S]{3,}){1,3}|\S+\sin\sdamages|(\S+\s){2,3}destroyed(\s[A-Za-z0-9]{3,}){1,4}|(\S+\s){1,3}burned(\s\S+){1,3}"
 	'''
-	damagePatternString = "damaged(\s[\S]{3,}){1,3}|\S+\sin\sdamages|(\S+\s){2,3}destroyed(\s[A-Za-z0-9]{3,}){1,4}|(\S+\s){1,3}burned(\s\S+){1,3}"
+	damagePatternString = "(\S+\s){1,2}dollar(s)?|\$[0-9]+(\s\S+){0,3}|damage(d|s)?(\s\S+){1,3}|(\S+\s){1,2}(destroy(ed|s)?|devastate(d|s)?)"
 
 	'''
 	A pattern that matches possible loss of life.
 	'''
-	lossOfLifePatternString = "(\S+\s){2,3}killed(\s\S+)?|(\S+\s){1,2}(dead|(of\s)?deaths)|(\S+\s){2,3}suffocated(\s\S+)?|(\S+\s){2,3}(trample(d)?|stampede(s)?)(\S+\s){1,2}(\s\S+)?"
+	lossOfLifePatternString = "\s[0-9]{1,3}\s(\S+\s){0,2}killed|[0-9]+\s(\S+\s)(dead|(of\s)?deaths)"
 
 	'''
 	A pattern that matches closures as a result of the fire.
 	'''
-	closuresPatternString = "((\S+\s){1,2}(stairwell(s)?|elevator(s)?|window(s)?|exit(s)?|ladder(s)?)(\s\S+){1,2})|(\S+\s){4,7}evacuate(d)?"
+	closuresPatternString = "(\S+\s(stairwell(s)?|elevator(s)?|window(s)?|exit(s)?|ladder(s)?)(\s\S+){1,2})|(\S+\s){1,4}evacuate(d)?"
 
 	'''
 	A pattern that matches the area of impact of the fire
@@ -49,12 +50,12 @@ def main():
 	'''
 	A pattern that matches firefighting measures employed in battling the fire.
 	'''
-	firefightingMeasuresPatternString = "(\.|\t|\n)(\S+\s)*firefighter(s)?(\s\S+)*(\.|\t|\n)|(\S+\s)extinguish(ed|ing)?(\s\S+){1,2}|(\S+\s){2,3}(fire\sretardent|bucket(s)?)"
+	firefightingMeasuresPatternString = "(\S+\s){1,3}((extinguish(ed|ing)?)rescue(d)?|douse(d)?)(\s\S+){1,6}"
 
 	'''
 	A pattenr that matches terms signifying the severity of the fire.
 	'''
-	severityPatternString = "(\S+\s)?(severe|tragic|devastating)(\s\S+)."
+	severityPatternString = "(\S+\s)?(severe|tragic|devastating)(\s\S+){1,2}."
 
 	'''
 	A pattern for 4-digit years
