@@ -1,0 +1,4605 @@
+Location	1657	in Texas
+Location	1429	at Studio
+Location	1398	Johnson, Jeff Gordon
+Location	1382	in Romney
+Location	1334	Short, Goes Long
+Location	1285	Perry, Mitt Romney
+Location	1043	in Options
+Location	1026	in New York
+Location	932	in Bastrop
+Location	889	in AmericaAfricaAsiaCanadaAustralia
+Location	792	at Texas
+Location	717	in America
+Location	517	in Laden
+Location	469	in Austin
+Location	458	in Afghanistan
+Location	436	in Libya
+Location	402	in California
+Location	385	in Washington
+Location	381	in January
+Location	379	in Kashmir
+Location	378	in Central
+Location	377	at Obama
+Location	358	in Most PopularObama
+Location	329	at Gatsby
+Location	317	Hayek, Zoe Saldana
+Location	311	in China
+Location	304	in Houston
+Location	301	in Tripoli
+Location	290	in South
+Location	285	in August
+Location	282	in Education
+Location	265	in Florida
+Location	264	in Russia
+Location	258	in London
+Location	250	in AsiaSaudi
+Location	237	in Philadelphia
+Location	235	in Newt Gingrich
+Location	225	in Europe
+Location	221	in Complex
+Location	219	at Ground
+Location	219	at You Missed
+Location	203	in North
+Location	197	in San Francisco
+Location	195	in Kabul
+Location	195	Twitter, Bing Tweets
+Location	192	in Pakistan
+Location	191	in Congress
+Location	189	in Syria
+Location	185	in GOP Debate
+Location	182	Romney, Perry Spar
+Location	175	in Sydney
+Location	174	in Mexico
+Location	169	in Towers
+Location	161	in Cairo
+Location	161	in New Delhi
+Location	158	in American
+Location	157	in Brazil
+Location	155	in Thursday
+Location	151	in AsiaWhat
+Location	151	in Chicago
+Location	151	in Philippines
+Location	149	in All News
+Location	148	in Canada
+Location	148	in Sports
+Location	147	at Employers
+Location	144	in Calif
+Location	144	in March
+Location	142	at People
+Location	142	at President
+Location	141	China, Japan TAIPEI
+Location	141	in September
+Location	140	in Japan
+Location	136	in Arizona
+Location	136	in Paris
+Location	131	in Entries
+Location	131	in Politics
+Location	131	in Powered
+Location	130	in Los Angeles
+Location	129	in Bieber
+Location	127	at Handguns
+Location	126	in Index
+Location	125	Politics, Personal Liberty
+Location	124	in Black
+Location	123	in French
+Location	123	in India
+Location	123	in Luther
+Location	121	in Colorado
+Location	120	at New York
+Location	119	at Social
+Location	119	in October
+Location	118	at More India
+Location	118	at Yahoo
+Location	117	in Detroit
+Location	117	in Miscellaneous
+Location	117	in World
+Location	115	in Denver
+Location	113	in November
+Location	112	at Perry
+Location	112	at Took Place
+Location	111	in Aruba
+Location	110	in Select
+Location	109	in April
+Location	108	in Timberlake
+Location	107	at French
+Location	107	in Germany
+Location	107	in Niger
+Location	107	in Uncategorized
+Location	106	in Sweden
+Location	105	in TWEETS
+Location	104	in Australia
+Location	104	in Editorials
+Location	104	in Sierras
+Location	102	in Disaster
+Location	102	in House
+Location	102	in Kenya
+Location	101	in Bikini
+Location	101	Science, Climate Change
+Location	99	in College
+Location	96	in Delaware
+Location	96	in Geospatial
+Location	93	in Business
+Location	91	at GameSpot
+Location	91	in Entertainment
+Location	91	in Somalia
+Location	90	in Green
+Location	89	Concepts, LLC Fire
+Location	89	in Netanyahu
+Location	89	in Street
+Location	88	in Avril
+Location	88	in Dallas
+Location	88	in Egypt
+Location	87	at Recession
+Location	85	at American
+Location	83	in Southern
+Location	82	at Other
+Location	82	Union, Dwyane Wade
+Location	80	in Clayton
+Location	80	in Italy
+Location	80	in Mendocino
+Location	79	in Obama
+Location	79	in Pennsylvania
+Location	79	near S
+Location	79	Richardson, The Denver
+Location	78	at Dickinson
+Location	78	at Tacos
+Location	78	Comics, Covered Comics
+Location	78	in Pendelton
+Location	78	in RSS Comments
+Location	78	Island, Classic Illustrations
+Location	77	in Area Burns
+Location	76	at Mexico
+Location	76	in Atlantic
+Location	76	in England
+Location	73	at Lakes
+Location	73	at Pentagon
+Location	73	in Saw Massacre
+Location	72	in Cedar
+Location	71	in Browse
+Location	71	in February
+Location	71	Missing, Maryland School
+Location	70	in Corpus
+Location	70	in Hollywood
+Location	69	at America
+Location	69	at Bastrop
+Location	69	in December
+Location	69	Medicine, Personal Liberty
+Location	68	in Brooklyn
+Location	68	in Carson
+Location	68	in Celebrity
+Location	68	in Copyright
+Location	68	in History
+Location	67	in Africa
+Location	67	in Loading
+Location	67	in New Zealand
+Location	66	in Media
+Location	66	in Nevada
+Location	65	at Sports
+Location	65	at You Want
+Location	65	in More Romney
+Location	64	in France
+Location	64	in Keynote
+Location	64	in Manhattan
+Location	64	in Maryland
+Location	64	in Other
+Location	63	in English
+Location	63	in Virginia
+Location	63	Nadal, Andy Roddick
+Location	63	Pink, Carey Hart
+Location	62	at Gadhafi
+Location	62	in New Jersey
+Location	61	in Shanksville
+Location	60	at School
+Location	60	in Islands
+Location	60	in Seattle
+Location	60	in Tomioka
+Location	60	in Vietnam
+Location	59	in Jackson
+Location	59	in San Diego
+Location	59	in Santa
+Location	59	McHale, Gillian Jacobs
+Location	58	at Never
+Location	58	in Nigeria
+Location	57	Alert, Israeli Diplomats
+Location	57	at Depression
+Location	57	in Alabama
+Location	56	in Conrad
+Location	56	in Health
+Location	56	in New Orleans
+Location	55	in Haiti
+Location	54	in Hawaii
+Location	53	in Beijing
+Location	53	in Georgia
+Location	53	in Louisiana
+Location	53	in Sparks
+Location	52	in Russian
+Location	52	in State
+Location	51	at Libya
+Location	51	at The PressNewspapersAnderson
+Location	51	FESA, Evan Collis
+Location	51	in Dynamic
+Location	51	in Israel
+Location	51	in Liberia
+Location	51	Missing, Car Found
+Location	50	at Robertson
+Location	50	in BLOG FEEDS
+Location	50	in David
+Location	50	in Spain
+Location	50	in Windows
+Location	49	at Americans
+Location	49	at Would
+Location	49	in Massachusetts
+Location	49	in Montgomery
+Location	49	in Toronto
+Location	49	Stableford, Senior Media
+Location	48	in Boston
+Location	48	in County
+Location	48	in Crime
+Location	48	in Gaming
+Location	48	in Gulf Coast
+Location	48	in Las Vegas
+Location	48	in Michelle
+Location	48	in PhilippinesEx
+Location	47	at Amazon
+Location	47	at Austin
+Location	47	in Atlanta
+Location	47	in Palmer
+Location	47	in Popular
+Location	47	in Wyoming
+Location	47	Obama, GOP CandidatesWe
+Location	46	Hopeful, Makes Official
+Location	46	in Pictures
+Location	46	in Previously
+Location	46	in San Antonio
+Location	46	in United
+Location	46	Pompeo, Media ReporterPostsEmailRSSRegular
+Location	46	Robayo, Miss Universe
+Location	45	at Mercedes
+Location	45	at Silver
+Location	45	at Steve
+Location	45	in Courage
+Location	45	in Indonesia
+Location	45	in Knoxville
+Location	45	in Spanish
+Location	45	in Tokyo
+Location	44	at Israel
+Location	44	in Crash
+Location	44	in Ground
+Location	44	in Iraq Most
+Location	44	in Metroplex
+Location	44	in Music
+Location	44	in Update
+Location	44	in Venice
+Location	43	at Fashion
+Location	43	at George
+Location	43	at Survey
+Location	43	in Lower
+Location	43	in Michael
+Location	43	in Mississippi
+Location	43	in Oakland
+Location	43	in Technology
+Location	43	Rybchinsky, Russian Oligarch
+Location	42	in Forces
+Location	42	in Google
+Location	42	in Photos
+Location	42	in POLL Which
+Location	42	in San Marcos
+Location	41	at PeopleStyleWatch
+Location	41	at Shuffle
+Location	41	in Alaska
+Location	41	in Comedy
+Location	41	in Edit About
+Location	41	in Healthy
+Location	41	in Perry
+Location	41	in Sindh
+Location	41	in Takedown
+Location	41	in Wisdom
+Location	40	Agra, Uttar Pradesh
+Location	40	at Boston
+Location	40	at Disneyland
+Location	40	at Newser
+Location	40	at WordPress
+Location	40	Boyd's forest
+Location	40	in New Hampshire
+Location	40	in Posted
+Location	40	in Wisconsin
+Location	40	"It was Cindy's forest
+Location	40	Texas, Roger Cosby
+Location	40	Truck, Leaves Apology
+Location	40	Wildest, Most Insane
+Location	39	around S
+Location	39	at Washington
+Location	39	Bachmann, Perry Gaining
+Location	39	in Category
+Location	39	in Ennis
+Location	39	Libya, But Denied
+Location	39	Obama, Congress Chris
+Location	38	at China
+Location	38	at September
+Location	38	at Steelers
+Location	38	at White
+Location	38	in First
+Location	38	in Galliano
+Location	38	in Progress
+Location	38	in Review
+Location	38	in Turkey
+Location	38	Member, Alexander Galimov
+Location	38	Rozen, Senior Foreign
+Location	37	at Congress
+Location	37	at Outdoors
+Location	37	in AmericaAfricaAsiaAustraliaDisaster
+Location	37	in Arlington
+Location	37	in CubaSouth
+Location	37	in Garland
+Location	37	in Leander
+Location	37	in Manila
+Location	37	in Republican
+Location	37	in Simi Valley
+Location	37	in Tucson
+Location	37	in Yahoo
+Location	37	in Yemen
+Location	36	at Fishing
+Location	36	at Lokomotiv
+Location	36	in Burned
+Location	36	in Holtsberry
+Location	36	in Miami
+Location	36	in Oklahoma
+Location	36	in Powell
+Location	36	in WASHINGTON
+Location	36	Wire, Personal Liberty
+Location	35	at Christie
+Location	35	at Dulles
+Location	35	at Google
+Location	35	at Krugman
+Location	35	at Lambeau
+Location	35	at The Glorious
+Location	35	at Videos
+Location	35	Coulter, Laura Ingraham
+Location	35	in Joplin
+Location	35	in Rick Perry
+Location	35	in The Skepticians
+Location	35	in Upper
+Location	35	PRICES, AND HAVING
+Location	34	at Can Lower
+Location	34	at Republicans
+Location	34	in Fashion
+Location	34	in Federal
+Location	34	in Kenyan
+Location	34	in Michigan
+Location	34	in Travel
+Location	34	in Waco High
+Location	33	in Argentina
+Location	33	in Bermuda
+Location	33	in Blogs
+Location	33	in Community
+Location	33	in FEEDS
+Location	33	in HealthCancer
+Location	33	in HistoryContributing
+Location	33	in Sao Paulo
+Location	33	in Tampa
+Location	33	in Tornado
+Location	33	in Vermont
+Location	33	in Wednesday
+Location	33	of Bastrop State Park
+Location	32	at Allstate
+Location	32	at Nevada
+Location	32	in Americans
+Location	32	in Chief
+Location	32	in Moscow
+Location	31	at Facebook
+Location	31	at Recent
+Location	31	Beating, Get Jobs
+Location	31	in Email
+Location	31	in Forum
+Location	31	in Monday
+Location	31	in Northern
+Location	31	in Social
+Location	31	in Style
+Location	31	in Tennessee
+Location	31	in Valentino
+Location	31	Lehmann, EditorPostsEmailRSS Subscribe
+Location	30	A central Texas forest
+Location	30	at Baylor
+Location	30	in Bani Walid
+Location	30	in Bites
+Location	30	in Britain
+Location	30	in British
+Location	30	in High Plains
+Location	30	in Norway
+Location	30	in Southwest
+Location	30	in Super
+Location	30	in Weird
+Location	30	in Western
+Location	30	in Year After
+Location	30	in Zeese
+Location	30	Once, Too FOLLOW
+Location	30	Present, And Future
+Location	29	at Palin
+Location	29	in Afghan
+Location	29	in Final
+Location	29	in Heaney
+Location	29	in Northeast
+Location	29	in Rawalpindi
+Location	29	in Thailand
+Location	29	in Twitter
+Location	29	in Yaroslavl
+Location	29	Teenagers, Files Lawsuit
+Location	28	at Baltimore
+Location	28	at Barack
+Location	28	at Day Closes
+Location	28	at Mile High
+Location	28	Bastrop, Texas Burns
+Location	28	in Elections
+Location	28	in Grimes
+Location	28	in Indian
+Location	28	in Local
+Location	28	in Maine
+Location	28	in Mobile
+Location	28	in Most PopularFACT
+Location	28	in Nairobi
+Location	28	in Tuesday
+Location	28	Stand, Used Coke
+Location	27	at Springs
+Location	27	at Toronto
+Location	27	in Another
+Location	27	in Bangalore
+Location	27	in Delhi
+Location	27	in Experts
+Location	27	in Golden
+Location	27	in Hong Kong
+Location	27	in Mogadishu
+Location	27	in Ottawa
+Location	27	in President
+Location	27	in Sacramento
+Location	27	in Username
+Location	27	in Vancouver
+Location	27	in Veracruz
+Location	27	Japan, New Zealand
+Location	27	Stories, Breaking News
+Location	27	Texas, George Gaydos
+Location	26	at Apple
+Location	26	at Buchanan
+Location	26	at California
+Location	26	at National
+Location	26	at Pacquiao
+Location	26	Author, Describes Bizarre
+Location	26	Exercise, Weight Loss
+Location	26	in Benghazi
+Location	26	in Books
+Location	26	in Bryan
+Location	26	in City Limits
+Location	26	in Internet
+Location	26	in JapanBusinessBusiness
+Location	26	in Jerusalem
+Location	26	in Phoenix
+Location	26	in Power
+Location	26	in Spartacus
+Location	26	in UBS Goes
+Location	26	Murr, Denver Police
+Location	26	Obama, GOP Candidates
+Location	26	save Bastrop State Park
+Location	25	at Barry
+Location	25	at Britain
+Location	25	at Calif
+Location	25	at Detroit
+Location	25	at Freiburg
+Location	25	at Least
+Location	25	at Microsoft
+Location	25	at Options
+Location	25	at Rick Perry
+Location	25	at Romney
+Location	25	at YahooThe
+Location	25	Bastrop, Texas Wildfires
+Location	25	Delta, Bangladesh This
+Location	25	in CowParade
+Location	25	in Create
+Location	25	in Downtown
+Location	25	in Home Video
+Location	25	in Ireland
+Location	25	in Latin
+Location	25	in Municipality
+Location	25	in Salzburg
+Location	25	in Saturday
+Location	25	in Senate
+Location	25	in Singapore
+Location	25	in Sorry
+Location	25	in Taliban
+Location	25	in Top Stories
+Location	25	in Unhappy
+Location	25	in Zanzibar
+Location	25	Lake, California Originally
+Location	25	Photos, Video More
+Location	25	Robbery, Clerk Thinks
+Location	25	Vaughan, Texas Flood
+Location	24	at Cowboys
+Location	24	at LBSzone
+Location	24	at World
+Location	24	Calcutta, India This
+Location	24	Danube, Romania Flanked
+Location	24	Director, Ethical Guidance
+Location	24	in Asheville
+Location	24	in Berlin
+Location	24	in Boehner
+Location	24	in Boulder
+Location	24	in Caine
+Location	24	in Forgot
+Location	24	in Karachi
+Location	24	in Lithuania
+Location	24	in Malibu
+Location	24	in Share
+Location	24	in Spacecraft
+Location	24	in Stevens
+Location	24	in Sunday
+Location	24	in Verlander
+Location	24	Jobs, Tax Cuts
+Location	24	Later, Students With
+Location	24	Pimple, PAIT Project
+Location	24	Reform, Trade Deals
+Location	24	the Lost Pines forest
+Location	24	Wang, Martha Stewart
+Location	23	at Boone
+Location	23	at Miami
+Location	23	at Reagan
+Location	23	at Target
+Location	23	Entertainment, Hot News
+Location	23	Government, Personal Liberty
+Location	23	in Announces
+Location	23	in Chile
+Location	23	in Chinese
+Location	23	in Crisis
+Location	23	in East Texas
+Location	23	in Illinois
+Location	23	in Lymphoma
+Location	23	in Minnesota
+Location	23	in Montreal
+Location	23	in Nashville
+Location	23	in Pets Alive
+Location	23	in Richmond
+Location	23	in Smoke
+Location	23	in Soup Kitchen
+Location	23	in The Blazes
+Location	23	Moment, Star Reveals
+Location	23	Nutrition, Personal Liberty
+Location	23	Pantsless, Plays Guitar
+Location	22	at Ancient
+Location	22	at Could
+Location	22	at David
+Location	22	at Dollard
+Location	22	at Ennis
+Location	22	at Flushing
+Location	22	at Names
+Location	22	at Republican
+Location	22	at Sheet
+Location	22	at Wednesday
+Location	22	Bono, Sting Come
+Location	22	in Campaign
+Location	22	in Christian
+Location	22	in Cleveland
+Location	22	in Culture
+Location	22	in Egyptian
+Location	22	in Esquire
+Location	22	in Guatemala
+Location	22	in Idaho
+Location	22	in Jurick
+Location	22	in Kentucky
+Location	22	in Middle
+Location	22	in Poverty
+Location	22	in Register
+Location	22	in Salon
+Location	22	in Welcome
+Location	22	in Wikipedia
+Location	22	in Your Child
+Location	22	Satellites, Google Earth
+Location	22	Zero, Lives Changed
+Location	21	at Kilaue
+Location	21	at Local
+Location	21	at North
+Location	21	in Chula
+Location	21	in Djokovic
+Location	21	in Gaddafi
+Location	21	in Indiana
+Location	21	in Muslim
+Location	21	in Nibiru
+Location	21	in Photoshop
+Location	21	in Real Estate
+Location	21	in Religion
+Location	21	in Republicans
+Location	21	in San Jose
+Location	21	in Ultimate
+Location	21	in Your Marriage
+Location	21	Photographer, Ten Years
+Location	21	Sheldon, Security Guard
+Location	20	at First
+Location	20	at Management
+Location	20	at Oakland
+Location	20	at Ron Paul
+Location	20	at Traditions
+Location	20	at University
+Location	20	at Village
+Location	20	in Buenos
+Location	20	in False
+Location	20	in Home About
+Location	20	in Land Mine
+Location	20	in Liberty
+Location	20	in Medicare
+Location	20	in New Mexico
+Location	20	in Orange
+Location	20	in Pittsburgh
+Location	20	in Please
+Location	20	in San Pedro
+Location	20	in Search
+Location	20	in Sukkur
+Location	20	in TechThe
+Location	20	in Triple
+Location	20	in Wall Street
+Location	20	in Yourself
+Location	20	Releases, Entertainment News
+Location	20	Season, Telegraph Fire
+Location	20	Student, Dies After
+Location	20	System, School University
+Location	19	at Beyonce
+Location	19	at Black
+Location	19	at Changed
+Location	19	at Jesus
+Location	19	at Really
+Location	19	at Sunday
+Location	19	at You Should
+Location	19	Bastrop, Texas Fires
+Location	19	Cryer, Ashton Kutcher
+Location	19	in Amsterdam
+Location	19	in Auckland
+Location	19	in Baltimore
+Location	19	in Bangladesh
+Location	19	in Brady
+Location	19	in Charleston
+Location	19	in European
+Location	19	in Friday
+Location	19	in Impact
+Location	19	in Luckenbach
+Location	19	in Niamey
+Location	19	in Price
+Location	19	in Spring
+Location	19	in Swiss
+Location	19	in Tehran
+Location	19	in Top News
+Location	19	in Vera Wang
+Location	19	in Wales
+Location	19	in WATCH
+Location	19	in Weather
+Location	19	Obama, Barack Perry
+Location	19	Protesters, Police Arrest
+Location	19	Protesters, Police Clash
+Location	19	wildfires the state forest
+Location	18	at Colorado
+Location	18	at Davis
+Location	18	at Fight
+Location	18	at Give Back
+Location	18	at Killed
+Location	18	at Market
+Location	18	at Oklahoma
+Location	18	at The Buddha
+Location	18	at The Press
+Location	18	Finale, Male Strippers
+Location	18	in Anaheim
+Location	18	in Arkansas
+Location	18	in Billups
+Location	18	in Booth
+Location	18	in Brussels
+Location	18	in Charlotte
+Location	18	in Compilation
+Location	18	in Connecticut
+Location	18	in Cuba BusinessHoward
+Location	18	in Democratic
+Location	18	in Eastern
+Location	18	in High School
+Location	18	in Islam
+Location	18	in Kansas
+Location	18	in Lakoff
+Location	18	in Living
+Location	18	in Malaysia
+Location	18	in Perugia
+Location	18	in Print
+Location	18	in Ranch
+Location	18	in Rockies
+Location	18	in Some Traction
+Location	18	in Tonight
+Location	18	in West Virginia
+Location	18	in Women
+Location	18	Sarasota, Florida Students
+Location	17	at Democrats
+Location	17	at HuffPost
+Location	17	at Insects
+Location	17	at Level
+Location	17	at Minsk
+Location	17	at Reichert
+Location	17	at Rugby
+Location	17	at Was That
+Location	17	AUCKLAND, New Zealand
+Location	17	Coonhound, Named Living
+Location	17	Entitled, Rep Says
+Location	17	in Anderson
+Location	17	in Asian
+Location	17	in Berkeley
+Location	17	in Birmingham
+Location	17	in Columbus
+Location	17	in Frankfurt
+Location	17	in George
+Location	17	in Iraq Last
+Location	17	in Logan
+Location	17	in Lubbock
+Location	17	in National
+Location	17	in Planet
+Location	17	in Shutdown
+Location	17	in Talks
+Location	17	Kite, Says Designer
+Location	17	Widow, Sues BofA
+Location	16	at Alaska
+Location	16	at Alvarez
+Location	16	at Booker
+Location	16	at BuchananPeter
+Location	16	at Burning
+Location	16	at Carnegie
+Location	16	at DeeleyTIFF
+Location	16	at Harvard
+Location	16	at Lincoln
+Location	16	at London
+Location	16	at Sarasota
+Location	16	at She Does
+Location	16	at South
+Location	16	at Turkey
+Location	16	at Widgetbox
+Location	16	Bankruptcy, Company Lobbyist
+Location	16	Chase, Shane Bacon
+Location	16	Display, Latest Generation
+Location	16	in Angola
+Location	16	in Beverly
+Location	16	in Fake Bomb
+Location	16	in Fort Bend
+Location	16	in German
+Location	16	in HangersCaps
+Location	16	in Happy
+Location	16	in Harris
+Location	16	in HomeCurrent
+Location	16	Injured, Fire Truck
+Location	16	in Latino
+Location	16	in Magnolia
+Location	16	in Motion
+Location	16	in Museum
+Location	16	in Mystery
+Location	16	in Nebraska
+Location	16	in Orlando
+Location	16	in Reinsurance
+Location	16	in Scorsese
+Location	16	in Springfield
+Location	16	in Sri Lanka
+Location	16	in Steiner
+Location	16	in Supreme
+Location	16	in Symphony
+Location	16	in The Associated
+Location	16	in White
+Location	16	in Wonderland
+Location	16	Season, California Firestorm
+Location	16	Stories, Investment Tips
+Location	16	Weber, Kristian Dyer
+Location	15	at Canada
+Location	15	at City Hall
+Location	15	at Comes
+Location	15	at Disney
+Location	15	at Gaddafi
+Location	15	at Holland
+Location	15	at Houston
+Location	15	at Japan
+Location	15	at Kerkian
+Location	15	at Narrow
+Location	15	at Open Browse
+Location	15	at Pearl
+Location	15	at Posted
+Location	15	at Quinn
+Location	15	at Richmond
+Location	15	at Stanford
+Location	15	at Tea Party
+Location	15	at Tuesday
+Location	15	at Twitter
+Location	15	in About
+Location	15	in Binghamton
+Location	15	in Butler
+Location	15	in Butte
+Location	15	in Canton
+Location	15	in Categories
+Location	15	in Catholic
+Location	15	in Chenoweth
+Location	15	in Columbia
+Location	15	in Donuts
+Location	15	in Dubai
+Location	15	in East AfricaThousands
+Location	15	in Greece
+Location	15	in Greek
+Location	15	in Juppe
+Location	15	in Ladin
+Location	15	in Legal
+Location	15	in LondonRioters
+Location	15	in Loudon
+Location	15	in Manage
+Location	15	in Marin
+Location	15	in Moments
+Location	15	in Mumbai
+Location	15	in Obamacare
+Location	15	in Oregon
+Location	15	in Parenting
+Location	15	in Penland
+Location	15	in Riverside
+Location	15	in School
+Location	15	in Shanghai
+Location	15	in Skeeter
+Location	15	in Tail Works
+Location	15	in The Thread
+Location	15	in Words
+Location	15	in Yellow
+Location	15	The forest
+Location	15	With, But Celebs
+Location	14	Ahmadinejad, His Arabic
+Location	14	at Boeing
+Location	14	at Capture
+Location	14	at Casual
+Location	14	at Challenge
+Location	14	at Gallery
+Location	14	at Guantanamo
+Location	14	at Michael
+Location	14	at Morocco
+Location	14	at Pakistan
+Location	14	at Pulled
+Location	14	at Samsung
+Location	14	at Spring
+Location	14	at TWCSLibrary
+Location	14	at Wikipedia
+Location	14	Bastrop, Texas Wildfire
+Location	14	Bump, Olivia Wilde
+Location	14	Church, Deacon Says
+Location	14	Cockpit, Bites Crew
+Location	14	Eminem, Rolling Stone
+Location	14	Hendricks, Michael Katz
+Location	14	in Algeria
+Location	14	in Allstate
+Location	14	in Andrews
+Location	14	in AsiaDutch
+Location	14	in Athens
+Location	14	in Chronicle
+Location	14	in Davis
+Location	14	in Deadly
+Location	14	in Dies Before
+Location	14	in Energy
+Location	14	in Foxboro
+Location	14	in Hanger
+Location	14	in Harrison
+Location	14	in Hodges
+Location	14	in Humane
+Location	14	in Island
+Location	14	in Kaplan
+Location	14	in Lyons
+Location	14	in Memphis
+Location	14	in Missouri
+Location	14	in Newark
+Location	14	in Norfolk
+Location	14	in NYC Opens
+Location	14	in Our Staff
+Location	14	in PhilippinesIran
+Location	14	in Pucci
+Location	14	in Rancho
+Location	14	in Saudi
+Location	14	in Slate
+Location	14	in Solyndra
+Location	14	in Tahitian
+Location	14	in Waller
+Location	14	in Wichita
+Location	14	in Williams
+Location	14	Meyer, Summit Entertainment
+Location	14	Niamey, Massoudou Hassoumi
+Location	14	President, His Poems
+Location	14	Problems, National Weather
+Location	14	Shelby, GOP Senator
+Location	14	Stories, News Videos
+Location	14	Teen, Vanishes Without
+Location	14	Tuesday, Burkina Faso
+Location	14	Videos, Nude Photos
+Location	14	West, Missing Texas
+Location	13	at Arizona
+Location	13	at Arvada
+Location	13	at Board
+Location	13	at DeeleyBack
+Location	13	at Diaz Browse
+Location	13	at James
+Location	13	at Kansas
+Location	13	at Kennedy
+Location	13	at Michigan
+Location	13	at Monsanto
+Location	13	at Netflix
+Location	13	at Night
+Location	13	at Pebble
+Location	13	at Politico
+Location	13	at San Clemente
+Location	13	at Sheets
+Location	13	at Southern
+Location	13	at Stoneleigh
+Location	13	at Tripoli
+Location	13	BASTROP, Texas Firefighters
+Location	13	Budget, Perry Calls
+Location	13	Elenin, Three Days
+Location	13	Fairfield, Ohio Woman
+Location	13	Friday, White House
+Location	13	Gosling, Eva Mendes
+Location	13	Hoffa, Goes After
+Location	13	in Action
+Location	13	in Assistance
+Location	13	in Bahrain
+Location	13	in Close
+Location	13	in Edmonton
+Location	13	in Elliott
+Location	13	in International
+Location	13	in Johnson
+Location	13	in Join Twitter
+Location	13	in Latest
+Location	13	in Leads
+Location	13	in Management
+Location	13	in Mideast
+Location	13	in Nacogdoches
+Location	13	in Oxford
+Location	13	in Parliament
+Location	13	in Police
+Location	13	in Queens
+Location	13	in Registration
+Location	13	in Sarasota
+Location	13	in Scotland
+Location	13	in Tacoma
+Location	13	in Today
+Location	13	in Tower
+Location	13	in Trotwood
+Location	13	in Victoria
+Location	13	in Wreck
+Location	13	Liberty, Personal Liberty
+Location	13	Romney, Rick Perry
+Location	13	Sherman, Associated Press
+Location	13	Texas, United States
+Location	12	at Alpine
+Location	12	at Anderson
+Location	12	at Bachmann
+Location	12	at Columbia
+Location	12	at Diamondbacks
+Location	12	at Giants
+Location	12	at Goldman
+Location	12	at Jessica
+Location	12	at Ohio State
+Location	12	at Osama
+Location	12	at Stalin
+Location	12	at Steiner
+Location	12	at UMass
+Location	12	at Vanderbilt
+Location	12	Atwell, Controversial Figure
+Location	12	at Western
+Location	12	Bono, The Edge
+Location	12	Carlson, Debbie Wasserman
+Location	12	Complex, Texas Wildfire
+Location	12	Georgia, North Carolina
+Location	12	in Around
+Location	12	in Audi Bentley
+Location	12	in Brenham
+Location	12	in Brian
+Location	12	in Brief
+Location	12	in Congo
+Location	12	in Cuero
+Location	12	in Donald
+Location	12	in East Austin
+Location	12	in Financial
+Location	12	in Fort Worth
+Location	12	in Giants
+Location	12	in Halifax
+Location	12	in Illustration
+Location	12	in Islamic
+Location	12	in Labor
+Location	12	in Lahore
+Location	12	in Lexington
+Location	12	in McAllen
+Location	12	in News Forums
+Location	12	in Poland
+Location	12	in Providence
+Location	12	in Puerto
+Location	12	in Quetta
+Location	12	in Rastan
+Location	12	in Reservoir
+Location	12	in Round
+Location	12	in Second
+Location	12	in Snider
+Location	12	in Space
+Location	12	in Start
+Location	12	in Steamboat
+Location	12	in Taiwan
+Location	12	in Tenerife
+Location	12	in The Denver
+Location	12	in Tragedy
+Location	12	in Trinity
+Location	12	in Vegas
+Location	12	Maryland, Miami Fans
+Location	12	Music, Tour Dates
+Location	12	News, Global Warning
+Location	12	News, Local News
+Location	12	Report, Tim Pawlenty
+Location	12	scattered in the forest
+Location	12	Science, Via Digg
+Location	12	Stories, World News
+Location	12	Support, Give John
+Location	11	Airtel, Videocon Jordan
+Location	11	at Are Better
+Location	11	at Beijing
+Location	11	at Boehner
+Location	11	at Central
+Location	11	at Emmaus
+Location	11	at Florida
+Location	11	at Frankfurt
+Location	11	at Garland
+Location	11	at Greece
+Location	11	at HEB Plus
+Location	11	at Moammar
+Location	11	at Red Rocks
+Location	11	at RedState
+Location	11	at Reliant
+Location	11	at Short
+Location	11	at Switzerland
+Location	11	at The Statesman
+Location	11	at Thursday
+Location	11	at Tiki Barber
+Location	11	at Walmart
+Location	11	at Walsh
+Location	11	at Where
+Location	11	at Wimbledon
+Location	11	Bachmann, Tea Party
+Location	11	Bailey, Senior Political
+Location	11	Behar, Sherri Shepherd
+Location	11	Gunnison, Crested Butte
+Location	11	Hartman, Political ReporterPostsEmailRSSChris
+Location	11	in Arabic
+Location	11	in Art Austin
+Location	11	in Bands
+Location	11	in Bars Austin
+Location	11	in Bevo Beat
+Location	11	in Bogota
+Location	11	in Brazos
+Location	11	in Breckenridge
+Location	11	in Brook
+Location	11	in Broome
+Location	11	in Cambodia
+Location	11	in Chattanooga
+Location	11	in Clements
+Location	11	in Climate
+Location	11	in Damascus
+Location	11	in Different
+Location	11	in Durant
+Location	11	in Early
+Location	11	in Editor
+Location	11	in Empty
+Location	11	in Ethics
+Location	11	in Events
+Location	11	in Facebook
+Location	11	in Family
+Location	11	in Flash
+Location	11	in Flat Even
+Location	11	in Franklin
+Location	11	in Huntsville
+Location	11	in Jobs Merchandise
+Location	11	in Knittin
+Location	11	in MILWAUKEE
+Location	11	in Mookie
+Location	11	in More More
+Location	11	in News Archives
+Location	11	in People
+Location	11	in Pflugervil
+Location	11	in Romania
+Location	11	in Sings
+Location	11	in SoCal
+Location	11	in Sugarland
+Location	11	Insurance, Insurance Auto
+Location	11	in Switzerland
+Location	11	in Tanzania
+Location	11	in TexasMore
+Location	11	in Texass
+Location	11	in The Blotter
+Location	11	in Their
+Location	11	in Town Lake
+Location	11	in Travis
+Location	11	in Tunisia
+Location	11	in West Texas
+Location	11	in Windham
+Location	11	in Wishtat
+Location	11	in WordPress
+Location	11	Iowa, New Hampshire
+Location	11	Jacmel, Haitian Tourist
+Location	11	Katrina, Oprah Winfrey
+Location	11	Layoffs, Facility Closures
+Location	11	Moody, Political ReporterPostsEmailRSS
+Location	11	Peace, Militarism Rick
+Location	11	Photos, Section Fronts
+Location	11	Service, Privacy Notice
+Location	11	Stewart, NASCAR Drivers
+Location	11	Town, Rebounding Post
+Location	11	to Yosemite National Park
+Location	11	Virginia, New York
+Location	11	Weezer, The Kills
+Location	10	Abramson, New York
+Location	10	at Are Most
+Location	10	at Arlington
+Location	10	at Australia
+Location	10	at Bani Walid
+Location	10	at Brookfield
+Location	10	at Cahoona
+Location	10	at Cannes
+Location	10	at Cheney
+Location	10	at Close
+Location	10	at Coal Vines
+Location	10	at Convoy
+Location	10	at Dallas
+Location	10	at Europe
+Location	10	at European
+Location	10	at Fort Bragg
+Location	10	at Fort Hood
+Location	10	at Green
+Location	10	at Highway
+Location	10	at Indian
+Location	10	at Liberty
+Location	10	at Los Angeles
+Location	10	at Matter
+Location	10	at Mitt Romney
+Location	10	at Monday
+Location	10	at News Recommended
+Location	10	at Northwestern
+Location	10	at Possum
+Location	10	at Sarah
+Location	10	at Scott
+Location	10	at Seattle
+Location	10	at The Washington
+Location	10	at Topical
+Location	10	at Top Stories
+Location	10	at Twilighted
+Location	10	at Was Home
+Location	10	Bachmann, Sarah Palin
+Location	10	Branches, Jan Jansen
+Location	10	Cameron, Sarkozy Visit
+Location	10	Class, Study Finds
+Location	10	Couples, San Francisco
+Location	10	Crazy, Crowded Markets
+Location	10	Editor, Switches Roles
+Location	10	Election, Barack Obama
+Location	10	Galifianakis, Diego Garcia
+Location	10	Garner, Hugh Jackman
+Location	10	Gosling, Carey Mulligan
+Location	10	in Affiliate
+Location	10	in Alberta
+Location	10	in AmericaMiddle
+Location	10	in Ames Anahuac
+Location	10	in Andrea
+Location	10	in Archive
+Location	10	in BarrelLaundry
+Location	10	in Benin
+Location	10	in Chevron
+Location	10	in Clarke
+Location	10	in Common
+Location	10	in Condos
+Location	10	in Cupertino
+Location	10	in DarknessWho
+Location	10	in Ditto
+Location	10	in Dodge
+Location	10	in Elkhart
+Location	10	in Faces
+Location	10	in Flood
+Location	10	in Flower
+Location	10	in Gadhafi
+Location	10	in Geneva
+Location	10	in Great
+Location	10	in Hamburg
+Location	10	in Hamilton
+Location	10	in Hot News
+Location	10	in Japanese
+Location	10	in Jefferson
+Location	10	in John Semmens
+Location	10	in Jordan
+Location	10	in Lambertville
+Location	10	in Library
+Location	10	in Light
+Location	10	in Madrid
+Location	10	in Midwest
+Location	10	in Mixer
+Location	10	in Montana
+Location	10	in Nags Head
+Location	10	in News Austin
+Location	10	in Northwest
+Location	10	in Osaka
+Location	10	in Peace
+Location	10	in Photo
+Location	10	in Protests
+Location	10	in Remlap
+Location	10	in Sarah
+Location	10	in Serbia
+Location	10	in Smith
+Location	10	in Somerville
+Location	10	in Syrian
+Location	10	in Telco
+Location	10	in The Stakes
+Location	10	in Tracker
+Location	10	in Trailing
+Location	10	in Trans
+Location	10	in Tulsa
+Location	10	in Warren
+Location	10	in Windsor
+Location	10	in Your City
+Location	10	Irving, Texas Texas
+Location	10	Johnson, NASCAR Drivers
+Location	10	Ledger, Marilyn Monroe
+Location	10	Lobbyists, Bush Economists
+Location	10	Movie, Starring Jennifer
+Location	10	Murphy, Ben Stiller
+Location	10	News, Popular News
+Location	10	News, WVEC Hampton
+Location	10	NextBulimic, Overeater Seek
+Location	10	Politics, World News
+Location	10	Romney, Perry Trade
+Location	10	Rove, Defends Social
+Location	10	Schools, Teachers Accused
+Location	10	Season, Basin Complex
+Location	10	Season, Station Fire
+Location	10	Segel, Kermit Reveal
+Location	10	Shanksville, Pennsylvania Surfaces
+Location	10	Speech, Obama Says
+Location	10	Stories, Most Viewed
+Location	10	Texas, Firefighters Forced
+Location	10	WELLINGTON, New Zealand
+Location	10	Williams, NYC Councilman
+Location	9	at ANYONE
+Location	9	at Bartz
+Location	9	at Brown
+Location	9	at Carpenter
+Location	9	at Charles
+Location	9	at Clarewood
+Location	9	at Daily
+Location	9	at Democratic
+Location	9	at DigiNotar
+Location	9	at Earley
+Location	9	at Eastern
+Location	9	at Fanfiction
+Location	9	at Fukushima
+Location	9	at Have Taken
+Location	9	at Index
+Location	9	at Indians
+Location	9	at Islam
+Location	9	at Marcoule
+Location	9	at Martin
+Location	9	at Paris
+Location	9	at Pippa
+Location	9	at Project
+Location	9	at San Francisco
+Location	9	at Saratoga
+Location	9	at Stabs
+Location	9	at State
+Location	9	at Strikeforce
+Location	9	at Tapestry
+Location	9	at Taylor
+Location	9	at TechCrunch
+Location	9	at United
+Location	9	at Wagner
+Location	9	at Work Intellectual
+Location	9	at You Need
+Location	9	at Yulaev
+Location	9	Bacon, Related Photo
+Location	9	Charlize, Gwyneth Love
+Location	9	Congress, Homeland Security
+Location	9	Courier, Patric Schneider
+Location	9	Crashes, Dozens Dead
+Location	9	Gear, Engine Fuel
+Location	9	in Abuja
+Location	9	in Additional
+Location	9	in Aigner
+Location	9	in Alameda
+Location	9	in Amanda
+Location	9	in Austria
+Location	9	in Baghdad
+Location	9	in Ban Sent
+Location	9	in Barcelona
+Location	9	in Barre
+Location	9	in Bay Area
+Location	9	in Blount
+Location	9	in Busted
+Location	9	in Chapter
+Location	9	in Characters
+Location	9	in Contact
+Location	9	in Dance
+Location	9	in Denial
+Location	9	in Discussions
+Location	9	in Dunedin
+Location	9	in Ends With
+Location	9	in Fields
+Location	9	in Firth
+Location	9	in Fremont
+Location	9	in Front
+Location	9	in Griffith
+Location	9	in Groups
+Location	9	in Hot WaterLucci
+Location	9	in Jersey
+Location	9	in Jihad
+Location	9	in Kandahar
+Location	9	in Kuwait
+Location	9	in Libyan
+Location	9	in Login
+Location	9	in Masoud
+Location	9	in Mersenne
+Location	9	in Metro
+Location	9	in Michele
+Location	9	in Midland
+Location	9	in Missing
+Location	9	in Motherhood
+Location	9	in Murphy
+Location	9	in Name English
+Location	9	in Nature
+Location	9	in Ontario
+Location	9	in Ordinary
+Location	9	in Osama
+Location	9	in Our Mailing
+Location	9	in Portland
+Location	9	in Quebec
+Location	9	in Reagan
+Location	9	in Reflection
+Location	9	in Region
+Location	9	in Roughly
+Location	9	in Science
+Location	9	in Something
+Location	9	in Sonoma
+Location	9	in Tech Copyright
+Location	9	in There
+Location	9	in Total
+Location	9	in Trade
+Location	9	in Tyler
+Location	9	in Video
+Location	9	in Waterbury
+Location	9	in Waterloo
+Location	9	in Waxahachie
+Location	9	in Yosemite
+Location	9	Jones, Robbie Savage
+Location	9	Lincecum, Ace Giants
+Location	9	Madonna, Kate Winslet
+Location	9	Mice, Fairy Shrimp
+Location	9	Oren, Israeli Ambassador
+Location	9	Speech, Calls President
+Location	9	Stories, Entertainment News
+Location	9	Stories, Personal Finance
+Location	9	Stories, Technology News
+Location	8	Adams, Creative Frontiers
+Location	8	Alvarez, Former Arvada
+Location	8	Anniversary, Love Your
+Location	8	at AIPAC
+Location	8	at Anchorpoint
+Location	8	at Are Changing
+Location	8	at Betrayal
+Location	8	at Big Head
+Location	8	at Carolinas
+Location	8	at Chicago
+Location	8	at ConAgra
+Location	8	at Credit
+Location	8	at Dolphins
+Location	8	at Egypt
+Location	8	at Elizabeth
+Location	8	at Events
+Location	8	at Federal
+Location	8	at Finally
+Location	8	at Flight
+Location	8	at FOXBusiness
+Location	8	at Friday
+Location	8	at Happened
+Location	8	at Happens
+Location	8	at Hollywood
+Location	8	at Human
+Location	8	at Jack Brooks
+Location	8	at Kyle Field
+Location	8	Atlantic, Hurricane Katia
+Location	8	at Martha
+Location	8	at McDonald
+Location	8	at MediaNews
+Location	8	at Missing
+Location	8	at Mountain
+Location	8	at Mystics
+Location	8	at Nancy
+Location	8	at Orpheum
+Location	8	at Pat Dollard
+Location	8	at Philadelphia
+Location	8	at Pray Smoke
+Location	8	at Rescue
+Location	8	at Santa
+Location	8	at Second
+Location	8	at Singapore
+Location	8	at Sotomayor
+Location	8	at Stake
+Location	8	at Starbucks
+Location	8	at Syria
+Location	8	at The Atlantic
+Location	8	at This Week
+Location	8	at Video
+Location	8	at You Hear
+Location	8	Austin, Texas Press
+Location	8	BAUDER, Associated Press
+Location	8	Bogota, Colombia Involve
+Location	8	Butte, Montana Teachers
+Location	8	CANBERRA, Australia French
+Location	8	Center, Lincolnton Thursday
+Location	8	CHARLOTTE, North Carolina
+Location	8	Designers, Runway Shows
+Location	8	GeoMicro, Inc Hourly
+Location	8	Georgia, United States
+Location	8	Gudbranson, Dylan McIlrath
+Location	8	in Ambon
+Location	8	in Aspen
+Location	8	in Bavaria
+Location	8	in Boots
+Location	8	in Bourne
+Location	8	in Brisbane
+Location	8	in BusinessHoward
+Location	8	in Calgary
+Location	8	in Cavallari
+Location	8	in Center
+Location	8	in Cheek
+Location	8	in ChenowethAli
+Location	8	in Content
+Location	8	in Could
+Location	8	in Coupons
+Location	8	in Crave
+Location	8	in Denmark
+Location	8	in Development
+Location	8	in Devon
+Location	8	in Dolphin
+Location	8	in Enter
+Location	8	in Event
+Location	8	in Falls
+Location	8	in Farrell
+Location	8	in Fights
+Location	8	in Florence
+Location	8	in Food Bank
+Location	8	in Fukushima
+Location	8	in Georgetown
+Location	8	in Hangers
+Location	8	in Horseheads
+Location	8	in Hypocrisy
+Location	8	in Interviews
+Location	8	in Islamabad
+Location	8	in Islamophobia
+Location	8	in Istanbul
+Location	8	in James
+Location	8	in Kathmandu
+Location	8	in Lebanon
+Location	8	in Lights
+Location	8	in Mapping
+Location	8	in Marietta
+Location	8	in Marketing
+Location	8	in Massachuse
+Location	8	in Medical
+Location	8	in Midtown
+Location	8	in Milan
+Location	8	in Millepied
+Location	8	in Milwaukee
+Location	8	in Minneapolis
+Location	8	in Monterey
+Location	8	in MORE VIDEO
+Location	8	in Nepal
+Location	8	in Obvious
+Location	8	in OdessaOvernight
+Location	8	in Optimum
+Location	8	in Paul Revere
+Location	8	in Picks
+Location	8	in Plane
+Location	8	in Pop Boom
+Location	8	in Prime
+Location	8	in Saratoga
+Location	8	in Sheen
+Location	8	in Silver
+Location	8	in Sinus
+Location	8	in Smithville
+Location	8	in Soviet
+Location	8	in Sparwood
+Location	8	in Students
+Location	8	in Texasby
+Location	8	in TexasSo
+Location	8	in TexasTexas
+Location	8	in The Mercury
+Location	8	in The Younger
+Location	8	in Times
+Location	8	in Tuck Shutdown
+Location	8	in Ukraine
+Location	8	in Union
+Location	8	in Voter
+Location	8	in Wayne
+Location	8	in Waziristan
+Location	8	in Westlake
+Location	8	in Wilkey
+Location	8	in Wilson
+Location	8	in Winnipeg
+Location	8	in Yokohama
+Location	8	in Zelda
+Location	8	Jersey, Pledges Federal
+Location	8	June, Katie Couric
+Location	8	Korman, Rolling Stones
+Location	8	Longoria, Gloria Estefan
+Location	8	McCabe, David Feldberg
+Location	8	Milano, Husband Welcome
+Location	8	Park, Hitchcock Texas
+Location	8	Penguins, Vampires Lead
+Location	8	Politics, Freedom Concerns
+Location	8	Prepared, Not Overwhelmed
+Location	8	Prostitution, Police SayA
+Location	8	Protection, Personal Liberty
+Location	8	Protein, Gold Standard
+Location	8	Pucci, Gucci Looks
+Location	8	Religions, Except Islam
+Location	8	Repair, Teacher Hiring
+Location	8	Rindels, Ken Ritter
+Location	8	Standard, Best Whey
+Location	8	Star, Red Star
+Location	8	Tuesday, Homeland Security
+Location	8	Unit, Cal Fire
+Location	8	Video, News Videos
+Location	8	Yeti, Nurses Piglets
+Location	8	Zabarenko, Environment Correspondent
+Location	7	Americans, Lawyer Iran
+Location	7	at Ascension
+Location	7	at Barton
+Location	7	at Ben Bernanke
+Location	7	at Brazil
+Location	7	at British
+Location	7	at Build
+Location	7	at Camp Pendleton
+Location	7	at Cartier
+Location	7	at Children
+Location	7	at Corkill
+Location	7	at Daley
+Location	7	at Does Your
+Location	7	at Edward
+Location	7	at Esquire
+Location	7	at Esteban
+Location	7	at Federer
+Location	7	at Fundraising
+Location	7	at Germany
+Location	7	at Gitmo
+Location	7	at Governor
+Location	7	at Hamburg
+Location	7	at Hard Time
+Location	7	at Illinois
+Location	7	at India
+Location	7	at Iraqi
+Location	7	at Jasper
+Location	7	at Jill Abramson
+Location	7	at Kadhafi
+Location	7	at Labor
+Location	7	at Lone Star
+Location	7	at Lower
+Location	7	at Madonna
+Location	7	at Magnolia
+Location	7	at MetLife
+Location	7	at Michele
+Location	7	at New Zealand
+Location	7	at Nutty
+Location	7	at Paul DelVecchio
+Location	7	at Radio
+Location	7	at Ronald
+Location	7	at Royal
+Location	7	at Salem
+Location	7	at Saturday
+Location	7	at Should
+Location	7	at SimplyHired
+Location	7	at Solyndra
+Location	7	at StubHub
+Location	7	at Swiss
+Location	7	at Taste
+Location	7	at Texans
+Location	7	at Textnovel
+Location	7	at The Times
+Location	7	at Thomas
+Location	7	at Threadgill
+Location	7	at Tiger
+Location	7	at Tokyo
+Location	7	at Tufts
+Location	7	at Venice
+Location	7	at Warren
+Location	7	at Whole
+Location	7	at Williams
+Location	7	at Willis
+Location	7	at Wright
+Location	7	at Young
+Location	7	Backes, Agnes Olech
+Location	7	Ball, Gains Touchdown
+Location	7	Barber, Agent Shocked
+Location	7	BERRY, Associated Press
+Location	7	Bono, Other DWTS
+Location	7	Cancer, Environment Research
+Location	7	Carolina, Mitt Romney
+Location	7	Cinderella, Christina Aguilera
+Location	7	Concept, Brings Small
+Location	7	Congress, President Obama
+Location	7	Cordray, President Barack
+Location	7	DUBAI, United Arab
+Location	7	Entertainment, Showbiz News
+Location	7	Fairfax, Los Angeles
+Location	7	Farley, Ford Motor
+Location	7	Gifts, Gift Cards
+Location	7	Goodwin, National Affairs
+Location	7	GRAVES, Associated Press
+Location	7	Hendrie, The Diplomat
+Location	7	HUBBARD, Associated Press
+Location	7	in African
+Location	7	in Alhambra
+Location	7	in Amarillo
+Location	7	in Anthony
+Location	7	in ARTICLES
+Location	7	in Bar Association
+Location	7	in Barbara
+Location	7	in Beats
+Location	7	in Board
+Location	7	in Bodrum
+Location	7	in Booker
+Location	7	in Brockovich
+Location	7	in Bronx
+Location	7	in Brown
+Location	7	in Bulgari
+Location	7	in Burnett
+Location	7	in Canadian
+Location	7	in Chamber
+Location	7	in Charlie
+Location	7	in Christchurch
+Location	7	in Clinical
+Location	7	in Collins
+Location	7	in Colombia
+Location	7	in Conspiracy
+Location	7	in Costner
+Location	7	in Court
+Location	7	in Cream
+Location	7	in Crockett
+Location	7	in Cummings
+Location	7	in Dublin
+Location	7	in East Africa
+Location	7	in East Troy
+Location	7	in Fairfield
+Location	7	in Falmouth
+Location	7	in Filed
+Location	7	in Firefighters
+Location	7	in Fox News
+Location	7	in Galveston
+Location	7	in Global
+Location	7	in Gothenburg
+Location	7	in Government
+Location	7	in Graham
+Location	7	in Grand
+Location	7	in Group
+Location	7	in Harrisburg
+Location	7	in Heaven
+Location	7	in Heavy
+Location	7	in Heisman
+Location	7	in Honduras
+Location	7	in HuffPost
+Location	7	in Indianapolis
+Location	7	in Infrastructure
+Location	7	in Kingdom
+Location	7	in LaMonicaHTC
+Location	7	in Lareau
+Location	7	in Larry
+Location	7	in Laurie
+Location	7	in Libra
+Location	7	in Lincolnton
+Location	7	in Manchester
+Location	7	in Marine
+Location	7	in Mariposa
+Location	7	in Meade
+Location	7	in Microsoft
+Location	7	in Mission
+Location	7	in Morgan
+Location	7	in Motley
+Location	7	in Mubarak
+Location	7	in Namibia
+Location	7	in New England
+Location	7	in Ocean
+Location	7	in Odd News
+Location	7	in Palestine
+Location	7	in Palm Springs
+Location	7	in Pasadena
+Location	7	in Paterson
+Location	7	in Pinal
+Location	7	in Property
+Location	7	in Radio
+Location	7	in Richie
+Location	7	in Rosario
+Location	7	in Rouge
+Location	7	in Saint
+Location	7	in Salem
+Location	7	in Salisbury
+Location	7	in Shawn
+Location	7	in Slumberland
+Location	7	in Solutions
+Location	7	in Southeast
+Location	7	in Spotlight
+Location	7	in Steve
+Location	7	in Steven
+Location	7	in Stowell
+Location	7	in Susan
+Location	7	in Swaziland
+Location	7	in Takes
+Location	7	in Tarrant
+Location	7	in Taylor
+Location	7	in TBA Home
+Location	7	in Teabaggers
+Location	7	in The Amarillo
+Location	7	in Theroux
+Location	7	in Three
+Location	7	in Title
+Location	7	in Trailer
+Location	7	in Tristan
+Location	7	in TroubleTweet
+Location	7	in Venezuela
+Location	7	in Walker
+Location	7	in Walnut
+Location	7	in Wardak
+Location	7	in Web Design
+Location	7	in Wellington
+Location	7	in Wildfires
+Location	7	in Wilkes
+Location	7	in Winery
+Location	7	in Yesterday
+Location	7	in Young
+Location	7	in Your Hometown
+Location	7	Joplin, Missouri Tornado
+Location	7	Juan, Puerto Rico
+Location	7	Living, Around Town
+Location	7	Marek, Karel Rachunek
+Location	7	News, USA News
+Location	7	Oliver, The Birmingham
+Location	7	Open, Capping Unbeatable
+Location	7	Paris, Hong Kong
+Location	7	PELLS, Associated Press
+Location	7	Pereira, Amazonian Woman
+Location	7	Presidents, Two Approaches
+Location	7	Road, Wood River
+Location	7	Roth, Senior National
+Location	7	Salazar, Associated Press
+Location	7	Scheidt, Florida Teen
+Location	7	Starz, Lucy Lawless
+Location	7	Stories, Sports News
+Location	7	SUPERVILLE, Associated Press
+Location	7	through Bastrop State Park
+Location	7	Tyson, William Shatner
+Location	7	Vasicek, Karel Rachunek
+Location	7	Washington, State Department
+Location	7	Zingmit, Jewish Video
+Location	6	180 wildfires the forest
+Location	6	Abstraction, Walter Pater
+Location	6	Airport, TSA Unveils
+Location	6	Alive, But Close
+Location	6	Ament, Mike McCready
+Location	6	America, JPMorgan Chase
+Location	6	Americans, Could Complicate
+Location	6	Announced, With Books
+Location	6	at Adele
+Location	6	at Albany
+Location	6	at Alexander
+Location	6	at Alibaba
+Location	6	at Armstrong
+Location	6	at Arthur
+Location	6	at Art Renewal
+Location	6	at Athletics
+Location	6	at Atlanta
+Location	6	at Beanie
+Location	6	at Bella
+Location	6	at Belts
+Location	6	at Big Wheels
+Location	6	at Billy
+Location	6	at Book Motivation
+Location	6	at Borrowed
+Location	6	at Boulder
+Location	6	at Brian
+Location	6	at Camp Williams
+Location	6	at Carson
+Location	6	at Casey
+Location	6	at Chamizal
+Location	6	at Chris
+Location	6	at Christian
+Location	6	at Civic
+Location	6	at Comedy
+Location	6	at Cooper
+Location	6	at Day Login
+Location	6	at Defined
+Location	6	at Denver
+Location	6	at Dodger
+Location	6	at Dress
+Location	6	at Earning
+Location	6	at Eden Park
+Location	6	at Finds
+Location	6	at Flavors
+Location	6	at For Humanity
+Location	6	at Fortune
+Location	6	at France
+Location	6	at Fullmovies
+Location	6	at Gascasonica
+Location	6	at GoDaddy
+Location	6	at Got People
+Location	6	at Gulf Shores
+Location	6	at Harare
+Location	6	at Herders
+Location	6	at High School
+Location	6	at Hoffa
+Location	6	at House
+Location	6	at Italian
+Location	6	at Jackson
+Location	6	at Justin
+Location	6	at Kentucky
+Location	6	at Kylie
+Location	6	at LaMarche
+Location	6	at Large
+Location	6	at Laurel
+Location	6	at Los Alamos
+Location	6	at Metro
+Location	6	at Minnesota
+Location	6	at Missouri
+Location	6	at Morgan
+Location	6	at Mount
+Location	6	at Native
+Location	6	at Newt Gingrich
+Location	6	at Noon Breaking
+Location	6	at Nuclear
+Location	6	at Operations
+Location	6	at Oregon
+Location	6	at Party
+Location	6	at Paul Ryan
+Location	6	at Politics
+Location	6	at Prove
+Location	6	at Riders
+Location	6	at San Diego
+Location	6	at Saudi
+Location	6	at Shannahan
+Location	6	at Sitting
+Location	6	at Taliban
+Location	6	at Taxes
+Location	6	at Tax Healthcare
+Location	6	at Tebow
+Location	6	at Terrain
+Location	6	at Thai Elephant
+Location	6	at The Falling
+Location	6	at The University
+Location	6	at TWCS Publishing
+Location	6	at UBS Global
+Location	6	at USA Weekend
+Location	6	at Wall Street
+Location	6	at Wayne
+Location	6	at Wembley
+Location	6	at West Street
+Location	6	at Wichita
+Location	6	at Wiener
+Location	6	at You Will
+Location	6	at Zimbabwe
+Location	6	Barnes, Carol Birch
+Location	6	Beating, Given Their
+Location	6	Brown, Alex Remington
+Location	6	Cessna, Bombardier Learjet
+Location	6	Champion, Cool Assets
+Location	6	Cheney, Alan Simpson
+Location	6	Chicago, New York
+Location	6	City, New York
+Location	6	Class, Unleashed August
+Location	6	CoFounder, Creative Director
+Location	6	Columbia, South Carolina
+Location	6	Comments, Talks Jewish
+Location	6	Country, Poor Education
+Location	6	Crimes, Amnesty Libya
+Location	6	Culture, HuffPost Celebrity
+Location	6	Debate, Questions About
+Location	6	Deficit, FAA Funding
+Location	6	DjokovicRosedale, TorontoThe TyeeLymphoma
+Location	6	Edugyan, Stephen Kelman
+Location	6	Exercise, Personal Liberty
+Location	6	Fair, George Sandefur
+Location	6	Fasting, Budget Cuts
+Location	6	Filmmaker, Huffington Post
+Location	6	Gaddafi, More Libya
+Location	6	Glee, Gwyneth Paltrow
+Location	6	Government, Hot Topics
+Location	6	Greenberg, Sporting News
+Location	6	in Abbottabad
+Location	6	in Abortion
+Location	6	in Advertising
+Location	6	in Albany
+Location	6	in Antwerp
+Location	6	in Archives
+Location	6	in AstanaHow
+Location	6	in Avenue
+Location	6	in Ave Suite
+Location	6	in Ban Passes
+Location	6	in Ban Proposal
+Location	6	in Barbecue
+Location	6	in Baseball
+Location	6	in Before
+Location	6	in Belgium
+Location	6	in Big League
+Location	6	in Blues
+Location	6	in Botanique
+Location	6	in Budapest
+Location	6	in Bulawayo
+Location	6	in Caifa
+Location	6	in Cancer
+Location	6	in Car Crash
+Location	6	in Chatham
+Location	6	in Chesapeake
+Location	6	in ChinaNew
+Location	6	in Chinatown
+Location	6	in Chris
+Location	6	in Concord
+Location	6	in Creme
+Location	6	in Critical
+Location	6	in Daegu
+Location	6	in Danceby
+Location	6	in Darkness
+Location	6	in Davos
+Location	6	in Department
+Location	6	in Documentary
+Location	6	in Dress
+Location	6	in Earth
+Location	6	in East Rutherford
+Location	6	in East Valley
+Location	6	in Embarrassing
+Location	6	in Encino
+Location	6	in Every
+Location	6	in Fekadu
+Location	6	in Felipe
+Location	6	in Finau
+Location	6	in Fiscal
+Location	6	in Flames
+Location	6	in Fort Collins
+Location	6	in Framingham
+Location	6	in Fred Karger
+Location	6	in Fresno
+Location	6	in Games
+Location	6	in Gawker
+Location	6	in Genesis
+Location	6	in Giffords
+Location	6	in Glendale
+Location	6	in Gold Standard
+Location	6	in Grants
+Location	6	in Gruesome
+Location	6	in Hicks
+Location	6	in Honolulu
+Location	6	in Humor
+Location	6	in Huntsman
+Location	6	in Hyderabad
+Location	6	in Illuminati
+Location	6	in Israeli
+Location	6	in Jesus
+Location	6	in Journalism
+Location	6	in Kaduk
+Location	6	in Khairpur
+Location	6	in Kingston
+Location	6	in Korea
+Location	6	in Lancaster
+Location	6	in Late August
+Location	6	in LGBT Research
+Location	6	in Long Beach
+Location	6	in LPGA Tour
+Location	6	in Mark Steyn
+Location	6	in Martha
+Location	6	in Meltzer
+Location	6	in Mercury
+Location	6	in MideastConnected
+Location	6	in Migration
+Location	6	in Moore
+Location	6	in Moped
+Location	6	in More From
+Location	6	in Motel
+Location	6	in Movie
+Location	6	in Munich
+Location	6	in Nathans
+Location	6	in New Location
+Location	6	in Newport
+Location	6	in Nuclear
+Location	6	in NYOS Away
+Location	6	in Oak Home
+Location	6	in Olive
+Location	6	in Oracle
+Location	6	in Owego
+Location	6	in Owner
+Location	6	in Password
+Location	6	in Pavilion
+Location	6	in Philanthropy
+Location	6	in Picture
+Location	6	in Pinel
+Location	6	in Pitesti
+Location	6	in Popup
+Location	6	in Portrait
+Location	6	in Portugal
+Location	6	in Posey
+Location	6	in Prague
+Location	6	in Prayer
+Location	6	in Prison
+Location	6	in Quality
+Location	6	in Rashidian
+Location	6	in Regents
+Location	6	in Reset
+Location	6	in Residential
+Location	6	in Roberts
+Location	6	in Rocky
+Location	6	in Ron Paul
+Location	6	in RSS BusinessEntertainmentFinanceHealthInternetMost
+Location	6	in San Antonioadd
+Location	6	in San Bernardino
+Location	6	in Schools
+Location	6	in Sonny
+Location	6	in Spencer
+Location	6	in Spicewood
+Location	6	in Station
+Location	6	in Stunning
+Location	6	in Sullivan
+Location	6	in Tahrir
+Location	6	in Temple
+Location	6	in The Martian
+Location	6	in ThroneWhat
+Location	6	in TOP News
+Location	6	in Touch
+Location	6	in Touts
+Location	6	in Tumor
+Location	6	in Tuscaloosa
+Location	6	in Twibe
+Location	6	in Two Years
+Location	6	in University
+Location	6	in Uptown
+Location	6	in Utica
+Location	6	in VaMerkel
+Location	6	in Version
+Location	6	in Vienna
+Location	6	in Vigilant
+Location	6	in Vote Adds
+Location	6	in Water
+Location	6	in Weber
+Location	6	in Wilbur
+Location	6	in Wilmington
+Location	6	in Woodland
+Location	6	in Youths
+Location	6	in Zimbabwe
+Location	6	Islands, New Zealand
+Location	6	Jobs, Livable Wages
+Location	6	Knightley, Michael Fassbender
+Location	6	Language, Change Your
+Location	6	Lieberman, Rogers Talk
+Location	6	Maitreya, Lucis Trust
+Location	6	Management, Louisiana Looks
+Location	6	Meanwhile, Fred Karger
+Location	6	Mendes, Chloe Sevigny
+Location	6	Moonglow, Steiner Ranch
+Location	6	Motherhood, Parties With
+Location	6	Name, Will Become
+Location	6	near Bastrop State Park
+Location	6	News, Breaking News
+Location	6	News, Press Releases
+Location	6	NextFBI, OEMC Bosses
+Location	6	Nicklas, Palo Pinto
+Location	6	Odessa, Big Spring
+Location	6	of historic pine forest
+Location	6	Opinion, Best Politician
+Location	6	Palin, Romney Tied
+Location	6	Peck, The Huntsville
+Location	6	Pedernales, Union Chapel
+Location	6	Perry, Ron Paul
+Location	6	Pictures, Lol Celebs
+Location	6	Plot, Cities Make
+Location	6	Polamalu, Adrian Peterson
+Location	6	Rackham, Edmund Dulac
+Location	6	Relation, Media Relation
+Location	6	Road, Cedar Creek
+Location	6	Roommate, John Davis
+Location	6	Science, Via Reddit
+Location	6	Season, Summit Fire
+Location	6	Texas, Natural Disasters
+Location	6	to Bastrop State Park
+Location	6	Tornadoes, And Flooding
+Location	6	Townsend, Ian Casselberry
+Location	6	Trooper, Retired Wildlife
+Location	6	Tseng, Amy Yang
+Location	6	Tuesday, House Speaker
+Location	6	University, Judge Rules
+Location	6	Videos, Kosher Videos
+Location	6	Vikings, Adrian Peterson
+Location	6	Washington, United States
+Location	6	Willis, Found Guilty
+Location	6	Willis, New Hampshire
+Location	6	Writer, Scifi Geek
+Location	5	Abramson, Feminist Journalist
+Location	5	Agency, Corkill Insurance
+Location	5	Agency, Sue Marto
+Location	5	AGENTS, THIRD PARTY
+Location	5	Angola, Leila Lopes
+Location	5	at About
+Location	5	at Afghanistan
+Location	5	at Alice
+Location	5	at Amitabh
+Location	5	at Assad
+Location	5	at Bangladesh
+Location	5	at Basin
+Location	5	at Berchtesgaten
+Location	5	at Bin Laden
+Location	5	at Blanton
+Location	5	at Blogs
+Location	5	at Boise
+Location	5	at Brazilian
+Location	5	at Brigham
+Location	5	at Browse
+Location	5	at Bruce
+Location	5	at Buffett
+Location	5	at Candlestick
+Location	5	at Charlie
+Location	5	at Chevy
+Location	5	at Cleveland
+Location	5	at Cornell
+Location	5	at Deeley
+Location	5	at Dick Cheney
+Location	5	at Divide
+Location	5	at Doesn
+Location	5	at Earth
+Location	5	at Eddie
+Location	5	at Exxon
+Location	5	at Fateful
+Location	5	at Forbes
+Location	5	at Former
+Location	5	at Fox News
+Location	5	at Frank
+Location	5	at Galileo
+Location	5	at Godspeed
+Location	5	at Grape
+Location	5	at Groupon
+Location	5	at Harbor
+Location	5	at Harry
+Location	5	at Highest
+Location	5	at His Wife
+Location	5	at Honolulu
+Location	5	at HospitalCommunityDance
+Location	5	at HouseBaby
+Location	5	at Huntsman
+Location	5	at Intel
+Location	5	at Into Face
+Location	5	at Iowa State
+Location	5	at Israeli
+Location	5	at Jerry
+Location	5	at JFK Airport
+Location	5	at Johnson
+Location	5	at Joint
+Location	5	at Jones
+Location	5	at Kassabaum
+Location	5	at Keith
+Location	5	at Kelowna
+Location	5	at Kings
+Location	5	at Lost Over
+Location	5	at Marietta
+Location	5	at Mariners
+Location	5	at Mayor
+Location	5	at Mercury
+Location	5	at Michelle
+Location	5	at Midnight
+Location	5	at MSNBC
+Location	5	at Mubarak
+Location	5	at Muslims
+Location	5	at Mystery
+Location	5	at Nadal
+Location	5	at Newark
+Location	5	at Outpost
+Location	5	at Pics Offbeat
+Location	5	at Pop Pilgrims
+Location	5	at Proudly
+Location	5	at Qualcomm
+Location	5	at Rachel
+Location	5	at Racism
+Location	5	at Recreation
+Location	5	at Roger
+Location	5	at RonPaulForums
+Location	5	at SEARCH
+Location	5	at Sencion
+Location	5	at Sites
+Location	5	at Skeptical
+Location	5	at Smith
+Location	5	at Southwest
+Location	5	at Spells
+Location	5	at Station
+Location	5	at Stock
+Location	5	at Summit
+Location	5	at Super
+Location	5	at Teen Vogue
+Location	5	at Terror
+Location	5	at The Wall
+Location	5	at Three
+Location	5	at Tillman
+Location	5	at Tina Brown
+Location	5	at Today
+Location	5	at Union
+Location	5	at Valley
+Location	5	at Veterans
+Location	5	at WarWeatherEducationBusinessTop
+Location	5	at Which
+Location	5	at Will Help
+Location	5	at Yaroslavl
+Location	5	Austin, Texas Tourism
+Location	5	Australia, New Zealand
+Location	5	Bachmann, Mitt Romney
+Location	5	Bank, Gaza Strip
+Location	5	Bionic, Sony Vaio
+Location	5	Bromberg, Kristian Dyer
+Location	5	Bush, Say Obama
+Location	5	by the National Park
+Location	5	California, United States
+Location	5	Carter, Archbishop Desmond
+Location	5	CASTRO, Associated Press
+Location	5	Chase, Featured NCAAF
+Location	5	CHEREB, The Associated
+Location	5	Chesnokov, Harrison Mooney
+Location	5	City, Stories From
+Location	5	Creek, Texas About
+Location	5	Criss, Kristen Wiig
+Location	5	Cruz, CAConstruction Defect
+Location	5	DeMILLO, Associated Press
+Location	5	Demitra, Ruslan Salei
+Location	5	Device, Direct Video
+Location	5	DOGG, TOO SHORT
+Location	5	Doubles, Threatens Homes
+Location	5	Ends, Says Spokesman
+Location	5	Energy, Eco Business
+Location	5	Face, Her Publicist
+Location	5	Fast, Fail Forward
+Location	5	Federal forest
+Location	5	Fire, Forces Evacuation
+Location	5	Forms, Tax Questions
+Location	5	Future, His Love
+Location	5	George, Ryan Stars
+Location	5	Greek, German Leaders
+Location	5	Gross, CNN Filed
+Location	5	Hagemann, LPL Financial
+Location	5	Images, East Flooding
+Location	5	in Account
+Location	5	in Afghanista
+Location	5	in Aiken
+Location	5	in Android
+Location	5	in Animal
+Location	5	in Apple
+Location	5	in Astaxanthin
+Location	5	in Auction
+Location	5	in Back Office
+Location	5	in Badgers
+Location	5	in Bangkok
+Location	5	in Barrel
+Location	5	in Battle
+Location	5	in Bethesda
+Location	5	in BlackBerry
+Location	5	in Blue Collar
+Location	5	in Brandon
+Location	5	in Break
+Location	5	in Buffalo
+Location	5	in Burma
+Location	5	in Cambridge
+Location	5	in Cam Newton
+Location	5	in Capital
+Location	5	in CBS Boston
+Location	5	in Character
+Location	5	in Charles
+Location	5	in ChenowethLymphomaSarah
+Location	5	in Children
+Location	5	in Citrus
+Location	5	in City Council
+Location	5	in Connolly
+Location	5	in Copenhagen
+Location	5	in Corsicana
+Location	5	in Crown
+Location	5	in Danger
+Location	5	in Dayton
+Location	5	in Dealer
+Location	5	in Deficit
+Location	5	in Dempsey
+Location	5	in Dick Cheney
+Location	5	in Difficulty
+Location	5	in DiscoverHope
+Location	5	in Disney
+Location	5	in Divorce
+Location	5	in Ellis
+Location	5	in Facts
+Location	5	in Felix
+Location	5	in Fire Department
+Location	5	in Focus
+Location	5	in Follow
+Location	5	in Football
+Location	5	in Forests
+Location	5	in Fredericksburg
+Location	5	in Gambo
+Location	5	in General
+Location	5	in Giordano
+Location	5	in Guantanamo
+Location	5	in Guinness
+Location	5	in Gwinnett
+Location	5	in Hartford
+Location	5	in Hattiesburg
+Location	5	in Hayward
+Location	5	in Herriman
+Location	5	in Hoboken
+Location	5	in Homeland
+Location	5	in Home News
+Location	5	in HoodThe
+Location	5	in Independent
+Location	5	in Information
+Location	5	in Irene
+Location	5	in JOPLIN
+Location	5	in Junction
+Location	5	in JUNCTION
+Location	5	in Keep Austin
+Location	5	in Keeps
+Location	5	in Kern County
+Location	5	in Kingsland
+Location	5	in Kirkdale
+Location	5	in Klein
+Location	5	in Kouzmanoff
+Location	5	in Krystine
+Location	5	in Lagos
+Location	5	in Lampasas
+Location	5	in Lawrence
+Location	5	in Leadership
+Location	5	in Leave
+Location	5	in Liberal
+Location	5	in Lions
+Location	5	in Liverpool
+Location	5	in Logout
+Location	5	in Longview
+Location	5	in Lutherantwith
+Location	5	in Maguindanao
+Location	5	in Malawi
+Location	5	in Marc Ambinder
+Location	5	in Market
+Location	5	in Meacham
+Location	5	in Melbourne
+Location	5	in Military
+Location	5	in Misrata
+Location	5	in Mitt Romney
+Location	5	in Modern
+Location	5	in Monterrey
+Location	5	in Morning
+Location	5	in Morocco
+Location	5	in Mountain
+Location	5	in NASCAR
+Location	5	in New Book
+Location	5	in New Disaster
+Location	5	in Nicaragua
+Location	5	in Northampton
+Location	5	in Obskeptic
+Location	5	in Ocala
+Location	5	in Olympic
+Location	5	in One Year
+Location	5	in Online
+Location	5	in Ordos
+Location	5	in Our Pack
+Location	5	in Paradise
+Location	5	in Parched
+Location	5	in Pats Victoryby
+Location	5	in Pavol
+Location	5	in Pennsylvan
+Location	5	in Petaluma
+Location	5	in Phone
+Location	5	in Pickering
+Location	5	in Plano
+Location	5	in Plants
+Location	5	in Post Poll
+Location	5	in Provence
+Location	5	in Puck Daddy
+Location	5	in Pueblo
+Location	5	in RCR Digital
+Location	5	in Roanoke
+Location	5	in Rochester
+Location	5	in Rock Thurrock
+Location	5	in Roosevelt
+Location	5	in Rosenberg
+Location	5	in Rotterdam
+Location	5	in RSS BUSINESSENTERTAINMENTHEALTH
+Location	5	in RSS Capitol
+Location	5	in RSS Follow
+Location	5	in RSS Glendale
+Location	5	in RSS Subscribe
+Location	5	in Russei
+Location	5	in Saikal
+Location	5	in Salt Lake
+Location	5	in San Benito
+Location	5	in Sarameen
+Location	5	in Sargodha
+Location	5	in Scary
+Location	5	in Season
+Location	5	in Security
+Location	5	in SeptemberWatch
+Location	5	in Shame
+Location	5	in Should
+Location	5	in Shoulder
+Location	5	in Sierra
+Location	5	in Silicon
+Location	5	in Sirte
+Location	5	in Skip Navigation
+Location	5	in Special
+Location	5	in SpinThe
+Location	5	in Stanford
+Location	5	in StateBody
+Location	5	in Statewide
+Location	5	in Storm
+Location	5	in Strategy
+Location	5	in Stream
+Location	5	in Submit
+Location	5	in Summit
+Location	5	in Supporters
+Location	5	in Sylmar
+Location	5	in Tale Poster
+Location	5	in Talking
+Location	5	in Tallahassee
+Location	5	in Tech Polls
+Location	5	in Telecommunications
+Location	5	in The Hague
+Location	5	in TheIndependentMajority
+Location	5	in The Middle
+Location	5	in Thief
+Location	5	in This Week
+Location	5	in Tim Pawlenty
+Location	5	in Tourism
+Location	5	in Troubling
+Location	5	in Twilight
+Location	5	in Upset
+Location	5	in Utrecht
+Location	5	in Valid
+Location	5	in Vallarta
+Location	5	in Ventura
+Location	5	in Vying
+Location	5	in Waco Waco
+Location	5	in Warsaw
+Location	5	in WaryaaGuy
+Location	5	in Watertown
+Location	5	in Weiner
+Location	5	in West Bank
+Location	5	in West Chester
+Location	5	in West Hollywood
+Location	5	in Willenhall
+Location	5	in Without
+Location	5	in XFN WordPress
+Location	5	in XHTML
+Location	5	in Your Hopes
+Location	5	Johnson, Kurt Busch
+Location	5	Leahy, Ryan Lambert
+Location	5	Liabilities, OpportunitiesSafe Driving
+Location	5	Likely, Shares Tumble
+Location	5	Luckenbach, Texas Highwaymen
+Location	5	Luckenbach, Texas Order
+Location	5	Management, Texas Department
+Location	5	Massachusetts, New Hampshire
+Location	5	McCaig, Nick Cotsonika
+Location	5	McLaughlin, The Huntsville
+Location	5	Medicare, Social Security
+Location	5	Memorial, Courage Praised
+Location	5	Metro, CAConstruction Defect
+Location	5	Moss, Mitch Backes
+Location	5	NEUMEISTER, Associated Press
+Location	5	News, World News
+Location	5	Obama, Netanyahu Meet
+Location	5	Olathe, KSPredictive Modeling
+Location	5	Plan, Republicans Congress
+Location	5	Posing, Finger Trophies
+Location	5	Press, Glenn Russell
+Location	5	RAMALLAH, West Bank
+Location	5	Ramon, CAOffice Claims
+Location	5	Ready, Convert Home
+Location	5	Reporter, AFP GLOBAL
+Location	5	Santorum, Newt Gingrich
+Location	5	Season, Freeway Complex
+Location	5	Setterlund, Author CodBall
+Location	5	Stories, Business News
+Location	5	SUBSIDIARIES, ITS OTHER
+Location	5	Taxpayers, Embarrass Obama
+Location	5	Universe, Crystle Stewart
+Location	5	Verizon, Cablevisision Browse
+Location	5	Watson, Jim Weber
+Location	5	Weather, Phone Numbers
+Location	5	Wildfires, Including Bear
+Location	4	190 wildfires the forest
+Location	4	Alaska, British Columbia
+Location	4	Alibaba, Softbank Come
+Location	4	Allstate, Tom Joyner
+Location	4	Analogy, Agent Mark
+Location	4	and Yosemite National Park
+Location	4	animal in the forest
+Location	4	Announced, Big Stars
+Location	4	Apps, Tech Owes
+Location	4	Articles, Preserving Wealth
+Location	4	at Adams
+Location	4	at Aero Engineering
+Location	4	at Afghan
+Location	4	at Alabama
+Location	4	at All Comments
+Location	4	at All Sites
+Location	4	at Amanda
+Location	4	at Amsterdam
+Location	4	at Andrew
+Location	4	at Andrews
+Location	4	at Argentina
+Location	4	at Around
+Location	4	at Atiyah
+Location	4	at Auto Show
+Location	4	at Baldwin
+Location	4	at Barclay
+Location	4	at Barrack
+Location	4	at Berkley
+Location	4	at Beverly
+Location	4	at Big Habs
+Location	4	at Bill Clinton
+Location	4	at BlogHer
+Location	4	at Blog NASA
+Location	4	at Bloomberg
+Location	4	at Bossip
+Location	4	at Boy Students
+Location	4	at Bridgewater
+Location	4	at Broncos
+Location	4	at Buffalo
+Location	4	at Burke
+Location	4	at Butters
+Location	4	at Cal Fire
+Location	4	at Canadians
+Location	4	at Cape Canaveral
+Location	4	at Capsizes
+Location	4	at Carol
+Location	4	at Castagnola
+Location	4	at Caylee
+Location	4	at Cesium
+Location	4	at Cherchell
+Location	4	at Christ
+Location	4	at Christina
+Location	4	at Cocaine
+Location	4	at Comic
+Location	4	at Crashed
+Location	4	at Cummins
+Location	4	at Debate
+Location	4	at DeeleyGet
+Location	4	at Democrat
+Location	4	at Dennings
+Location	4	at Deutsche
+Location	4	at DisneyLand
+Location	4	at Does This
+Location	4	at Drivers
+Location	4	at Dunedin
+Location	4	at Edgar
+Location	4	at Elaraby
+Location	4	at England
+Location	4	at English
+Location	4	at Escapes
+Location	4	at Estela
+Location	4	at EuroDisney
+Location	4	at Evening
+Location	4	at EVERYONE
+Location	4	at Exhaustion
+Location	4	at Falls
+Location	4	at Fannie
+Location	4	at Fast Food
+Location	4	at Five Guys
+Location	4	at For Zara
+Location	4	at FoxNews
+Location	4	at Fredericksburg
+Location	4	at Georgia
+Location	4	at Glendale
+Location	4	at Glenn
+Location	4	at GOP Debate
+Location	4	at Gunpoint
+Location	4	at Heathcliff
+Location	4	at Helps
+Location	4	at Henderson
+Location	4	at Here Blog
+Location	4	at Here News
+Location	4	at Hospital
+Location	4	at Hurricane
+Location	4	at Influen
+Location	4	at Jefferies
+Location	4	at Jeffrey
+Location	4	at JHoff
+Location	4	at Journal
+Location	4	at Kal Penn
+Location	4	at Kercher
+Location	4	at Kills
+Location	4	at KXXV News
+Location	4	at Lake Tahoe
+Location	4	at Larry
+Location	4	at Latest
+Location	4	at Liberal
+Location	4	at Life Saver
+Location	4	at Louis
+Location	4	at Lyndon
+Location	4	at Major
+Location	4	at Makes
+Location	4	at Marcus
+Location	4	at Marketplace
+Location	4	at Massachusetts
+Location	4	at Masters
+Location	4	at Matthew
+Location	4	at Memorial
+Location	4	at Merrill
+Location	4	at Mesa Verde
+Location	4	at Miller
+Location	4	at Milwaukee
+Location	4	at Mother
+Location	4	at Mulligan
+Location	4	at Mumbai
+Location	4	at NAFTA
+Location	4	at Narita
+Location	4	at Neimans
+Location	4	at NEVER
+Location	4	at Newsmax
+Location	4	at New Yorkers
+Location	4	at Nicole
+Location	4	at Northern
+Location	4	at Oscar
+Location	4	at Oscars
+Location	4	at Padrnos
+Location	4	at Perryville
+Location	4	at Pratt
+Location	4	at Pumpkin
+Location	4	at Queen
+Location	4	at Rated
+Location	4	at Ridge
+Location	4	at Ripps
+Location	4	at Riverfront
+Location	4	at Rob Chandhok
+Location	4	at Rockaway
+Location	4	at Rocky
+Location	4	at Roulette
+Location	4	at Royals
+Location	4	at Russia
+Location	4	at Safety
+Location	4	at Salt Lake
+Location	4	at Salvation
+Location	4	at Same Time
+Location	4	at San Angelo
+Location	4	at Sanford
+Location	4	at Scotland
+Location	4	at Serbian
+Location	4	at Serena
+Location	4	at Shaft
+Location	4	at Shanksville
+Location	4	at Shaped
+Location	4	at Sheen
+Location	4	at She Likes
+Location	4	at Smithville
+Location	4	at Smoky
+Location	4	at Solar
+Location	4	at Sotto
+Location	4	at Soul Food
+Location	4	at Starts
+Location	4	at Still
+Location	4	at Street
+Location	4	at Stroud
+Location	4	at Sugar
+Location	4	at Sun City
+Location	4	at Sundance
+Location	4	at Suspects
+Location	4	at Tampa
+Location	4	at Tate Modern
+Location	4	at Teaching
+Location	4	at TEPCO
+Location	4	at Terrell
+Location	4	at Than Mediocre
+Location	4	at The Beverly
+Location	4	at The Dealer
+Location	4	at The Hague
+Location	4	at The Heat
+Location	4	at The Huffington
+Location	4	at The Southeastern
+Location	4	at The Taste
+Location	4	at The Theater
+Location	4	at They Have
+Location	4	at Tiffany
+Location	4	at Tommy
+Location	4	at Tom Waits
+Location	4	at Tormenta
+Location	4	at Trader
+Location	4	at Transportation
+Location	4	at Utah State
+Location	4	at Vanilla
+Location	4	at WalMart
+Location	4	at Watkins
+Location	4	at Weather
+Location	4	at WHIO Radio
+Location	4	at Will Happen
+Location	4	at Will Hurt
+Location	4	at Wilma
+Location	4	at Women
+Location	4	Atwood, The Chevelles
+Location	4	at Worldwide
+Location	4	at Youth
+Location	4	at Zurich
+Location	4	Bachmann, Herman Cain
+Location	4	Back, Paul Devro
+Location	4	Barber, Traci Lynn
+Location	4	Barrymore, Jennifer Lopez
+Location	4	Bastrop, Texas Nail
+Location	4	BASTROP, Texas Residents
+Location	4	Beetlejuice, Eddie Murphy
+Location	4	Berkeley, Greek Theatre
+Location	4	Birthday, Arthur Ashe
+Location	4	Blessings, Good Thoughts
+Location	4	Bloggers, Firefighter Blogs
+Location	4	Bloomberg, New York
+Location	4	Boehner, Biden Caught
+Location	4	Boeing, NLRB Battle
+Location	4	Bottles, Sippy Cups
+Location	4	Boulevard, Little Santa
+Location	4	Brand, Ron Artest
+Location	4	Burgers, Nixes McFalafel
+Location	4	Business, Eco Gadgets
+Location	4	Business, Via Digg
+Location	4	Business, Via Reddit
+Location	4	Cairo, Israel Sensing
+Location	4	California, San Francisco
+Location	4	Capriati, Gustavo Kuerten
+Location	4	Care, Health Insurance
+Location	4	Celebrity, Artist News
+Location	4	Chains, Says Poll
+Location	4	Christians, OSCE Conference
+Location	4	Church, Raises Awareness
+Location	4	City, New Jersey
+Location	4	City, New YorkOctober
+Location	4	Classes, Crisis Charity
+Location	4	Coach, Skip Honeymoons
+Location	4	Compare, Read Reviews
+Location	4	Congress, President Barack
+Location	4	ConRove, Obama NEVER
+Location	4	Conservation, Eco Business
+Location	4	CONTROL, KEEP BETTER
+Location	4	County, New York
+Location	4	Coup, Honduras Still
+Location	4	CrowdStar, Inc SOFTWARE
+Location	4	Dale, New York
+Location	4	Dallas, New York
+Location	4	Darkness, Will Bible
+Location	4	Dead, Eight Injured
+Location	4	Demitra, Chris Brown
+Location	4	Denver, Boulder Concert
+Location	4	Denver, Levi Leipheimer
+Location	4	Details, Says Film
+Location	4	Diamond, Meryl Streep
+Location	4	DiCaprio, Tobey Maguire
+Location	4	Dicit, Sapientia Audit
+Location	4	Disappearance, Ordered Held
+Location	4	Down, Legislature Should
+Location	4	Doyle, The Huntsville
+Location	4	Dreib, Bab Houd
+Location	4	DREW, MORE THAN
+Location	4	Dubuque, Cedar Rapids
+Location	4	Dulzura, Deerhorn Valley
+Location	4	Duncan, Angel Gurr
+Location	4	Dunks, Teen Slang
+Location	4	Earth, Debris Shower
+Location	4	Economy, Widespread Lack
+Location	4	Ellis, Alaska Airlines
+Location	4	Entertainment, Sports News
+Location	4	Entertainment, USA News
+Location	4	Evacuations, Severe Damage
+Location	4	Everywhere, From Puerto
+Location	4	Executives, CEO Email
+Location	4	Facebook, News Team
+Location	4	Facebook, Touchscreen MacBook
+Location	4	Film, Wants Leonardo
+Location	4	Fingers, Toes Leroy
+Location	4	Fire News Minnesota forest
+Location	4	Fire, Zaca Fire
+Location	4	Fixture, Reported Missing
+Location	4	Flooding, Severe Storm
+Location	4	Floyd, Associate EditorPostsWebsiteEmailTwitterChase
+Location	4	for the National Park
+Location	4	Foundation, Injury Free
+Location	4	Fredericksburg, Texas Lodging
+Location	4	Geographic, Cynthia Gorney
+Location	4	George, Ryan More
+Location	4	Georgia, National Weather
+Location	4	Gershwin, Gertrude Stein
+Location	4	Gingrich, Jon Huntsman
+Location	4	Gingrich, Rick Santorum
+Location	4	Glasgow, For Filming
+Location	4	Graczyk, Associated Press
+Location	4	Graduates, Starting Salaries
+Location	4	Grenier, Alec Baldwin
+Location	4	Guidelines, Stressing Ratings
+Location	4	Haircuts, Hairstyling Healthy
+Location	4	Hall, Former Atlanta
+Location	4	Hama, Adnan Bakkour
+Location	4	Hawkins, Teresa Walker
+Location	4	Health, Columbia University
+Location	4	Hehe, Grateful Dead
+Location	4	Hills, North Carolina
+Location	4	Hipsters, Your Friend
+Location	4	Holder, Attorney General
+Location	4	Iams, Natura Donate
+Location	4	Improve, But Risk
+Location	4	in Abyan
+Location	4	in AfghanistanLaura
+Location	4	in After
+Location	4	in Airport
+Location	4	in Albert
+Location	4	in Alexandria
+Location	4	in Amber
+Location	4	in AngryBlackMan
+Location	4	in Anna Nicole
+Location	4	in Ann Arbor
+Location	4	in Areas
+Location	4	in Are Headed
+Location	4	in Arles
+Location	4	in Arnold
+Location	4	in Arthur
+Location	4	in Auburn
+Location	4	in Azarmehr
+Location	4	in Balochistan
+Location	4	in Bamako
+Location	4	in Ban Proposed
+Location	4	in Beautiful
+Location	4	in Beaver
+Location	4	in Beltway
+Location	4	in Bennett
+Location	4	in Bexar
+Location	4	in Bhutan
+Location	4	in Biloxi
+Location	4	in Blog Monday
+Location	4	in Blue Hill
+Location	4	in Bob Dylan
+Location	4	in Bolivia
+Location	4	in Botswana
+Location	4	in Brad Barton
+Location	4	in Braun
+Location	4	in Brazilian
+Location	4	in Breaking
+Location	4	in Bret Michaels
+Location	4	in Bright
+Location	4	in Brownsville
+Location	4	in Buchenwald
+Location	4	in Building
+Location	4	in Burlington
+Location	4	in Calaveras
+Location	4	in Calcutta
+Location	4	in Calendar
+Location	4	in Cannes
+Location	4	in Cargile
+Location	4	in Caribbean
+Location	4	in Carlson
+Location	4	in Cartoons
+Location	4	in Cherokee
+Location	4	in Christ
+Location	4	in Cincy
+Location	4	in Class
+Location	4	in Collier
+Location	4	in Command
+Location	4	in Computer
+Location	4	in Conference
+Location	4	in Config
+Location	4	in Continue
+Location	4	in Conway
+Location	4	in Cook County
+Location	4	in Corel
+Location	4	in Credit
+Location	4	in Cross
+Location	4	in Cuban
+Location	4	in Cuisine
+Location	4	in Dalian
+Location	4	in Dauphin
+Location	4	in Dawson
+Location	4	in Death
+Location	4	in Democrat
+Location	4	in DeMonia
+Location	4	in Denton
+Location	4	in Deshengtang
+Location	4	in Des Moines
+Location	4	in Diabetes
+Location	4	in Dick Nixon
+Location	4	in Digital
+Location	4	in Dirty
+Location	4	in Disallow
+Location	4	in Discusses
+Location	4	in Dispenser
+Location	4	in District
+Location	4	in Dover
+Location	4	in Earthling
+Location	4	in East OaklandTammerlin
+Location	4	in Economics
+Location	4	in Employment
+Location	4	in Enchantment
+Location	4	in Encompass
+Location	4	in Epstein
+Location	4	in Escondido
+Location	4	in Essex
+Location	4	in Extreme
+Location	4	in Factories
+Location	4	in Fairborn
+Location	4	in Fallon
+Location	4	in Fall Sportswear
+Location	4	in Farsi
+Location	4	in Featured
+Location	4	in Fehler
+Location	4	in Ferris
+Location	4	in Finland
+Location	4	in Fire Chief
+Location	4	in Flight
+Location	4	in Floyd
+Location	4	in Flushing
+Location	4	in Fort Oglethorpe
+Location	4	in Freestone
+Location	4	in Galactic
+Location	4	in Gaston
+Location	4	in Ghana
+Location	4	in Gibson
+Location	4	in Gillis
+Location	4	in Gizmodo
+Location	4	in Glenville
+Location	4	in Greenville
+Location	4	in Greenwich
+Location	4	in Griffin
+Location	4	in Gulf Shores
+Location	4	in Hart Admin
+Location	4	in Hatteras
+Location	4	in Haust
+Location	4	in Havana
+Location	4	in Heading
+Location	4	in Helmand
+Location	4	in Highway
+Location	4	in Historically
+Location	4	in Hoffa
+Location	4	in Home Depot
+Location	4	in Home Research
+Location	4	in Homs Wednesday
+Location	4	in Horrific
+Location	4	in Hotel
+Location	4	in Housing
+Location	4	in Hunan
+Location	4	in Hurts
+Location	4	in Indoors
+Location	4	in Ingram
+Location	4	in Interactive
+Location	4	in Internal
+Location	4	in Investigating
+Location	4	in Italian
+Location	4	in Jeopardy
+Location	4	in Johannesburg
+Location	4	in Judaism
+Location	4	in Just Wants
+Location	4	in Khoms
+Location	4	in KICKBACKS
+Location	4	in Kill Devil
+Location	4	in Killer
+Location	4	in Kinshasa
+Location	4	in KLM Open
+Location	4	in Knocked
+Location	4	in Knocks
+Location	4	in Kuala
+Location	4	in Kunar
+Location	4	in Lady Gaga
+Location	4	in Lake Tahoe
+Location	4	in Lamarque
+Location	4	in Lesotho
+Location	4	in Libby
+Location	4	in Liberals
+Location	4	in License
+Location	4	in Liebhard
+Location	4	in Limbo
+Location	4	in Limestone
+Location	4	in Lincoln
+Location	4	in Little
+Location	4	in Location
+Location	4	in Longmont
+Location	4	in Malla
+Location	4	in Maseru
+Location	4	in Mich Ohio
+Location	4	in Middleburgh
+Location	4	in MikeF
+Location	4	in Miller
+Location	4	in Mindanao
+Location	4	in Minutes
+Location	4	in Missoula
+Location	4	in Mittens
+Location	4	in Moammar
+Location	4	in Moffett
+Location	4	in Mohammed
+Location	4	in Mondays
+Location	4	in Monroe
+Location	4	in Montauk
+Location	4	in Montpellier
+Location	4	in More World
+Location	4	in Mountains
+Location	4	in Moves
+Location	4	in Movies
+Location	4	in Names
+Location	4	in Natural
+Location	4	in Ndebele
+Location	4	in New Braunfels
+Location	4	in New Plymouth
+Location	4	in NEWS ABOUT
+Location	4	in Newton
+Location	4	in NewYork
+Location	4	in Nikolai
+Location	4	in Norwegian
+Location	4	in Now Connect
+Location	4	in Nuevo
+Location	4	in NWS Wyoming
+Location	4	in Okenla
+Location	4	in Opener
+Location	4	in Orissa
+Location	4	in Oshu City
+Location	4	in Our Minds
+Location	4	in Pacific
+Location	4	in Painter
+Location	4	in Panama
+Location	4	in PHOTOS
+Location	4	in PHX Howdy
+Location	4	in Pinole
+Location	4	in Pittsfield
+Location	4	in Pleasant
+Location	4	in Polls
+Location	4	in Postcards
+Location	4	in Post Valentine
+Location	4	in Press
+Location	4	in Product
+Location	4	in Public
+Location	4	in Pushes
+Location	4	in Puts Baltimore
+Location	4	in Qatar
+Location	4	in Queensland
+Location	4	in Raleigh
+Location	4	in Rangers
+Location	4	in Recent
+Location	4	in Recommend
+Location	4	in Records
+Location	4	in Rednecks
+Location	4	in Remembrance
+Location	4	in Research
+Location	4	in Reveals
+Location	4	in Richard
+Location	4	in Ricky
+Location	4	in Rockaway
+Location	4	in RSS Auto
+Location	4	in Rubio
+Location	4	in Rusk County
+Location	4	in San Angelo
+Location	4	in San Bruno
+Location	4	in San Luis
+Location	4	in San Martin
+Location	4	in Sao Paolo
+Location	4	in Schenectady
+Location	4	in Schoharie
+Location	4	in Senegal
+Location	4	in Severe
+Location	4	in Sewer
+Location	4	in Sherbert
+Location	4	in Shows
+Location	4	in Solidarity
+Location	4	in Some Wireless
+Location	4	in SonomaWill
+Location	4	in Speech
+Location	4	in Spratly
+Location	4	in Staten
+Location	4	in Stockton
+Location	4	in Stone
+Location	4	in Strawn
+Location	4	in Student
+Location	4	in Subic
+Location	4	in Sugar
+Location	4	in Superior
+Location	4	in Support
+Location	4	in Surrey
+Location	4	in System
+Location	4	in Tea Party
+Location	4	in Tel Aviv
+Location	4	in Terrell
+Location	4	in Tesco
+Location	4	in Texasadd
+Location	4	in TexasFEMA
+Location	4	in TexasI
+Location	4	in Texasmy
+Location	4	in Thane
+Location	4	in Theatre
+Location	4	in The Austin
+Location	4	in The City
+Location	4	in The Fort
+Location	4	in The Gambler
+Location	4	in The Great
+Location	4	in The Texas
+Location	4	in The Washington
+Location	4	in Tibet
+Location	4	in Tijuana
+Location	4	in Together
+Location	4	in Top Comments
+Location	4	in Top WordPress
+Location	4	in Totals
+Location	4	in Tottenham
+Location	4	in Tozzi
+Location	4	in Training
+Location	4	in Tripoliby
+Location	4	in Trust
+Location	4	in Turmoil
+Location	4	in TVSpy
+Location	4	in Tweet
+Location	4	in Udomah
+Location	4	in Upton
+Location	4	in Ursula
+Location	4	in Using
+Location	4	in Utopia
+Location	4	in Velasquez
+Location	4	in Verla
+Location	4	in Vernon
+Location	4	in Versuch
+Location	4	in Vibrams
+Location	4	in Videos
+Location	4	in View More
+Location	4	in Viveiros
+Location	4	in VivendiBritain
+Location	4	in Waltham
+Location	4	in Washingto
+Location	4	in Watkins
+Location	4	in West Africa
+Location	4	in West Conference
+Location	4	in West Oakland
+Location	4	in West Texasby
+Location	4	in West Virgina
+Location	4	in Wilshire
+Location	4	in Winter
+Location	4	in Wishtata
+Location	4	in Wrangler
+Location	4	in Yankees
+Location	4	in Years
+Location	4	in Yellowstone
+Location	4	in Yorba
+Location	4	in Your Chocolate
+Location	4	in Zhengzhou
+Location	4	in Zipcode
+Location	4	Irene, American Airlines
+Location	4	Islands, Aleutian Islands
+Location	4	Iyer, Sporting News
+Location	4	Jamul, Lyons Valley
+Location	4	Jersey, New York
+Location	4	Juan, Puerto RicoOctober
+Location	4	Jupiter, The Giant
+Location	4	Kardashian, Kris Humphries
+Location	4	Katrina, Census Shows
+Location	4	Keenan, The Statesman
+Location	4	Kelly, Thurman Thomas
+Location	4	Keynes, The Economic
+Location	4	King, Wendy Colona
+Location	4	Kirp, Susan Szachowicz
+Location	4	Kwakwa, World Bank
+Location	4	Lakes, Mont Coadd
+Location	4	Land, Gulf Coast
+Location	4	Lanka: Yala National Park
+Location	4	Lease, New Furniture
+Location	4	Liberty, Conservative Politics
+Location	4	Long, Slow Return
+Location	4	Louisiana, Red Eubanks
+Location	4	Madonna, Music Madonna
+Location	4	Magazine, Talks About
+Location	4	Malaysia, Pathmawathy Navaratnam
+Location	4	Martin, AgriLife Extension
+Location	4	Marx, Sporting News
+Location	4	McKinley, North America
+Location	4	Melton, Democratic Michigan
+Location	4	Melzer, Petzschner Raymond
+Location	4	Minority, Special Needs
+Location	4	Missal, Third Edition
+Location	4	Moore, The Orlando
+Location	4	Moss, Amber Valetta
+Location	4	Mountains National Park
+Location	4	Mubarak, Human Rights
+Location	4	Mulligan, Tom Sturridge
+Location	4	Munn, Olivia Munn
+Location	4	Napkins, Plastic Utensils
+Location	4	Navy, Air Force
+Location	4	NEWBERRY, Associated Press
+Location	4	Newer, Better Privacy
+Location	4	News, Film News
+Location	4	Niekro, Nolan Ryan
+Location	4	Northeast, Parents Face
+Location	4	Obama, Democrats Plot
+Location	4	Obama, Hillary Clinton
+Location	4	Obama, The Envoy
+Location	4	Offensive, Obama Retreats
+Location	4	Oklahoma, Oklahoma State
+Location	4	on a food forest
+Location	4	Once, Too Metal
+Location	4	Open, Serena Williams
+Location	4	Orleans, Black Churches
+Location	4	Orleans, Tropical Storm
+Location	4	Osborne, Anthony Weiner
+Location	4	Owner, Neonlite Releases
+Location	4	Palin, Romney React
+Location	4	Paul, Rick Perry
+Location	4	Perry, Michele Bachmann
+Location	4	Perry, Romney Seeks
+Location	4	Perry, Social Security
+Location	4	Phan, American Apparel
+Location	4	Philippines, Taiwan Ukraine
+Location	4	Photos, Videos Madonna
+Location	4	PLEASE, THE FREEDOMS
+Location	4	Politics, Via Reddit
+Location	4	Powell, California Superintendent
+Location	4	Power, Calls Reactors
+Location	4	Prep, But Probably
+Location	4	President, Encompass Insurance
+Location	4	Program, Equally Weighing
+Location	4	Progress, Broken Promises
+Location	4	QotD, EVERYBODY Hates
+Location	4	Relief, Public Works
+Location	4	Republican, Captures Weiner
+Location	4	Rippingale, Jetstar Passenger
+Location	4	Riverside, Orange County
+Location	4	Robach, Megan Kelly
+Location	4	Robertson, Erin Green
+Location	4	Rogen, Joseph Gordon
+Location	4	Roles, Kate Bosworth
+Location	4	Romney, Tim Pawlenty
+Location	4	Rules, Too Little
+Location	4	Sabbath, Not Ozzy
+Location	4	Sachs, Firms Agree
+Location	4	Salary, Classes Canceled
+Location	4	Samples, Great Products
+Location	4	Scotland, While Brad
+Location	4	Season, Bowl Games
+Location	4	Season, Marek Fire
+Location	4	Sellers, Fullerton Police
+Location	4	SEOUL, South Korea
+Location	4	SERVICES, SUPPORT SOFTWARE
+Location	4	Shark, Fish Fights
+Location	4	Shatner, Mike Tyson
+Location	4	Shepherd, Joy Behar
+Location	4	Shoes, Loves Minivans
+Location	4	Skyrocketing, Stunning Double
+Location	4	Slide, Irene Time
+Location	4	Sports, Sports Videos
+Location	4	Stillow, Elizabeth Warren
+Location	4	Stories, Health News
+Location	4	Stories, Politics News
+Location	4	Storming, Ties Strained
+Location	4	Storm, Takes Private
+Location	4	Straus, Sporting News
+Location	4	Stronghold, Take Weiner
+Location	4	Student, Has Police
+Location	4	Sufferers, The Struggle
+Location	4	Suisse, Julius Baer
+Location	4	Sutter, CNN Filed
+Location	4	Teachers, Principals Found
+Location	4	that would indicate forest
+Location	4	Thomas, Lisa Aubuchon
+Location	4	Thought, Analysis Suggests
+Location	4	Thought, Some Scientists
+Location	4	Tims, Found Dead
+Location	4	Today, Esquire Magazine
+Location	4	Today, Gone Tomorrow
+Location	4	to nothing to forest
+Location	4	Trimble, Phoenix Bishop
+Location	4	Tucson, Economic Development
+Location	4	Tumblers, Catwoman Footage
+Location	4	Upton, The Girl
+Location	4	Utah, Coral Springs
+Location	4	Veras, Pro Football
+Location	4	Veterans, War Gives
+Location	4	Veteran, Takes Down
+Location	4	Video, And UpdatesDonna
+Location	4	Video, And UpdatesTracey
+Location	4	Videos, Breaking News
+Location	4	Violence, And More
+Location	4	Violent, Massive StormHuffington
+Location	4	Walker, Associate Editor
+Location	4	Walmart, Salvation Army
+Location	4	Washington, Police Chief
+Location	4	WASTE, WAS MARY
+Location	4	Weather, Sports Yuma
+Location	4	White, Publicist Dies
+Location	4	Whites, Minorities Widens
+Location	4	Wildfire, Drought Called
+Location	4	Winds, Wildfire Burns
+Location	4	Wisconsin, Scott Walker
+Location	4	Workers, Changes Unused
+Location	4	Wozniak, Apple Employees
+Location	4	Wrapping, New Role
+Location	4	Yahoo, Alibaba Reach
+Location	4	Yorker, Daniella Martin
+Location	3	1:14Add toBastrop State Park
+Location	3	15,000-acre wildfire in forest
+Location	3	6,000-acre Bastrop State Park
+Location	3	Abducted, Says Tareq
+Location	3	Abed, Alison Brie
+Location	3	Action, Fosamax Fracture
+Location	3	Actos, Mesothelioma Symptoms
+Location	3	Adams, Kevin Costner
+Location	3	Affair, Booka Shade
+Location	3	agency, a National Park
+Location	3	Aiud, Alba Iulia
+Location	3	Albota, Almasu Mare
+Location	3	Alda, Matthew Broderick
+Location	3	Algeria, Bani Walid
+Location	3	America, Canada Earthquake
+Location	3	America, CanadaEarthquake ReportsKiller
+Location	3	American, Proud Gentile
+Location	3	American, Sarah Shourd
+Location	3	America, The West
+Location	3	Animals, Eco Business
+Location	3	ANKARA, Turkey Turkey
+Location	3	Anniversary, News Media
+Location	3	Archaeologist, Jackson Burns
+Location	3	Aries, Baia Mare
+Location	3	Arieseni, Avram Iancu
+Location	3	Arlington, Virginia Sphere
+Location	3	Arsons, Attempted Murder
+Location	3	Articles, Straight Talk
+Location	3	Assad, Bibi Netanyahu
+Location	3	assault Bastrop State Park
+Location	3	at Abdul
+Location	3	at Against
+Location	3	at Age Should
+Location	3	at Ahmadinejad
+Location	3	at Alesund
+Location	3	at Allen
+Location	3	at Alternative
+Location	3	at Alzheimer
+Location	3	at Andrea
+Location	3	at Angel
+Location	3	at Angelina
+Location	3	at Animal
+Location	3	at Animo
+Location	3	at Anthony
+Location	3	at AOMAR
+Location	3	at Archive
+Location	3	at Are Actually
+Location	3	at Arnold
+Location	3	at Artcyclopedia
+Location	3	at Athens
+Location	3	at Auckland
+Location	3	at Bad Segeberg
+Location	3	at BarackObama
+Location	3	at Barber
+Location	3	at Barbican
+Location	3	at Bar Method
+Location	3	at Barnes
+Location	3	at Bauer
+Location	3	at Bedfordshire
+Location	3	at Being
+Location	3	at BerkeleyDailyPlanet
+Location	3	at Berne
+Location	3	at Between
+Location	3	at Bhopal
+Location	3	at Big House
+Location	3	at Blue Hill
+Location	3	at BMO Capital
+Location	3	at Bob Turner
+Location	3	at Bojangles
+Location	3	at Bolton
+Location	3	at Boots
+Location	3	at Bournemouth
+Location	3	at Britons
+Location	3	at Bryan
+Location	3	at Burns
+Location	3	at Bus Station
+Location	3	at Can Slow
+Location	3	at Capitol
+Location	3	at Caribbean
+Location	3	at Carolyn
+Location	3	at Cascade
+Location	3	at Catalyst
+Location	3	at Celine
+Location	3	at Chase
+Location	3	at Chavez
+Location	3	at Chaz Bono
+Location	3	at Christians
+Location	3	at City Council
+Location	3	at City Market
+Location	3	at Clear
+Location	3	at Clemson
+Location	3	at Clinton
+Location	3	at Clock
+Location	3	at Coleman
+Location	3	at College
+Location	3	at Congressman
+Location	3	at Congresspe
+Location	3	at Conservative
+Location	3	at Conspiracy
+Location	3	at Constituti
+Location	3	at Contagion
+Location	3	at Content
+Location	3	at Corona
+Location	3	at Creative
+Location	3	at Customer
+Location	3	at Customers
+Location	3	at Cynthia
+Location	3	at Damaged
+Location	3	at Dark Shadows
+Location	3	at Dave Showalter
+Location	3	at Defense
+Location	3	at Degrees
+Location	3	at Delhi
+Location	3	at Denmark
+Location	3	at Dennis
+Location	3	at Destroy
+Location	3	at Did Jesus
+Location	3	at Donna
+Location	3	at Dreams
+Location	3	at Duke University
+Location	3	at Dulwich
+Location	3	at Duncan
+Location	3	at Dutch
+Location	3	at Eczema
+Location	3	at Edition
+Location	3	at Ellarsile
+Location	3	at Ensemble
+Location	3	at EOD Dossier
+Location	3	at Erdogan
+Location	3	at Ernest
+Location	3	at Essence
+Location	3	at Everett
+Location	3	at Ever Happened
+Location	3	at Exactly
+Location	3	at Faith
+Location	3	at Falling
+Location	3	at Ferrer
+Location	3	at Filipino
+Location	3	at Flood
+Location	3	at Floyd
+Location	3	at Foot Solutions
+Location	3	at Foreign
+Location	3	at Forward
+Location	3	at Found
+Location	3	at Franklin
+Location	3	at Freddie
+Location	3	at Freedom
+Location	3	at Gagosian
+Location	3	at Galleria
+Location	3	at Gardner
+Location	3	at GatsbyTIFF
+Location	3	at General
+Location	3	at Georgetown
+Location	3	at Girl Scouts
+Location	3	at Golden
+Location	3	at Goldie
+Location	3	at Good Eats
+Location	3	at Grannie
+Location	3	at Grant
+Location	3	at Gurney
+Location	3	at Guy Sponsored
+Location	3	at Gypsy
+Location	3	at Hair BandHow
+Location	3	at Hargreaves
+Location	3	at Harmonia
+Location	3	at Harper
+Location	3	at Hashachar
+Location	3	at Hayward
+Location	3	at Health
+Location	3	at Heart
+Location	3	at Height
+Location	3	at Henry
+Location	3	at Heritage
+Location	3	at Hitler
+Location	3	at Hoover
+Location	3	at Hubie
+Location	3	at Huffington
+Location	3	at Ilfracombe
+Location	3	at Into ElectricityUse
+Location	3	at Invesco
+Location	3	at Investopedia
+Location	3	at Ireland
+Location	3	at Istanbul
+Location	3	at Italy
+Location	3	at Its Very
+Location	3	at Japanese
+Location	3	at Jaycee
+Location	3	at Jimmy
+Location	3	at Jim Roberts
+Location	3	at JOHN ZENOR
+Location	3	at Jon Stewart
+Location	3	at Judge
+Location	3	at Judy Garland
+Location	3	at Just William
+Location	3	at Kabul
+Location	3	at Kate Plus
+Location	3	at Kathy
+Location	3	at Keller
+Location	3	at Kelly
+Location	3	at Kessler
+Location	3	at Kill Startups
+Location	3	at Kreuz
+Location	3	at Kroger
+Location	3	at Lady Gaga
+Location	3	at Laguna
+Location	3	at Lake View
+Location	3	at Lavigne
+Location	3	at LBS LIDAR
+Location	3	at Leonardo
+Location	3	at Libyans
+Location	3	at Linn State
+Location	3	at Little
+Location	3	at Lizbeth
+Location	3	at Login
+Location	3	at Looking
+Location	3	at Low Budget
+Location	3	at Lucha
+Location	3	at Lunch
+Location	3	at Maisie
+Location	3	at Manganiello
+Location	3	at Maracana
+Location	3	at Maria
+Location	3	at Marine
+Location	3	at McBriar
+Location	3	at McQueen
+Location	3	at Media
+Location	3	at Megrahi
+Location	3	at Mercer
+Location	3	at Meredith
+Location	3	at Mexican
+Location	3	at Minority
+Location	3	at Mission
+Location	3	at Mom Debate
+Location	3	at Monet
+Location	3	at Money
+Location	3	at Monza
+Location	3	at Moore
+Location	3	at New America
+Location	3	at News International
+Location	3	at NewsWest
+Location	3	at Nigerian
+Location	3	at Nobles
+Location	3	at NOBODY
+Location	3	at Novak
+Location	3	at Ochocinco
+Location	3	at Old Navy
+Location	3	at Omaha
+Location	3	at One Police
+Location	3	at Online
+Location	3	at Optical
+Location	3	at Osmani
+Location	3	at Overstock
+Location	3	at Pacific
+Location	3	at Painter
+Location	3	at Parkside
+Location	3	at Paton
+Location	3	at Performances
+Location	3	at Petco
+Location	3	at Peter
+Location	3	at PGA Championship
+Location	3	at Phish
+Location	3	at Pictures
+Location	3	at Places
+Location	3	at Plains
+Location	3	at Play Stronger
+Location	3	at Point
+Location	3	at Polamalu
+Location	3	at Politicians
+Location	3	at Polka
+Location	3	at Prairie
+Location	3	at Prayer
+Location	3	at Princeton
+Location	3	at Prudential
+Location	3	at Purge
+Location	3	at Qorvis
+Location	3	at Quakevil
+Location	3	at Rahm Emanuel
+Location	3	at Red Lobster
+Location	3	at Redmond
+Location	3	at Redstate
+Location	3	at Republic
+Location	3	at Restaurant
+Location	3	at Rhianna
+Location	3	at Right
+Location	3	at Rihanna
+Location	3	at Riverside
+Location	3	at Riverview
+Location	3	at Robinson
+Location	3	at Room Share
+Location	3	at RoyalsAP
+Location	3	at Sally
+Location	3	at San Antonio
+Location	3	at Satan
+Location	3	at Science
+Location	3	at Secretary
+Location	3	at Security
+Location	3	at Sedan
+Location	3	at Senator
+Location	3	at Senior
+Location	3	at Serpentine
+Location	3	at Seton
+Location	3	at Severe
+Location	3	at Sharks
+Location	3	at Shoreline
+Location	3	at Sichuan
+Location	3	at Simeon
+Location	3	at Smitty
+Location	3	at Spain
+Location	3	at Spartacus
+Location	3	at Sponsor
+Location	3	at Spurs
+Location	3	at Stands
+Location	3	at States
+Location	3	at Steven
+Location	3	at Stimulus
+Location	3	at Stony
+Location	3	at StudentsFirst
+Location	3	at Superfeet
+Location	3	at Supreme
+Location	3	at Taco Bell
+Location	3	at Tagliabue
+Location	3	at Tahoe
+Location	3	at Tammy
+Location	3	at Tanker
+Location	3	at TapestryHAARP
+Location	3	at Tenerife
+Location	3	at Terra
+Location	3	at Terrier
+Location	3	at The British
+Location	3	at The Critics
+Location	3	at The Fillmore
+Location	3	at The Front
+Location	3	at The Grove
+Location	3	at The Library
+Location	3	at The Melt
+Location	3	at The Nutty
+Location	3	at The Real
+Location	3	at The Surf
+Location	3	at TipsNews
+Location	3	at Tracy
+Location	3	at Traps
+Location	3	at Trattoria
+Location	3	at Travel
+Location	3	at Trinity
+Location	3	at Turn Your
+Location	3	at UBSNo
+Location	3	at UCLA Browse
+Location	3	at Unplugged
+Location	3	at Uribe
+Location	3	at Urine
+Location	3	at USA Today
+Location	3	at Vanguard
+Location	3	at Vehicle
+Location	3	at Vice President
+Location	3	at Vikings
+Location	3	at Volcano
+Location	3	at Volusia
+Location	3	at Warner
+Location	3	at Watson
+Location	3	at Wave America
+Location	3	at Web Gallery
+Location	3	at Webster
+Location	3	at WellPoint
+Location	3	at Werben
+Location	3	at West High
+Location	3	at Whoever
+Location	3	at Wigley
+Location	3	at Wilderness
+Location	3	at Wildfire
+Location	3	at Wildland
+Location	3	at Will America
+Location	3	at Winger
+Location	3	at Witherspoon
+Location	3	at Woody
+Location	3	at Work More
+Location	3	at Yaroslav
+Location	3	at You Might
+Location	3	at You Needed
+Location	3	at Your Teen
+Location	3	AUSTIN, Texas Whole
+Location	3	Austin, TRLA Offices
+Location	3	AWAKE, JOKING FLOODWATERS
+Location	3	Back, Rising Above
+Location	3	Ballantine, Matt Villa
+Location	3	Baltimore, Maryland News
+Location	3	BASTROP, Texas Firefighting
+Location	3	Bastrop, Texas September
+Location	3	Bauer, Josh Fattal
+Location	3	Beach, Gulf Shores
+Location	3	Begins, Celebrity Names
+Location	3	Bentley, Pete Tong
+Location	3	Besson, David Cronenberg
+Location	3	Biffle, Tony Stewart
+Location	3	Bistrita, Bistrita Bargaului
+Location	3	blaze burning in forest
+Location	3	BLUEPRINT, WAVES AROUND
+Location	3	Board, Tucson City
+Location	3	Boogaard, Rick Rypien
+Location	3	Booker, Bard High
+Location	3	Bradford, PhD Judith
+Location	3	Brides, Vera Wang
+Location	3	Brill, Class Warfare
+Location	3	Bruno, One Year
+Location	3	BURNABY, British Columbia
+Location	3	Bush, Biden Speak
+Location	3	Business, Eco Friendly
+Location	3	Calarasi, Campia Turzii
+Location	3	California's Yosemite National Park
+Location	3	called the "primitive forest
+Location	3	Cancer, TumorsThe Real
+Location	3	Cannon, Port Side
+Location	3	Capacity, Equipment Market
+Location	3	Carell, Jon Hamm
+Location	3	Carey, Possible Murdoch
+Location	3	Carolina, Business Reviews
+Location	3	Casablancas, George Harrison
+Location	3	Cathey, Texas AgriLife
+Location	3	Celtics, New York
+Location	3	Cent, Chelsea Handler
+Location	3	Center, The Meritage
+Location	3	Cent, Kidd Kidd
+Location	3	Chair, Lexington County
+Location	3	Chan, Gary Hill
+Location	3	CHANTILLY, Virginia Police
+Location	3	Chase, Jim Weber
+Location	3	Chicago, Gapers Block
+Location	3	Chittley, Associate EditorPostsWebsiteEmailTori
+Location	3	Christian, Mainstream Music
+Location	3	Citigroup, JPMorgan Chase
+Location	3	Citizens, Say Officials
+Location	3	City, Kelly Drive
+Location	3	City, Los Angeles
+Location	3	City, Nevada HuffPost
+Location	3	City, Nevada IHOP
+Location	3	Clash, Drawing Lines
+Location	3	CLUB, LINGERING BARRIERS
+Location	3	College, Newark BRIDGES
+Location	3	Common, Thievery Corporation
+Location	3	County, Texas Evacuees
+Location	3	County, Ventura County
+Location	3	Cozzens, Northwest Wyoming
+Location	3	Crowe, Michel Winterbottom
+Location	3	Cruz, GOP Senate
+Location	3	Days, Tahoe Nights
+Location	3	Dead, Dozens Injured
+Location	3	Dead, Norwegian Freemason
+Location	3	Debate, GOP Targets
+Location	3	Debate, Romney Brings
+Location	3	Debates, Obama Jobs
+Location	3	Debate, Speech Filed
+Location	3	Decades, Has Minimal
+Location	3	Default, Defends Euro
+Location	3	Democrat, Michigan State
+Location	3	Detroit, New York
+Location	3	Development, Pittsburgh Ballet
+Location	3	Dhaka, FIFA Friendly
+Location	3	Diaz, Mike Byhoff
+Location	3	Dies, Passengers Offered
+Location	3	Dignitaries, Family Members
+Location	3	DINAR, Libya Fierce
+Location	3	Director, Ted Keon
+Location	3	Dirty, Dirty Pirate
+Location	3	Disasters News Minnesota forest
+Location	3	Dispute, Anger Debe
+Location	3	Dissident, Liao Yiwu
+Location	3	Dogg, Lady Gaga
+Location	3	Dollar, Subramanian Writes
+Location	3	Drive, Round Rock
+Location	3	Drones, And Even
+Location	3	Dumas, Exhibition Curator
+Location	3	DUNEDIN, New Zealand
+Location	3	Dunn, FDNY Firefighter
+Location	3	Dutchsinse, Patriot Space
+Location	3	Effects, Mesothelioma Treatment
+Location	3	Election, Michele Bachmann
+Location	3	Elenin, Nibiru Night
+Location	3	Elkins, West Virginia
+Location	3	Entertainment, World Celebrities
+Location	3	Episodes, Including Regionals
+Location	3	Epps, Big Krit
+Location	3	Escudero, San Pablo
+Location	3	Evacuation, Identify Huge
+Location	3	Externa, Miguel Carvajal
+Location	3	Fair, Chile Harvest
+Location	3	Fair, Five Known
+Location	3	Falls, Montreal River
+Location	3	Fascist, Blocks Cell
+Location	3	Firefighters, Including Awesome
+Location	3	Firefighter, Tornado Survivor
+Location	3	Fire, Slide Fire
+Location	3	Fishburne, Matt Damon
+Location	3	Flood, High Wind
+Location	3	Florida, United States
+Location	3	Forward, Fall Sponsored
+Location	3	Founders, Conservative Politics
+Location	3	Freeman, Dan Devine
+Location	3	Fuel, Medicine Tropical
+Location	3	Fuentes, America Ferrera
+Location	3	Gadhafi, Libyans Expect
+Location	3	Gallery, Britannia Street
+Location	3	Gastaldo, Newser Staff
+Location	3	General Assembly to forest
+Location	3	General, World Evangelical
+Location	3	GERMANY, BRITAIN Odier
+Location	3	Giffords, Husband Coming
+Location	3	Gilau, Gura Humorului
+Location	3	Gillibrand, Congressmen Paul
+Location	3	Girl, Ryan Gosling
+Location	3	Glan, Sarangani Bohol
+Location	3	Goods (4) State Park
+Location	3	Gourdoughs, Odd Duck
+Location	3	GREYMOUTH, New Zealand
+Location	3	Guetta, Fatboy Slim
+Location	3	Gurung, Haider Ackermann
+Location	3	Haiti, Conservationists Find
+Location	3	HANANEL, Associated Press
+Location	3	Hays, Verena Dobnik
+Location	3	Head, Kitty Hawk
+Location	3	Heaven, Reach Down
+Location	3	Herald, San Joaquin
+Location	3	Herzog, Wim Wenders
+Location	3	Hines, Whimmy Diddle
+Location	3	Homes, Acresby AssociatedPress
+Location	3	HUNT, Associated Press
+Location	3	Iglesias, Jennifer Lopez
+Location	3	Illustrated, Vanity Fair
+Location	3	I'm sharing the forest
+Location	3	in Aaron
+Location	3	in Abidjan
+Location	3	in Accounting
+Location	3	in Active
+Location	3	in Addis
+Location	3	in Adelaide
+Location	3	in Adelman
+Location	3	in Admin
+Location	3	in Alaskans
+Location	3	in Alausi
+Location	3	in Albania
+Location	3	in Alemao
+Location	3	in Alive
+Location	3	in Alleged
+Location	3	in Allen
+Location	3	in Alumni
+Location	3	in Amateur
+Location	3	in AmericaAustraliaJapanIsraelMiddle
+Location	3	in Americas
+Location	3	in Amphitheatre
+Location	3	in Anders
+Location	3	in Animals
+Location	3	in Animation
+Location	3	in Ankara
+Location	3	in Anniversary
+Location	3	in Announcements
+Location	3	in Anonymous
+Location	3	in Apartment
+Location	3	in Arboretum
+Location	3	in Arctic
+Location	3	in Area Around
+Location	3	in Area Real
+Location	3	in Arges
+Location	3	in Article
+Location	3	in Asia Just
+Location	3	in Assails
+Location	3	in Augus
+Location	3	in Automotive
+Location	3	in Bachelor
+Location	3	in Backing
+Location	3	in Badin
+Location	3	in Baker
+Location	3	in Baldwinsville
+Location	3	in Barack
+Location	3	in Barnett
+Location	3	in Bastropadd
+Location	3	in Battling
+Location	3	in Beach
+Location	3	in Beaumont
+Location	3	in Become
+Location	3	in Becomes
+Location	3	in Bedford
+Location	3	in Begos
+Location	3	in Bellevue
+Location	3	in Belton
+Location	3	in Bernanke
+Location	3	in Bernie
+Location	3	in Bethea
+Location	3	in Bethlehem
+Location	3	in Bible
+Location	3	in Big Trouble
+Location	3	in Biking
+Location	3	in Bill Davidow
+Location	3	in Billings
+Location	3	in Blogby
+Location	3	in Blog News
+Location	3	in BLOG WATCH
+Location	3	in Bloomington
+Location	3	in Bloomsburg
+Location	3	in Boardman
+Location	3	in Boochever
+Location	3	in Bozeman
+Location	3	in Bradford
+Location	3	in Briarcliff
+Location	3	in Bryant
+Location	3	in Built
+Location	3	in Bukit
+Location	3	in Bulgaria
+Location	3	in Burlingame
+Location	3	in Camden
+Location	3	in Cameron
+Location	3	in Camp Mayard
+Location	3	in Campus
+Location	3	in Cape Town
+Location	3	in Capitol
+Location	3	in Captain
+Location	3	in Carbon
+Location	3	in Care Blog
+Location	3	in CarlsbadAuto
+Location	3	in Carol
+Location	3	in Cartersville
+Location	3	in Casey
+Location	3	in Cebu City
+Location	3	in Centerville
+Location	3	in Chalayan
+Location	3	in Chambers
+Location	3	in Chandra
+Location	3	in Chapel
+Location	3	in Charge
+Location	3	in Charitable
+Location	3	in Cheers
+Location	3	in Chelsea
+Location	3	in Chemical
+Location	3	in Cheverly
+Location	3	in Chlamydia
+Location	3	in Christmas
+Location	3	in Chung
+Location	3	in Church
+Location	3	Incident, Rescues Tagged
+Location	3	in Cincinnati
+Location	3	in Cities
+Location	3	in Clark
+Location	3	in Clause
+Location	3	in Clothing
+Location	3	in Collision
+Location	3	in Commission
+Location	3	in Communist
+Location	3	in Company
+Location	3	in Compost
+Location	3	in Compromise
+Location	3	in CONCACAF
+Location	3	in Conservative
+Location	3	in Contempt
+Location	3	in Corona
+Location	3	in Cortland
+Location	3	in Costa
+Location	3	in Country
+Location	3	in Craft
+Location	3	in Crawford
+Location	3	in Cronin
+Location	3	in Cuba LightSquared
+Location	3	in Custom
+Location	3	in Cypress
+Location	3	in Daily
+Location	3	in Dave Camp
+Location	3	in Debate
+Location	3	in Debt Ceiling
+Location	3	in Decemb
+Location	3	in Decline
+Location	3	in Demoff
+Location	3	in Demopolis
+Location	3	in DenverI
+Location	3	in Desert
+Location	3	INDIA, BANGLADESH REACH
+Location	3	in Dijon
+Location	3	in Dishes
+Location	3	in Disorders
+Location	3	in Division
+Location	3	in Djerba
+Location	3	in Dropped
+Location	3	in Dubrovnik
+Location	3	in Dudu Fisher
+Location	3	in Earthquake
+Location	3	in East Haven
+Location	3	in Easy Mode
+Location	3	in Edition
+Location	3	in Elementary
+Location	3	in Elgin
+Location	3	in Emergency
+Location	3	in EndWar
+Location	3	in ENTERTAINMENT
+Location	3	in EntertainmentBalenciaga
+Location	3	in EscondidoAuto
+Location	3	in Experience
+Location	3	in Eye Witnesses
+Location	3	in Fair Oaks
+Location	3	in Fawnskin
+Location	3	in Feeds
+Location	3	in Filipino
+Location	3	in Film Festival
+Location	3	in Finding
+Location	3	in Fire Lieutenant
+Location	3	in Fitness
+Location	3	in Flores
+Location	3	in Foods
+Location	3	in Foreign
+Location	3	information Bastrop State Park
+Location	3	in Form Yahoo
+Location	3	in For Senate
+Location	3	in Fortaleza
+Location	3	in Free Republic
+Location	3	in From Afghanistan
+Location	3	in Fulfill
+Location	3	in Furjani
+Location	3	in Furniture
+Location	3	in Garfield
+Location	3	in Garrett
+Location	3	in Gartnavel
+Location	3	in Geylang
+Location	3	in Giant
+Location	3	in Glasgow
+Location	3	in Gleason
+Location	3	in Gonna
+Location	3	in Gonzales
+Location	3	in GOP Sand
+Location	3	in Gosztola
+Location	3	in Goteborg
+Location	3	in Governor
+Location	3	in Graford
+Location	3	in Greenfield
+Location	3	in Greenland
+Location	3	in Greensboro
+Location	3	in Gregg
+Location	3	in Gujarat
+Location	3	in GulfSaadi
+Location	3	in Gumby
+Location	3	Inhalant, Steam Activation
+Location	3	in Half More
+Location	3	in Hampton
+Location	3	in Harlem
+Location	3	in Harper
+Location	3	in Harvey
+Location	3	in Harvick
+Location	3	in Hayes
+Location	3	in HEALTH
+Location	3	in Heidelberg
+Location	3	in Hekmatyar
+Location	3	in Helfgot
+Location	3	in Hempstead
+Location	3	in Henderson
+Location	3	in Henrico
+Location	3	in Henry
+Location	3	in Her Honor
+Location	3	in Herman
+Location	3	in Hershey
+Location	3	in HIGHSCHOOL
+Location	3	in His Pants
+Location	3	in Hits Snag
+Location	3	in Hoffman
+Location	3	in Holland
+Location	3	in Homes
+Location	3	in Honor
+Location	3	in Hubbard
+Location	3	in Huge Calif
+Location	3	in Hungary
+Location	3	in Hunter
+Location	3	in Ikeda
+Location	3	in Images
+Location	3	in Immigration
+Location	3	in Industrial
+Location	3	in Info Austin
+Location	3	in Insurance
+Location	3	in Interviewing
+Location	3	in Iowa Florida
+Location	3	in Iowa Home
+Location	3	in Iowa Steve
+Location	3	in Iran Watch
+Location	3	in IraqBy
+Location	3	in Iraq Comments
+Location	3	in Iraq Past
+Location	3	in Its Entirety
+Location	3	in Jacques
+Location	3	in Jeddah
+Location	3	in Jennifer
+Location	3	in Jennings
+Location	3	in Jeop NASA
+Location	3	in Jimmy
+Location	3	in Jim Wells
+Location	3	in Joins
+Location	3	in JordanGadhafi
+Location	3	in Jorge
+Location	3	in JulyKaiser
+Location	3	in Justin
+Location	3	in Karl Hubrath
+Location	3	in Kebro
+Location	3	in Keller
+Location	3	in Kevlar
+Location	3	in Key Election
+Location	3	in Key West
+Location	3	in Khalet
+Location	3	in Kishtwar
+Location	3	in Koester
+Location	3	in Ladden
+Location	3	in LadenDocumenting
+Location	3	in LadenSponsors
+Location	3	in Lafayette
+Location	3	in Lake Ontario
+Location	3	in Lake Pontchartrain
+Location	3	in Lakeview
+Location	3	in LaosUAAP
+Location	3	in Laredo
+Location	3	in Lesage
+Location	3	in Letters
+Location	3	in Liars
+Location	3	in Lindale
+Location	3	in Literature
+Location	3	in LondonZURICH
+Location	3	in Loses
+Location	3	in Luhrmann
+Location	3	in Lumumbashi
+Location	3	in MacKay
+Location	3	in Madison
+Location	3	in Madoff
+Location	3	in Magazine
+Location	3	in Makes
+Location	3	in Manado
+Location	3	in Manasquan
+Location	3	in Manitoba
+Location	3	in Mansfield
+Location	3	in Manzini
+Location	3	in Marble
+Location	3	in Mark Zuckerberg
+Location	3	in Marseille
+Location	3	in Mary Statue
+Location	3	in Masterson
+Location	3	in Matteson
+Location	3	in May Help
+Location	3	in Mayor
+Location	3	in MBD Meir
+Location	3	in McLennan
+Location	3	in MediaNews
+Location	3	in Members
+Location	3	in Menashe
+Location	3	in Mendy
+Location	3	in Merrimack
+Location	3	in Merritt
+Location	3	in MideastPole
+Location	3	in Midlands
+Location	3	in Midway
+Location	3	in Milford
+Location	3	in Millwood
+Location	3	in Mitchell
+Location	3	in Molecular
+Location	3	in Mongolia
+Location	3	in Montpelier
+Location	3	in Moon Probes
+Location	3	in Mortgage
+Location	3	in Moshe
+Location	3	in Motely
+Location	3	in Multiple
+Location	3	in Nanaimo
+Location	3	in Napa County
+Location	3	in Nasa Coverup
+Location	3	in Nashik
+Location	3	in Nationwide
+Location	3	in NATURE
+Location	3	in Needed
+Location	3	in Need Wildfire
+Location	3	in Netherlands
+Location	3	in Nevad
+Location	3	in New DelhiNew
+Location	3	in New Franklin
+Location	3	in New Moon
+Location	3	in New Reality
+Location	3	in NewsCruise
+Location	3	in News February
+Location	3	in NHbiker
+Location	3	in Nigeriaby
+Location	3	in Nigerien
+Location	3	in NigerTexas
+Location	3	in NOLA Fighters
+Location	3	in Nolan
+Location	3	in Norton
+Location	3	in Nowshera
+Location	3	in NYC Patriotic
+Location	3	in Obituaries
+Location	3	in OceansideAuto
+Location	3	in Ohio State
+Location	3	in Oklaho
+Location	3	in Order
+Location	3	in Ouagadougou
+Location	3	in Our Community
+Location	3	in Our CommunityCamping
+Location	3	in Our Evolution
+Location	3	in Oxnard
+Location	3	in Pacifica
+Location	3	in Panthers
+Location	3	in Papua
+Location	3	in Parker
+Location	3	in Parking
+Location	3	in Pasay
+Location	3	in Pazhwak
+Location	3	in Peaks
+Location	3	in Pentagon
+Location	3	in Persia
+Location	3	in Peter
+Location	3	in Pflugerville
+Location	3	in Philly
+Location	3	in Pike River
+Location	3	in Pizza
+Location	3	in Plastic
+Location	3	in Polish
+Location	3	in Pop Culture
+Location	3	in Port Hawkesbury
+Location	3	in Posters
+Location	3	in Post Tech
+Location	3	in Precinct
+Location	3	in Prep Rally
+Location	3	in Prestige
+Location	3	in Prince
+Location	3	in Privacy
+Location	3	in Private
+Location	3	in Properties
+Location	3	in Protest
+Location	3	in Punjab
+Location	3	in Radar
+Location	3	in Randall
+Location	3	in Rayburn
+Location	3	in Reacts
+Location	3	in Ready
+Location	3	in Real Trouble
+Location	3	in Rehab
+Location	3	in Related
+Location	3	in Relocation
+Location	3	in Renewal
+Location	3	in Res Ipsa
+Location	3	in Revis
+Location	3	in Rikers
+Location	3	in River
+Location	3	in Rizzo
+Location	3	in Rockland
+Location	3	in Roger
+Location	3	in Roubini
+Location	3	in Russi
+Location	3	in Ryazan
+Location	3	in Saadya
+Location	3	in SacramentoNewest
+Location	3	in Sahara
+Location	3	in Salinas
+Location	3	in Sanaa
+Location	3	in San Clemente
+Location	3	in San Cristobal
+Location	3	in San DiegoAuto
+Location	3	in San Leandro
+Location	3	in San Rafael
+Location	3	in Santiago
+Location	3	in Saul Alinsky
+Location	3	in Seefeld
+Location	3	in Sensing
+Location	3	in Shadow
+Location	3	in Shadows
+Location	3	in Shape
+Location	3	in Shapiro
+Location	3	in Sheva
+Location	3	in She Will
+Location	3	in Shimmy
+Location	3	in Shinawatra
+Location	3	in Shir Chodosh
+Location	3	in Shopping
+Location	3	in Shvious
+Location	3	in Sight
+Location	3	in Significant
+Location	3	in Silent
+Location	3	in Simcha
+Location	3	in Skin Known
+Location	3	in Slaton
+Location	3	in Snatched
+Location	3	in Snedden
+Location	3	in Society
+Location	3	in Somali
+Location	3	in Sorolla
+Location	3	in Sounds
+Location	3	in Spas Spirituality
+Location	3	in Stage
+Location	3	in Stalin
+Location	3	in Stanley
+Location	3	in Star Wars
+Location	3	in States
+Location	3	in Status
+Location	3	in Stern
+Location	3	in Stillwater
+Location	3	in Stinson
+Location	3	in Stockholm
+Location	3	in Stony
+Location	3	in StudentsFirst
+Location	3	in Sudan
+Location	3	in Suffolk
+Location	3	in Sunlight
+Location	3	Insurance, Kalli Ortega
+Location	3	in Surgery
+Location	3	in Swedish
+Location	3	in Syndrome
+Location	3	in Tagalog
+Location	3	in Tamil
+Location	3	in Tantawi
+Location	3	in Tarantino
+Location	3	in Tehachapi
+Location	3	in Telephone
+Location	3	in Television
+Location	3	International, Newark International
+Location	3	in TexasBoston
+Location	3	in TexasSummary
+Location	3	in Theater
+Location	3	in The Atlantic
+Location	3	in TheCypressTimes
+Location	3	in The Dallas
+Location	3	in The Galveston
+Location	3	in The Houston
+Location	3	in THEIR
+Location	3	in The Killeen
+Location	3	in The Lufkin
+Location	3	in The Miami
+Location	3	in The Park
+Location	3	in These
+Location	3	in Thessaloniki
+Location	3	in The Tyler
+Location	3	in This Weekend
+Location	3	in Thomaston
+Location	3	in Tickets
+Location	3	in Tights
+Location	3	in Tommy
+Location	3	in Topeka
+Location	3	in Trenton
+Location	3	in Tribal
+Location	3	in Trinidad
+Location	3	in Trois
+Location	3	in Tsavo
+Location	3	in Tunis
+Location	3	in Tupelo
+Location	3	in Turkish
+Location	3	in TurmoilAlabama
+Location	3	in Tuscon
+Location	3	in Under
+Location	3	in USA Today
+Location	3	in UtahFacebook
+Location	3	in Utah MORE
+Location	3	in Utah Play
+Location	3	in Valencia
+Location	3	in Variety
+Location	3	INVERCARGILL, New Zealand
+Location	3	in Victorian
+Location	3	in Victorville
+Location	3	in Victory
+Location	3	in Videotaped
+Location	3	in Visual
+Location	3	in Vocations
+Location	3	in Waco Auto
+Location	3	in Walking
+Location	3	in Wasilla
+Location	3	in Watercolor
+Location	3	in Waterhouse
+Location	3	in Watson
+Location	3	in Wattenberg
+Location	3	in Whose
+Location	3	in Wicker
+Location	3	in Wikileaks
+Location	3	in Williamson
+Location	3	in Yaakov
+Location	3	in Yoel Katz
+Location	3	in Your Area
+Location	3	in Your Life
+Location	3	in YouTube
+Location	3	in Zurich
+Location	3	Iowa, Herman Cain
+Location	3	Iowa, South Carolina
+Location	3	Iracane, Chris Chase
+Location	3	Iracane, Nick Bromberg
+Location	3	Iraq, Suicide Bomber
+Location	3	Islam, End Times
+Location	3	Island, Jets SecondaryDieting
+Location	3	Issues, National Threats
+Location	3	Jackson, Johnny Depp
+Location	3	January, MediaNews Group
+Location	3	Jeju, South Korea
+Location	3	Jersey, Christie Sued
+Location	3	Jobs, Economy Super
+Location	3	Jobs, Immigration ReformUS
+Location	3	Jobs, President Obama
+Location	3	Jose, Tarlac Siargao
+Location	3	JUAN, Puerto Rico
+Location	3	July, John Allison
+Location	3	KABUL, Afghanistan NATO
+Location	3	Kansas, Kansas State
+Location	3	Katia, Tropical Storm
+Location	3	Katy, Texas Shop
+Location	3	Kell, Associate EditorPostsWebsiteEmailTwitter
+Location	3	Keller, New York
+Location	3	Kerik, Rudy Giuliani
+Location	3	Khamenei, Loves Iran
+Location	3	Khan, Phoenix Fire
+Location	3	Killed, Husband Injured
+Location	3	Kits, Drone Planes
+Location	3	Krocheski, Jon McAvoy
+Location	3	Kroes, Adriana Lima
+Location	3	Lachey, Vanessa Minnillo
+Location	3	Ladies, Watch Your
+Location	3	LAKE, Texas Crews
+Location	3	Landscape, The Road
+Location	3	Lauria, Alexei Oreskovic
+Location	3	Legend, Human Species
+Location	3	Legends, Species Amnesia
+Location	3	Lehmann, EditorPostsEmailTwitterRSSHolly Bailey
+Location	3	Lime Kiln State Park
+Location	3	Linn, Jefferson City
+Location	3	MacDonald, Managing EditorPostsWebsiteEmailJordan
+Location	3	Maitreya, VaticanAnnunaki Legends
+Location	3	Manager, WeatherTech Automotive
+Location	3	Manning, Tom Coughlin
+Location	3	Markets, European Economy
+Location	3	Martin, Catherine Knapman
+Location	3	Massachusetts, Mitt Romney
+Location	3	Matters, Too Ambassador
+Location	3	Media, LLC Privacy
+Location	3	Medicine, Health Tips
+Location	3	Memoirs, Digital Dating
+Location	3	Mendes, Ryan Gosling
+Location	3	Method, Steve Aoki
+Location	3	Metz, Associated Press
+Location	3	Mexico, Not Texas
+Location	3	Meyers, Andrei Alexandrescu
+Location	3	Michigan, New Mexico
+Location	3	Micronesia, Federated States
+Location	3	Military, Afghan Police
+Location	3	Miller, Elgin Township
+Location	3	Minaj, Evelyn Lozada
+Location	3	Moeciu, Moldova Noua
+Location	3	Monday, Anderson Cooper
+Location	3	Montclair, New Jersey
+Location	3	Mourning, Samuel Ferris
+Location	3	NAACP, Congressional Black
+Location	3	Nasaud, Ocna Mures
+Location	3	National, Politics Tags
+Location	3	near Tsavo National Park
+Location	3	Neighbor, Steve Jobs
+Location	3	Networkhaarp, Drone Throne
+Location	3	Networks, Add More
+Location	3	Nevada, New Hampshire
+Location	3	Newark, New Jersey
+Location	3	News, Brian Williams
+Location	3	Newsies, Pippa Middleton
+Location	3	News, Staff Reports
+Location	3	Nicholson, United Farm
+Location	3	Night, Spilling Over
+Location	3	Obama, Congress HuffPost
+Location	3	ObservatoriesElenin, Three Days
+Location	3	Officials, Federal Government
+Location	3	Ohio, New Jersey
+Location	3	Once, Read Everywhere
+Location	3	Order, NWO Deception
+Location	3	Oscars, Gwyneth Paltrow
+Location	3	Oscars, Reese Witherspoon
+Location	3	PALLEKELE, Sri Lanka
+Location	3	Paltrow, Marion Cotillard
+Location	3	Parenting, Child Development
+Location	3	Park, Steiner Ranch
+Location	3	Parkway, Bronx River
+Location	3	Parkway, Saw Mill
+Location	3	participate in international forest
+Location	3	Partners, Andreessen Horowitz
+Location	3	Party, Fox Hosts
+Location	3	Pataki, Mayor Giuliani
+Location	3	Patch, Stop Smoking
+Location	3	Peninsula, RussiaFOREX Robot
+Location	3	People, Eating Bugs
+Location	3	Perry, Executions Raise
+Location	3	Perry, Presidential Candidate
+Location	3	Perry, Smiling With
+Location	3	Photos, Ballpark Mischief
+Location	3	Pitt, Viggo Mortensen
+Location	3	Plunge, Obama Leaves
+Location	3	Pointer, Mark Allen
+Location	3	Policy, Climate Change
+Location	3	Politics, Business Noon
+Location	3	Politics, Featured Video
+Location	3	Politics, Hot Topics
+Location	3	Polls, Rick Perry
+Location	3	Posts, Pages Chemtrail
+Location	3	Posts, PagesChemtrail Coverup
+Location	3	Potrero, Barrett Junction
+Location	3	practice in local forest
+Location	3	prepare the retardant, forest
+Location	3	President, First Lady
+Location	3	President, Ron Paul
+Location	3	Prices, Alyona Minkovski
+Location	3	Promotions, More Yesterday
+Location	3	Purpose, Pursue Their
+Location	3	Racovita, Ramnicu Sarat
+Location	3	Rain, Latest Radiation
+Location	3	Rating, China Joins
+Location	3	Really, Really Stupid
+Location	3	RECORD, JUST ENDS
+Location	3	Reguera, Natalie Morales
+Location	3	Report, All Rights
+Location	3	Reporter, Foreign Correspondent
+Location	3	Representatives, Anthony Weiner
+Location	3	Republicans, Barack Obama
+Location	3	Review, The Argus
+Location	3	Ricochet, Helps Disabled
+Location	3	Ring, Bachmann Wins
+Location	3	RISLING, Associated Press
+Location	3	Road, Cave Creek
+Location	3	Road, Geysers Described
+Location	3	Road, Willenhall Watch
+Location	3	Roddick, Andy Murray
+Location	3	Rodriguez, Executive Director
+Location	3	Rodriguez, Jessica Alba
+Location	3	Rollins, AgriLife Extension
+Location	3	Romney, Social Security
+Location	3	Roof, Down Shaft
+Location	3	Rose, Kat Stacks
+Location	3	Samaritan, Mariea Purdy
+Location	3	Sanpetru, Satu Mare
+Location	3	Satanism, Satanic Enlightenment
+Location	3	Scans, Records Show
+Location	3	Schlumberger, Marvell Technology
+Location	3	Schwab, Restaurant Writer
+Location	3	Science, Clemson University
+Location	3	Scorchers, Mystery Fumes
+Location	3	Security, Stops Trucks
+Location	3	Senn, Staff Writer
+Location	3	Services, SPH Content
+Location	3	Shaaban, President Bashar
+Location	3	Shakira, Selena Gomez
+Location	3	Shandaken, Rotterdam Junction
+Location	3	Shanksville, Thousands Gather
+Location	3	Sharp, Rob Kallenbach
+Location	3	Shelton, Miranda Lambert
+Location	3	Shots, Conservative Politics
+Location	3	Smarter, Fitter Children
+Location	3	SocGen, Credit AgricoleCar
+Location	3	Solano, Sonoma Accounting
+Location	3	Sound, Tiny Buds
+Location	3	Speech, Rick Perry
+Location	3	Spencer, Arizona Police
+Location	3	Spill, Mesothelioma Class
+Location	3	Sports, Entertainment Subscribe
+Location	3	Sprie, Baile Herculane
+Location	3	Star, Andy Whitfield
+Location	3	Stiller, Casey Affleck
+Location	3	Stop, Even Cure
+Location	3	Store, But Clerk
+Location	3	Stories, Most Recent
+Location	3	Storm, The England
+Location	3	Stoute, The Tanning
+Location	3	Successor, Sports Amazing
+Location	3	Sunday, Mayor Bloomberg
+Location	3	Swift, Reese Witherspoon
+Location	3	TalentsElenin, Three Days
+Location	3	TalkBack, Newcomers Club
+Location	3	Talk, Skirts Political
+Location	3	Tapes, Reality Stars
+Location	3	Targoviste, Targu Mures
+Location	3	TARHOUNA, Libya Convoys
+Location	3	Teetered, Obama Vacationed
+Location	3	Teetered, Obama VacationedUnderstanding
+Location	3	Tension, Police Hunt
+Location	3	Terminal, Pennsylvania Station
+Location	3	Terrorism, Those Dems
+Location	3	Texas, Wildfire Copyright
+Location	3	Theatre, Pittsburgh Symphony
+Location	3	the plane, said forest
+Location	3	Thursday, The Denver
+Location	3	Times, Parkside High
+Location	3	Times, Rolling Stone
+Location	3	Times, San Ramon
+Location	3	Times, The Wall
+Location	3	Times, Wall Street
+Location	3	Today, This Week
+Location	3	Tonight, Spokesman SaysMan
+Location	3	Tourism, Business HuffPost
+Location	3	Township, Northampton County
+Location	3	Trend, Offers Juicy
+Location	3	Troy, Danny Pudi
+Location	3	Truths, Reports Disturbing
+Location	3	Tsavo East National Park
+Location	3	Tuesday, Orange County
+Location	3	Turda, Valea Mare
+Location	3	Twitter, News Team
+Location	3	Vacation, Who Donald
+Location	3	VANCOUVER, British Columbia
+Location	3	Vasicek, Marek Flyers
+Location	3	Vedder, Stone Gossard
+Location	3	Verel, Business Journal
+Location	3	Verizon, Cablevisision Also
+Location	3	VIDEO, BEFORE SEEING
+Location	3	Video, Conservative Politics
+Location	3	Vocalist, Angelica Ganea
+Location	3	Wales, Pippa Middleton
+Location	3	Warfare, Simple Math
+Location	3	Washington, Heather Penney
+Location	3	Watch, Hot Topics
+Location	3	Weather, Sports KFDA
+Location	3	Weddings, San Francisco
+Location	3	Wednesday, Assistant District
+Location	3	Whitfield, Ryan Dunn
+Location	3	Winslet, Elliott Gould
+Location	3	Winslet, Keira Knightley
+Location	3	Winslet, Matt Damon
+Location	3	Witten, Felix Jones
+Location	3	Workout, Pyro Party
+Location	3	Works, Study Finds
+Location	3	Yesterday, President Obama
