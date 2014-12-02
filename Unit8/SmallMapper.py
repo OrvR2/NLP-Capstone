@@ -38,22 +38,28 @@ nltk.data.path += ["./nltkData/"]
 def is_ascii(s):
     return all(ord(c) < 128 for c in s)
 
-f = sys.stdin.read()
+f = sys.stdin
+ 
+event_dir = './event'
 
-words = f.split()
-for w in words:
-    if is_ascii(w):
-        contents = contents + " " + w
+for fileName in f.readlines():
+    fileName = fileName.strip() 
+    filePath = os.path.join(event_dir, fileName)
+    file = open(filePath, 'r')
+    fileWords = file.read().split()
+    file.close()
+    fileContents = ""
+    for w in fileWords:
+        if is_ascii(w):
+            fileContents = fileContents + " " + w
+    fileSentences = nltk.tokenize.sent_tokenize(fileContents)
+
+    for sentence in fileSentences:
     
-fileSentences = nltk.tokenize.sent_tokenize(fileContents)
+        for type, pattern in patterns.iteritems():
+            for match in pattern.finditer(sentence):
+                result = match.group().split()
 
-# Each line in sys.stdin will be the name of a document.
-for sentence in fileSentences:
-    
-    for pattern in patterns.iteritems():
-        for match in patterns[pattern].finditer(sentence):
-            result = match.group().split()
-
-            result = " ".join(w for w in result)
-            result.strip()
-            print "{0};{1};{2}".format(pattern, 1, result)
+                result = " ".join(w for w in result)
+                result.strip()
+                print "{0};{1};{2}".format(type, 1, result)

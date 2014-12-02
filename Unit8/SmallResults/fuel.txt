@@ -1,0 +1,194 @@
+Fuel	1072	the pop up wind
+Fuel	1071	detailed instructionsClose this wind
+Fuel	63	part to calming wind
+Fuel	45	fires, but high wind
+Fuel	40	Boyd's forest
+Fuel	40	"It was Cindy's forest
+Fuel	40	six acres of trees
+Fuel	39	allow pop up wind
+Fuel	30	A central Texas forest
+Fuel	30	out from the trees
+Fuel	30	the freeway after wind
+Fuel	30	video of the brush
+Fuel	25	historic Bastrop pine trees
+Fuel	24	the Lost Pines forest
+Fuel	20	The wind
+Fuel	19	hot temperatures, strong wind
+Fuel	19	wildfires the state forest
+Fuel	18	With lighter wind
+Fuel	17	out of the wind
+Fuel	16	we are up wind
+Fuel	15	The forest
+Fuel	14	damaged limbs from trees
+Fuel	14	drives W. Bexar brush
+Fuel	14	to reinforce your wind
+Fuel	13	ago when blustering wind
+Fuel	13	they're concerned about wind
+Fuel	13	to open secondary wind
+Fuel	13	When pop-up wind
+Fuel	12	control of a wind
+Fuel	12	crash sparks rapid brush
+Fuel	12	High wind
+Fuel	12	pines and other trees
+Fuel	12	scattered in the forest
+Fuel	11	didn't expect major wind
+Fuel	11	Tropical Storm Lee's wind
+Fuel	11	Wildfire News Calmer wind
+Fuel	10	Today the wind
+Fuel	9	responded to a brush
+Fuel	8	Scorching temperatures, strong wind
+Fuel	7	0 mph N wind
+Fuel	7	crashed through the wind
+Fuel	7	in a pop-up wind
+Fuel	7	just sort of brush
+Fuel	6	180 wildfires the forest
+Fuel	6	a lot of wind
+Fuel	6	for days, the wind
+Fuel	6	Lee was high wind
+Fuel	6	lingered, however, about wind
+Fuel	6	Many trees
+Fuel	6	million people, toppling trees
+Fuel	6	of historic pine forest
+Fuel	6	ow.pageYOffset + wind
+Fuel	6	Season, Santa Ana wind
+Fuel	6	Sony Toshiba weather wind
+Fuel	6	spreads through dry brush
+Fuel	6	twitter ups weather wind
+Fuel	6	YORK (AP) Oak trees
+Fuel	5	2 mph N wind
+Fuel	5	Calmer wind
+Fuel	5	Federal forest
+Fuel	5	feel: 50 F wind
+Fuel	5	feel: 60 F wind
+Fuel	5	Fire, Santa Ana wind
+Fuel	5	in a new wind
+Fuel	5	over Fire Calmer wind
+Fuel	5	part by howling wind
+Fuel	5	sixth day because trees
+Fuel	5	Strong wind
+Fuel	5	target twitter weather wind
+Fuel	5	the Santa Ana wind
+Fuel	5	to control a brush
+Fuel	5	to see the brush
+Fuel	5	was caused by wind
+Fuel	5	with 35 mph wind
+Fuel	4	: 0, container: wind
+Fuel	4	190 wildfires the forest
+Fuel	4	2011 boating season wind
+Fuel	4	and causing a wind
+Fuel	4	animal in the forest
+Fuel	4	businesses, shattering the wind
+Fuel	4	convergence of strong wind
+Fuel	4	damaging a cab wind
+Fuel	4	days, powered by wind
+Fuel	4	depends on the wind
+Fuel	4	designed a NYC wind
+Fuel	4	down driver's side wind
+Fuel	4	errorsCrews battle smoky brush
+Fuel	4	eyes are the wind
+Fuel	4	Fire News Minnesota forest
+Fuel	4	for wind
+Fuel	4	Fresh crews, light wind
+Fuel	4	Griffin surprises NYC wind
+Fuel	4	+ grpId; } wind
+Fuel	4	guess lining the wind
+Fuel	4	heat and gusting wind
+Fuel	4	"If the wind
+Fuel	4	in oklahoma that wind
+Fuel	4	Keep wind
+Fuel	4	lawmakers consider new wind
+Fuel	4	meant even modest wind
+Fuel	4	north, where strong wind
+Fuel	4	of the worst brush
+Fuel	4	on a food forest
+Fuel	4	Open in new wind
+Fuel	4	out clearing the brush
+Fuel	4	pulling all the trees
+Fuel	4	quarter-mile wide, with wind
+Fuel	4	rains and skin-stinging wind
+Fuel	4	roads, knocked down trees
+Fuel	4	seen in a wind
+Fuel	4	storm nate weather wind
+Fuel	4	s were toppling trees
+Fuel	4	that would indicate forests
+Fuel	4	their insurance for wind
+Fuel	4	them keep their wind
+Fuel	4	This wind
+Fuel	4	thousands evacuated as wind
+Fuel	4	to nothing to forest
+Fuel	4	tornados, hail, heavy wind
+Fuel	4	whipped by strong wind
+Fuel	4	your homeowner, flood, wind
+Fuel	3	0) topPos = wind
+Fuel	3	15,000-acre wildfire in forest
+Fuel	3	$350 and that wind
+Fuel	3	ago, when blustering wind
+Fuel	3	and you could wind
+Fuel	3	are going to wind
+Fuel	3	battling a dozen brush
+Fuel	3	been twisting the wind
+Fuel	3	blaze burning in forests
+Fuel	3	called the "primitive forest
+Fuel	3	caused flooding, downed trees
+Fuel	3	child dead after wind
+Fuel	3	crashed in strong wind
+Fuel	3	crashes through his wind
+Fuel	3	c=s.t();if(c)s.d.write(c);s.etfs=0;return true');s.gtfsf" +"b=function(a){return wind
+Fuel	3	dark wall of trees
+Fuel	3	day of milder wind
+Fuel	3	Despite calming wind
+Fuel	3	Disasters News Minnesota forest
+Fuel	3	dry conditions and wind
+Fuel	3	dump out of wind
+Fuel	3	easing of the wind
+Fuel	3	Fires 1:02 Powerful wind
+Fuel	3	first time since brush
+Fuel	3	for the strongest wind
+Fuel	3	for the trees
+Fuel	3	from Nathan's gets wind
+Fuel	3	General Assembly to forest
+Fuel	3	given me a wind
+Fuel	3	giving them a wind
+Fuel	3	hand against flames, wind
+Fuel	3	has the largest wind
+Fuel	3	have received that trees
+Fuel	3	him open the wind
+Fuel	3	his tennis career wind
+Fuel	3	hits Texas with wind
+Fuel	3	home as changing wind
+Fuel	3	I'm sharing the forest
+Fuel	3	incidental color and wind
+Fuel	3	in grass and brush
+Fuel	3	in part by wind
+Fuel	3	In Tennessee, enormous trees
+Fuel	3	Memorial as the wind
+Fuel	3	motionless, by the wind
+Fuel	3	of Acres High wind
+Fuel	3	out through the wind
+Fuel	3	participate in international forest
+Fuel	3	pocked with boarded-up wind
+Fuel	3	practice in local forests
+Fuel	3	prepare the retardant, forest
+Fuel	3	rain and strong wind
+Fuel	3	Roads were flooded, trees
+Fuel	3	"Several large trees
+Fuel	3	So grab your wind
+Fuel	3	Southern Calif. palm trees
+Fuel	3	splashed across store wind
+Fuel	3	s.trackInlineStats=true s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls,mp4" s.linkInternalFilters="javascript:,"+ wind
+Fuel	3	strong gusts of wind
+Fuel	3	style singing about brush
+Fuel	3	that gusty sundowner wind
+Fuel	3	The biggest surprise wind
+Fuel	3	the fire before wind
+Fuel	3	The high wind
+Fuel	3	the plane, said forest
+Fuel	3	"They're busting the wind
+Fuel	3	.tooth paste and brush
+Fuel	3	.treehugge r.com/file s/2008/01/ wind
+Fuel	3	UKWarnings of 70mph wind
+Fuel	3	warnings and 80mph wind
+Fuel	3	"We believe the wind
+Fuel	3	What helps you wind
+Fuel	3	When the wind
+Fuel	3	with maximum sustained wind
