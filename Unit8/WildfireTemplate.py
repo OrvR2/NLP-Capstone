@@ -34,27 +34,27 @@ def main():
 	'''
 	A pattern that matches possible loss of life.
 	'''
-	lossOfLifePatternString = "\s[0-9]{1,3}\s(\S+\s){0,2}killed|[0-9]+\s(\S+\s)(dead|(of\s)?deaths)"
+	lossOfLifePatternString = "[0-9]{1,3}\s(\S+\s){0,2}killed|[0-9]+\s(\S+\s)(dead|(of\s)?deaths)"
 
 	'''
 	A pattern that matches closures as a result of the fire.
 	'''
-	closuresPatternString = "((\S+\s){1,2}(highway(s)?|freeway(s)?|interstate(s)?)(\s\S+){1,2})|(\S+\s){4,7}evacuate(d)?"
+	closuresPatternString = "(\S+\s(ranch(es)?|farm(s)?|road(s)?|home(s)?|highway(s)?|freeway(s)?|interstate(s)?)(\s\S+){1,2})|(\S+\s){1,2}evacuate(d)?"
 
 	'''
 	A pattern that matches the area of impact of the fire
 	'''
-	areaOfImpactPatternString = "(\S+\s){1,2}(miles|hectares)|(\S+\s){1,2}acres"
+	areaOfImpactPatternString = "([0-9]+|(\S+\sof))\s(miles|hectares|acres|meters|yards)"
 
 	'''
 	A pattern that matches firefighting measures employed in battling the fire.
 	'''
-	firefightingMeasuresPatternString = "(\.|\t|\n)(\S+\s)*firefighter(s)?(\s\S+)*(\.|\t|\n)|(\S+\s)extinguish(ed|ing)?(\s\S+){1,2}|(\.|\t|\n)(\S+\s)*(fire\sretardent|helicopter|plane)(\s\S+)*\."
+	firefightingMeasuresPatternString = "([0-9]+|(\S+\sof))\sfirefighters"
 
 	'''
 	A pattenr that matches terms signifying the severity of the fire.
 	'''
-	severityPatternString = "(\S+\s)?(severe|tragic|devastating|raging|widespread)(\s\S+)."
+	severityPatternString = "(\S+\s)fire"
 
 	'''
 	A pattern for 4-digit years
