@@ -13,29 +13,29 @@ def main():
 	A pattern that matches "in" OR "at" followed by a single word, two words, or one word + a comma one or two words.
 	This is intended to match common location occurrences, like: "in Islip, New York", or "at Islip" 
 	'''
-	locationPatternString = "(in|at|around|near)(\s\S+){1,2}|[A-Z][a-zA-Z]{3,},\s[A-Z][a-zA-Z]{2,}(\s[A-Z][a-zA-Z]{3,})?|(\S+\s){1,3}forest|(\S+\s){1,2}(State|National)\sPark"
+	locationPatternString = "(in|at|around|near)(\sthe)?\s[A-Z][a-zA-Z]{3,}(\s\S{4,})?(,\s([A-Z][a-zA-Z]{3,}){1,2})?"
 
 	'''
 	A pattern that matches possible causes (or 'source') of the event. Phrases matched are: 
 	"affected by ____", "result of ____", "caused by _____", "by ____"
 	'''
-	causePatternString = "(\S+\s){1,2}(electric(al)?|pyrotechnic(s)?|firework(s)?|arson|gas|negligen(t|ce))(\s\S+){1,2}"
+	causePatternString = "\S+\s(electric(al)?|pyrotechnic(s)?|firework(s)?|arson|gas|negligence)"
 
 	'''
 	A pattern that matches possible fuel sources for the fire.
 	'''
-	fuelPatternString = "(\S+\s){1,2}(foam|insulation|carpet|natural\sgas)|(\S+\s){1,2}(caught\son\sfire)"
+	fuelPatternString = "\S+\s(foam|insulation|carpet|natural\sgas)"
 
 	'''
 	A pattern that matches possible damage caused by the fire.
 	OLD: damagePatternString = "damaged(\s[\S]{3,}){1,3}|\S+\sin\sdamages|(\S+\s){2,3}destroyed(\s[A-Za-z0-9]{3,}){1,4}|(\S+\s){1,3}burned(\s\S+){1,3}"
 	'''
-	damagePatternString = "(\S+\s){1,2}dollar(s)?|\$[0-9]+(\s\S+){0,3}|damage(d|s)?(\s\S+){1,3}|(\S+\s){1,2}(destroy(ed|s)?|devastate(d|s)?)"
+	damagePatternString = "(damaged|destroyed|burned|desecrated|scorched|engulfed)(\s\S+){1,2}"
 
 	'''
 	A pattern that matches possible loss of life.
 	'''
-	lossOfLifePatternString = "[0-9]+\s(\S+\s){0,2}killed|[0-9]+\s(\S+\s)(dead|(of\s)?deaths)"
+	lossOfLifePatternString = "\s[1-9][0-9]{0,2}\skilled|\s[1-9][0-9]{0,2}(dead|(of\s)?deaths)"
 
 	'''
 	A pattern that matches closures as a result of the fire.
@@ -45,17 +45,18 @@ def main():
 	'''
 	A pattern that matches the area of impact of the fire
 	'''
-	areaOfImpactPatternString = "([0-9]+|(\S+\sof))\s(floor(s)?|building(s)?|room(s)?|block(s)?)"
+	areaOfImpactPatternString = "([0-9]+|(\S+(\sof)?))\s(floor(s)?|building(s)?|room(s)?|block(s)?)"
 
 	'''
 	A pattern that matches firefighting measures employed in battling the fire.
 	'''
-	firefightingMeasuresPatternString = "([0-9]+|(\S+\sof))\sfirefighters"
+	#firefightingMeasuresPatternString = "([0-9]+|(\S+(\sof)?))\sfirefighters"
+	firefightingMeasuresPatternString = "(\S+\s){1,3}((extinguish(ed|ing)?)rescue(d)?|douse(d)?)(\s\S+){1,6}"
 
 	'''
 	A pattenr that matches terms signifying the severity of the fire.
 	'''
-	severityPatternString = "(\S+\s)fire"
+	severityPatternString = "(\S{4,}\s)fire"
 
 	'''
 	A pattern for 4-digit years
@@ -199,9 +200,7 @@ def main():
 
 	# Creates a frequency dictionary for each attribute type
 	locationFreqDict = dict()
-	waterwaysFreqDict = dict()
 	causeFreqDict = dict()
-	girthFreqDict = dict()
 	yearFreqDict = dict()
 	monthFreqDict = dict()
 	fuelFreqDict = dict()
@@ -318,7 +317,7 @@ def main():
 	print "In <start time>, there was a fire started by <cause> in <geographic location>. This fire, caused by <fuel>, grew to encompass <area of impact>, <damage (land/homes)>, and <loss of life>. <firefighting measures>. The fire was extinguished in <end time>. <closures> as a result of the fire. Compared to previous fires in the area this fire was <severity>."
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "In {0}, there was a fire started by {1} in {2}. This fire, caused by {3}, grew to encompass {4}, {5}, and {6}. {7}. {8} as a result of the fire. Compared to previous fires in the area this fire was {9}.".format(monthFreqDict[0][0] + " " + yearFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[1][0], locationFreqDict[0][0])
+	print "In {0} {1} there was a fire started by {2} {3}. This fire, fueled by {4}, grew to the size of {5} and {6} and {7} were killed. {8}. {9} was made unavailable for a period of time. The fire was {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeFreqDict[0][0], firefightingFreqDict[0][0], closuresFreqDict[0][0], severityFreqDict[0][0], causeFreqDict[1][0])
 	
 
 	

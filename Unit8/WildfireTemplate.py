@@ -19,22 +19,22 @@ def main():
 	A pattern that matches possible causes (or 'source') of the event. Phrases matched are: 
 	"affected by ____", "result of ____", "caused by _____", "by ____"
 	'''
-	causePatternString = "(\S+\s){1,2}(wind(s)?|lightning|drought|arson(s)?|(negligence|negligent))(\s\S+){1,2}"
+	causePatternString = "\S+\s(lightning|drought(s)?|arson(s)?|negligence)"
 
 	'''
 	A pattern that matches possible fuel sources for the fire.
 	'''
-	fuelPatternString = "(\S+\s){1,3}(wind|brush|trees|forest(s)?)"
+	fuelPatternString = "\S+\s(wind|brush|trees|forest(s)?)"
 
 	'''
 	A pattern that matches possible damage caused by the fire.
 	'''
-	damagePatternString = "damaged(\s[\S]{3,}){1,3}|\S+\sin\sdamages|(\S+\s){2,3}destroyed(\s[A-Za-z0-9]{3,}){1,4}|(\S+\s){1,4}burned(\s\S+){1,3}"
+	damagePatternString = "(damaged|destroyed|burned|desecrated|scorched|engulfed)(\s\S+){1,3}"
 
 	'''
 	A pattern that matches possible loss of life.
 	'''
-	lossOfLifePatternString = "[0-9]{1,3}\s(\S+\s){0,2}killed|[0-9]+\s(\S+\s)(dead|(of\s)?deaths)"
+	lossOfLifePatternString = "\s[1-9][0-9]{0,2}\skilled|\s[1-9][0-9]{0,2}(dead|(of\s)?deaths)"
 
 	'''
 	A pattern that matches closures as a result of the fire.
@@ -198,9 +198,7 @@ def main():
 
 	# Creates a frequency dictionary for each attribute type
 	locationFreqDict = dict()
-	waterwaysFreqDict = dict()
 	causeFreqDict = dict()
-	girthFreqDict = dict()
 	yearFreqDict = dict()
 	monthFreqDict = dict()
 	fuelFreqDict = dict()
