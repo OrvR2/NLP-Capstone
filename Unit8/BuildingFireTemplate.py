@@ -328,7 +328,7 @@ def main():
 		# if gerund verb
 		elif (tags[1].startswith("VBG")):
 			#conjugate
-			severityResult = " ".join([conjugate(word, tense="past") for word in tokens])
+			severityResult = " ".join([conjugate(word, tense="past") if tags[1] == 'VBG' else word for word in tokens])
 			break
 
 		count += 1
