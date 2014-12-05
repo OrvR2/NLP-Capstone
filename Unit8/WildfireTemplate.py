@@ -52,11 +52,6 @@ def main():
 	firefightingMeasuresPatternString = "([0-9]+|(\S+\sof))\sfirefighters"
 
 	'''
-	A pattenr that matches terms signifying the severity of the fire.
-	'''
-	severityPatternString = "(\S{4,}\s)fire"
-
-	'''
 	A pattern for 4-digit years
 	'''
 	yearPatternString = "\s\d{4}"
@@ -74,7 +69,6 @@ def main():
 	closuresPattern = re.compile(closuresPatternString)
 	areaOfImpactPattern = re.compile(areaOfImpactPatternString)
 	firefightingMeasuresPattern = re.compile(firefightingMeasuresPatternString)
-	severityPattern = re.compile(severityPatternString)
 	yearPattern = re.compile(yearPatternString)
 	monthPattern = re.compile(monthPatternString)
 	lossOfLifePattern = re.compile(lossOfLifePatternString)
@@ -116,7 +110,6 @@ def main():
 		searchMatches(D, closuresPattern, fileSentences, fileName, "closures")
 		searchMatches(D, areaOfImpactPattern, fileSentences, fileName, "area")
 		searchMatches(D, firefightingMeasuresPattern, fileSentences, fileName, "firefighting")
-		searchMatches(D, severityPattern, fileSentences, fileName, "severity")
 		searchMatches(D, lossOfLifePattern, fileSentences, fileName, "deaths")
 
 	print
@@ -206,7 +199,6 @@ def main():
 	closuresFreqDict = dict()
 	areaFreqDict = dict()
 	firefightingFreqDict = dict()
-	severityFreqDict = dict()
 	lossOfLifeFreqDict = dict()
 
 	# Loops through the original frequency dictionary, and adds the correspond word and frequency
@@ -267,12 +259,6 @@ def main():
 			except:
 				firefightingFreqDict[result] = freq
 
-		if (typeOfInfo == "severity" and result not in stopwords):
-			try:
-				severityFreqDict[result] += freq
-			except:
-				severityFreqDict[result] = freq
-
 		if (typeOfInfo == "deaths" and result not in stopwords):
 			try:
 				lossOfLifeFreqDict[result] += freq
@@ -292,7 +278,6 @@ def main():
 	closuresFreqDict = sorted(closuresFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 	areaFreqDict = sorted(areaFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 	firefightingFreqDict = sorted(firefightingFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
-	severityFreqDict = sorted(severityFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 	lossOfLifeFreqDict = sorted(lossOfLifeFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 
 	# Prints the top 10 words for each attribute.
@@ -306,7 +291,6 @@ def main():
 	print "Closures:", closuresFreqDict [:10], '\n'
 	print "Area:", areaFreqDict [:10], "\n"
 	print "Firefighting:", firefightingFreqDict [:10], "\n"
-	print "Severity:", severityFreqDict [:10], "\n"
 	print "Loss Of Life:", lossOfLifeFreqDict [:10], "\n"
 
 	lossOfLifePhrase = ""
@@ -318,10 +302,11 @@ def main():
 	
 	# Prints the original template.
 	print "Template before filling-out:"
-	print "In <start time>, there was a fire started by <cause> in <geographic location>. This fire, caused by <fuel>, grew to encompass <area of impact>, <damage (land/homes)>, and <loss of life>. <firefighting measures. <closures> as a result of the fire. Compared to previous fires in the area this fire was <severity>."
+	print "In <start time>, there was a fire started by <cause> in <geographic location>. This fire, caused by <fuel>, grew to encompass <area of impact>, <damage (land/homes)>, and <loss of life>. <firefighting measures. <closures> as a result of the fire."
+
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "In {0} {1}, there was a fire started by a {2} {3}. This fire, fueled by {4}, grew to encompass {5}, {6} and {7}. {8} responded to the wildfire. {9} were affected as a result of the fire. Compared to previous fires in the area it was a {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[0][0], areaFreqDict[0][0], damageFreqDict[0][0], lossOfLifePhrase, firefightingFreqDict[0][0], closuresFreqDict[0][0], severityFreqDict[0][0])
+	print "In {0} {1}, there was a fire started by a {2} {3}. This fire, fueled by {4}, grew to encompass {5}, {6} and {7}. {8} responded to the wildfire. {9} were affected as a result of the fire.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[0][0], areaFreqDict[0][0], damageFreqDict[0][0], lossOfLifePhrase, firefightingFreqDict[0][0], closuresFreqDict[0][0])
 	
 
 	
