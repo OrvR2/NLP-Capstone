@@ -321,14 +321,9 @@ def main():
 		tokens = nltk.word_tokenize(severityFreqDict[count][0])
 		tags = nltk.pos_tag(tokens)[0]
 
-		# if adjective
-		if (tags[1].startswith("JS") or tags[1].startswith("JJ")):
+		# if adjective or gerund verb
+		if (tags[1].startswith("JS") or tags[1].startswith("JJ") or tags[1].startswith("VBG")):
 			severityResult = severityFreqDict[count][0]
-			break
-		# if gerund verb
-		elif (tags[1].startswith("VBG")):
-			#conjugate
-			severityResult = " ".join([conjugate(word, tense="past") if tags[1] == 'VBG' else word for word in tokens])
 			break
 
 		count += 1
