@@ -1,6 +1,7 @@
 from nltk.tokenize import sent_tokenize, word_tokenize
 import re, os, operator, nltk
 from TextUtilsU3 import *
+from pattern.en import conjugate
 
 # The directory location for ClassEvent documents.
 classEventDir = '../Unit7/Large_Articles'
@@ -311,13 +312,16 @@ def main():
 	print "Severity:", severityFreqDict [:10], "\n"
 	print "Loss Of Life:", lossOfLifeFreqDict [:10], "\n"
 
-	
+	firefightingResult = firefightingFreqDict[0][0]
+
+	firefightingResult = " ".join([conjugate(word, tense = "past") if tag == 'VBP' else word for word, tag in nltk.pos_tag(nltk.word_tokenize(firefightingResult))])
+
 	# Prints the original template.
 	print "Template before filling-out:"
 	print "In <start time>, there was a fire started by <cause> in <geographic location>. This fire, caused by <fuel>, grew to encompass <area of impact>, <damage (land/homes)>, and <loss of life>. <firefighting measures>. The fire was extinguished in <end time>. <closures> as a result of the fire. Compared to previous fires in the area this fire was <severity>."
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "In {0} {1} there was a fire started by {2} {3}. This fire, fueled by {4}, grew to the size of {5} and {6} and {7} were killed. {8}. {9} was made unavailable for a period of time. Compared to previous fires in the city it was a {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeFreqDict[0][0], firefightingFreqDict[0][0], closuresFreqDict[0][0], severityFreqDict[0][0], causeFreqDict[1][0])
+	print "In {0} {1} there was a fire started by {2} {3}. This fire, fueled by {4}, grew to the size of {5} and {6} and there were {7}. {8}. {9} was made unavailable for a period of time. Compared to previous fires in the city it was a {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeFreqDict[0][0], firefightingResult, closuresFreqDict[0][0], severityFreqDict[0][0], causeFreqDict[1][0])
 	
 
 	
