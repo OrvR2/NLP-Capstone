@@ -316,12 +316,29 @@ def main():
 
 	firefightingResult = " ".join([conjugate(word, tense = "past") if tag == 'VBP' else word for word, tag in nltk.pos_tag(nltk.word_tokenize(firefightingResult))])
 
+	count = 0;
+	for key in severityFreqDict:
+		tokens = nltk.word_tokenize(severityFreqDict[count][0])
+		tags = nltk.pos_tag(tokens)[0]
+
+		# if adjective
+		if (tags[1].startswith("JS") or tags[1].startswith("JJ")):
+			severityResult = severityFreqDict[count][0]
+			break
+		# if gerund verb
+		elif (tags[1].startswith("VBG")):
+			#conjugate
+			severityResult = " ".join([conjugate(word, tense="past") for word in tokens])
+			break
+
+		count += 1
+
 	# Prints the original template.
 	print "Template before filling-out:"
 	print "In <start time>, there was a fire started by <cause> in <geographic location>. This fire, caused by <fuel>, grew to encompass <area of impact>, <damage (land/homes)>, and <loss of life>. <firefighting measures>. The fire was extinguished in <end time>. <closures> as a result of the fire. Compared to previous fires in the area this fire was <severity>."
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "In {0} {1} there was a fire started by {2} {3}. This fire, fueled by {4}, grew to the size of {5} and {6} and there were {7}. {8}. {9} was made unavailable for a period of time. Compared to previous fires in the city it was a {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeFreqDict[0][0], firefightingResult, closuresFreqDict[0][0], severityFreqDict[0][0], causeFreqDict[1][0])
+	print "In {0} {1} there was a fire started by {2} {3}. This fire, fueled by {4}, grew to the size of {5} and {6} and there were {7}. {8}. {9} was made unavailable for a period of time. Compared to previous fires in the city it was a {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeFreqDict[0][0], firefightingResult, closuresFreqDict[0][0], severityResult, causeFreqDict[1][0])
 	
 
 	
