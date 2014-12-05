@@ -54,7 +54,7 @@ def main():
 	'''
 	A pattenr that matches terms signifying the severity of the fire.
 	'''
-	severityPatternString = "(\S+\s)fire"
+	severityPatternString = "(\S{4,}\s)fire"
 
 	'''
 	A pattern for 4-digit years
