@@ -361,7 +361,7 @@ def main():
 	print "In {0} {1} there was a fire started by {2} {3}. This fire, fueled by {4}, grew to the size of {5}, {6} and {7}. {8}. {9} made unavailable for a period of time. Compared to previous fires in the city it was a {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationResult, fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeResult, firefightingResult, closuresResult, severityResult, causeFreqDict[1][0])
 	
 
-	
+	 
 # Prints any matches in the files with their corresponding filename and location in the file.
 # Also creates a frequency dictionary for words and their attributes.
 def searchMatches(D, pattern, fileSentences, fileName, typeOfInfo):
