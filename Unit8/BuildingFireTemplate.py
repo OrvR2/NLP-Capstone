@@ -36,7 +36,7 @@ def main():
 	'''
 	A pattern that matches possible loss of life.
 	'''
-	lossOfLifePatternString = "\s[1-9][0-9]{0,2}\skilled|\s[1-9][0-9]{0,2}(dead|(of\s)?deaths)"
+	lossOfLifePatternString = "\s[1-9][0-9]{0,2}\skilled|\s[1-9][0-9]{0,2}(dead|(of\s)?deaths)|((killed|killing)\s([1-9][0-9]{0,2}|\S+))"
 
 	'''
 	A pattern that matches closures as a result of the fire.
@@ -328,12 +328,37 @@ def main():
 
 		count += 1
 
+	locationResult = locationFreqDict[0][0]
+
+	# If trailing comma, strip.
+	if locationFreqDict[0][0].endswith(','):
+		locationResult = locationResult[0:-1]
+
+	lossOfLifeResult = ""
+
+	if "ing" in lossOfLifeFreqDict[1][0]:
+		lossOfLifeResult = "ended up {0}".format(lossOfLifeFreqDict[1][0])
+	elif lossOfLifeFreqDict[1][0].split()[1].endswith("ed"): # if the second word is past tense.
+		lossOfLifeResult = "there were {0}".format(lossOfLifeFreqDict[1][0])
+	else:
+		lossOfLifeResult = lossOfLifeFreqDict[1][0]
+
+	closuresResult = ""
+
+	if closuresFreqDict[0][0].endswith('s'):
+		closuresResult = "{0} were".format(closuresFreqDict[0][0])
+		closuresResult[0] = closuresResult[0].upper() + closuresResult [1:]
+	else:
+		closuresResult = "{0} was".format(closuresFreqDict[0][0])
+		closuresResult = closuresResult[0].upper() + closuresResult [1:]
+
 	# Prints the original template.
 	print "Template before filling-out:"
-	print "In <start time>, there was a fire started by <cause> in <geographic location>. This fire, caused by <fuel>, grew to encompass <area of impact>, <damage (land/homes)>, and <loss of life>. <firefighting measures>. The fire was extinguished in <end time>. <closures> as a result of the fire. Compared to previous fires in the area this fire was <severity>."
+	print "In <start time>, there was a fire started by <cause> (in|at) <geographic location>. This fire, fueled by <fuel>, grew to the size of <area of impact>, and <damage to property> and (ended up|there were|'') <loss of life>. <firefighting measures>. <closures> (was|were) made unavailable for a period of time. Compared to previous fires in the city it was a <severity>."
+
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "In {0} {1} there was a fire started by {2} {3}. This fire, fueled by {4}, grew to the size of {5} and {6} and there were {7}. {8}. {9} was made unavailable for a period of time. Compared to previous fires in the city it was a {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeFreqDict[0][0], firefightingResult, closuresFreqDict[0][0], severityResult, causeFreqDict[1][0])
+	print "In {0} {1} there was a fire started by {2} {3}. This fire, fueled by {4}, grew to the size of {5}, {6} and {7}. {8}. {9} made unavailable for a period of time. Compared to previous fires in the city it was a {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationResult, fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeResult, firefightingResult, closuresResult, severityResult, causeFreqDict[1][0])
 	
 
 	
