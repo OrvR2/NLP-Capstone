@@ -293,20 +293,20 @@ def main():
 	print "Firefighting:", firefightingFreqDict [:10], "\n"
 	print "Loss Of Life:", lossOfLifeFreqDict [:10], "\n"
 
-	lossOfLifePhrase = ""
+	lossOfLifeResult = ""
 
 	if "ing" in lossOfLifeFreqDict[0][0]:
-		lossOfLifePhrase = "ended up {0}".format(lossOfLifeFreqDict[0][0])
+		lossOfLifeResult = "ended up {0}".format(lossOfLifeFreqDict[0][0])
 	else:
-		lossOfLifePhrase = lossOfLifeFreqDict[0][0]
+		lossOfLifeResult = lossOfLifeFreqDict[0][0]
 	
 	# Prints the original template.
 	print "Template before filling-out:"
-	print "In <start time>, there was a fire started by <cause> in <geographic location>. This fire, caused by <fuel>, grew to encompass <area of impact>, <damage (land/homes)>, and <loss of life>. <firefighting measures. <closures> as a result of the fire."
+	print "In <start time>, there was a fire started by a <cause>  (in|at) <location>. This fire, fueled by <fuel>, grew to encompass <area of impact>, <damage land/homes>, and <loss of life>. <firefighting response> responded to the wildfire. <closures> were affected as a result of the fire."
 
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "In {0} {1}, there was a fire started by a {2} {3}. This fire, fueled by {4}, grew to encompass {5}, {6} and {7}. {8} responded to the wildfire. {9} were affected as a result of the fire.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[0][0], areaFreqDict[0][0], damageFreqDict[0][0], lossOfLifePhrase, firefightingFreqDict[0][0], closuresFreqDict[0][0])
+	print "In {0} {1}, there was a fire started by a {2} {3}. This fire, fueled by {4}, grew to encompass {5}, {6} and {7}. {8} responded to the wildfire. {9} were affected as a result of the fire.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationFreqDict[0][0], fuelFreqDict[0][0], areaFreqDict[0][0], damageFreqDict[0][0], lossOfLifeResult, firefightingFreqDict[0][0], closuresFreqDict[0][0])
 	
 
 	
