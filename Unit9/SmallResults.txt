@@ -1,0 +1,784 @@
+location: 128662.txt: 29-43: in Brazil club
+location: 128662.txt: 84-105: at the Kiss nightclub
+location: 128662.txt: 104-115: in American
+location: 128662.txt: 137-145: in Chile
+location: 128662.txt: 43-51: in Chile
+location: 128662.txt: 70-87: in Luoyang, China
+location: 128662.txt: 67-83: in Buenos Aires,
+location: 128662.txt: 8-25: at the Lame Horse
+location: 128662.txt: 36-51: in Perm, Russia
+location: 128662.txt: 319-327: at White
+location: 128662.txt: 56-71: in Brazil fire,
+location: 128662.txt: 84-104: in WPVI Philadelphia
+location: 128662.txt: 160-174: in Santa Maria
+location: 128662.txt: 33-49: at the Kiss club
+location: 128662.txt: 48-67: in Brazil nightclub
+location: 128662.txt: 101-115: in Brazil club
+location: 128662.txt: 223-237: in Santa Maria
+location: 128662.txt: 33-49: at the Kiss club
+location: 128662.txt: 87-106: in Brazil Nightclub
+location: 128662.txt: 164-178: in Santa Maria
+location: 128662.txt: 33-49: at the Kiss club
+location: 128662.txt: 238-253: in Brazil Kills
+location: 128662.txt: 321-337: at the Kiss Club
+location: 128662.txt: 338-352: in Santa Maria
+location: 128662.txt: 61-70: in Brazil
+location: 128662.txt: 263-279: at the Kiss club
+location: 128662.txt: 280-294: in Santa Maria
+location: 128662.txt: 327-342: in Santa Maria,
+location: 128662.txt: 81-98: in Brazil Reuters
+location: 128662.txt: 193-207: in Santa Maria
+cause: 128662.txt: 90-104: that fireworks
+cause: 128662.txt: 88-104: indoor fireworks
+cause: 128662.txt: 253-271: after pyrotechnics
+cause: 128662.txt: 154-161: and gas
+year: 128662.txt: 66-71: 2013
+year: 128662.txt: 48-53: 2000
+year: 128662.txt: 97-102: 2004
+year: 128662.txt: 73-78: 2009
+year: 128662.txt: 229-234: 2003
+year: 128662.txt: 299-304: 1980
+year: 128662.txt: 230-235: 2013
+year: 128662.txt: 293-298: 2013
+year: 128662.txt: 240-245: 2013
+year: 128662.txt: 408-413: 2013
+year: 128662.txt: 356-361: 2013
+year: 128662.txt: 376-381: 2013
+year: 128662.txt: 263-268: 2013
+fuel: 128662.txt: 345-363: soundproofing foam
+closures: 128662.txt: 34-46: working exit
+closures: 128662.txt: 144-153: the exits
+closures: 128662.txt: 184-193: the exits
+area: 128662.txt: 108-123: initially block
+firefighting: 128662.txt: 287-337: Firefighters work to douse a fire at the Kiss Club
+severity: 128662.txt: 39-48: club fire
+severity: 128662.txt: 49-63: nightclub fire
+severity: 128662.txt: 90-99: that fire
+severity: 128662.txt: 49-59: 2000, fire
+severity: 128662.txt: 88-99: indoor fire
+severity: 128662.txt: 178-192: nightclub fire
+severity: 128662.txt: 59-70: Brazil fire
+severity: 128662.txt: 58-72: nightclub fire
+severity: 128662.txt: 58-72: nightclub fire
+severity: 128662.txt: 111-120: club fire
+severity: 128662.txt: 58-72: nightclub fire
+severity: 128662.txt: 50-64: nightclub fire
+severity: 128662.txt: 58-72: nightclub fire
+severity: 128662.txt: 86-100: nightclub fire
+severity: 128662.txt: 46-60: nightclub fire
+severity: 128662.txt: 185-200: night-club fire
+severity: 128662.txt: 202-211: club fire
+severity: 128662.txt: 85-99: nightclub fire
+severity: 128662.txt: 40-54: nightclub fire
+severity: 128662.txt: 54-70: APNightclub fire
+severity: 128662.txt: 40-54: nightclub fire
+deaths: 128662.txt: 168-178: killing at
+deaths: 128662.txt: 89-100: killing 309
+deaths: 128662.txt: 164-175: killing 152
+deaths: 128662.txt: 235-245: killed 100
+deaths: 128662.txt: 170-181: 200 killed
+deaths: 128662.txt: 163-172: killed at
+deaths: 128662.txt: 74-86: killing more
+deaths: 128662.txt: 77-89: killing more
+location: 171807.txt: 92-113: at the Kiss nightclub
+location: 171807.txt: 156-181: at the Federal University
+location: 171807.txt: 38-56: at the Santa Maria
+location: 171807.txt: 11-20: in Brazil
+location: 171807.txt: 119-133: in Santa Maria
+location: 171807.txt: 28-43: in Brazil since
+location: 171807.txt: 117-127: in Niteroi
+location: 171807.txt: 162-179: in Luoyang, China
+location: 171807.txt: 57-75: in Connection With
+location: 171807.txt: 163-180: at Kiss nightclub
+location: 171807.txt: 224-239: in Santa Maria,
+location: 171807.txt: 234-249: in Brazil CBSTV
+location: 171807.txt: 383-398: in Santa Maria,
+location: 171807.txt: 52-71: in Brazil nightclub
+location: 171807.txt: 36-54: in Club Associated
+location: 171807.txt: 204-219: in Santa Maria,
+location: 171807.txt: 88-103: in Brazil fire,
+location: 171807.txt: 116-136: in WPVI Philadelphia
+location: 171807.txt: 292-307: in Santa Maria,
+location: 171807.txt: 243-263: in Brazil Associated
+location: 171807.txt: 343-358: in Brazil fire,
+location: 171807.txt: 441-459: in Connection With
+location: 171807.txt: 525-540: in Brazil blaze
+location: 171807.txt: 562-581: in Brazil Nightclub
+location: 171807.txt: 671-686: in Santa Maria,
+cause: 171807.txt: 67-83: use pyrotechnics
+cause: 171807.txt: 31-50: band's pyrotechnics
+cause: 171807.txt: 197-213: the pyrotechnics
+cause: 171807.txt: 169-182: a pyrotechnic
+cause: 171807.txt: 173-192: onstage pyrotechnic
+year: 171807.txt: 221-226: 2016
+year: 171807.txt: 52-57: 1961
+year: 171807.txt: 95-100: 2000
+year: 171807.txt: 264-269: 2013
+year: 171807.txt: 423-428: 2013
+year: 171807.txt: 247-252: 2013
+year: 171807.txt: 332-337: 2013
+year: 171807.txt: 712-717: 2013
+month: 171807.txt: 42-45: May
+month: 171807.txt: 12-15: May
+month: 171807.txt: 87-95: December
+fuel: 171807.txt: 130-145: insulating foam
+closures: 171807.txt: 38-46: for exit
+closures: 171807.txt: 37-46: the exits
+closures: 171807.txt: 122-137: emergency exits
+closures: 171807.txt: 116-127: single exit
+closures: 171807.txt: 150-158: the exit
+closures: 171807.txt: 122-132: were exits
+closures: 171807.txt: 180-189: the exits
+closures: 171807.txt: 38-53: crowded, window
+closures: 171807.txt: 38-53: crowded, window
+closures: 171807.txt: 38-53: crowded, window
+area: 171807.txt: 91-103: the building
+area: 171807.txt: 176-188: the building
+area: 171807.txt: 84-94: a building
+area: 171807.txt: 22-31: the floor
+area: 171807.txt: 63-78: initially block
+area: 171807.txt: 47-59: the building
+severity: 171807.txt: 35-45: after fire
+severity: 171807.txt: 18-28: worst fire
+severity: 171807.txt: 153-166: catching fire
+severity: 171807.txt: 0-13: Sunday's fire
+severity: 171807.txt: 152-162: fatal fire
+severity: 171807.txt: 97-108: deadly fire
+severity: 171807.txt: 2-18: fast-moving fire
+severity: 171807.txt: 62-76: nightclub fire
+severity: 171807.txt: 161-171: fatal fire
+severity: 171807.txt: 2-18: fast-moving fire
+severity: 171807.txt: 62-71: club fire
+severity: 171807.txt: 91-102: Brazil fire
+severity: 171807.txt: 233-247: nightclub fire
+severity: 171807.txt: 76-90: nightclub fire
+severity: 171807.txt: 284-298: nightclub fire
+severity: 171807.txt: 346-357: Brazil fire
+severity: 171807.txt: 396-411: night-club fire
+severity: 171807.txt: 2-18: fast-moving fire
+severity: 171807.txt: 111-123: working fire
+deaths: 171807.txt: 197-207: killed 231
+deaths: 171807.txt: 99-109: killed 503
+deaths: 171807.txt: 181-192: killing 309
+deaths: 171807.txt: 77-90: killing about
+deaths: 171807.txt: 119-131: killing more
+deaths: 171807.txt: 187-199: killing more
+deaths: 171807.txt: 381-392: 200 killed
+deaths: 171807.txt: 513-524: 233 killed
+location: 172035.txt: 6-20: at Brazil club
+location: 172035.txt: 10-24: at Brazil club
+location: 172035.txt: 93-108: in Santa Maria,
+location: 172035.txt: 98-109: in American
+location: 172035.txt: 126-134: in Chile
+location: 172035.txt: 28-43: in Brazil since
+location: 172035.txt: 117-127: in Niteroi
+location: 172035.txt: 140-157: in Luoyang, China
+location: 172035.txt: 72-88: in Buenos Aires,
+location: 172035.txt: 8-25: at the Lame Horse
+location: 172035.txt: 36-51: in Perm, Russia
+location: 172035.txt: 71-87: in December 2009
+location: 172035.txt: 74-95: in the United States.
+location: 172035.txt: 60-68: at White
+location: 172035.txt: 20-35: in Santa Maria,
+cause: 172035.txt: 49-67: small pyrotechnics
+cause: 172035.txt: 120-137: used pyrotechnics
+cause: 172035.txt: 133-139: by gas
+cause: 172035.txt: 97-113: indoor fireworks
+year: 172035.txt: 178-183: 2013
+year: 172035.txt: 52-57: 1961
+year: 172035.txt: 73-78: 2000
+year: 172035.txt: 2-7: 2004
+year: 172035.txt: 82-87: 2009
+year: 172035.txt: 30-35: 2003
+year: 172035.txt: 40-45: 1980
+month: 172035.txt: 12-15: May
+month: 172035.txt: 65-73: December
+month: 172035.txt: 74-82: December
+fuel: 172035.txt: 73-85: ignited foam
+fuel: 172035.txt: 86-104: soundproofing foam
+damage: 172035.txt: 27-46: burned friends away
+closures: 172035.txt: 62-73: toward exit
+closures: 172035.txt: 66-77: toward exit
+closures: 172035.txt: 242-257: crowded, window
+closures: 172035.txt: 102-111: from exit
+closures: 172035.txt: 102-110: one exit
+closures: 172035.txt: 133-143: could exit
+closures: 172035.txt: 100-108: the exit
+closures: 172035.txt: 48-56: the exit
+area: 172035.txt: 86-94: to block
+area: 172035.txt: 42-50: to block
+area: 172035.txt: 132-144: bodies block
+area: 172035.txt: 158-174: burning building
+area: 172035.txt: 82-91: the floor
+area: 172035.txt: 45-53: the room
+severity: 172035.txt: 208-224: fast-moving fire
+severity: 172035.txt: 103-117: nightclub fire
+severity: 172035.txt: 0-11: Later, fire
+severity: 172035.txt: 200-211: city's fire
+severity: 172035.txt: 191-202: joined fire
+severity: 172035.txt: 47-56: that fire
+severity: 172035.txt: 28-39: caught fire
+severity: 172035.txt: 0-13: Sunday's fire
+severity: 172035.txt: 97-108: indoor fire
+severity: 172035.txt: 36-50: nightclub fire
+deaths: 172035.txt: 374-385: killed more
+deaths: 172035.txt: 20-31: killed were
+deaths: 172035.txt: 99-109: killed 503
+deaths: 172035.txt: 159-170: killing 309
+deaths: 172035.txt: 53-63: killed 152
+deaths: 172035.txt: 56-66: killed 100
+location: 172780.txt: 42-51: in Brazil
+location: 172780.txt: 46-65: in BrazilBy JULIANA
+location: 172780.txt: 93-108: in Santa Maria,
+location: 172780.txt: 98-109: in American
+location: 172780.txt: 126-134: in Chile
+location: 172780.txt: 28-43: in Brazil since
+location: 172780.txt: 117-127: in Niteroi
+location: 172780.txt: 140-157: in Luoyang, China
+location: 172780.txt: 72-88: in Buenos Aires,
+location: 172780.txt: 8-25: at the Lame Horse
+location: 172780.txt: 36-51: in Perm, Russia
+location: 172780.txt: 71-87: in December 2009
+location: 172780.txt: 74-95: in the United States.
+location: 172780.txt: 60-68: at White
+location: 172780.txt: 20-35: in Santa Maria,
+cause: 172780.txt: 49-67: small pyrotechnics
+cause: 172780.txt: 120-137: used pyrotechnics
+cause: 172780.txt: 133-139: by gas
+cause: 172780.txt: 97-113: indoor fireworks
+year: 172780.txt: 112-117: 2013
+year: 172780.txt: 52-57: 1961
+year: 172780.txt: 73-78: 2000
+year: 172780.txt: 2-7: 2004
+year: 172780.txt: 82-87: 2009
+year: 172780.txt: 30-35: 2003
+year: 172780.txt: 40-45: 1980
+month: 172780.txt: 12-15: May
+month: 172780.txt: 65-73: December
+month: 172780.txt: 74-82: December
+fuel: 172780.txt: 73-85: ignited foam
+fuel: 172780.txt: 86-104: soundproofing foam
+damage: 172780.txt: 27-46: burned friends away
+closures: 172780.txt: 20-32: blocked exit
+closures: 172780.txt: 24-36: blocked exit
+closures: 172780.txt: 179-194: crowded, window
+closures: 172780.txt: 102-111: from exit
+closures: 172780.txt: 102-110: one exit
+closures: 172780.txt: 133-143: could exit
+closures: 172780.txt: 100-108: the exit
+closures: 172780.txt: 48-56: the exit
+area: 172780.txt: 15-25: lone block
+area: 172780.txt: 19-29: lone block
+area: 172780.txt: 86-94: to block
+area: 172780.txt: 42-50: to block
+area: 172780.txt: 132-144: bodies block
+area: 172780.txt: 157-173: burning building
+area: 172780.txt: 82-91: the floor
+area: 172780.txt: 45-53: the room
+severity: 172780.txt: 145-161: fast-moving fire
+severity: 172780.txt: 103-117: nightclub fire
+severity: 172780.txt: 0-11: Later, fire
+severity: 172780.txt: 200-211: city's fire
+severity: 172780.txt: 191-202: joined fire
+severity: 172780.txt: 47-56: that fire
+severity: 172780.txt: 28-39: caught fire
+severity: 172780.txt: 0-13: Sunday's fire
+severity: 172780.txt: 97-108: indoor fire
+severity: 172780.txt: 36-50: nightclub fire
+deaths: 172780.txt: 311-322: killed more
+deaths: 172780.txt: 20-31: killed were
+deaths: 172780.txt: 99-109: killed 503
+deaths: 172780.txt: 159-170: killing 309
+deaths: 172780.txt: 53-63: killed 152
+deaths: 172780.txt: 56-66: killed 100
+location: 172830.txt: 17-32: in Brazil fire,
+location: 172830.txt: 21-36: in Brazil fire,
+location: 172830.txt: 106-127: in the Kiss nightclub
+location: 172830.txt: 128-143: in Santa Maria,
+location: 172830.txt: 70-95: at the Federal University
+location: 172830.txt: 105-116: in American
+location: 172830.txt: 133-141: in Chile
+location: 172830.txt: 28-43: in Brazil since
+location: 172830.txt: 117-127: in Niteroi
+location: 172830.txt: 140-157: in Luoyang, China
+location: 172830.txt: 72-88: in Buenos Aires,
+location: 172830.txt: 8-25: at the Lame Horse
+location: 172830.txt: 36-51: in Perm, Russia
+location: 172830.txt: 71-87: in December 2009
+location: 172830.txt: 74-95: in the United States.
+location: 172830.txt: 60-68: at White
+location: 172830.txt: 20-35: in Santa Maria,
+cause: 172830.txt: 121-138: used pyrotechnics
+cause: 172830.txt: 28-44: the pyrotechnics
+cause: 172830.txt: 120-137: used pyrotechnics
+cause: 172830.txt: 97-113: indoor fireworks
+year: 172830.txt: 91-96: 2013
+year: 172830.txt: 52-57: 1961
+year: 172830.txt: 73-78: 2000
+year: 172830.txt: 2-7: 2004
+year: 172830.txt: 82-87: 2009
+year: 172830.txt: 30-35: 2003
+year: 172830.txt: 40-45: 1980
+month: 172830.txt: 12-15: May
+month: 172830.txt: 65-73: December
+month: 172830.txt: 74-82: December
+fuel: 172830.txt: 53-69: sound insulation
+fuel: 172830.txt: 86-104: soundproofing foam
+damage: 172830.txt: 27-46: burned friends away
+closures: 172830.txt: 176-188: working exit
+closures: 172830.txt: 149-159: were exits
+closures: 172830.txt: 108-117: from exit
+closures: 172830.txt: 100-108: the exit
+area: 172830.txt: 92-100: to block
+area: 172830.txt: 125-137: bodies block
+area: 172830.txt: 150-166: burning building
+area: 172830.txt: 77-86: the floor
+area: 172830.txt: 45-53: the room
+severity: 172830.txt: 20-31: Brazil fire
+severity: 172830.txt: 24-35: Brazil fire
+severity: 172830.txt: 193-204: city's fire
+severity: 172830.txt: 28-39: caught fire
+severity: 172830.txt: 147-158: joined fire
+severity: 172830.txt: 47-56: that fire
+severity: 172830.txt: 0-13: Sunday's fire
+severity: 172830.txt: 97-108: indoor fire
+severity: 172830.txt: 36-50: nightclub fire
+deaths: 172830.txt: 319-331: killing more
+deaths: 172830.txt: 20-31: killed were
+deaths: 172830.txt: 99-109: killed 503
+deaths: 172830.txt: 159-170: killing 309
+deaths: 172830.txt: 53-63: killed 152
+deaths: 172830.txt: 56-66: killed 100
+location: 175407.txt: 30-45: in Santa Maria,
+location: 175407.txt: 14-29: in Santa Maria,
+cause: 175407.txt: 4-13: girls gas
+cause: 175407.txt: 67-74: the gas
+year: 175407.txt: 179-184: 2016
+fuel: 175407.txt: 36-50: was insulation
+fuel: 175407.txt: 43-54: molten foam
+closures: 175407.txt: 115-123: one exit
+closures: 175407.txt: 49-58: only exit
+closures: 175407.txt: 86-97: single exit
+closures: 175407.txt: 150-158: the exit
+closures: 175407.txt: 90-97: an exit
+area: 175407.txt: 4-22: cavernous building
+area: 175407.txt: 22-31: the floor
+area: 175407.txt: 133-145: the building
+severity: 175407.txt: 29-40: codes, fire
+severity: 175407.txt: 83-93: small fire
+severity: 175407.txt: 105-115: after fire
+deaths: 175407.txt: 237-248: killing 231
+location: 179127.txt: 8-17: in Brazil
+location: 179127.txt: 143-152: in Brazil
+location: 179127.txt: 239-248: in Brazil
+location: 179127.txt: 345-361: at the Kiss club
+location: 179127.txt: 146-163: at Nightclub Kiss
+location: 179127.txt: 214-233: in Brazil nightclub
+location: 179127.txt: 531-547: at the Kiss club
+location: 179127.txt: 231-254: at the Municipal Sports
+location: 179127.txt: 404-423: in Santa Maria,Fire
+year: 179127.txt: 130-135: 2013
+severity: 179127.txt: 333-344: deadly fire
+severity: 179127.txt: 224-238: nightclub fire
+severity: 179127.txt: 443-452: kiss fire
+deaths: 179127.txt: 332-342: killing at
+location: 179511.txt: 93-108: in Santa Maria,
+location: 179511.txt: 98-109: in American
+location: 179511.txt: 126-134: in Chile
+location: 179511.txt: 28-43: in Brazil since
+location: 179511.txt: 117-127: in Niteroi
+location: 179511.txt: 140-157: in Luoyang, China
+location: 179511.txt: 72-88: in Buenos Aires,
+location: 179511.txt: 8-25: at the Lame Horse
+location: 179511.txt: 36-51: in Perm, Russia
+location: 179511.txt: 71-87: in December 2009
+location: 179511.txt: 74-95: in the United States.
+location: 179511.txt: 60-68: at White
+location: 179511.txt: 20-35: in Santa Maria,
+cause: 179511.txt: 49-67: small pyrotechnics
+cause: 179511.txt: 120-137: used pyrotechnics
+cause: 179511.txt: 133-139: by gas
+cause: 179511.txt: 97-113: indoor fireworks
+year: 179511.txt: 52-57: 1961
+year: 179511.txt: 73-78: 2000
+year: 179511.txt: 2-7: 2004
+year: 179511.txt: 82-87: 2009
+year: 179511.txt: 30-35: 2003
+year: 179511.txt: 40-45: 1980
+month: 179511.txt: 12-15: May
+month: 179511.txt: 65-73: December
+month: 179511.txt: 74-82: December
+fuel: 179511.txt: 73-85: ignited foam
+fuel: 179511.txt: 86-104: soundproofing foam
+damage: 179511.txt: 27-46: burned friends away
+closures: 179511.txt: 125-140: crowded, window
+closures: 179511.txt: 102-111: from exit
+closures: 179511.txt: 102-110: one exit
+closures: 179511.txt: 133-143: could exit
+closures: 179511.txt: 100-108: the exit
+closures: 179511.txt: 48-56: the exit
+area: 179511.txt: 86-94: to block
+area: 179511.txt: 42-50: to block
+area: 179511.txt: 132-144: bodies block
+area: 179511.txt: 157-173: burning building
+area: 179511.txt: 82-91: the floor
+area: 179511.txt: 45-53: the room
+severity: 179511.txt: 91-107: fast-moving fire
+severity: 179511.txt: 103-117: nightclub fire
+severity: 179511.txt: 0-11: Later, fire
+severity: 179511.txt: 200-211: city's fire
+severity: 179511.txt: 191-202: joined fire
+severity: 179511.txt: 47-56: that fire
+severity: 179511.txt: 28-39: caught fire
+severity: 179511.txt: 0-13: Sunday's fire
+severity: 179511.txt: 97-108: indoor fire
+severity: 179511.txt: 36-50: nightclub fire
+deaths: 179511.txt: 257-268: killed more
+deaths: 179511.txt: 20-31: killed were
+deaths: 179511.txt: 99-109: killed 503
+deaths: 179511.txt: 159-170: killing 309
+deaths: 179511.txt: 53-63: killed 152
+deaths: 179511.txt: 56-66: killed 100
+location: 372607.txt: 45-64: in Brazil nightclub
+location: 372607.txt: 30-45: in Santa Maria,
+location: 372607.txt: 14-29: in Santa Maria,
+cause: 372607.txt: 4-13: girls gas
+cause: 372607.txt: 67-74: the gas
+year: 372607.txt: 179-184: 2016
+fuel: 372607.txt: 36-50: was insulation
+fuel: 372607.txt: 43-54: molten foam
+closures: 372607.txt: 38-44: 1 exit
+closures: 372607.txt: 115-123: one exit
+closures: 372607.txt: 49-58: only exit
+closures: 372607.txt: 86-97: single exit
+closures: 372607.txt: 150-158: the exit
+closures: 372607.txt: 90-97: an exit
+area: 372607.txt: 4-22: cavernous building
+area: 372607.txt: 22-31: the floor
+area: 372607.txt: 133-145: the building
+severity: 372607.txt: 55-69: nightclub fire
+severity: 372607.txt: 29-40: codes, fire
+severity: 372607.txt: 83-93: small fire
+severity: 372607.txt: 105-115: after fire
+deaths: 372607.txt: 237-248: killing 231
+location: 373008.txt: 63-78: in Tuesday with
+location: 373008.txt: 114-136: at the Kiss nightclub.
+location: 373008.txt: 81-102: at the Kiss nightclub
+location: 373008.txt: 103-112: in Brazil
+location: 373008.txt: 150-161: in Asuncion
+location: 373008.txt: 79-94: in Santa Maria,
+location: 373008.txt: 48-62: in Santa Maria
+location: 373008.txt: 97-110: at Santa Rita
+location: 373008.txt: 120-134: in Santa Maria
+location: 373008.txt: 90-105: in Santa Maria,
+location: 373008.txt: 62-76: in Santa Maria
+location: 373008.txt: 43-57: in Santa Maria
+location: 373008.txt: 53-68: in Santa Maria.
+location: 373008.txt: 47-68: at the Kiss nightclub
+location: 373008.txt: 93-108: in Santa Maria,
+location: 373008.txt: 58-65: in Mary
+location: 373008.txt: 65-80: in Santa Maria,
+location: 373008.txt: 22-41: in Brazil nightclub
+location: 373008.txt: 34-41: at Kiss
+location: 373008.txt: 76-85: in Brazil
+location: 373008.txt: 91-106: in Santa Maria.
+location: 373008.txt: 180-196: in Santa Maria,"
+cause: 373008.txt: 62-78: with pyrotechnic
+cause: 373008.txt: 0-10: A firework
+cause: 373008.txt: 48-60: the firework
+cause: 373008.txt: 35-51: the pyrotechnics
+month: 373008.txt: 174-181: January
+month: 373008.txt: 45-52: January
+month: 373008.txt: 114-121: January
+month: 373008.txt: 50-57: January
+month: 373008.txt: 43-50: January
+month: 373008.txt: 49-56: January
+month: 373008.txt: 66-73: January
+month: 373008.txt: 64-71: January
+month: 373008.txt: 76-83: January
+month: 373008.txt: 42-49: January
+month: 373008.txt: 57-64: January
+month: 373008.txt: 138-145: January
+month: 373008.txt: 78-85: January
+month: 373008.txt: 80-87: January
+month: 373008.txt: 61-68: January
+month: 373008.txt: 42-49: January
+month: 373008.txt: 128-135: January
+fuel: 373008.txt: 31-47: sound insulation
+damage: 373008.txt: 25-47: destroyed because they
+closures: 373008.txt: 77-86: only exit
+closures: 373008.txt: 31-38: to exit
+closures: 373008.txt: 8-17: were exit
+area: 373008.txt: 95-107: the building
+area: 373008.txt: 39-51: the building
+severity: 373008.txt: 143-157: nightclub fire
+severity: 373008.txt: 94-108: nightclub fire
+severity: 373008.txt: 99-113: nightclub fire
+severity: 373008.txt: 56-70: nightclub fire
+severity: 373008.txt: 46-60: nightclub fire
+severity: 373008.txt: 74-88: nightclub fire
+severity: 373008.txt: 42-53: deadly fire
+severity: 373008.txt: 12-23: caught fire
+severity: 373008.txt: 61-70: fake fire
+severity: 373008.txt: 108-120: expired fire
+severity: 373008.txt: 7-21: nightclub fire
+severity: 373008.txt: 32-46: nightclub fire
+deaths: 373008.txt: 48-58: killed and
+location: 413977.txt: 173-188: in Santa Maria,
+location: 413977.txt: 98-115: in Santa Maria.In
+location: 413977.txt: 492-506: in Santa Maria
+location: 413977.txt: 147-170: at the Municipal Sports
+location: 413977.txt: 38-49: at Hospital
+location: 413977.txt: 8-22: in Santa Maria
+location: 413977.txt: 41-56: in Santa Maria,
+location: 413977.txt: 44-62: in Brazil recalled
+location: 413977.txt: 7-23: in West Warwick,
+location: 413977.txt: 117-125: at White
+location: 413977.txt: 65-74: at Brazil
+location: 413977.txt: 578-615: at Carnegie Hallnewer5daysagoEgyptian
+cause: 413977.txt: 42-53: a fireworks
+cause: 413977.txt: 64-82: after pyrotechnics
+year: 413977.txt: 40-45: 2003
+year: 413977.txt: 33-38: 2004
+year: 413977.txt: 195-200: 2014
+year: 413977.txt: 236-241: 2016
+fuel: 413977.txt: 130-141: ablaze foam
+closures: 413977.txt: 77-85: one exit
+area: 413977.txt: 193-208: initially block
+severity: 413977.txt: 16-30: nightclub fire
+severity: 413977.txt: 86-100: nightclub fire
+severity: 413977.txt: 116-125: 233A fire
+severity: 413977.txt: 77-88: moving fire
+severity: 413977.txt: 339-353: shirtless fire
+severity: 413977.txt: 477-491: nightclub fire
+severity: 413977.txt: 467-479: brazil, fire
+deaths: 413977.txt: 209-225: killing revelers
+deaths: 413977.txt: 29-41: killed after
+deaths: 413977.txt: 46-56: killed 100
+deaths: 413977.txt: 39-52: killed nearly
+location: 450900.txt: 93-108: in Santa Maria,
+location: 450900.txt: 98-109: in American
+location: 450900.txt: 126-134: in Chile
+location: 450900.txt: 28-43: in Brazil since
+location: 450900.txt: 117-127: in Niteroi
+location: 450900.txt: 140-157: in Luoyang, China
+location: 450900.txt: 72-88: in Buenos Aires,
+location: 450900.txt: 8-25: at the Lame Horse
+location: 450900.txt: 36-51: in Perm, Russia
+location: 450900.txt: 71-87: in December 2009
+location: 450900.txt: 74-95: in the United States.
+location: 450900.txt: 60-68: at White
+location: 450900.txt: 20-35: in Santa Maria,
+cause: 450900.txt: 49-67: small pyrotechnics
+cause: 450900.txt: 120-137: used pyrotechnics
+cause: 450900.txt: 133-139: by gas
+cause: 450900.txt: 97-113: indoor fireworks
+year: 450900.txt: 52-57: 1961
+year: 450900.txt: 73-78: 2000
+year: 450900.txt: 2-7: 2004
+year: 450900.txt: 82-87: 2009
+year: 450900.txt: 30-35: 2003
+year: 450900.txt: 40-45: 1980
+month: 450900.txt: 12-15: May
+month: 450900.txt: 65-73: December
+month: 450900.txt: 74-82: December
+fuel: 450900.txt: 73-85: ignited foam
+fuel: 450900.txt: 86-104: soundproofing foam
+damage: 450900.txt: 27-46: burned friends away
+closures: 450900.txt: 60-75: crowded, window
+closures: 450900.txt: 102-111: from exit
+closures: 450900.txt: 102-110: one exit
+closures: 450900.txt: 133-143: could exit
+closures: 450900.txt: 100-108: the exit
+closures: 450900.txt: 48-56: the exit
+area: 450900.txt: 86-94: to block
+area: 450900.txt: 42-50: to block
+area: 450900.txt: 132-144: bodies block
+area: 450900.txt: 157-173: burning building
+area: 450900.txt: 82-91: the floor
+area: 450900.txt: 45-53: the room
+severity: 450900.txt: 26-42: fast-moving fire
+severity: 450900.txt: 103-117: nightclub fire
+severity: 450900.txt: 0-11: Later, fire
+severity: 450900.txt: 200-211: city's fire
+severity: 450900.txt: 191-202: joined fire
+severity: 450900.txt: 47-56: that fire
+severity: 450900.txt: 28-39: caught fire
+severity: 450900.txt: 0-13: Sunday's fire
+severity: 450900.txt: 97-108: indoor fire
+severity: 450900.txt: 36-50: nightclub fire
+deaths: 450900.txt: 192-203: killed more
+deaths: 450900.txt: 20-31: killed were
+deaths: 450900.txt: 99-109: killed 503
+deaths: 450900.txt: 159-170: killing 309
+deaths: 450900.txt: 53-63: killed 152
+deaths: 450900.txt: 56-66: killed 100
+location: 516642.txt: 96-117: at the Kiss nightclub
+location: 516642.txt: 130-145: in August 2011.
+location: 516642.txt: 88-104: in Latin America
+location: 516642.txt: 130-139: in Brazil
+location: 516642.txt: 85-101: in Brazil seemed
+location: 516642.txt: 70-84: in Santa Maria
+location: 516642.txt: 29-52: in the Central American
+location: 516642.txt: 61-76: in Santa Maria,
+location: 516642.txt: 159-180: in Managua, Nicaragua
+location: 516642.txt: 190-202: in Pritchard
+cause: 516642.txt: 136-151: as pyrotechnics
+cause: 516642.txt: 100-112: of fireworks
+cause: 516642.txt: 60-77: flares, fireworks
+year: 516642.txt: 139-144: 2011
+year: 516642.txt: 104-109: 2014
+month: 516642.txt: 133-139: August
+fuel: 516642.txt: 190-208: soundproofing foam
+fuel: 516642.txt: 146-154: the foam
+closures: 516642.txt: 132-147: bathroom window
+closures: 516642.txt: 133-144: single exit
+closures: 516642.txt: 46-54: one exit
+closures: 516642.txt: 172-180: one exit
+closures: 516642.txt: 77-85: one exit
+closures: 516642.txt: 155-169: emergency exit
+area: 516642.txt: 234-246: the building
+area: 516642.txt: 54-67: past building
+severity: 516642.txt: 46-57: faulty fire
+severity: 516642.txt: 53-63: local fire
+severity: 516642.txt: 24-35: club's fire
+severity: 516642.txt: 17-32: U.S.-based fire
+severity: 516642.txt: 49-63: nightclub fire
+severity: 516642.txt: 60-72: flares, fire
+deaths: 516642.txt: 33-42: killed in
+location: 554598.txt: 51-60: in Brazil
+location: 554598.txt: 135-152: in Luoyang, China
+location: 554598.txt: 74-95: in the United States.
+location: 554598.txt: 60-68: at White
+cause: 554598.txt: 103-121: band's pyrotechnic
+cause: 554598.txt: 71-89: small pyrotechnics
+cause: 554598.txt: 120-137: used pyrotechnics
+cause: 554598.txt: 133-139: by gas
+year: 554598.txt: 68-73: 2000
+year: 554598.txt: 30-35: 2003
+year: 554598.txt: 40-45: 1980
+month: 554598.txt: 60-68: December
+fuel: 554598.txt: 101-113: burning foam
+fuel: 554598.txt: 114-130: sound insulation
+fuel: 554598.txt: 86-104: soundproofing foam
+damage: 554598.txt: 155-172: engulfed the club
+closures: 554598.txt: 37-52: crowded, window
+closures: 554598.txt: 255-264: sole exit
+closures: 554598.txt: 108-117: from exit
+closures: 554598.txt: 199-209: were exits
+closures: 554598.txt: 91-98: an exit
+closures: 554598.txt: 102-110: one exit
+closures: 554598.txt: 133-143: could exit
+area: 554598.txt: 92-100: to block
+area: 554598.txt: 116-128: bodies block
+area: 554598.txt: 133-149: burning building
+area: 554598.txt: 84-93: the floor
+area: 554598.txt: 45-53: the room
+severity: 554598.txt: 3-19: fast-moving fire
+severity: 554598.txt: 36-50: nightclub fire
+severity: 554598.txt: 48-59: slowed fire
+severity: 554598.txt: 0-11: Later, fire
+severity: 554598.txt: 184-195: city's fire
+severity: 554598.txt: 57-73: fast-moving fire
+severity: 554598.txt: 47-56: that fire
+severity: 554598.txt: 167-178: joined fire
+severity: 554598.txt: 28-39: caught fire
+severity: 554598.txt: 0-13: Sunday's fire
+severity: 554598.txt: 36-50: nightclub fire
+deaths: 554598.txt: 169-180: killed more
+deaths: 554598.txt: 63-72: killed in
+deaths: 554598.txt: 24-37: killed walked
+deaths: 554598.txt: 154-165: killing 309
+deaths: 554598.txt: 56-66: killed 100
+location: 554602.txt: 53-67: in Santa Maria
+location: 554602.txt: 29-50: in American countries
+location: 554602.txt: 51-59: in Chile
+location: 554602.txt: 26-41: in Brazil since
+location: 554602.txt: 102-112: in Niteroi
+location: 554602.txt: 26-43: in Luoyang, China
+location: 554602.txt: 89-105: in Buenos Aires,
+cause: 554602.txt: 116-130: a pyrotechnics
+cause: 554602.txt: 102-118: indoor fireworks
+cause: 554602.txt: 57-75: after pyrotechnics
+year: 554602.txt: 43-48: 1961
+year: 554602.txt: 2-7: 2000
+year: 554602.txt: 6-11: 2004
+year: 554602.txt: 87-92: 2009
+year: 554602.txt: 50-55: 2003
+month: 554602.txt: 122-125: May
+fuel: 554602.txt: 165-181: sound insulation
+damage: 554602.txt: 17-37: engulfed the crowded
+closures: 554602.txt: 144-152: one exit
+closures: 554602.txt: 176-188: working exit
+closures: 554602.txt: 136-145: the exits
+closures: 554602.txt: 75-90: emergency exits
+closures: 554602.txt: 175-186: people exit
+area: 554602.txt: 192-204: the building
+area: 554602.txt: 148-160: bodies block
+severity: 554602.txt: 63-77: nightclub fire
+severity: 554602.txt: 36-47: codes: fire
+severity: 554602.txt: 59-68: that fire
+severity: 554602.txt: 26-40: nightclub fire
+severity: 554602.txt: 11-25: nightclub fire
+severity: 554602.txt: 102-113: indoor fire
+deaths: 554602.txt: 83-93: killed 231
+location: 554626.txt: 23-38: in Half Century
+location: 554626.txt: 55-70: in Santa Maria,
+location: 554626.txt: 89-106: in Brasilia while
+location: 554626.txt: 114-125: in American
+location: 554626.txt: 147-168: in Santiago yesterday
+location: 554626.txt: 120-135: in Brazil since
+location: 554626.txt: 35-50: in Buenos Aires
+location: 554626.txt: 64-81: in Warwick, Rhode
+cause: 554626.txt: 66-83: whose pyrotechnic
+cause: 554626.txt: 57-70: use fireworks
+cause: 554626.txt: 62-77: the pyrotechnic
+cause: 554626.txt: 7-22: U.S., fireworks
+cause: 554626.txt: 103-117: a pyrotechnics
+cause: 554626.txt: 10-29: banned pyrotechnics
+year: 554626.txt: 99-104: 2013
+year: 554626.txt: 243-248: 1961
+year: 554626.txt: 135-140: 1961
+year: 554626.txt: 86-91: 2014
+year: 554626.txt: 2-7: 2004
+year: 554626.txt: 92-97: 2003
+fuel: 554626.txt: 41-48: to foam
+fuel: 554626.txt: 49-74: sound-proofing insulation
+fuel: 554626.txt: 130-142: ignited foam
+closures: 554626.txt: 108-117: only exit
+area: 554626.txt: 61-73: the building
+severity: 554626.txt: 204-216: weekend fire
+severity: 554626.txt: 109-119: worst fire
+severity: 554626.txt: 7-17: U.S., fire
+severity: 554626.txt: 49-59: local fire
+severity: 554626.txt: 152-164: receive fire
+deaths: 554626.txt: 51-61: killed 193
+
+
+Top 10 frequent values for each attribute:
+Location: [('in Santa Maria,', 28), ('in Santa Maria', 15), ('in Brazil', 10), ('in Luoyang, China', 9), ('at White', 8), ('in Chile', 8), ('in Brazil since', 8), ('in American', 7), ('in Niteroi', 7), ('in Buenos Aires,', 7)] 
+
+Cause: [('indoor fireworks', 7), ('used pyrotechnics', 7), ('by gas', 5), ('small pyrotechnics', 5), ('after pyrotechnics', 3), ('the pyrotechnics', 3), ('a pyrotechnics', 2), ('the gas', 2), ('girls gas', 2), ('the firework', 1)] 
+
+Year: [('2013', 18), ('2003', 10), ('1961', 9), ('2000', 9), ('2004', 9), ('1980', 7), ('2009', 7), ('2016', 4), ('2014', 3), ('2011', 1)] 
+
+Month: [('January', 17), ('December', 12), ('May', 8), ('August', 1)] 
+
+Fuel: [('soundproofing foam', 8), ('ignited foam', 5), ('sound insulation', 4), ('molten foam', 2), ('was insulation', 2), ('to foam', 1), ('the foam', 1), ('sound-proofing insulation', 1), ('burning foam', 1), ('insulating foam', 1)] 
+
+Damage: [('burned friends away', 5), ('engulfed the club', 1), ('destroyed because they', 1), ('engulfed the crowded', 1)] 
+
+Closures: [('one exit', 12), ('the exit', 12), ('crowded, window', 8), ('from exit', 6), ('could exit', 5), ('the exits', 5), ('single exit', 4), ('only exit', 4), ('an exit', 3), ('were exits', 3)] 
+
+Area: [('the building', 10), ('to block', 10), ('the floor', 9), ('bodies block', 7), ('the room', 6), ('burning building', 6), ('initially block', 3), ('cavernous building', 2), ('lone block', 2), ('past building', 1)] 
+
+Firefighting: [('Firefighters work to douse a fire at the Kiss Club', 1)] 
+
+Severity: [('nightclub fire', 44), ('fast-moving fire', 9), ('that fire', 8), ('indoor fire', 7), ('caught fire', 7), ("Sunday's fire", 7), ('joined fire', 6), ("city's fire", 6), ('Later, fire', 5), ('Brazil fire', 5)] 
+
+Loss Of Life: [('killed 100', 8), ('killing 309', 8), ('killed 503', 6), ('killed 152', 5), ('killed were', 5), ('killed more', 5), ('killing more', 5), ('killed in', 2), ('killed 231', 2), ('killing at', 2)] 
+
+Template before filling-out:
+In <start time>, there was a fire started by <cause> (in|at) <geographic location>. This fire, fueled by <fuel>, grew to the size of <area of impact>, and <damage to property> and (ended up|there were|'') <loss of life>. <firefighting measures>. <closures> (was|were) made unavailable for a period of time. Compared to previous fires in the city it was a <severity>.
+Template after filling-out:
+In January 2013 there was a fire started by indoor fireworks in Santa Maria. This fire, fueled by ignited foam, grew to the size of the building, engulfed the club and ended up killing 309. Firefighters worked to douse a fire at the Kiss Club. One exit was made unavailable for a period of time. Compared to previous fires in the city it was a fast-moving fire.

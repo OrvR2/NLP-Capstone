@@ -1,0 +1,142 @@
+location: 6613.txt: 403-412: in Motely
+location: 6613.txt: 4-31: Martin, AgriLife Extension
+location: 6613.txt: 38-47: in Motley
+location: 6613.txt: 86-114: Rollins, AgriLife Extension
+location: 6613.txt: 135-148: at San Angelo
+location: 6613.txt: 61-70: in Motley
+cause: 6613.txt: 141-158: prolonged drought
+cause: 6613.txt: 36-55: exceptional drought
+year: 6613.txt: 287-292: 2011
+year: 6613.txt: 263-268: 2006
+area: 6613.txt: 97-109: 40,000 acres
+location: 6656.txt: 291-299: in Texas
+year: 6656.txt: 210-215: 2011
+month: 6656.txt: 196-205: September
+fuel: 6656.txt: 9-41: calming winds, firefighters have
+fuel: 6656.txt: 114-146: calming winds, firefighters have
+fuel: 6656.txt: 342-375: calming winds, but stretched-thin
+fuel: 6656.txt: 39-47: the wind
+fuel: 6656.txt: 37-47: from winds
+damage: 6656.txt: 64-87: destroyed more than 600
+closures: 6656.txt: 84-93: 600 homes
+area: 6656.txt: 114-129: 45 square miles
+deaths: 6656.txt: 102-112: killed two
+location: 6663.txt: 207-228: Texas, George Gaydos
+location: 6663.txt: 133-159: wildfires the state forest
+location: 6663.txt: 0-10: The forest
+location: 6663.txt: 27-50: scattered in the forest
+location: 6663.txt: 109-119: in Bastrop
+location: 6663.txt: 63-73: in Bastrop
+location: 6663.txt: 73-93: Friday, White House
+location: 6663.txt: 116-128: at President
+location: 6663.txt: 68-78: in Bastrop
+location: 6663.txt: 321-330: in Austin
+cause: 6663.txt: 55-71: historic drought
+fuel: 6663.txt: 18-48: hot temperatures, strong winds
+fuel: 6663.txt: 161-171: major wind
+damage: 6663.txt: 153-183: destroyed in massive wildfires
+damage: 6663.txt: 266-284: burned down in the
+damage: 6663.txt: 372-396: burned for several days,
+damage: 6663.txt: 46-67: destroyed by the fire
+damage: 6663.txt: 56-88: destroyed will receive seven-day
+damage: 6663.txt: 53-74: destroyed by the fire
+closures: 6663.txt: 236-245: 700 homes
+closures: 6663.txt: 414-422: 60 homes
+deaths: 6663.txt: 192-204: killing four
+location: 8961.txt: 7-15: at Helps
+location: 8961.txt: 32-40: in Texas
+location: 8961.txt: 113-128: at Incorporated
+location: 8961.txt: 70-89: of all major forest
+location: 8961.txt: 76-97: Estates, Pine Forest
+location: 8961.txt: 98-127: Colovista, Tahitian Viillage
+year: 8961.txt: 34-39: 2011
+year: 8961.txt: 150-155: 2571
+month: 8961.txt: 21-30: September
+area: 8961.txt: 63-75: 28,500 acres
+location: 9225.txt: 80-90: in Related
+fuel: 9225.txt: 50-59: the winds
+damage: 9225.txt: 41-57: destroyed homes.
+damage: 9225.txt: 13-40: burned through 34,349 acres
+damage: 9225.txt: 23-43: burned down after we
+closures: 9225.txt: 389-398: 386 homes
+area: 9225.txt: 28-40: 34,349 acres
+firefighting: 9225.txt: 6-22: 400 firefighters
+location: 9259.txt: 120-130: in Bastrop
+year: 9259.txt: 10-15: 2011
+fuel: 9259.txt: 6-15: got trees
+damage: 9259.txt: 89-114: burned thousands of acres
+damage: 9259.txt: 58-82: destroyed by fires since
+closures: 9259.txt: 38-47: 700 homes
+area: 9259.txt: 96-114: thousands of acres
+deaths: 9259.txt: 17-27: killed and
+location: 9335.txt: 233-246: in Fall Creek
+year: 9335.txt: 43-48: 2011
+year: 9335.txt: 90-95: 2011
+fuel: 9335.txt: 95-103: car wind
+damage: 9335.txt: 69-89: burned for more than
+area: 9335.txt: 56-67: 6,400 acres
+area: 9335.txt: 57-66: 400 acres
+location: 9366.txt: 48-58: in Bastrop
+location: 9366.txt: 0-21: In Bastrop State Park
+year: 9366.txt: 131-136: 2011
+year: 9366.txt: 179-184: 2011
+fuel: 9366.txt: 37-46: the trees
+damage: 9366.txt: 110-125: scorched yards.
+damage: 9366.txt: 62-80: burned and one ten
+damage: 9366.txt: 126-158: burned appliances where kitchens
+damage: 9366.txt: 176-198: damaged homes are full
+damage: 9366.txt: 163-192: burned out neighborhoods will
+location: 9504.txt: 77-90: in SMITHVILLE
+location: 9504.txt: 94-103: in Street
+location: 9504.txt: 104-117: in Smithville
+location: 9504.txt: 22-34: at Levermenn
+location: 9504.txt: 58-67: in Street
+location: 9504.txt: 78-87: in Street
+year: 9504.txt: 24-29: 7895
+damage: 9504.txt: 87-99: burned down.
+location: 9573.txt: 96-110: in Simi Valley
+location: 9573.txt: 189-201: in San Diego
+location: 9573.txt: 85-95: in Central
+year: 9573.txt: 123-128: 2005
+fuel: 9573.txt: 0-12: Calmer winds
+damage: 9573.txt: 114-139: scorched 33,000 acres and
+damage: 9573.txt: 140-165: destroyed more than 1,000
+area: 9573.txt: 123-135: 33,000 acres
+location: 9705.txt: 201-222: Texas, George Gaydos
+location: 9705.txt: 133-159: wildfires the state forest
+location: 9705.txt: 0-10: The forest
+cause: 9705.txt: 55-71: historic drought
+fuel: 9705.txt: 18-48: hot temperatures, strong winds
+damage: 9705.txt: 147-177: destroyed in massive wildfires
+damage: 9705.txt: 260-278: burned down in the
+damage: 9705.txt: 100-124: burned for several days,
+closures: 9705.txt: 236-245: 700 homes
+closures: 9705.txt: 142-150: 60 homes
+deaths: 9705.txt: 192-204: killing four
+
+
+Top 10 frequent values for each attribute:
+Location: [('in Bastrop', 5), ('in Street', 3), ('in Motley', 2), ('The forest', 2), ('wildfires the state forest', 2), ('in Texas', 2), ('Texas, George Gaydos', 2), ('in SMITHVILLE', 1), ('in Fall Creek', 1), ('Colovista, Tahitian Viillage', 1)] 
+
+Cause: [('historic drought', 2), ('prolonged drought', 1), ('exceptional drought', 1)] 
+
+Year: [('2011', 8), ('2571', 1), ('2006', 1), ('7895', 1), ('2005', 1)] 
+
+Month: [('September', 2)] 
+
+Fuel: [('hot temperatures, strong winds', 2), ('calming winds, firefighters have', 2), ('car wind', 1), ('Calmer winds', 1), ('the winds', 1), ('got trees', 1), ('calming winds, but stretched-thin', 1), ('the trees', 1), ('the wind', 1), ('from winds', 1)] 
+
+Damage: [('burned for several days,', 2), ('destroyed in massive wildfires', 2), ('destroyed by the fire', 2), ('burned down in the', 2), ('scorched yards.', 1), ('burned down after we', 1), ('destroyed will receive seven-day', 1), ('burned for more than', 1), ('damaged homes are full', 1), ('burned through 34,349 acres', 1), ('destroyed homes.', 1), ('burned and one ten', 1), ('destroyed by fires since', 1), ('burned thousands of acres', 1), ('burned out neighborhoods will', 1), ('destroyed more than 1,000', 1), ('burned down.', 1), ('burned appliances where kitchens', 1), ('destroyed more than 600', 1), ('scorched 33,000 acres and', 1)] 
+
+Closures: [('700 homes', 3), ('60 homes', 2), ('600 homes', 1), ('386 homes', 1)] 
+
+Area: [('33,000 acres', 1), ('45 square miles', 1), ('thousands of acres', 1), ('28,500 acres', 1), ('6,400 acres', 1), ('34,349 acres', 1), ('40,000 acres', 1), ('400 acres', 1)] 
+
+Firefighting: [('400 firefighters', 1)] 
+
+Loss Of Life: [('killing four', 2), ('killed two', 1), ('killed and', 1)] 
+
+Template before filling-out:
+In <start time>, there was a fire started by a <cause>  (in|at) <location>. This fire, fueled by <fuel>, grew to encompass <area of impact>, <damage land/homes>, and <loss of life>. <firefighting response> responded to the wildfire. <closures> were affected as a result of the fire.
+Template after filling-out:
+In September 2011, there was a fire started by a historic drought in Bastrop. This fire, fueled by hot temperatures, strong winds, grew to encompass 33,000 acres, burned for several days, and ended up killing four. 400 firefighters responded to the wildfire. 700 homes were affected as a result of the fire.
