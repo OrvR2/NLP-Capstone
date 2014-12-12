@@ -314,7 +314,8 @@ def main():
 
 	firefightingResult = firefightingFreqDict[0][0]
 
-	firefightingResult = " ".join([conjugate(word, tense = "past") if tag == 'VBP' else word for word, tag in nltk.pos_tag(nltk.word_tokenize(firefightingResult))])
+	# Conjugates past tense verbs in the firefighting result
+	firefightingResult = [conjugate(word, tense = "past") if tag == 'VBP' else word for word, tag in nltk.pos_tag(nltk.word_tokenize(firefightingResult))]
 
 	count = 0;
 	for key in severityFreqDict:
@@ -324,6 +325,7 @@ def main():
 		# if adjective or gerund verb
 		if (tags[1].startswith("JS") or tags[1].startswith("JJ") or tags[1].startswith("VBG")):
 			severityResult = severityFreqDict[count][0]
+			severityResult = severityResult.split()[0] # Ignores the word 'fire' always present in the result.
 			break
 
 		count += 1
@@ -354,11 +356,11 @@ def main():
 
 	# Prints the original template.
 	print "Template before filling-out:"
-	print "In <start time>, there was a fire started by <cause> (in|at) <geographic location>. This fire, fueled by <fuel>, grew to the size of <area of impact>, and <damage to property> and (ended up|there were|'') <loss of life>. <firefighting measures>. <closures> (was|were) made unavailable for a period of time. Compared to previous fires in the city it was a <severity>."
+	print "In <start time>, there was a fire started by <cause> (in|at) <geographic location>. This fire, fueled by <fuel>, grew to the size of <area of impact>, and <damage to property> and (ended up|there were|'') <loss of life>. <firefighting measures>. <closures> (was|were) made unavailable for a period of time. Compared to previous fires in the city it was <severity>."
 
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "In {0} {1} there was a fire started by {2} {3}. This fire, fueled by {4}, grew to the size of {5}, {6} and {7}. {8}. {9} made unavailable for a period of time. Compared to previous fires in the city it was a {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationResult, fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeResult, firefightingResult, closuresResult, severityResult, causeFreqDict[1][0])
+	print "In {0} {1} there was a fire started by {2} {3}. This fire, fueled by {4}, grew to the size of {5}, {6} and {7}. {8}. {9} made unavailable for a period of time. Compared to previous fires in the city it was {10}.".format(monthFreqDict[0][0], yearFreqDict[0][0], causeFreqDict[0][0], locationResult, fuelFreqDict[1][0], areaFreqDict[0][0], damageFreqDict[1][0], lossOfLifeResult, firefightingResult, closuresResult, severityResult, causeFreqDict[1][0])
 	
 
 	 
