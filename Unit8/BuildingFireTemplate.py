@@ -315,7 +315,7 @@ def main():
 	firefightingResult = firefightingFreqDict[0][0]
 
 	# Conjugates past tense verbs in the firefighting result
-	firefightingResult = [conjugate(word, tense = "past") if tag == 'VBP' else word for word, tag in nltk.pos_tag(nltk.word_tokenize(firefightingResult))]
+	firefightingResult = " ".join([conjugate(word, tense = "past") if tag == 'VBP' else word for word, tag in nltk.pos_tag(nltk.word_tokenize(firefightingResult))])
 
 	count = 0;
 	for key in severityFreqDict:
